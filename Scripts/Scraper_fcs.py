@@ -7,6 +7,7 @@ def scrape_links():
     roster_links = df.iloc[:,2]
     return roster_links
 
+
 # given all links iterate through the links and add each link to the same dataframe
 def gather_data(links):
     links_not_scrapable = []
