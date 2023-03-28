@@ -1,15 +1,15 @@
 import pandas as pd
 import validators 
 
-# function to scrape just links from a given file
+# function to scrape just links from a excel file
 def scrape_links():
-    df = pd.read_excel('2023_roster_links.xlsx', sheet_name="FCS")
+    df = pd.read_excel('2023_roster_links.xlsx', sheet_name="FBS")
     roster_links = df.iloc[:,2]
     return roster_links
 
-#function to scrape team names
+#function to scrape team names from excel file
 def scrape_team_names():
-    df = pd.read_excel('2023_roster_links.xlsx', sheet_name="FCS")
+    df = pd.read_excel('2023_roster_links.xlsx', sheet_name="FBS")
     roster_names = df.iloc[:,1]
     return roster_names
 
@@ -37,7 +37,7 @@ def gather_data(links, names):
                 print("THIS LINK IS NOT SCRAPABLE", link)
                 links_not_scrapable.append(link)
                 count+=1
-            #issue in code with df.to_csv() function not working currently
+            # if the csv was able to be read then we put the dataframe into a csv
             if create_csv:
                 team_name = remove(names[index])
                 link_name = str(team_name + '.csv')
