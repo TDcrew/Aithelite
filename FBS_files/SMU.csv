@@ -1,0 +1,153 @@
+,Statistic,#,Name,Pos,Ht,Wt,Cl-Exp,Hometown / Previous School,Image,Title
+0,,0.0,Bryan Massey,S,5-11,188.0,SR-3L,"Katy, Texas / Katy",,
+1,,0.0,Camar Wheaton,RB,5-10,185.0,SO-1L,"Garland, Texas / Alabama / Lakeview Centennial",,
+2,,1.0,Brandon Crossley,S,6-0,186.0,SR-3L,"Dallas, Texas / Colorado State / Little Elm",,
+3,,1.0,Jordan Kerley,WR,6-2,189.0,SR-2L,"Austin, Texas / Arizona State / McNeil",,
+4,,2.0,Jonathan McGill,S,5-10,180.0,SR-GT,"Coppell, Texas / Stanford / Coppell",,
+5,,2.0,Preston Stone,QB,6-1,209.0,SO-1L,"Dallas, Texas / Parish Episcopal",,
+6,,3.0,Romello Brinson,WR,6-2,180.0,JR-TR,"Miami, Fla. / Miami / Miami Northwestern",,
+7,,3.0,Charles Woods,CB,5-11,185.0,SR-GT,"Dallas, Texas / West Virginia / Illinois State / Justin F. Kimball",,
+8,,4.0,Jaylan Knighton,RB,5-10,180.0,SR-TR,"Lauderhill, Fla. / Miami / Deerfield Beach",,
+9,,4.0,Jahari Rogers,CB,6-0,188.0,JR-2L,"Arlington, Texas / Florida / Arlington",,
+10,,5.0,Moochie Dixon,WR,6-0,185.0,JR-1L,"Carthage, Texas / Texas / Carthage",,
+11,,5.0,Elijah Roberts,DL,6-4,275.0,SR-TR,"Miami, Fla. / Miami / Christopher Columbus",,
+12,,6.0,Jordan Miller,DL,6-3,315.0,SR-GT,"Jacksonville, Fla. / Miami / Sandlewood",,
+13,,7.0,Kevin Jennings,QB,6-0,179.0,FR-RS,"Oak Cliff, Texas / South Oak Cliff",,
+14,,7.0,Bryce McMorris,CB,6-1,174.0,SO-1L,"Cypress, Texas / Bridgeland",,
+15,,8.0,JaQwondis Burns,LB,6-2,231.0,JR-1L,"Terrell, Texas / Minnesota / IMG Academy",,
+16,,9.0,Nelson Paul,DE,6-2,230.0,SR-4L,"Bunnell, Fla. / Flagler Palm Coast",,
+17,,9.0,Key'Shawn Smith,WR,6-1,180.0,SR-TR,"San Diego, Calif. / Miami / Lincoln",,
+18,,10.0,David Abiara,DE,6-5,264.0,FR-TR,"Mansfield, Texas / Texas / Legacy",,
+19,,10.0,Dylan Goffney,WR,6-1,213.0,JR-2L,"Cypress, Texas / Bridgeland",,
+20,,11.0,"LJ Johnson, Jr.",RB,5-10,210.0,SO-TR,"Cypress, Texas / Texas A&M / Cy-Fair",,
+21,,11.0,Je'lin Samuels,DE,6-7,240.0,SO-1L,"Pasadena, Texas / Sam Rayburn",,
+22,,12.0,Jake Bailey,WR,5-10,183.0,SR-TR,"San Clemente, Calif. / Rice / St. John Bosco",,
+23,,12.0,Isaiah Nwokobia,S,6-1,193.0,SO-1L,"Dallas, Texas / Skyline",,
+24,,13.0,"Roderick Daniels, Jr.",WR,5-9,182.0,JR-2L,"Duncanville, Texas / Duncanville",,
+25,,13.0,Jaelyn Davis-Robinson,CB,6-1,185.0,FR-TR,"Waxahachie, Texas / LSU / Waxahachie",,
+26,,14.0,AJ Davis,CB,5-10,179.0,FR-HS,"Dallas, Texas / Skyline",,
+27,,14.0,Nolan Matthews-Harris,TE,6-6,250.0,JR-1L,"Frisco, Texas / Arizona State / Reedy",,
+28,,15.0,Keke Burns,LB,6-4,224.0,SR-3L,"Pittsburg, Texas / Pittsburg",,
+29,,16.0,Ahmaad Moses,S,5-10,202.0,SO-1L,"Arlington, Texas / Mansfield Summit",,
+30,,16.0,Alex Padilla,QB,6-1,200.0,SR-GT,"Greenwood Village, Colo. / Iowa / Cherry Creek",,
+31,,18.0,Teddy Knox,WR,5-11,167.0,SO-1L,"Baton Rouge, La. / Mississippi State / The Woodlands",,
+32,,18.0,Chris Megginson,CB,6-0,190.0,SR-GT,"Lynchburg, Va. / Liberty / Heritage",,
+33,,20.0,Chris Adimora,S,6-2,212.0,SR-1L,"Long Beach, Calif. / Texas / Mayfair",,
+34,,20.0,Jaxson Lavender,WR,5-9,165.0,FR-HS,"Lucas, Texas / Lovejoy",,
+35,,21.0,Will Kuehne,QB,6-1,204.0,SR-SQ,"Owasso, Okla. / North Texas / Owasso",,
+36,,22.0,"Brandon Epton, Jr.",RB,6-0,193.0,SO-1L,"Dallas, Texas / Kimball",,
+37,,22.0,"Cale Sanders, Jr.",DB,5-10,180.0,JR-TR,"Porter, Texas / Fresno State / New Caney",,
+38,,24.0,Velton Gardner,RB,5-9,197.0,SR-1L,"Dallas, Texas / Kansas / Skyline",,
+39,,25.0,Kevaris Hall,CB,6-3,196.0,JR-1L,"Red Oak, Texas / Tulane / Red Oak",,
+40,,26.0,Owen Easley,QB,6-1,208.0,SR-SQ,"El Cajon, Calif. / Saddleback College / Christian United",,
+41,,26.0,Sam Westfall,CB,5-10,188.0,SR-3L,"Saint George, Utah / Mesa C.C. / Dixie",,
+42,,27.0,Zane Minors,RB,5-11,183.0,SO-SQ,"Austin, Texas / Westlake",,
+43,,28.0,Charlie Fiser,QB,6-1,190.0,FR-RS,"Little Rock, Ark. / Pulaski Academy",,
+44,,28.0,Luke Mabe,S,5-11,175.0,JR-SQ,"Colleyville, Texas / Harding / Colleyville Heritage",,
+45,,29.0,Daylon Dickerson,WR,6-6,185.0,FR-RS,"Kaufman, Texas / Kaufman",,
+46,,29.0,Pierre Goree,LB,6-0,217.0,SO-1L,"Duncanville, Texas / Duncanville",,
+47,,30.0,Carter Campbell,WR,6-0,188.0,JR-1L,"San Antonio, Texas / Reagan",,
+48,,30.0,Nate Monticure,S,5-11,175.0,JR-TR,"Fort Worth, Texas / Mary Hardin Baylor / Liberty Christian",,
+49,,31.0,Tyler Lavine,RB,5-11,212.0,SR-4L,"Cedar Park, Texas / Army Preparatory Academy / Cedar Park",,
+50,,31.0,Ford Parker,CB,6-1,177.0,SR-SQ,"Dallas, Texas / Highland Park",,
+51,,32.0,Joey Bruszer,WR,6-3,225.0,FR-RS,"Sunnyvale, Texas / Sunnyvale",,
+52,,33.0,Michael De Hoyos,CB,5-10,170.0,FR-HS,"San Antonio, Texas / Winston Churchill",,
+53,,34.0,Parker Chappell,WR,6-3,206.0,FR-RS,"Jacksonville, Fla. / Episcopal School of Jacksonville",,
+54,,34.0,Ahmad Walker,LB,5-11,215.0,JR-TR,"Warner Robins, Ga. / Liberty / Watner Robins",,
+55,,35.0,Will Goldberg,S,5-11,197.0,JR-1L,"Santa Monica, Calif. / Harvard-Westlake",,
+56,,36.0,Braeden Flowers,DE,6-3,250.0,FR-HS,"San Antonio, Texas / Central Catholic",,
+57,,36.0,Henry Stickler,WR,-,,FR-HS,"Los Angeles, Calif. / Loyola HS",,
+58,,38.0,Carter Link,S,6-0,218.0,SO-SQ,"Pasadena, Calif. / Loyola High School of Los Angeles",,
+59,,39.0,Keaton Cheves,WR,5-11,188.0,FR-RS,"Dallas, Texas / Shelton",,
+60,,39.0,John Porter,LB,6-0,218.0,SR-SQ,"Little Elm, Texas / Narbonne",,
+61,,40.0,Elijah Chatman,DT,6-0,291.0,SR-4L,"Shreveport, La. / Evangel Christian Academy",,
+62,,41.0,Collin Rogers,K,6-4,190.0,SO-1L,"Prattville, Ala. / Prattville",,
+63,,42.0,Kevin Dittoe,DL,6-4,232.0,FR-HS,"Houston, Texas / St. Pius X",,
+64,,43.0,Andrew Hale,S,6-0,182.0,FR-RS,"Denver, Colo. / Valor Christian",,
+65,,43.0,Conner Moore,WR,6-2,201.0,FR-RS,"Nashville, Tenn. / Franklin Road Academy",,
+66,,44.0,Kamryn Farrar,LB,6-0,214.0,SR-1L,"Dallas, Texas / Oklahoma State / Skyline",,
+67,,45.0,Jayden Jones,DE,6-5,255.0,SO-1L,"Dallas, Texas / Parish Episcopal",,
+68,,46.0,Markus Schumacher,TE,6-2,216.0,FR-RS,"Dallas, Texas / Trinity Christian Academy",,
+69,,46.0,Trent Strong,LB,6-1,220.0,SO-SQ,"Tucson, Ariz. / Salpointe Catholic",,
+70,,47.0,Stone Eby,DT,6-5,270.0,FR-RS,"Flower Mound, Texas / Flower Mound",,
+71,,47.0,Nic Heck,WR,5-8,140.0,SR-SQ,"Katy, Texas / Katy",,
+72,,48.0,Will Benton IV,LS,6-1,219.0,SR-3L,"Atlanta, Ga. / The Westminster Schools",,
+73,,49.0,Jovoni Borbon,LS,5-10,203.0,SO-SQ,"Sierra Vista, Ariz. / Maricopa CC / Buena",,
+74,,49.0,Parker Forque,DE,6-5,240.0,SO-SQ,"Bellaire, Texas / Episcopal",,
+75,,50.0,Hyrin White,OL,6-7,330.0,SR-GT,"DeSoto, Texas / Missouri / DeSoto",,
+76,,51.0,Justin Osborne,OL,6-5,309.0,SR-3L,"Flower Mound, Texas / Auburn / Marcus",,
+77,,51.0,Harrison Thomas,DE,6-0,223.0,JR-SQ,"Clearwater, Fla. / Army / Clearwater Central Catholic",,
+78,,52.0,Marcus Bryant,OL,6-8,315.0,SR-3L,"Round Rock, Texas / Cedar Ridge",,
+79,,52.0,Sean Kane,LB,6-0,193.0,FR-HS,"Spring, Texas / The Woodlands Christian Academy",,
+80,,53.0,Marcus Chan,LS,-,,FR-RS,/ Bishop Diego,,
+81,,54.0,Alex Kilgore,LB,6-1,215.0,FR-HS,"Katy, Texas / Katy Paetow",,
+82,,54.0,Thalen Robinson,OL,6-6,322.0,JR-1L,"Arlington, Texas / Missouri / Bowie",,
+83,,56.0,Branson Hickman,OL,6-3,284.0,JR-2L,"McKinney, Texas / Jesuit College Prep",,
+84,,57.0,Erin Smith,OL,6-5,262.0,JR-1L,"Little Rock, Ark. / North Little Rock",,
+85,,58.0,Isaiah Smith,DE,6-4,213.0,SO-1L,"Washington, D.C. / St. John's",,
+86,,59.0,PJ Williams,OL,6-5,300.0,FR-TR,"Dickinson, Texas / Texas A&M / Dickinson",,
+87,,60.0,Hunter Ryan,OL,6-2,280.0,FR-RS,/ Parish Episcopal,,
+88,,62.0,Matthew Dallao,OL,6-5,300.0,SO-HS,"Colleyville, Texas / Colleyville Heritage",,
+89,,64.0,Cameron Ervin,OL,6-3,287.0,SR-3L,"Fayetteville, Ark. / Fayetteville",,
+90,,66.0,Max Yao,OL,6-4,298.0,JR-SQ,"Zhangjiagang, Suzhou, Jiangsu, China / Zhangjiagang Ivy Experimental",,
+91,,68.0,Jackson Ritz,OL,6-3,306.0,JR-1L,"Austin, Texas / Austin",,
+92,,69.0,Jacob Waller,OL,6-5,278.0,FR-RS,"Arlington, Texas / Arlington",,
+93,,72.0,Rhett Larson,OL,6-5,281.0,FR-RS,"College Station, Texas / A&M Consolidated",,
+94,,74.0,Nate Bennett,OL,6-3,265.0,FR-RS,"Mansfield, Texas / Lake Ridge",,
+95,,75.0,Ben Sparks,OL,6-4,298.0,JR-2L,"Norman, Okla. / Norman",,
+96,,76.0,Keaton Schultz,OL,6-1,293.0,FR-RS,"Houston, Texas / Klein Cain",,
+97,,78.0,Dalton Perdue,OL,6-8,306.0,JR-2L,"El Dorado, Ark. / El Dorado",,
+98,,81.0,Lonnie Johnson,TE,6-3,205.0,FR-HS,"Keller, Texas / Timber Creek",,
+99,,82.0,RJ Maryland,TE,6-4,217.0,SO-1L,"Southlake, Texas / Southlake Carroll",,
+100,,83.0,Kam Allen,TE,6-5,230.0,FR-TR,"Forney, Texas / Michigan State / North Forney",,
+101,,86.0,Davis Hawkins,TE,6-7,239.0,JR-SQ,"Little Rock, Ark. / Miami / IMG Academy",,
+102,,88.0,Simon Gonzalez,TE,6-4,235.0,SR-1L,"Magnolia, Texas / Texas Tech / Magnolia",,
+103,,89.0,Gage Haskin,TE,6-4,229.0,SO-1L,"North Richland Hills, Texas / Birdville",,
+104,,90.0,Alex Sickafoose,DE,6-3,235.0,SR-1L,"Katy, Texas / St. John XXIII",,
+105,,92.0,Ryan Bujcevski,P,6-0,177.0,SR-1L,"Sydney, Australia / Texas / Marist Catholic College",,
+106,,92.0,Stephon Wright,DT,6-5,285.0,JR-SQ,"Los Angeles, Calif. / Arizona State / Cathedral",,
+107,,94.0,Michael Tadros,P,6-1,185.0,FR-RS,"Palm Beach Gardens, Fla. / The Benjamin School",,
+108,,95.0,Matt Baer,DE,6-0,238.0,FR-HS,"Aurora, Colo. / Regis Jesuit",,
+109,,95.0,Johnny Schifano,P,-,,JR-HS,"Arlington, Texas /",,
+110,,96.0,Josh Leff,P,6-0,175.0,FR-TR,"Westlake Village, Calif. / Illinois / Sierra Canyon",,
+111,,96.0,DeVere Levelston,DT,6-5,275.0,SR-3L,"DeSoto, Texas / Tyler JC / DeSoto",,
+112,,97.0,Dylan Frazier,DT,6-5,248.0,FR-RS,"Celina, Texas / McKinney North",,
+113,,98.0,Mike Yoan Sandjo-Njiki,DT,6-2,290.0,JR-1L,"Keller, Texas / Navarro College / Timber Creek",,
+114,,99.0,Braylen Jackson,DT,6-4,281.0,FR-RS,"Mansfield, Texas / Lake Ridge",,
+0,,,Rhett Lashlee,,,,,,,Head Coach
+1,,,Scott Symons,,,,,,,Defensive Coordinator
+2,,,Casey Woods,,,,,,,Offensive Coordinator / Tight Ends
+3,,,Jonathan Brewer,,,,,,,Co-Offensive Coordinator / Quarterbacks
+4,,,Kyle Cooper,,,,,,,Safeties / Special Teams Coordinator
+5,,,Maurice Crum Jr.,,,,,,,Linebackers / Run Game Coordinator
+6,,,Khenon Hall,,,,,,,Running Backs / Run Game Coordinator
+7,,,"Rickey Hunley, Jr.",,,,,,,Cornerbacks / Pass Game Coordinator
+8,,,Garin Justice,,,,,,,Assistant Head Coach / Offensive Line
+9,,,Rob Likens,,,,,,,Associate Head Coach / Co-Offensive Coordinator / Wide Receivers
+10,,,Calvin Thibodeaux,,,,,,,Defensive Line
+11,,,Colby Cameron,,,,,,,Senior Offensive Quality Control Analyst
+12,,,Sam Dunnam,,,,,,,Senior Defensive Quality Control Analyst
+13,,,Warren Messer,,,,,,,Defensive Quality Control Analyst
+14,,,Gaston Lamascus,,,,,,,Recruiting Analyst
+15,,,Sam Hullender,,,,,,,Graduate Assistant / Offense
+16,,,Hussam Ouri,,,,,,,Graduate Assistant / Offense
+17,,,Jeremy Bruce,,,,,,,Graduate Assistant / Defense
+18,,,Chad Adams,,,,,,,Graduate Assistant / Defense
+19,,,Shawn Griswold,,,,,,,Head Football Strength Coach/Assistant A.D. For Human Performance
+20,,,Dwayne Chandler,,,,,,,Assistant Head Strength & Conditioning Coach
+21,,,Cameron Prater,,,,,,,Assistant Strength & Conditioning Coach
+22,,,Richard Burney,,,,,,,Assistant Strength & Conditioning Coach
+23,,,Nolan Darby,,,,,,,Assistant Strength & Conditioning Coach
+24,,,Madison Troyer,,,,,,,Director of Nutrition
+25,,,Josh Nash,,,,,,,Senior Director of Football Operations
+26,,,Hannah Cesario,,,,,,,Assistant Director of Football Operations
+27,,,Devon Kleich,,,,,,,Director of Football Video Services
+28,,,Alex McMurtry,,,,,,,Director of Creative Media
+29,,,Matt Schumacher,,,,,,,Assistant Director of Creative Media
+30,,,Megan Cornell,,,,,,,Senior Director of Head Coach Operations
+31,,,Scott X. Nady,,,,,,,Senior Assistant for Player Development and Dallas Recruiting Relations
+32,,,Shay Taylor,,,,,,,Director of Football Relations
+33,,,Alex Brown,,,,,,,Senior Director of Player Personnel/General Manager
+34,,,Danny Wesley,,,,,,,"Assistant Director, Dallas Community Relations"
+35,,,Jourdan Blake,,,,,,,"Assistant Director, Dallas Recruiting Relations"
+36,,,Jeremiah Wait,,,,,,,Assistant Director of College Scouting
