@@ -1,0 +1,115 @@
+,#,First,Last,Height,lbs.,Position,Class,City,Hometown,Last School,Years
+0,0,Jakob,Robinson,5-11,170,Cornerback,JR,Orem,Utah,Utah State / Orem HS,2021-2023
+1,0,Kody,Epps,5-11,187,Wide Receiver,SO,Los Angeles,California,Mater Dei High School,2020-2023
+2,1,Keanu,Hill,6-4,215,Wide Receiver,JR,Bedford,Texas,Trinity High School,2019-2023
+3,1,Micah,Harper,5-10,192,Safety,SO,Chandler,Arizona,Basha High School,2020-2023
+4,2,Ben,Bywater,6-3,235,Linebacker,JR,Salt Lake City,Utah,Olympus High School,2019-2023
+5,2,Chase,Roberts,6-4,210,Wide Receiver,SO,Highland,Utah,American Fork HS,2021-2023
+6,3,Aidan,Robbins,6-3,230,Running Back,JR,Louisville,Kentucky,UNLV,2023
+7,3,Chaz,Ah You,6-2,220,Linebacker,SR,Saratoga Springs,Utah,Westlake High School,2017 | 2019-2023
+8,4,Miles,Davis,6-2,210,Running Back,SO,Las Vegas,Nevada,Las Vegas HS,2020-2023
+9,4,Caleb,Christensen,5-10,187,Cornerback,JR,Smithfield,Utah,Sky View High School,2020-2023
+10,5,Sol-Jay,Maiava-Peters,6-1,200,Running Back,SO,Hau'ula,Hawaii,St. John's College HS,2020-2023
+11,5,Eddie,Heckard,5-10,190,Cornerback,SR,Las Vegas,Nevada,Weber State,2023
+12,7,Hinckley,Ropati,5-10,215,Running Back,SR,Downey,California,Cerritos College,2020-2023
+13,7,George,Udo,6-1,200,Cornerback,SR,Antioch,California,Berean Christian High School,2019-2023
+14,10,Kedon,Slovis,6-3,215,Quarterback,SR,Scottsdale,Arizona,Pittsburgh,2023
+15,11,Cade,Fennegan,6-2,190,Quarterback,SO,Dallas,Texas,Boise State,2021-2023
+16,12,Jake,Retzlaff,6-2,205,Quarterback,JR,Corona,California,Riverside City College,2023
+17,12,Malik,Moore,6-1,195,Safety,SR,San Diego,California,Point Loma High School,2018-2023
+18,13,Masen,Wake,6-1,260,Tight End,SR,Cedar Hills,Utah,Lone Peak High School,2019-2023
+19,13,Isaiah,Bagnah,6-4,235,Defensive End,JR,"Lethbridge, Alberta",,Boise State,2023
+20,15,Nick,Billoups,6-2,203,Quarterback,SO,San Clemente,California,San Clemente HS,2021-2023
+21,16,Cole,Hagen,6-2,185,Quarterback,FR,Draper,Utah,Corner Canyon High School,2023
+22,16,Isaiah,Glasker,6-5,220,Linebacker,FR,South Jordan,Utah,Bingham HS,2022-2023
+23,17,Preston,Rex,6-0,191,Safety,FR,San Clemente,California,San Clemente High School,2022-2023
+24,18,Ryder,Burton,6-2,200,Quarterback,FR,Springville,Utah,Springville High School,2023
+25,19,Mory,Bamba,6-3,180,Cornerback,JR,Menomonee Falls,Wisconsin,Tyler Junior College,2022-2023
+26,19,Ace,Kaufusi,6-3,205,Linebacker,FR,Kahuku,Hawaii,Kahuku High School,2023
+27,20,Jacob,Boren,5-9,180,Cornerback,SR,Salt Lake City,Utah,Highland High School,2019-2023
+28,20,Nukuluve,Helu,6-1,215,Running Back,FR,Tooele,Utah,Tooele High School,2023
+29,21,Dean,Jones,6-2,205,Safety,SO,Queen Creek,Arizona,American Leadership Academy,2021-2023
+30,21,Enoch,Nawahine,6-1,210,Running Back,SO,Kahuku,Hawaii,Utah State,2022-2023
+31,22,Ammon,Hannemann,6-1,211,Linebacker,JR,Highland,Utah,Lone Peak High School,2019-2023
+32,22,Mason,Fakahua,6-2,240,Tight End,JR,Cedar City,Utah,Cedar City High School,2020-2023
+33,23,Hobbs,Nyberg,5-11,195,Wide Receiver,JR,St. George,Utah,Dixie HS,2020-2023
+34,23,Chika,Ebunoha,6-0,180,Safety,FR,Tucson,Arizona,Marana High School,2022-2023
+35,24,Ryan,Rehkow,6-6,235,Punter,JR,Veradale,Washington,Central Valley High School,2020-2023
+36,25,Talan,Alfrey,6-3,205,Safety,SO,Auburn,Washington,Auburn Mountainview HS,2021-2023
+37,26,Morgan,Pyper,6-2,215,Running Back,SR,Idaho Falls,Idaho,Hillcrest High School,2018-2023
+38,26,Ethan,Slade,6-0,190,Safety,SO,Orem,Utah,Orem High School,2020-2023
+39,27,Marcus,McKenzie,6-0,172,Cornerback,FR,St. George,Utah,Pine View High School,2023
+40,28,Tanner,Wall,6-1,200,Safety,SO,Arlington,Virginia,Yorktown HS,2021-2023
+41,29,Jayden,Dunlap,6-1,173,Cornerback,JR,Carson,California,Cerritos College,2023
+42,30,Kyson,Hall,5-11,182,Wide Receiver,FR,Spanish Fork,Utah,Maple Mountain High School,2022-2023
+43,30,Quenton,Rice,6-1,195,Cornerback,SO,Las Vegas,Nevada,Faith Lutheran HS,2021-2023
+44,31,Max,Tooley,6-2,215,Linebacker,SR,Bountiful,Utah,Bountiful High School,2018-2023
+45,32,Chase,Hopkins,6-0,220,Running Back,FR,Holladay,Utah,Olympus High School,2023
+46,32,Ty,Burke,6-1,175,Safety,FR,Syracuse,Utah,Syracuse High School,2023
+47,33,Raider,Damuni,6-2,210,Safety,FR,Provo,Utah,Timpview High School,2023
+48,34,Maika,Kaufusi,6-4,210,Linebacker,FR,Cottonwood Heights,Utah,Alta High School,2023
+49,35,Zion,Allen,6-1,160,Cornerback,FR,Stockton,California,Manteca High School,2022-2023
+50,35,Alex,Anderson,6-4,200,Wide Receiver,FR,Herriman,Utah,Herriman High School,2023
+51,36,Evan,Johnson,6-1,175,Cornerback,FR,Monterey,California,Stevenson High School,2022-2023
+52,36,Talmage,Gunther,6-0,190,Wide Receiver,JR,Cedar Hills,Utah,Lone Peak High School,2019-2023
+53,37,Justen,Smith,6-2,205,Kicker,SO,Sandy,Utah,Brighton HS,2020-2023
+54,38,Tanner,Holden,6-2,200,Wide Receiver,FR,American Fork,Utah,American Fork High School,2023
+55,38,Crew,Wakley,6-0,203,Safety,SO,Sandy,Utah,Utah State,2023
+56,39,Landon,Rehkow,6-0,170,"Punter, Kicker",FR,Veradale,Washington,Central Valley High School,2023
+57,41,Lamese,Patterson,5-11,217,Linebacker,FR,Banning,California,Banning High School,2023
+58,42,Petey,Tuipulotu,6-3,195,Safety,FR,Fort Mill,South Carolina,Nation Ford,2020 | 2023
+59,43,Micah,Wilson,6-3,213,Linebacker,FR,Draper,Utah,Corner Canyon High School,2022-2023
+60,44,Will,Ferrin,6-3,175,Kicker,SO,Kaysville,Utah,Boise State,2023
+61,45,Michael,Daley,6-3,235,Defensive End,SO,Alpine,Utah,Lone Peak HS,2021-2023
+62,46,Logan,Pili,6-1,225,Linebacker,FR,Provo,Utah,Timpview High School,2022-2023
+63,47,Kyle,Hester,6-4,245,Tight End,SO,Gilbert,Arizona,New Mexico,2022-2023
+64,47,Kyle,Vassau,6-3,225,Linebacker,FR,Carlsbad,California,Carlsbad High School,2023
+65,48,Bodie,Schoonover,6-4,245,Defensive End,FR,American Fork,Utah,American Fork High School,2022-2023
+66,49,Nason,Coleman,6-3,235,Tight End,FR,Chandler,Arizona,Chandler High School,2023
+67,49,Lucky,Finau,6-0,230,Linebacker,FR,Sandy,Utah,Alta High School,2023
+68,50,Kason,Krebs,6-1,210,Linebacker,FR,Sunset Beach,Hawaii,Southern Utah University,2023
+69,51,Sonny,Makasini,6-3,325,Offensive Line,FR,Provo,Utah,Timpview High School,2022-2023
+70,52,Ben,Ward,6-5,290,Offensive Line,JR,Washington,District of Columbia,Dallastown High School,2018 | 2021-2023
+71,53,Fisher,Jackson,6-5,230,Linebacker,JR,South Jordan,Utah,Herriman High School,2020-2023
+72,54,Paul,Maile,6-2,300,Offensive Line,SR,Salt Lake City,Utah,University of Utah,2023
+73,54,Dalton,Riggs,6-4,225,Deep Snapper,FR,Eagle,Idaho,Eagle HS,2022-2023
+74,56,Nuuletau,Sellesin,6-1,247,Defensive End,SO,Woods Cross,Utah,Weber State,2023
+75,57,Josh,Larsen,6-4,292,Defensive Tackle,SO,North Salt Lake,Utah,Woods Cross HS,2021-2023
+76,58,Aisea,Moa,6-3,245,Defensive End,FR,North Ogden,Utah,Weber HS,2022-2023
+77,58,Lisala,Tai,6-7,330,Offensive Line,JR,Inglewood,California,Snow College,2022-2023
+78,59,Logan,Lutui,6-1,255,Defensive End,JR,West Valley City,Utah,Weber State,2022-2023
+79,60,Tyler,Little,6-7,295,Offensive Line,SO,Gridley,California,Butte College,2021-2023
+80,61,Weylin,Lapuaho,6-4,310,Offensive Line,SO,South Jordan,Utah,Utah State,2023
+81,62,Atunaisa,Mahe,6-1,315,Defensive Tackle,SR,West Jordan,Utah,West Jordan High School,2018-2023
+82,63,Mac,Aloisio,6-6,380,Defensive Tackle,FR,Provo,Utah,Timpview High School,2023
+83,64,Brayden,Keim,6-8,310,Offensive Line,JR,Sandy,Utah,Alta High School,2019-2023
+84,65,Ian,Fitzgerald,6-5,305,Offensive Line,SR,Hawthorn Woods,Illinois,Missouri State,2023
+85,66,Zoom,Esplin,6-8,265,Defensive End,FR,Encinitas,California,La Costa Canyon High School,2023
+86,67,Brooks,Maile,6-4,315,Defensive Tackle,FR,St. George,Utah,Pine View High School,2022-2023
+87,68,Peter,Falaniko,6-3,315,Offensive Line,FR,St. George,Utah,Pine View High School,2022-2023
+88,70,Connor,Pay,6-5,312,Offensive Line,JR,Highland,Utah,Lone Peak HS,2020-2023
+89,73,Vae,Soifua,6-4,296,Offensive Line,FR,Orem,Utah,Orem High School,2022-2023
+90,74,Trevin,Ostler,6-5,330,Offensive Line,FR,Bountiful,Utah,Bountiful High School,2022-2023
+91,75,Sam,Dawe,6-3,305,Offensive Line,FR,Spanish Fork,Utah,Idaho State / Spanish Fork HS,2022-2023
+92,77,Jake,Griffin,6-6,285,Offensive Line,FR,Mesa,Arizona,Red Mountain High School,2023
+93,78,Kingsley,Suamataia,6-6,315,Offensive Line,SO,Orem,Utah,Oregon,2022-2023
+94,79,Kaden,Chidester,6-8,290,Offensive Line,FR,Richfield,Utah,Richfield High School,2023
+95,80,Koa,Eldredge,6-0,195,Wide Receiver,FR,Honolulu,Hawaii,Punahou High School,2023
+96,82,Parker,Kingston,6-0,180,Wide Receiver,FR,Layton,Utah,Roy High School,2022-2023
+97,83,Isaac,Rex,6-6,255,Tight End,JR,San Clemente,California,San Clemente High School,2019-2023
+98,84,Austin,Riggs,6-5,230,Deep Snapper,JR,Eagle,Idaho,Eagle High School,2020-2023
+99,85,Anthony,Olsen,6-4,235,Tight End,FR,Salt Lake City,Utah,Olympus High School,2022-2023
+100,86,Dom,Henry,5-11,175,Wide Receiver,FR,St. Augustine,Florida,Nease High School,2022-2023
+101,87,Ethan,Erickson,6-5,240,Tight End,SO,Laie,Hawaii,Kahuku HS,2021-2023
+102,88,Devin,Downing,6-2,190,Wide Receiver,FR,American Fork,Utah,American Fork High School,2023
+103,89,Kade,Moore,5-11,185,Wide Receiver,SO,Lehi,Utah,Lehi HS,2020-2023
+104,90,Joshua,Singh,6-0,275,Defensive Tackle,SO,Orem,Utah,Orem HS,2021-2023
+105,91,Jackson,Cravens,6-2,305,Defensive Tackle,SR,Provo,Utah,Boise State,2023
+106,92,Tyler,Batty,6-5,273,Defensive End,JR,Payson,Utah,Payson High School,2020-2023
+107,93,Blake,Mangelson,6-5,260,Defensive End,JR,Nephi,Utah,Juab HS,2021-2023
+108,94,John,Nelson,6-4,275,Defensive Tackle,JR,Salem,Utah,Salem Hills HS,2021-2023
+109,95,Caden,Haws,6-2,305,Defensive Tackle,JR,Little Rock,Arkansas,Pulaski Academy,2019-2023
+110,96,Bruce,Mitchell,6-4,300,Defensive Tackle,SO,Kamas,Utah,South Summit HS,2022-2023
+111,98,Wyatt,Dawe,6-0,300,Defensive Tackle,SO,Pleasant Grove,Utah,Southern Utah University,2023
+112,99,Alema,Pilimai,6-4,275,Defensive Tackle,SR,Tustin,California,Tustin High School,2016 | 2019-2023
+113,99,Cash,Peterman,6-0,200,Kicker,SO,Chandler,Arizona,Chandler HS,2021-2023
