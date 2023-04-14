@@ -4,6 +4,7 @@ import pandas as pd
 import csv
 import validators 
 from urllib.parse import urlparse
+from selenium import webdriver
 
 
 # function to scrape just links from a given file
@@ -33,28 +34,62 @@ with open('player_images.csv', "w", newline='') as file:
         base = parsed_url.scheme + "://" + parsed_url.netloc
         print('Link: ', all_links[i])
 
+        driver = webdriver.Chrome()
+        driver.get(URL)
+
         soup = BeautifulSoup(page.text, "html.parser")
 
         table = soup.find('tr')
 
-        if table:  
-            rows = soup.find_all('tr')
+        if table:
+            html = driver.page_source
 
-            for row in rows:
-                name_school_src = []
-                columns = row.find_all('td')
+            soup = BeautifulSoup(html, "html.parser")
 
-                if len(columns) >= 2:
-                    name_school_src.append(columns[1].text.strip())
+            table = str(soup.find_all('table')[0])
+
+            soup = BeautifulSoup(table, 'html.parser')
+
+            df = pd.read_html(table)[0]
+
+            df.columns = df.columns.str.lower()
+            
+        if df.columns.str.contains('name').any():
+            print('has name column')
+            html = driver.page_source
+
+            soup = BeautifulSoup(html, "html.parser")
+
+            table = str(soup.find_all('table')[0])
+
+            soup = BeautifulSoup(table, 'html.parser')
+            
+            df = pd.read_html(table, extract_links="body")[0]
+
+            df.columns = df.columns.str.lower()
+
+            names = df.loc[:, df.columns.str.contains('name')]
+
+            names = names.values.tolist()
+
+            print(names)
+
+            if names != [[]]:
+
+                for j in range(len(names)):
+                    name_school_src = []
+                    name_school_src.append(names[j][0][0])
                     name_school_src.append(school_name[i])
-                    link = columns[1].find('a')
-                    if link:
-                        name_school_src.append(base + link.get('href'))
-                
+                    name_school_src.append(base + names[j][0][1])
+
+
+                    print(name_school_src)
                     writer.writerow(name_school_src)
 
+            driver.close()
 
         else:
+            print('no table ')
             images = soup.find_all('img')
 
             if len(images) < 50:
