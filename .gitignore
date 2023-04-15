@@ -6,3 +6,6 @@ actuallinks.txt
 links.txt
 .~lock.2023_roster_links.xlsx#
 player_images_table.csv
+player_images_fbs_new.csv
+.gitignore
+player_images_fcs_new.csv
