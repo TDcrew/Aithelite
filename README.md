@@ -14,7 +14,7 @@ Here is a list of links that could not be scraped ['https://cuse.com/sports/foot
 With both list above is links that are not storing data in a table on their websites.  The websites listed above are storing there player data in list or unique classes for displaying on there webpages. 
 
 
-ENVIORNMENT: 
+DEPENDENCIES: 
 Andaconda3 navigator
 VS Code v1.16.2
 Selenium v4.8.3
