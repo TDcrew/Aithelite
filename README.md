@@ -7,9 +7,11 @@ Scritps folder contains 4 scripts:
   Coach_pull.py is a file that uses scripts to grab all the coaches from the fbs or fcs all data links and removes them from the csv and puts them into their own csv
  Roster_Scruber.py is a file that aggregates data within FCS and FBS into there respective files.
 
-Here is a list of links that could not be scraped ['https://cuse.com/sports/football/roster/2022?view=2', 'https://hokiesports.com/sports/football/roster', 'https://godeacs.com/sports/football/roster?view=2', 'https://tulsahurricane.com/sports/football/roster', 'https://meangreensports.com/sports/football/roster/2022-23', 'https://soonersports.com/sports/football/roster', 'https://wkusports.com/sports/football/roster', 'https://www.liberty.edu/flames/football/roster/', 'https://broncosports.com/sports/football/roster', 'https://csurams.com/sports/football/roster', 'https://gobulldogs.com/sports/football/roster', 'https://utahstateaggies.com/sports/football/roster', 'https://gowyo.com/sports/football/roster', 'https://ragincajuns.com/sports/football/roster/2022']
+Here is a list of links that could not be scraped for FCS ['https://cuse.com/sports/football/roster/2022?view=2', 'https://hokiesports.com/sports/football/roster', 'https://godeacs.com/sports/football/roster?view=2', 'https://tulsahurricane.com/sports/football/roster', 'https://meangreensports.com/sports/football/roster/2022-23', 'https://soonersports.com/sports/football/roster', 'https://wkusports.com/sports/football/roster', 'https://www.liberty.edu/flames/football/roster/', 'https://broncosports.com/sports/football/roster', 'https://csurams.com/sports/football/roster', 'https://gobulldogs.com/sports/football/roster', 'https://utahstateaggies.com/sports/football/roster', 'https://gowyo.com/sports/football/roster', 'https://ragincajuns.com/sports/football/roster/2022']
 
-The list above is links that are not storing data in a table on their websites.  The websites listed above are storing there player data in list or unique classes for displaying on there webpages. 
+Here is a list of links that could not be scraped ['https://cuse.com/sports/football/roster/2022?view=2', 'https://hokiesports.com/sports/football/roster', 'https://godeacs.com/sports/football/roster?view=2', 'https://tulsahurricane.com/sports/football/roster', 'https://meangreensports.com/sports/football/roster/2022-23', 'https://cyclones.com/sports/football/roster', 'https://soonersports.com/sports/football/roster', 'https://wkusports.com/sports/football/roster', 'https://www.liberty.edu/flames/football/roster/', 'https://broncosports.com/sports/football/roster', 'https://csurams.com/sports/football/roster', 'https://gobulldogs.com/sports/football/roster', 'https://utahstateaggies.com/sports/football/roster', 'https://gowyo.com/sports/football/roster', 'https://ragincajuns.com/sports/football/roster/2022', 'https://herdzone.com/sports/football/roster']
+
+With both list above is links that are not storing data in a table on their websites.  The websites listed above are storing there player data in list or unique classes for displaying on there webpages. 
 
 
 ENVIORNMENT: 
@@ -19,3 +21,4 @@ Selenium v4.8.3
 beautifulsoup4 v4.11.1
 Validators v0.14.0
 Pandas v1.4.4
+Python v3.9.13
