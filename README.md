@@ -2,13 +2,13 @@
 Repository to gather files that are used to develop Aithelite application.
 
 DEPENDENCIES: 
-*Andaconda3 navigator
-*VS Code v1.16.2
-*Selenium v4.8.3
-*beautifulsoup4 v4.11.1
-*Validators v0.14.0
-*Pandas v1.4.4
-*Python v3.9.13
+* Andaconda3 navigator
+* VS Code v1.16.2
+* Selenium v4.8.3
+* beautifulsoup4 v4.11.1
+* Validators v0.14.0
+* Pandas v1.4.4
+* Python v3.9.13
 
 
 Installation: 
