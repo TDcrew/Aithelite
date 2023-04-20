@@ -1,152 +1,148 @@
-,Statistic,#,Name,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Twitter,Instagram,Image,Title
-0,,0.0,Jason Johnson,LB,6-2,224.0,R-Sr.,"Matteson, Ill. / Rich Central",jtown_8,jason_eric23,,
-1,,0.0,Johnny Richardson,RB,5-7,170.0,Sr.,"Lake Wales, Fla. / Lake Wales",Humble_Johnny,j.richardson.25,,
-2,,1.0,Javon Baker,WR,6-1,208.0,Sr.,"Atlanta, Ga. / McEachern",javonbaker7,ja7onn,,
-3,,1.0,Ja'Cari Henderson,DB,6-0,165.0,R-Fr.,"Sanford, Fla. / Seminole",JaCariH10,_cari3,,
-4,,2.0,Kobe Hudson,WR,6-1,200.0,Sr.,"Pine Mountain, Ga. / Troup County",GoLiveK5,kfizzy,,
-5,,2.0,Lee Hunter,DT,6-4,320.0,R-So.,"Mobile, Ala. / Blount",The_Fridge7,lee_hunter7,,
-6,,3.0,Tre'Mon Morris-Brash,DE,6-2,245.0,5th,"Richmond, Va. / St. John's College",Dolladrop3,dolladrop,,
-7,,3.0,Xavier Townsend,WR,5-11,185.0,So.,"Tampa, Fla. / Berkeley Prep",xtowns07,x_towns03,,
-8,,4.0,Braeden Marshall,DB,5-10,175.0,Fr.,"Lake Mary, Fla. / Lake Mary",,,,
-9,,5.0,Ricky Barber,DT,6-3,295.0,R-Sr.,"Louisville, Ky. / Doss",RIckyBarber75,rb5.o,,
-10,,5.0,Jordan McDonald,RB,6-1,220.0,So.,"Alpharetta, Ga. / Milton",Jordan1Mcdonald,jord5nn,,
-11,,6.0,Mark-Antony Richards,RB,6-1,215.0,R-Sr.,"Wellington, Fla. / Wellington",Mark6ntony,markantony,,
-12,,7.0,Fred Davis,DB,6-1,190.0,R-Sr.,"Jacksonville, Fla. / Trinity Christian",,,,
-13,,7.0,RJ Harvey,RB,5-8,195.0,R-Sr.,"Orlando, Fla. / Edgewater",rjharvey07,_rjeeezy,,
-14,,8.0,Demari Henderson,DB,6-0,160.0,So.,"Sanford, Fla. / Seminole",DemariH12,mari.11__,,
-15,,9.0,Timmy McClain,QB,6-1,196.0,R-So.,"Sanford, Fla. / Seminole",,,,
-16,,9.0,Jireh Wilson,DB,6-3,219.0,5th,"Jacksonville, N.C. / Northside",,,,
-17,,10.0,Quadric Bullard,S,6-0,170.0,Sr.,"Dania Beach, Fla. / Chaminade-Madonna",BullardQuadric,blessedqb_,,
-18,,10.0,John Rhys Plumlee,QB,6-0,200.0,5th,"Hattiesburg, Miss. / Oak Grove",PlumleeJohn,john_rhys_plumlee,,
-19,,11.0,Chauncey Magwood,WR,6-0,187.0,R-So.,"Leesburg, Ga. / Lee County",,,,
-20,,11.0,Ja'Maric Morris,DB,6-2,205.0,R-Sr.,"Timmonsville, S.C. / Timmonsville",,,,
-21,,12.0,Thomas Castellanos,QB,6-0,190.0,So.,"Waycross, Ga. / Ware County",Tommy_casto,tommycasto_,,
-22,,13.0,DeJordan Mask,DB,6-1,180.0,5th,"Texarkana, Ark. / Arkansas",,,,
-23,,13.0,Randy Pittman,TE,6-2,225.0,Fr.,"Lynn Haven, Fla. / Mosley",,,,
-24,,14.0,Andrew Dickson,WR,5-10,165.0,R-So.,"Silverdale, Wash. / Klahowya",,dickson27_,,
-25,,14.0,Corey Thornton,CB,6-1,190.0,Sr.,"Miami, Fla. / Booker T. Washington",TouchMoney_Co,c.thorn4on_,,
-26,,16.0,TJ Bullard,LB,6-1,190.0,R-Fr.,"Tampa, Fla. / Berkeley Prep",TJBullard1,tjbullard_,,
-27,,16.0,Stephen Martin,WR,6-5,210.0,R-Jr.,"Orlando, Fla. / Bishop Moore",_stephen_martin_,stephen.martin,,
-28,,17.0,Amari Johnson,WR,5-10,160.0,R-Sr.,"Miami, Fla. / Carol City",_OneSeven__,thereal17_,,
-29,,18.0,Jaylon Griffin,WR,6-3,185.0,R-Sr.,"Huntsville, Texas / Huntsville",TheJG__,jaylon1griffin,,
-30,,18.0,Dyllon Lester,DB,6-0,200.0,5th,"Plantation, Fla. / American Heritage",dylltoolive,dylltoolive,,
-31,,19.0,Jarrad Baker,WR,5-11,170.0,R-Sr.,"Eau Gallie, Fla. / Eau Gallie",JrJarrad,__j5ive,,
-32,,19.0,Hudson Gibbs,DB,5-9,185.0,Fr.,"Winter Park, Fla. / Winter Park",,,,
-33,,20.0,Will Bohn,QB,6-1,194.0,R-Jr.,"Kissimmee, Fla. / Celebration",WillBohn3,will_bohn,,
-34,,21.0,Brock Hansel,QB,5-10,160.0,R-Fr.,"Lake Worth, Fla. / Park Vista",BrockHansel_,brock.hansel,,
-35,,21.0,Nikai Martinez,DB,5-11,170.0,So.,"Apopka, Fla. / Apopka",MartinezNikai,therealnikai21._,,
-36,,22.0,Jason Duclona,DB,6-1,170.0,Fr.,"Estero, Fla. / Estero",,,,
-37,,22.0,Kam Ingram,RB,5-8,175.0,R-So.,"Fayetteville, Ark. / Fayetteville",,,,
-38,,23.0,Demarkcus Bowman,RB,5-10,193.0,R-Jr.,"Lakeland, Fla. / Lakeland",Bowman_22,shelovesbow,,
-39,,23.0,Jaiden Francois,DB,6-0,190.0,R-Jr.,"Florida City, Fla. / South Dade",Jfrancois2_,j.francois2_,,
-40,,24.0,Jarvis Ware,DB,6-1,190.0,5th,"Apopka, Fla. / Wekiva",WareJarvis,jarvis_ware,,
-41,,25.0,Camden Vining,LB,6-0,225.0,R-So.,"Bradenton, Fla. / St. Stephens Episcopal",camvining5,cam.vining,,
-42,,26.0,Chris Bowerfind,LS,6-0,210.0,R-So.,"Fort Collins, Colo. / Fossil Ridge",ChrisBowerfind,chrisbowerfind,,
-43,,26.0,Daniel McCullon,DB,5-10,205.0,R-Jr.,"Palm Beach Gardens, Fla. / Benjamin",id1oading,idloading,,
-44,,27.0,Walter Yates III,LB,6-1,219.0,5th,"Gulf Breeze, Fla. / Gulf Breeze",thetrilogy_03,richhomiewalt_03,,
-45,,28.0,Quade Mosier,LB,6-2,225.0,Sr.,"Fayetteville, Ark. / Fayetteville",MosierQuade,quademosier,,
-46,,29.0,William Wells,S,6-2,185.0,Jr.,"West Palm Beach, Fla. / Suncoast",williamwells07,d1.will,,
-47,,30.0,Kam Moore,LB,6-1,205.0,So.,"Sanford, Fla. / Seminole",kameronmoore25,_.kammoore,,
-48,,31.0,Brandon Adams,CB,6-3,180.0,Jr.,"Atlanta, Ga. / Arabia Mountain",bjthegoat_2,__bj2,,
-49,,31.0,JaJuan Forte',WR,6-1,195.0,5th,"Youngstown, Ohio / Boardman",A1Forte_,a1forte_,,
-50,,32.0,Michael Carter,P,6-2,185.0,R-Fr.,"Clermont, Fla. / Lake Minneola",,,,
-51,,33.0,Kaven Call,DE,6-3,240.0,Fr.,"Apopka, Fla. / Apopka",,,,
-52,,34.0,Garin Boniol,PK,6-0,180.0,R-Jr.,"Starkville, Miss. / Starkville",GarinBoniol,garinboniol,,
-53,,34.0,Terrell Jackson,DB,6-1,170.0,So.,"Jacksonville, Fla. / Trinity Christian",xx_tjack,xx_tjack,,
-54,,35.0,Colton Boomer,PK,5-10,175.0,So.,"Lake Mary, Fla. / Lake Mary",BoomerColton,coltonboomer_,,
-55,,35.0,Keenan Cupit,DE,6-2,255.0,R-Jr.,"Lynchburg, Va. / Jefferson Forest",kcupit35,k.cvpit,,
-56,,38.0,Dionte Marks,WR,6-2,190.0,R-Sr.,"DeLand, Fla. / DeLand",yg_Coolieee,d.markks_,,
-57,,39.0,R.D. Cooper,DB,6-2,185.0,Sr.,"Fort Myers, Fla. / Fort Myers",,,,
-58,,40.0,Kervins Choute,DT,6-3,285.0,R-Jr.,"Deerfield Beach, Fla. / Deerfield Beach",bigchoute0,choute_18,,
-59,,40.0,Mitch McCarthy,P,6-5,214.0,So.,Australia / Frankston,mitchmccarthy22,mitchmccarthy,,
-60,,41.0,Gage King,LS,6-4,240.0,R-Sr.,"El Dorado Hills, Calif. / Oak Ridge",,,,
-61,,41.0,Jack Morgan,DE,6-4,215.0,So.,"Mount Dora, Fla. / Mount Dora",,,,
-62,,42.0,Aidan Fedigan,LS,6-0,195.0,So.,"DeLand, Fla. / DeLand",Aidan_Fedigan,the_aidan_fedigan,,
-63,,44.0,Branden Jennings,LB,6-3,226.0,Jr.,"Jacksonville, Fla. / Sandalwood",Brand3nJ44,b_brandxn,,
-64,,45.0,Ryker Casey,PK,6-0,205.0,R-Sr.,"New Smyrna Beach, Fla. / New Smyrna Beach",CaseyRyker,ryker_casey_,,
-65,,46.0,Nicholas Antoine,DB,6-4,190.0,R-Fr.,"Daytona Beach, Fla. / Mainland",,,,
-66,,47.0,K.D. McDaniel,DE,6-2,250.0,R-Sr.,"Tifton, Ga. / Tift County",mcdaniel_kd,mack47_,,
-67,,48.0,Stone Boss,LB,5-11,205.0,R-Fr.,"Lake Mary, Fla. / Lake Mary",StoneBoss5,stone3boss,,
-68,,49.0,Max Holler,TE,6-4,245.0,R-Jr.,"Winter Park, Fla. / Trinity Prep",max_holler,holler.max,,
-69,,50.0,Patrick Barnett,OL,6-6,300.0,R-Jr.,"Key West, Fla. / Key West",PBarnett_50,pbarnett50,,
-70,,51.0,Malachi Lawrence,DE,6-4,270.0,R-So.,"Louisville, Ky. / duPont Manual",Mzlzchi,mzlzchi,,
-71,,52.0,Keenan Hester,DT,6-4,305.0,R-Sr.,"St. Petersburg, Fla. / Catholic",KHester2019,1keenan5,,
-72,,52.0,Caden Kitler,OL,6-3,295.0,R-Fr.,"Plano, Texas / John Paul II",KitlerCaden,cadenkitler_,,
-73,,54.0,Bula Schmidt,OL,6-1,294.0,R-Sr.,"Wahiawa, Hawaii / O’Dea",,,,
-74,,55.0,Cameron Kinnie,OL,6-3,315.0,R-Jr.,"Suwanee, Ga. / Collins Hill",nokizzycam,nokizzycam,,
-75,,55.0,John Walker,DT,6-4,300.0,Fr.,"Kissimmee, Fla. / Osceola",,,,
-76,,56.0,Matthew Alexander,DT,6-3,280.0,R-So.,"Buford, Ga. / Buford",mattdalex,matt.alex56,,
-77,,56.0,Johnathan Cline,OL,6-4,295.0,Fr.,"Cartersville, Ga. / Cartersville",,,,
-78,,57.0,Derek Burns,LB,6-3,200.0,R-Sr.,"Plantation, Fla. / American Heritage",_derekburns,_derekburns,,
-79,,57.0,John Harris,OL,6-4,298.0,R-Sr.,"Hoschton, Ga. / Mill Creek",,,,
-80,,58.0,Dallaz Corbitt,DE,6-5,240.0,R-Sr.,"Columbia, S.C. / Gray Collegiate Academy",dallazcorbitt,dallazwithdabread,,
-81,,59.0,Keyon Cox,OL,6-5,270.0,Fr.,"Phenix City, Ala. / Central",,,,
-82,,64.0,Shaheem Hill,OL,6-4,342.0,R-Fr.,"Orlando, Fla. / Edgewater",hillshaheem,soultoocrazy,,
-83,,65.0,Christopher Ficka,DT,5-10,230.0,Fr.,"Apopka, Fla. / West Orange",,,,
-84,,66.0,Chidoziri Maghiro,OL,6-5,325.0,5th,"Alike, Nigeria / St. Thomas Aquinas (Fla.)",Cheedozzz,cmaghiro,,
-85,,69.0,Paul Rubelt,OL,6-10,330.0,R-Jr.,"Frankfurt-Oder, Germany /",PRubelt,paul.rubelt,,
-86,,70.0,Edward Collins,OL,6-6,315.0,5th,"Birmingham, Ala. / Ramsay",ecollins50,ecollins50,,
-87,,71.0,Tylan Grable,OL,6-7,290.0,5th,"Gordon, Ga. / Wilkinson County",tylanmalik,tylanmalik,,
-88,,72.0,Marcellus Marshall,OL,6-5,310.0,R-Jr.,"Morgantown, W. Va. / Morgantown",,,,
-89,,74.0,Ethan Mort,OL,6-6,290.0,R-So.,"Venice, Fla. / Venice",ethanmort18,ethan.mort.74,,
-90,,75.0,Miguel Maldonado,OL,6-6,320.0,R-Fr.,"Lakeland, Fla. / Lakeland",m_maldonado75,d1.miguel,,
-91,,76.0,Adrian Medley,OL,6-5,305.0,R-Sr.,"Pensacola, Fla. / Pensacola",adrianmedley315,a.medley,,
-92,,77.0,Lokahi Pauole,OL,6-4,305.0,5th,"Kapolei, Hawaii / Kamehameha",lokahi_77,lokahiipapoko,,
-93,,78.0,Amari Kight,OL,6-7,318.0,R-Sr.,"Alabaster, Ala. / Thompson",,,,
-94,,80.0,Grant Reddick,K/P,5-10,190.0,Fr.,"Orlando, Fla. / Boone",,,,
-95,,80.0,Trent Whittemore,,6-4,211.0,R-Jr.,"Gainesville, Fla. / Bucholz",,,,
-96,,81.0,Tyler Griffin,WR,6-5,205.0,R-Fr.,"Brooklet, Ga. / New Southeast Bulloch",TylerGriffin0,___tylergriffin,,
-97,,82.0,Alec Holler,TE,6-3,230.0,5th,"Winter Park, Fla. / Trinity Prep",AlecHoller,alecholler,,
-98,,83.0,Garrett French,TE,6-3,235.0,R-Jr.,"Venice, Fla. / Venice",,garrettfrench87,,
-99,,84.0,Keahnist Thompson,DE,6-3,255.0,R-Fr.,"Lakeland, Fla. / Lakeland",keahnist,keahnist_84,,
-100,,84.0,Thomas Wadsworth,TE,6-3,222.0,R-Fr.,"Melbourne, Fla. / Melbourne",twads2022,twads22,,
-101,,85.0,Zach Marsh Wojan,TE,6-5,245.0,5th,"Vacaville, Calif. / Will C. Wood",Zach_Wo,zachwoj,,
-102,,86.0,Jordan Davis,TE,6-4,250.0,R-Jr.,"Sanford, Fla. / Seminole",JordanDavis134,jordanndavis88,,
-103,,87.0,Dwartney Wortham,WR,6-0,169.0,R-Fr.,"LaGrange, Ga. / Troup County",dwartneywortha2,dwartney.wortham,,
-104,,88.0,Josh Celiscar,DE,6-4,265.0,Sr.,"Winter Haven, Fla. / Winter Haven",CeliscarJoshua,builtdifferent863,,
-105,,88.0,Grant Stevens,TE,6-4,225.0,R-Fr.,"Ponte Vedra Beach, Fla. / Nease",grantstevens88,6rant_stevens,,
-106,,89.0,Cullen Smith,WR,6-2,180.0,R-So.,"Mooresville, N.C. / South Iredell",cullensmith12,cullen.smith,,
-107,,90.0,Keshaun Hudson,DT,6-1,307.0,So.,"Fort Lauderdale, Fla. / Dillard",keshawnhudson99,keshaunn.1k,,
-108,,91.0,Alexander Davis,P,5-10,198.0,Fr.,"Orlando, Fla. / Timber Creek",,,,
-109,,95.0,Tyler Paul,LS,6-1,215.0,R-Sr.,"Clearwater, Fla. / Clearwater Central Catholic",Tyl3rp4ul,_tylerpaul_,,
-110,,96.0,Trace O'Hara,DE,6-2,235.0,R-Jr.,"Orlando, Fla. / East River",Traceof_Spades,traceof_spades,,
-111,,99.0,Jamaal Johnson,DE,6-2,250.0,R-Fr.,"Miami, Fla. / Chaminade-Madonna",JamaalJ99_,humblesoldier._1,,
-112,,99.0,Quan Lee,WR,6-0,175.0,R-Fr.,"Gainesville, Fla. / Buchholz",QuanLee_5,quanlee_5,,
-0,,,Gus Malzahn,,,,,,,,,Head Coach
-1,,,Addison Williams,,,,,,,,,Defensive Coordinator/Defensive Backs
-2,,,Darin Hinshaw,,,,,,,,,Offensive Coordinator/Quarterbacks
-3,,,Brian Blackmon,,,,,,,,,Special Teams Coordinator/Tight Ends
-4,,,David Gibbs,,,,,,,,,Co-Defensive Coordinator/Secondary
-5,,,Herb Hand,,,,,,,,,Offensive Line
-6,,,Grant Heard,,,,,,,,,Wide Receivers
-7,,,Kenny Ingram,,,,,,,,,Defensive Ends/Rush
-8,,,Kenny Martin,,,,,,,,,Defensive Tackles
-9,,,Ernie Sims,,,,,,,,,Linebackers
-10,,,Kam Martin,,,,,,,,,Running Backs
-11,,,Will Healy,,,,,,,,,Assistant Head Coach/Senior Offensive Analyst
-12,,,Ben Larson,,,,,,,,,Special Teams Analyst
-13,,,Charles Moore,,,,,,,,,Defensive Analyst
-14,,,Brendan Bognar,,,,,,,,,Offensive Analyst
-15,,,Jay Carter,,,,,,,,,Offensive Graduate Assistant
-16,,,Jackson Holladay,,,,,,,,,Offensive Graduate Assistant
-17,,,Eugene Fuller,,,,,,,,,Defensive Graduate Assistant
-18,,,Michael Mosah,,,,,,,,,Defensive Graduate Assistant
-19,,,Nate Craig-Myers,,,,,,,,,Recruiting/Offensive Assistant
-20,,,Chris Dawson,,,,,,,,,"Director of Sports Performance, Football"
-21,,,Andrew Shirek Espinoza,,,,,,,,,"Assistant Director of Sports Performance, Football"
-22,,,Corey Meredith,,,,,,,,,"Assistant Director of Sports Performance, Football"
-23,,,Sean Beckton Jr.,,,,,,,,,"Assistant Director of Sports Performance, Football"
-0,,,SJ Tuohy,,,,,,,,,Associate AD for Football/Chief of Staff
-1,,,CJ Holden,,,,,,,,,Director of Operations
-2,,,Will Lee,,,,,,,,,Director of Player Development
-3,,,Leah Cunningham,,,,,,,,,Director of On-Campus Recruiting
-4,,,Ivy Eller,,,,,,,,,Director of On-Campus Recruiting
-5,,,Cory Giddings,,,,,,,,,Director of Player Personnel
-6,,,Clayton Geathers,,,,,,,,,Assistant Director of Personnel
-7,,,Alex Mathis,,,,,,,,,Assistant Director of Player Personnel
-8,,,Deshon Lawrence,,,,,,,,,"Assistant Director, Player Personnel"
-9,,,Brad Helton,,,,,,,,,"Assistant AD, Video Operations"
-10,,,Mary Vander Heiden,,,,,,,,,"Associate AD, Sports Medicine"
-11,,,Brad Anderson,,,,,,,,,Director of Equipment Operations
-12,,,CJ Bates,,,,,,,,,"Assistant Director, Equipment Operations"
-13,,,Andrew Blaylock,,,,,,,,,Special Assistant to Head Coach
+,Statistic,#,Name,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Current School Name,Twitter,Instagram,Image,Title
+0,,0.0,Jason Johnson,LB,6-2,224.0,R-Sr.,"Matteson, Ill. / Rich Central",UCF,jtown_8,jason_eric23,,
+1,,0.0,Johnny Richardson,RB,5-7,170.0,Sr.,"Lake Wales, Fla. / Lake Wales",UCF,Humble_Johnny,j.richardson.25,,
+2,,1.0,Javon Baker,WR,6-1,208.0,Sr.,"Atlanta, Ga. / McEachern",UCF,javonbaker7,ja7onn,,
+3,,1.0,Ja'Cari Henderson,DB,6-0,165.0,R-Fr.,"Sanford, Fla. / Seminole",UCF,JaCariH10,_cari3,,
+4,,2.0,Kobe Hudson,WR,6-1,200.0,Sr.,"Pine Mountain, Ga. / Troup County",UCF,GoLiveK5,kfizzy,,
+5,,2.0,Lee Hunter,DT,6-4,320.0,R-So.,"Mobile, Ala. / Blount",UCF,The_Fridge7,lee_hunter7,,
+6,,3.0,Tre'Mon Morris-Brash,DE,6-2,245.0,5th,"Richmond, Va. / St. John's College",UCF,Dolladrop3,dolladrop,,
+7,,3.0,Xavier Townsend,WR,5-11,185.0,So.,"Tampa, Fla. / Berkeley Prep",UCF,xtowns07,x_towns03,,
+8,,4.0,Braeden Marshall,DB,5-10,175.0,Fr.,"Lake Mary, Fla. / Lake Mary",UCF,,,,
+9,,5.0,Ricky Barber,DT,6-3,295.0,R-Sr.,"Louisville, Ky. / Doss",UCF,RIckyBarber75,rb5.o,,
+10,,5.0,Jordan McDonald,RB,6-1,220.0,So.,"Alpharetta, Ga. / Milton",UCF,Jordan1Mcdonald,jord5nn,,
+11,,6.0,Mark-Antony Richards,RB,6-1,215.0,R-Sr.,"Wellington, Fla. / Wellington",UCF,Mark6ntony,markantony,,
+12,,7.0,Fred Davis,DB,6-1,200.0,Sr.,"Jacksonville, Fla. / Trinity Christian",UCF,,,,
+13,,7.0,RJ Harvey,RB,5-8,195.0,R-Sr.,"Orlando, Fla. / Edgewater",UCF,rjharvey07,_rjeeezy,,
+14,,8.0,Demari Henderson,DB,6-0,160.0,So.,"Sanford, Fla. / Seminole",UCF,DemariH12,mari.11__,,
+15,,9.0,Timmy McClain,QB,6-1,196.0,R-So.,"Sanford, Fla. / Seminole",UCF,,,,
+16,,9.0,Jireh Wilson,DB,6-3,219.0,5th,"Jacksonville, N.C. / Northside",UCF,,,,
+17,,10.0,Quadric Bullard,DB,6-0,170.0,Sr.,"Dania Beach, Fla. / Chaminade-Madonna",UCF,BullardQuadric,blessedqb_,,
+18,,10.0,John Rhys Plumlee,QB,6-0,200.0,5th,"Hattiesburg, Miss. / Oak Grove",UCF,PlumleeJohn,john_rhys_plumlee,,
+19,,11.0,Chauncey Magwood,WR,6-0,187.0,Jr.,"Leesburg, Ga. / Lee County",UCF,,,,
+20,,11.0,Ja'Maric Morris,DB,6-2,205.0,R-Sr.,"Timmonsville, S.C. / Timmonsville",UCF,,,,
+21,,12.0,Thomas Castellanos,QB,6-0,190.0,So.,"Waycross, Ga. / Ware County",UCF,Tommy_casto,tommycasto_,,
+22,,13.0,DeJordan Mask,DB,6-1,180.0,5th,"Texarkana, Ark. / Arkansas",UCF,,,,
+23,,13.0,Randy Pittman,TE,6-2,225.0,Fr.,"Lynn Haven, Fla. / Mosley",UCF,,,,
+24,,14.0,Andrew Dickson,WR,5-10,165.0,R-So.,"Silverdale, Wash. / Klahowya",UCF,,dickson27_,,
+25,,14.0,Corey Thornton,DB,6-1,190.0,Sr.,"Miami, Fla. / Booker T. Washington",UCF,TouchMoney_Co,c.thorn4on_,,
+26,,16.0,TJ Bullard,LB,6-1,190.0,R-Fr.,"Tampa, Fla. / Berkeley Prep",UCF,TJBullard1,tjbullard_,,
+27,,16.0,Stephen Martin,WR,6-5,210.0,R-Jr.,"Orlando, Fla. / Bishop Moore",UCF,_stephen_martin_,stephen.martin,,
+28,,17.0,Amari Johnson,WR,5-10,160.0,R-Sr.,"Miami, Fla. / Carol City",UCF,_OneSeven__,thereal17_,,
+29,,18.0,Jaylon Griffin,WR,6-3,185.0,R-Sr.,"Huntsville, Texas / Huntsville",UCF,TheJG__,jaylon1griffin,,
+30,,18.0,Dyllon Lester,DB,6-0,200.0,5th,"Plantation, Fla. / American Heritage",UCF,dylltoolive,dylltoolive,,
+31,,19.0,Jarrad Baker,WR,5-11,170.0,R-Sr.,"Eau Gallie, Fla. / Eau Gallie",UCF,JrJarrad,__j5ive,,
+32,,19.0,Hudson Gibbs,DB,5-9,185.0,Fr.,"Winter Park, Fla. / Winter Park",UCF,,,,
+33,,20.0,Will Bohn,QB,6-1,194.0,R-Jr.,"Kissimmee, Fla. / Celebration",UCF,WillBohn3,will_bohn,,
+34,,21.0,Brock Hansel,QB,5-10,160.0,R-Fr.,"Lake Worth, Fla. / Park Vista",UCF,BrockHansel_,brock.hansel,,
+35,,21.0,Nikai Martinez,DB,5-11,170.0,So.,"Apopka, Fla. / Apopka",UCF,MartinezNikai,therealnikai21._,,
+36,,22.0,Jason Duclona,DB,6-1,170.0,Fr.,"Estero, Fla. / Estero",UCF,,,,
+37,,22.0,Kam Ingram,RB,5-8,175.0,R-So.,"Fayetteville, Ark. / Fayetteville",UCF,,,,
+38,,23.0,Demarkcus Bowman,RB,5-10,193.0,R-Jr.,"Lakeland, Fla. / Lakeland",UCF,Bowman_22,shelovesbow,,
+39,,23.0,Jaiden Francois,DB,6-0,190.0,R-Jr.,"Florida City, Fla. / South Dade",UCF,Jfrancois2_,j.francois2_,,
+40,,24.0,Jarvis Ware,DB,6-1,190.0,5th,"Apopka, Fla. / Wekiva",UCF,WareJarvis,jarvis_ware,,
+41,,25.0,Camden Vining,LB,6-0,225.0,R-So.,"Bradenton, Fla. / St. Stephens Episcopal",UCF,camvining5,cam.vining,,
+42,,26.0,Chris Bowerfind,LS,6-0,210.0,R-So.,"Fort Collins, Colo. / Fossil Ridge",UCF,ChrisBowerfind,chrisbowerfind,,
+43,,26.0,Daniel McCullon,DB,5-10,205.0,R-Jr.,"Palm Beach Gardens, Fla. / Benjamin",UCF,id1oading,idloading,,
+44,,27.0,Walter Yates III,LB,6-1,219.0,5th,"Gulf Breeze, Fla. / Gulf Breeze",UCF,thetrilogy_03,richhomiewalt_03,,
+45,,28.0,Quade Mosier,LB,6-2,225.0,Sr.,"Fayetteville, Ark. / Fayetteville",UCF,MosierQuade,quademosier,,
+46,,29.0,William Wells,DB,6-2,185.0,Jr.,"West Palm Beach, Fla. / Suncoast",UCF,williamwells07,d1.will,,
+47,,30.0,Kam Moore,LB,6-1,205.0,So.,"Sanford, Fla. / Seminole",UCF,kameronmoore25,_.kammoore,,
+48,,31.0,Brandon Adams,DB,6-3,180.0,Jr.,"Atlanta, Ga. / Arabia Mountain",UCF,bjthegoat_2,__bj2,,
+49,,31.0,JaJuan Forte',WR,6-1,195.0,5th,"Youngstown, Ohio / Boardman",UCF,A1Forte_,a1forte_,,
+50,,32.0,Michael Carter,P,6-2,185.0,R-Fr.,"Clermont, Fla. / Lake Minneola",UCF,,,,
+51,,33.0,Kaven Call,DE,6-3,240.0,Fr.,"Apopka, Fla. / Apopka",UCF,,,,
+52,,34.0,Garin Boniol,PK,6-0,180.0,R-Jr.,"Starkville, Miss. / Starkville",UCF,GarinBoniol,garinboniol,,
+53,,34.0,Terrell Jackson,DB,6-1,170.0,So.,"Jacksonville, Fla. / Trinity Christian",UCF,xx_tjack,xx_tjack,,
+54,,35.0,Colton Boomer,PK,5-10,175.0,So.,"Lake Mary, Fla. / Lake Mary",UCF,BoomerColton,coltonboomer_,,
+55,,35.0,Keenan Cupit,DE,6-2,255.0,R-Jr.,"Lynchburg, Va. / Jefferson Forest",UCF,kcupit35,k.cvpit,,
+56,,38.0,Dionte Marks,WR,6-2,190.0,R-Sr.,"DeLand, Fla. / DeLand",UCF,yg_Coolieee,d.markks_,,
+57,,39.0,R.D. Cooper,DB,6-2,185.0,Sr.,"Fort Myers, Fla. / Fort Myers",UCF,,,,
+58,,40.0,Kervins Choute,DT,6-3,285.0,R-Jr.,"Deerfield Beach, Fla. / Deerfield Beach",UCF,bigchoute0,choute_18,,
+59,,40.0,Mitch McCarthy,P,6-5,214.0,So.,Australia / Frankston,UCF,mitchmccarthy22,mitchmccarthy,,
+60,,41.0,Gage King,LS,6-4,240.0,R-Sr.,"El Dorado Hills, Calif. / Oak Ridge",UCF,,,,
+61,,41.0,Jack Morgan,DE,6-4,215.0,So.,"Mount Dora, Fla. / Mount Dora",UCF,,,,
+62,,42.0,Aidan Fedigan,LS,6-0,195.0,So.,"DeLand, Fla. / DeLand",UCF,Aidan_Fedigan,the_aidan_fedigan,,
+63,,44.0,Branden Jennings,LB,6-3,226.0,Jr.,"Jacksonville, Fla. / Sandalwood",UCF,Brand3nJ44,b_brandxn,,
+64,,45.0,Ryker Casey,PK,6-0,205.0,R-Sr.,"New Smyrna Beach, Fla. / New Smyrna Beach",UCF,CaseyRyker,ryker_casey_,,
+65,,46.0,Nicholas Antoine,DB,6-4,190.0,R-Fr.,"Daytona Beach, Fla. / Mainland",UCF,,,,
+66,,47.0,K.D. McDaniel,DE,6-2,250.0,R-Sr.,"Tifton, Ga. / Tift County",UCF,mcdaniel_kd,mack47_,,
+67,,49.0,Max Holler,TE,6-4,245.0,R-Jr.,"Winter Park, Fla. / Trinity Prep",UCF,max_holler,holler.max,,
+68,,50.0,Patrick Barnett,OL,6-6,300.0,R-Jr.,"Key West, Fla. / Key West",UCF,PBarnett_50,pbarnett50,,
+69,,51.0,Malachi Lawrence,DE,6-4,270.0,R-So.,"Louisville, Ky. / duPont Manual",UCF,Mzlzchi,mzlzchi,,
+70,,52.0,Keenan Hester,DT,6-4,305.0,R-Sr.,"St. Petersburg, Fla. / Catholic",UCF,KHester2019,1keenan5,,
+71,,52.0,Caden Kitler,OL,6-3,295.0,R-Fr.,"Plano, Texas / John Paul II",UCF,KitlerCaden,cadenkitler_,,
+72,,54.0,Bula Schmidt,OL,6-1,294.0,R-Sr.,"Wahiawa, Hawaii / O’Dea",UCF,,,,
+73,,55.0,Cameron Kinnie,OL,6-3,315.0,R-Jr.,"Suwanee, Ga. / Collins Hill",UCF,nokizzycam,nokizzycam,,
+74,,55.0,John Walker,DT,6-4,300.0,Fr.,"Kissimmee, Fla. / Osceola",UCF,,,,
+75,,56.0,Matthew Alexander,DT,6-3,280.0,R-So.,"Buford, Ga. / Buford",UCF,mattdalex,matt.alex56,,
+76,,56.0,Johnathan Cline,OL,6-4,295.0,Fr.,"Cartersville, Ga. / Cartersville",UCF,,,,
+77,,57.0,John Harris,OL,6-4,298.0,R-Sr.,"Hoschton, Ga. / Mill Creek",UCF,,,,
+78,,58.0,Dallaz Corbitt,DE,6-5,240.0,R-Sr.,"Columbia, S.C. / Gray Collegiate Academy",UCF,dallazcorbitt,dallazwithdabread,,
+79,,59.0,Keyon Cox,OL,6-5,270.0,Fr.,"Phenix City, Ala. / Central",UCF,,,,
+80,,64.0,Shaheem Hill,OL,6-4,342.0,R-Fr.,"Orlando, Fla. / Edgewater",UCF,hillshaheem,soultoocrazy,,
+81,,65.0,Christopher Ficka,DT,5-10,230.0,Fr.,"Apopka, Fla. / West Orange",UCF,,,,
+82,,66.0,Chidoziri Maghiro,OL,6-5,325.0,5th,"Alike, Nigeria / St. Thomas Aquinas (Fla.)",UCF,Cheedozzz,cmaghiro,,
+83,,69.0,Paul Rubelt,OL,6-10,330.0,R-Jr.,"Frankfurt-Oder, Germany /",UCF,PRubelt,paul.rubelt,,
+84,,70.0,Edward Collins,OL,6-6,315.0,5th,"Birmingham, Ala. / Ramsay",UCF,ecollins50,ecollins50,,
+85,,71.0,Tylan Grable,OL,6-7,290.0,5th,"Gordon, Ga. / Wilkinson County",UCF,tylanmalik,tylanmalik,,
+86,,72.0,Marcellus Marshall,OL,6-5,310.0,R-Jr.,"Morgantown, W. Va. / Morgantown",UCF,,,,
+87,,74.0,Ethan Mort,OL,6-6,290.0,R-So.,"Venice, Fla. / Venice",UCF,ethanmort18,ethan.mort.74,,
+88,,75.0,Miguel Maldonado,OL,6-6,320.0,R-Fr.,"Lakeland, Fla. / Lakeland",UCF,m_maldonado75,d1.miguel,,
+89,,76.0,Adrian Medley,OL,6-5,305.0,R-Sr.,"Pensacola, Fla. / Pensacola",UCF,adrianmedley315,a.medley,,
+90,,77.0,Lokahi Pauole,OL,6-4,305.0,5th,"Kapolei, Hawaii / Kamehameha",UCF,lokahi_77,lokahiipapoko,,
+91,,78.0,Amari Kight,OL,6-7,318.0,R-Sr.,"Alabaster, Ala. / Thompson",UCF,,,,
+92,,80.0,Grant Reddick,K/P,5-10,190.0,Fr.,"Orlando, Fla. / Boone",UCF,,,,
+93,,80.0,Trent Whittemore,WR,6-4,211.0,R-Jr.,"Gainesville, Fla. / Bucholz",UCF,,,,
+94,,81.0,Tyler Griffin,WR,6-5,205.0,R-Fr.,"Brooklet, Ga. / New Southeast Bulloch",UCF,TylerGriffin0,___tylergriffin,,
+95,,82.0,Alec Holler,TE,6-3,230.0,5th,"Winter Park, Fla. / Trinity Prep",UCF,AlecHoller,alecholler,,
+96,,83.0,Garrett French,TE,6-3,235.0,R-Jr.,"Venice, Fla. / Venice",UCF,,garrettfrench87,,
+97,,84.0,Keahnist Thompson,DE,6-3,255.0,R-Fr.,"Lakeland, Fla. / Lakeland",UCF,keahnist,keahnist_84,,
+98,,84.0,Thomas Wadsworth,TE,6-3,222.0,R-Fr.,"Melbourne, Fla. / Melbourne",UCF,twads2022,twads22,,
+99,,85.0,Zach Marsh Wojan,TE,6-5,245.0,5th,"Vacaville, Calif. / Will C. Wood",UCF,Zach_Wo,zachwoj,,
+100,,86.0,Jordan Davis,TE,6-4,250.0,R-Jr.,"Sanford, Fla. / Seminole",UCF,JordanDavis134,jordanndavis88,,
+101,,87.0,Dwartney Wortham,WR,6-0,169.0,R-Fr.,"LaGrange, Ga. / Troup County",UCF,dwartneywortha2,dwartney.wortham,,
+102,,88.0,Josh Celiscar,DE,6-4,265.0,Sr.,"Winter Haven, Fla. / Winter Haven",UCF,CeliscarJoshua,builtdifferent863,,
+103,,88.0,Grant Stevens,TE,6-4,225.0,R-Fr.,"Ponte Vedra Beach, Fla. / Nease",UCF,grantstevens88,6rant_stevens,,
+104,,89.0,Cullen Smith,WR,6-2,180.0,R-So.,"Mooresville, N.C. / South Iredell",UCF,cullensmith12,cullen.smith,,
+105,,90.0,Keshaun Hudson,DT,6-1,307.0,So.,"Fort Lauderdale, Fla. / Dillard",UCF,keshawnhudson99,keshaunn.1k,,
+106,,91.0,Alexander Davis,P,5-10,198.0,Fr.,"Orlando, Fla. / Timber Creek",UCF,,,,
+107,,96.0,Trace O'Hara,DE,6-2,235.0,R-Jr.,"Orlando, Fla. / East River",UCF,Traceof_Spades,traceof_spades,,
+108,,99.0,Jamaal Johnson,DE,6-2,250.0,R-Fr.,"Miami, Fla. / Chaminade-Madonna",UCF,JamaalJ99_,humblesoldier._1,,
+109,,99.0,Quan Lee,WR,6-0,175.0,R-Fr.,"Gainesville, Fla. / Buchholz",UCF,QuanLee_5,quanlee_5,,
+0,,,Gus Malzahn,,,,,,UCF,,,,Head Coach
+1,,,Addison Williams,,,,,,UCF,,,,Defensive Coordinator/Defensive Backs
+2,,,Darin Hinshaw,,,,,,UCF,,,,Offensive Coordinator/Quarterbacks
+3,,,Brian Blackmon,,,,,,UCF,,,,Special Teams Coordinator/Tight Ends
+4,,,David Gibbs,,,,,,UCF,,,,Co-Defensive Coordinator/Secondary
+5,,,Herb Hand,,,,,,UCF,,,,Co-Offensive Coordinator/Offensive Line
+6,,,Grant Heard,,,,,,UCF,,,,Wide Receivers
+7,,,Kenny Ingram,,,,,,UCF,,,,Defensive Ends/Rush
+8,,,Kenny Martin,,,,,,UCF,,,,Defensive Tackles
+9,,,Ernie Sims,,,,,,UCF,,,,Linebackers
+10,,,Kam Martin,,,,,,UCF,,,,Running Backs
+11,,,Will Healy,,,,,,UCF,,,,Assistant Head Coach/Senior Offensive Analyst
+12,,,Ben Larson,,,,,,UCF,,,,Special Teams Analyst
+13,,,Charles Moore,,,,,,UCF,,,,Defensive Analyst
+14,,,Brendan Bognar,,,,,,UCF,,,,Offensive Analyst
+15,,,Jay Carter,,,,,,UCF,,,,Offensive Graduate Assistant
+16,,,Jackson Holladay,,,,,,UCF,,,,Offensive Graduate Assistant
+17,,,Eugene Fuller,,,,,,UCF,,,,Defensive Graduate Assistant
+18,,,Michael Mosah,,,,,,UCF,,,,Defensive Graduate Assistant
+19,,,Nate Craig-Myers,,,,,,UCF,,,,Recruiting/Offensive Assistant
+20,,,Chris Dawson,,,,,,UCF,,,,"Director of Sports Performance, Football"
+21,,,Andrew Shirek Espinoza,,,,,,UCF,,,,"Assistant Director of Sports Performance, Football"
+22,,,Corey Meredith,,,,,,UCF,,,,"Assistant Director of Sports Performance, Football"
+23,,,Sean Beckton Jr.,,,,,,UCF,,,,"Assistant Director of Sports Performance, Football"
+0,,,CJ Holden,,,,,,UCF,,,,Director of Operations
+1,,,Will Lee,,,,,,UCF,,,,Director of Player Development
+2,,,Leah Cunningham,,,,,,UCF,,,,Director of On-Campus Recruiting
+3,,,Ivy Eller,,,,,,UCF,,,,Director of On-Campus Recruiting
+4,,,Cory Giddings,,,,,,UCF,,,,Director of Player Personnel
+5,,,Clayton Geathers,,,,,,UCF,,,,Assistant Director of Personnel
+6,,,Alex Mathis,,,,,,UCF,,,,Assistant Director of Player Personnel
+7,,,Deshon Lawrence,,,,,,UCF,,,,"Assistant Director, Player Personnel"
+8,,,Brad Helton,,,,,,UCF,,,,"Assistant AD, Video Operations"
+9,,,Mary Vander Heiden,,,,,,UCF,,,,"Associate AD, Sports Medicine"
+10,,,Brad Anderson,,,,,,UCF,,,,Director of Equipment Operations
+11,,,CJ Bates,,,,,,UCF,,,,"Assistant Director, Equipment Operations"
+12,,,Andrew Blaylock,,,,,,UCF,,,,Special Assistant to Head Coach

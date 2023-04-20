@@ -1,113 +1,122 @@
-,Statistic,#,Full Name,Pos.,Ht.,Wt.,Academic Year,Hometown / High School,Previous School
-0,,0.0,Natrone Brooks,DB,5-11,176.0,Sr.,"Starkville, Miss. /",Copiah-Lincoln CC
-1,,0.0,Demarcus Jones,WR,6-0,202.0,R-Sr.,"Vicksburg, Miss. / Warren Central HS",NW Mississippi CC
-2,,1.0,Jason Brownlee,WR,6-3,202.0,Sr.,"West Point, Miss. /",East Mississippi CC
-3,,1.0,Lakevias Daniel,SAF,6-0,177.0,Sr.,"Louisville, Miss. /",Ole Miss
-4,,2.0,Chandler Pittman,RB,5-9,165.0,So.,"Magee, Miss. / Magee HS",
-5,,2.0,"Eric Scott, Jr.",DB,6-2,202.0,Sr.,"Basehor, Kan. /",Butler CC
-6,,3.0,"Frank Gore, Jr.",RB,5-8,195.0,So.,"Miami, Fla. / Killian HS",
-7,,3.0,Tylan Knight,SAF,5-7,175.0,Sr.,"Pearl, Miss. /",Ole Miss
-8,,5.0,Jay Jones,SAF,6-1,211.0,So.,"Demopolis, Ala. / Demopolis HS",
-9,,5.0,Ty Keyes,QB,6-2,213.0,R-Fr.,"Taylorsville, Miss. / Taylorsville HS",
-10,,6.0,Santrell Latham,LB,6-2,225.0,R-Sr.,"Meridian, Miss. / Meridian HS",
-11,,7.0,Zay Franks,WR,6-2,193.0,R-Fr.,"Magee, Miss. / Magee HS",
-12,,7.0,Dominic Quewon,DL,6-3,254.0,Sr.,"Minneapolis, Minn. /",Iowa Western CC
-13,,8.0,Jalil Clemons,JACK,6-3,240.0,R-So.,"Starkville, Miss. /",Memphis
-14,,8.0,Trey Lowe,QB,6-2,235.0,R-Jr.,"Collierville, Tenn. / Bolivar Central HS",West Virginia
-15,,9.0,Malik Shorts,DB,6-0,202.0,R-Jr.,"Bassfield, Miss. / Jefferson Davis County HS",
-16,,9.0,Tee Webb,QB,6-4,185.0,R-Fr.,"Carterville, Ga. /",Louisville
-17,,11.0,Jeremiah Robinson,S,6-0,196.0,So.,"Petal, Miss. / Petal",
-18,,11.0,Antavious Willis,RB,5-10,180.0,R-So.,"Camden, Miss. / Velma Jackson HS",
-19,,12.0,"Micheal Caraway, Jr.",CB,6-3,185.0,So.,"Bassfield, Miss. /",Pearl River CC
-20,,12.0,Zach Wilcke,QB,6-3,205.0,Fr.,"Hernando, Miss. / Hernando HS",
-21,,13.0,Markel McLaurin,CB,5-11,195.0,Jr.,"Friendship, Miss. /",Jones College
-22,,14.0,Kyle McCormick,QB,6-1,188.0,Fr.,"Lincoln, Calif. / La Costa Canyon HS",
-23,,14.0,J.D. Rutherford,DB,5-10,186.0,R-Jr.,"Bay St. Louis, Miss. /",Jones College
-24,,15.0,Jakarius Caston,WR,6-0,204.0,Jr.,"Natchez, Miss. /",Hinds CC
-25,,16.0,Brandon Hayes,WR,6-2,207.0,R-Fr.,"Hattiesburg, Miss. / Oak Grove HS",
-26,,16.0,Mason Hunt,P,6-2,217.0,R-Sr.,"Wiggins, Miss. / Stone HS",Mississippi Gulf Coast CC
-27,,17.0,Latreal Jones,WR,6-2,195.0,Jr.,"Taylorsville, Miss. /",Pearl River CC
-28,,17.0,Brendan Toles,DB,6-1,177.0,So.,"Oxford, Miss. / Lafayette HS",
-29,,18.0,Jack Tannehill,PK,5-9,182.0,R-Fr.,"Oxford, Miss. / Oxford HS",
-30,,19.0,Dustin Allison,QB,6-1,205.0,So.,"Pass Christian, Miss. /",Pearl River CC
-31,,19.0,Arian Gregory,LB,6-0,216.0,R-Fr.,"Luverne, Ala. / Luverne HS",
-32,,20.0,Kenyon Clay,RB,6-1,215.0,Fr.,"Union, Miss. / Union HS",
-33,,20.0,Cameron Knox,SAF,6-0,185.0,Fr.,"New Albany, Miss. / New Albany HS",
-34,,21.0,Tiaquelin Mims,WR,5-9,170.0,Fr.,"Bay Minette, Ala. / Baldwin County HS",
-35,,21.0,Jay Stanley,S,6-2,215.0,Jr.,"Greenwood, Miss. /",Ole Miss
-36,,22.0,Rube Scott Rhea,DB,6-0,196.0,So.,"Somerville, Tenn. / Fayette Academy",
-37,,23.0,Dee Baker,CB,6-0,182.0,R-So.,"Flowood, Miss. / Northwest Rankin HS",
-38,,24.0,Tyrese Hopkins,JACK,6-2,249.0,R-Fr.,"Macon, Miss. / Starkville HS",
-39,,24.0,Jake Lange,QB,6-2,194.0,So.,"Jackson, Miss. / Jackson Prep",
-40,,25.0,Zahn Diaz,RB,5-9,194.0,R-Fr.,"Mandeville, La. /",Mississippi College
-41,,25.0,Jordan Martin,DB,5-8,156.0,Fr.,"Memphis, Tenn. / Lake Cormorant HS",
-42,,26.0,Jay Hampton,CB,6-2,195.0,R-Fr.,"Amory, Miss. /",Mississippi State
-43,,26.0,Jimmie Haywood,RB,5-9,220.0,R-So.,"Theodore, Ala. / Theodore HS",
-44,,27.0,Ja'Kobe Cameron,WR,6-0,160.0,Fr.,"Bay St. Louis, Miss. / St. Stanislaus HS",
-45,,27.0,Drew Horton,LB,6-2,220.0,So.,"Brandon, Miss. /",Jones College
-46,,28.0,Swayze Bozeman,LB,6-3,224.0,R-Sr.,"Flora, Miss. / Tri-County Academy",Copiah-Lincoln CC
-47,,28.0,Janari Dean,RB,5-11,195.0,R-So.,"Batesville, Miss. /",Mississippi State
-48,,29.0,Camron Harrell,DB,5-10,190.0,Sr.,"Bradley, Ill. /",College of DuPage
-49,,29.0,Ashton Smith,WR,5-11,180.0,Fr.,"Madison, Miss. / Madison Central HS",
-50,,30.0,Carter Bonds,LB,5-10,220.0,So.,"Corinth, Miss. /",Northeast Miss. CC
-51,,30.0,Bryce Lofton,PK/P,6-3,200.0,So.,"Sand Hill, Miss. /",Copiah-Lincoln CC
-52,,31.0,Daylen Gill,LB,5-11,225.0,Sr.,"Louisville, Miss. /",Ole Miss
-53,,32.0,Hayes Maples,LB,6-2,228.0,R-Jr.,"Hattiesburg, Miss. / Oak Grove HS",
-54,,33.0,Cole Cavallo,TE,6-2,232.0,R-Jr.,"Slidell, La. / Northshore HS",
-55,,34.0,Mario Wilbourn,LB,6-0,252.0,Fr.,"Oxford, Miss. / Lafayette HS",
-56,,35.0,TQ Newsome,LB,6-1,230.0,R-So.,"Gulfport, Miss. / Gulfport HS",
-57,,36.0,Brodarius Lewis,DT,6-2,295.0,So.,"Prattville, Ala. /",Jones College
-58,,38.0,Jeremiah Alemayehu,LB,6-0,220.0,R-Fr.,"Encino, Calif. / Crespi HS",
-59,,39.0,Hayes Puckett,DB,5-10,185.0,R-Fr.,"Madison, Miss. /",
-60,,40.0,Briggs Bourgeois,PK,6-1,192.0,R-Sr.,"St. Amant, La. / St. Amant HS",
-61,,41.0,Trey Hebert,PK,5-11,190.0,R-Fr.,"Mandeville, La. / St. Andrew's HS",
-62,,42.0,Avery White,TE,6-4,231.0,R-So.,"Hurley, Miss. / East Central HS",
-63,,43.0,Peyton Rea,DB,5-10,189.0,So.,"Madison, Miss. /",Itawamba CC
-64,,45.0,"Josh Carr, Jr.",JACK,6-4,240.0,Sr.,"Houston, Texas /",Southeastern Louisiana
-65,,46.0,Averie Habas,LB,6-3,242.0,Jr.,"Rice Lake, Wis. /",Iowa Western CC
-66,,47.0,Michael Jefcoat,TE,6-1,230.0,R-Fr.,"Greenwood, Miss. / Pillow Academy",
-67,,48.0,Ray Ladner,TE,6-4,240.0,R-Sr.,"Kiln, Miss. / Hancock HS",
-68,,49.0,Caleb Garner,LB,6-2,238.0,R-Fr.,"Mendenhall, Miss. / Simpson Academy",
-69,,50.0,Wil Saxton,OL,6-3,322.0,Fr.,"Benton, Miss. / Benton Academy",
-70,,51.0,Briason Mays,OL,6-4,317.0,R-Jr.,"Bolivar, Tenn. /",West Virginia
-71,,51.0,Demeco Roland,DT,6-3,340.0,Jr.,"Broken Arrow, Okla. /",Hutchinson CC
-72,,52.0,Ethan Bumgarner,OL,6-4,315.0,So.,"West Point, Miss. /",Northwest Mississippi CC
-73,,54.0,Tanner Hatten,LS,6-0,210.0,So.,"Purvis, Miss. /",Jones College
-74,,55.0,Bryce Ramsey,OL,6-2,340.0,R-So.,"Gulfport, Miss. /",Ole Miss
-75,,56.0,DJ Burgess,DE,6-3,250.0,Fr.,"Oxford, Miss. / Lafayette HS",
-76,,56.0,T.J. Harvey,LS,6-0,229.0,R-Jr.,"Columbus, Ga. / Shaw HS",
-77,,57.0,Klabron Pollard,OL,6-2,293.0,Fr.,"Hattiesburg, Miss. / Oak Grove HS",
-78,,58.0,Drew Lawson,OL,6-2,291.0,R-Fr.,"Madison, Ala. / Bob Jones HS",
-79,,60.0,Coker Wright,OL,6-4,290.0,Jr.,"Brookhaven, Miss. / Brookhaven HS",
-80,,62.0,Seth Roberson,LS,5-10,233.0,R-So.,"Oviedo, Fla. / Hagerty HS",
-81,,64.0,Kyron Barnes,OL,6-4,300.0,Fr.,"Fayette, Miss. / Adams County Christian",
-82,,65.0,Gerquan Scott,OL,6-4,339.0,R-So.,"Mobile, Ala. / Davidson HS",
-83,,66.0,Kamron Barnes,OL,6-5,320.0,Fr.,"Fayette, Miss. / Adams County Christian",
-84,,67.0,Drew Brewer,OL,6-2,300.0,Fr.,"Purvis, Miss. / Purvis HS",
-85,,70.0,James Middleton,OL,6-4,320.0,R-Jr.,"North Charleston, S.C. /",Jones College
-86,,71.0,"Paul Gainer, Jr.",OL,6-3,290.0,R-Sr.,"Gautier, Miss. / Gautier HS",
-87,,72.0,Matt Ryals,OL,6-8,335.0,R-So.,"Purvis, Miss. / Purvis HS",
-88,,73.0,Douglas Gearity,OL,6-4,311.0,R-Jr.,"St. Cloud, Fla. / St. Cloud HS",
-89,,74.0,Kameron King,OL,6-2,291.0,R-Jr.,"Marshall, Texas / Marshall HS",
-90,,75.0,Peyton McKinion,OL,6-7,301.0,R-Fr.,"Pelahatchie, Miss. /",Mississippi Gulf Coast CC
-91,,77.0,John Bolding,OL,6-3,329.0,R-Jr.,"Spring, Texas /",Coffeeville CC
-92,,79.0,Tykeem Doss,OL,6-5,373.0,Sr.,"Aliceville, Ala. /",East Central CC
-93,,80.0,Zavian Hales,WR,6-1,190.0,Fr.,"Brandon, Miss. / Brandon HS",
-94,,81.0,Davis Dalton,WR,6-3,202.0,Fr.,"Madison, Miss. / Madison-Ridgeland Academy",
-95,,82.0,Jalen May,WR,5-10,172.0,R-So.,"Houston, Miss. /",Northwest CC
-96,,83.0,Jack Jackson,WR,6-0,180.0,Fr.,"Hattiesburg, Miss. / Hattiesburg HS",
-97,,84.0,Mitchell Sellers,DL,6-5,270.0,R-Fr.,"Paradise, Texas / Paradise HS",
-98,,85.0,Brad Dennis,WR,5-11,168.0,R-Sr.,"Florence, Miss. / Florence HS",
-99,,86.0,Cade Shepherd,WR,5-11,190.0,So.,"Flora, Miss. /",Hinds CC
-100,,88.0,Luke Baker,TE,6-6,240.0,R-So.,"Naples, Fla. / Gulf Coast HS",
-101,,89.0,Evan McNally,TE,6-2,220.0,Fr.,"Ocean Springs, Miss. / Ocean Springs HS",
-102,,91.0,Kyler Carter,DL,6-3,270.0,R-Fr.,"Noxapater, Miss. /",Northeast Mississippi CC
-103,,92.0,Trace White,DL,6-3,280.0,R-So.,"Flora, Miss. /",Northwest Mississippi CC
-104,,93.0,Josh Ratcliff,DL,6-0,302.0,Jr.,"Belle Rose, La. /",East Central CC
-105,,94.0,Kristin Booth,DL,6-3,259.0,So.,"Oxford, Ala. / Oxford HS",
-106,,95.0,Quentin Bivens,DT,6-3,305.0,Jr.,"Waynesboro, Miss. /",Ole Miss
-107,,96.0,Jalen Williams,DL,6-3,310.0,R-So.,"Tylertown, Miss. /",Arkansas
-108,,97.0,Armondous Cooley,DT,6-3,305.0,R-Fr.,"Shubuta, Miss. /",Mississippi State
-109,,98.0,Iliyas Fuavai,DE,6-3,245.0,Fr.,"Pensacola, Fla. / Pensacola Catholic HS",
-110,,98.0,Andrew Stein,PK,5-10,190.0,R-So.,"Slidell, La. / Northshore HS",
-111,,99.0,Jordyn Mahaffey,DE,6-3,253.0,So.,"Foxworth,Miss. /",Jones College
+,Statistic,#,Full Name,Pos.,Ht.,Wt.,Academic Year,Hometown / High School,Current School Name,Previous School,Image,Name,Title
+0,,0.0,"Rodrigues ""Dreke"" Clark",RB,5-9,200.0,R-Jr.,"Starkville, Miss. / Starkville HS",Southern Miss,Memphis,,,
+1,,0.0,Brendan Toles,CB,6-1,177.0,Jr.,"Oxford, Miss. / Lafayette HS",Southern Miss,,,,
+2,,1.0,Jakarius Caston,WR,6-0,204.0,Sr.,"Natchez, Miss. / Adams County Christian",Southern Miss,Hinds CC,,,
+3,,1.0,Markel McLaurin,CB,5-11,195.0,R-Jr.,"Friendship, Miss. / Collins HS",Southern Miss,Jones College,,,
+4,,2.0,"Micheal Caraway, Jr.",CB,6-3,185.0,Jr.,"Bassfield, Miss. / Jefferson Davis County HS",Southern Miss,Pearl River CC,,,
+5,,2.0,Chandler Pittman,RB,5-10,165.0,Jr.,"Magee, Miss. / Magee HS",Southern Miss,,,,
+6,,3.0,"Frank Gore, Jr.",RB,5-8,195.0,Jr.,"Miami, Fla. / Killian HS",Southern Miss,,,,
+7,,3.0,Jeremiah Robinson,SAF,6-0,196.0,R-So.,"Petal, Miss. / Petal HS",Southern Miss,,,,
+8,,5.0,Kenyon Clay,RB,6-1,215.0,R-Fr.,"Union, Miss. / Union HS",Southern Miss,,,,
+9,,5.0,Jay Jones,SAF,6-1,211.0,Jr.,"Demopolis, Ala. / Demopolis HS",Southern Miss,,,,
+10,,6.0,Latreal Jones,WR,6-2,195.0,Sr.,"Taylorsville, Miss. / Taylorsville HS",Southern Miss,Pearl River CC,,,
+11,,6.0,Dylan Lawrence,SAF,6-3,200.0,R-Jr.,"Lucedale, Miss. / George County HS",Southern Miss,Mississippi State,,,
+12,,7.0,Zay Franks,WR,6-2,193.0,R-So.,"Magee, Miss. / Magee HS",Southern Miss,,,,
+13,,7.0,Jay Stanley,SAF,6-2,215.0,Sr.,"Greenwood, Miss. / Brandon HS",Southern Miss,Ole Miss,,,
+14,,8.0,Jalil Clemons,JACK,6-3,240.0,R-Jr.,"Starkville, Miss. / Starkville HS",Southern Miss,Memphis,,,
+15,,8.0,Billy Wiles,QB,6-3,200.0,R-So.,"Ashburn, Va. / Stone Bridge HS",Southern Miss,Clemson,,,
+16,,9.0,Kolbe Cage,LB,6-1,220.0,R-So.,"New Orleans, La. / Holy Cross",Southern Miss,Arizona,,,
+17,,9.0,Holman Edwards,QB,6-2,215.0,R-Jr.,"French Camp, Miss. / French Camp HS",Southern Miss,Houston,,,
+18,,11.0,MJ Daniels,CB,6-2,190.0,Jr.,"Lucedale, Miss. / George County HS",Southern Miss,Ole Miss,,,
+19,,11.0,Antavious Willis,RB,5-10,180.0,R-Jr.,"Camden, Miss. / Velma Jackson HS",Southern Miss,,,,
+20,,12.0,Ques McNeal,CB,5-10,180.0,Jr.,"Ackerman, Miss. / Choctaw Central HS",Southern Miss,Co-Lin CC,,,
+21,,12.0,Zach Wilcke,QB,6-3,194.0,So.,"Hernando, Miss. / Hernando HS",Southern Miss,,,,
+22,,13.0,Ethan Crawford,QB,6-0,215.0,Fr.,"Tuscaloosa, Ala. / Hillcrest HS",Southern Miss,,,,
+23,,14.0,Kyle McCormick,QB,6-1,188.0,R-Fr.,"Lincoln, Calif. / La Costa Canyon HS",Southern Miss,,,,
+24,,15.0,Ja'Len Sims,LB,6-1,225.0,R-Jr.,"Birmingham, Ala. / Fultondale HS",Southern Miss,Co-Lin CC,,,
+25,,17.0,Brandon Hayes,WR,6-2,207.0,R-So.,"Hattiesburg, Miss. / Oak Grove HS",Southern Miss,,,,
+26,,17.0,Tyquan Henderson,WR,6-3,200.0,Jr.,"Canton, Miss. / Canton HS",Southern Miss,Co-Lin CC,,,
+27,,18.0,"Josh Carr, Jr.",JACK,6-4,240.0,R-Sr.,"Houston, Texas / Westfield HS",Southern Miss,Southeastern Louisiana,,,
+28,,18.0,Jack Tannehill,PK,5-9,182.0,R-So.,"Oxford, Miss. / Oxford HS",Southern Miss,,,,
+29,,19.0,Arian Gregory,LB,6-0,216.0,R-So.,"Luverne, Ala. / Luverne HS",Southern Miss,,,,
+30,,20.0,Cameron Knox,SAF,6-0,185.0,R-Fr.,"New Albany, Miss. / New Albany HS",Southern Miss,,,,
+31,,21.0,"Tiaquelin ""Ty"" Mims",WR,5-9,170.0,So.,"Bay Minette, Ala. / Baldwin County HS",Southern Miss,,,,
+32,,24.0,Tyrese Hopkins,JACK,6-2,249.0,R-So.,"Macon, Miss. / Starkville HS",Southern Miss,,,,
+33,,24.0,Jake Lange,QB,6-2,194.0,Jr.,"Jackson, Miss. / Jackson Prep",Southern Miss,,,,
+34,,25.0,Zahn Diaz,RB,5-9,194.0,R-So.,"Mandeville, La. / Mandeville HS",Southern Miss,Mississippi College,,,
+35,,25.0,Jordan Martin,DB,5-8,156.0,R-Fr.,"Memphis, Tenn. / Lake Cormorant HS",Southern Miss,,,,
+36,,26.0,Jay Hampton,CB,6-2,195.0,R-So.,"Amory, Miss. / Amory HS",Southern Miss,Mississippi State,,,
+37,,26.0,Jimmie Haywood,RB,5-9,220.0,R-Jr.,"Theodore, Ala. / Theodore HS",Southern Miss,,,,
+38,,27.0,Ja'Kobe Cameron,SAF,6-0,160.0,So.,"Bay St. Louis, Miss. / Saint Stanislaus College",Southern Miss,,,,
+39,,27.0,Drew Horton,LB,6-2,220.0,R-So.,"Brandon, Miss. / Madison-Ridgeland Academy",Southern Miss,Jones College,,,
+40,,28.0,Swayze Bozeman,LB,6-3,224.0,R-Sr.,"Flora, Miss. / Tri-County Academy",Southern Miss,Copiah-Lincoln CC,,,
+41,,29.0,Hayes Puckett,DB,5-10,185.0,R-So.,"Madison, Miss. / Madison-Ridgeland Academy",Southern Miss,,,,
+42,,30.0,Bryce Lofton,PK/P,6-3,200.0,R-So.,"Sand Hill, Miss. / Pisgah HS",Southern Miss,Copiah-Lincoln CC,,,
+43,,31.0,Duke Arnold,SAF,5-10,185.0,Jr.,"Madison, Miss. / Madison Central HS",Southern Miss,Holmes CC,,,
+44,,32.0,Hayes Maples,LB,6-2,228.0,R-Sr.,"Hattiesburg, Miss. / Oak Grove HS",Southern Miss,,,,
+45,,33.0,Cole Cavallo,TE,6-2,232.0,R-Sr.,"Slidell, La. / Northshore HS",Southern Miss,,,,
+46,,35.0,TQ Newsome,LB,6-1,230.0,R-Jr.,"Gulfport, Miss. / Gulfport HS",Southern Miss,,,,
+47,,36.0,Brodarius Lewis,DT,6-2,295.0,Jr.,"Prattville, Ala. / Prattville HS",Southern Miss,Jones College,,,
+48,,37.0,"Eric Thomas, Jr.",DE,6-2,275.0,Jr.,"Pensacola, Fla. / Booker T. Washington HS",Southern Miss,Arkansas,,,
+49,,39.0,Brennen Milliron,LS,5-10,200.0,Sr.,"Hoover, Ala. / Hoover HS",Southern Miss,Troy,,,
+50,,41.0,Trey Hebert,PK,5-11,190.0,R-So.,"Mandeville, La. / Saint Andrew's Episcopaal",Southern Miss,,,,
+51,,42.0,Avery White,TE,6-4,231.0,R-Jr.,"Hurley, Miss. / East Central HS",Southern Miss,,,,
+52,,46.0,Averie Habas,JACK,6-3,242.0,Sr.,"Rice Lake, Wis. / Rice Lake HS",Southern Miss,Iowa Western CC,,,
+53,,47.0,Michael Jefcoat,TE,6-1,230.0,R-So.,"Greenwood, Miss. / Pillow Academy",Southern Miss,,,,
+54,,49.0,Caleb Garner,LB,6-2,238.0,R-So.,"Mendenhall, Miss. / Simpson Academy",Southern Miss,,,,
+55,,50.0,Wil Saxton,OL,6-3,322.0,R-Fr.,"Benton, Miss. / Benton Academy",Southern Miss,,,,
+56,,51.0,Briason Mays,OL,6-4,317.0,R-Sr.,"Bolivar, Tenn. / Bolivar Central HS",Southern Miss,West Virginia,,,
+57,,51.0,Demeco Roland,DL,6-3,340.0,R-Jr.,"Broken Arrow, Okla. / Broken Arrow HS",Southern Miss,Hutchinson CC,,,
+58,,52.0,Ethan Bumgarner,OL,6-4,315.0,R-So.,"West Point, Miss. / Heritage Academy",Southern Miss,Northwest Mississippi CC,,,
+59,,54.0,Tanner Hatten,LS,6-0,210.0,R-So.,"Purvis, Miss. / Purvis HS",Southern Miss,Jones College,,,
+60,,55.0,Bryce Ramsey,OL,6-2,340.0,R-Jr.,"Gulfport, Miss. / Harrison Central HS",Southern Miss,Ole Miss,,,
+61,,57.0,Klabron Pollard,OL,6-2,293.0,R-Fr.,"Hattiesburg, Miss. / Oak Grove HS",Southern Miss,,,,
+62,,58.0,Drew Lawson,OL,6-2,291.0,R-So.,"Madison, Ala. / Bob Jones HS",Southern Miss,,,,
+63,,61.0,"Gabe Cavazos, Jr.",OL,6-6,300.0,R-So.,"Lake Cormorant, Miss. / Lake Cormorant HS",Southern Miss,Mississippi State,,,
+64,,62.0,Seth Roberson,LS,5-10,233.0,R-Jr.,"Oviedo, Fla. / Hagerty HS",Southern Miss,,,,
+65,,64.0,Kyron Barnes,OL,6-4,300.0,So.,"Fayette, Miss. / Adams County Christian",Southern Miss,,,,
+66,,65.0,Gerquan Scott,OL,6-4,339.0,R-Jr.,"Mobile, Ala. / Davidson HS",Southern Miss,,,,
+67,,66.0,Kamron Barnes,OL,6-5,320.0,R-Fr.,"Fayette, Miss. / Adams County Christian",Southern Miss,,,,
+68,,67.0,Drew Brewer,OL,6-2,300.0,R-Fr.,"Purvis, Miss. / Purvis HS",Southern Miss,,,,
+69,,70.0,James Middleton,OL,6-4,320.0,R-Sr.,"North Charleston, S.C. / Fort Dorchester HS",Southern Miss,Jones College,,,
+70,,72.0,Matt Ryals,OL,6-8,335.0,R-Jr.,"Purvis, Miss. / Purvis HS",Southern Miss,,,,
+71,,74.0,Luke Rogers,OL,6-3,280.0,Fr.,"Brandon, Miss. / Brandon HS",Southern Miss,,,,
+72,,75.0,Peyton McKinion,OL,6-7,301.0,R-So.,"Pelahatchie, Miss. / Brandon HS",Southern Miss,Mississippi Gulf Coast CC,,,
+73,,77.0,John Bolding,OL,6-3,329.0,R-Sr.,"Spring, Texas / Klein Oak HS",Southern Miss,Coffeeville CC,,,
+74,,80.0,Zavian Hales,WR,6-1,190.0,R-So.,"Brandon, Miss. / Brandon HS",Southern Miss,,,,
+75,,81.0,Davis Dalton,WR,6-3,202.0,R-Fr.,"Madison, Miss. / Madison-Ridgeland Academy",Southern Miss,,,,
+76,,82.0,Jalen May,WR,5-10,172.0,R-Jr.,"Houston, Miss. / Houston HS",Southern Miss,Northwest CC,,,
+77,,83.0,Jack Jackson,WR,6-0,180.0,R-Fr.,"Hattiesburg, Miss. / Hattiesburg HS",Southern Miss,,,,
+78,,85.0,Jordyn Mahaffey,TE,6-3,253.0,Jr.,"Foxworth,Miss. / West Marion HS",Southern Miss,Jones College,,,
+79,,86.0,Chandler Merrill,WR,5-9,180.0,R-Fr.,"Vestavia Hills, Ala. / Vestavia Hills HS",Southern Miss,,,,
+80,,87.0,Evan McNally,TE,6-2,220.0,R-Fr.,"Ocean Springs, Miss. / Ocean Springs HS",Southern Miss,,,,
+81,,88.0,Matt Nixon,WR,6-0,190.0,Fr.,"Merry Hell, Miss. / West Jones HS",Southern Miss,,,,
+82,,91.0,Kyler Carter,DL,6-3,270.0,R-So.,"Noxapater, Miss. / West Jones HS",Southern Miss,Northeast Mississippi CC,,,
+83,,92.0,Trace White,DL,6-3,280.0,R-Jr.,"Flora, Miss. / Tri-County Academy",Southern Miss,Northwest Mississippi CC,,,
+84,,93.0,Josh Ratcliff,DT,6-0,302.0,Sr.,"Belle Rose, La. / Assumption HS",Southern Miss,East Central CC,,,
+85,,94.0,Kristin Booth,DE,6-3,259.0,Jr.,"Oxford, Ala. / Oxford HS",Southern Miss,,,,
+86,,95.0,Quentin Bivens,DT,6-3,305.0,Sr.,"Waynesboro, Miss. / Wayne County HS",Southern Miss,Ole Miss,,,
+87,,96.0,Jalen Williams,DL,6-3,310.0,Sr.,"Tylertown, Miss. / Tylertown",Southern Miss,Arkansas,,,
+88,,97.0,Armondous Cooley,DT,6-3,305.0,R-So.,"Shubuta, Miss. / Wayne County HS",Southern Miss,Mississippi State,,,
+89,,98.0,Iliyas Fuavai,DE,6-3,245.0,R-Fr.,"Pensacola, Fla. / Pensacola Catholic HS",Southern Miss,,,,
+90,,98.0,Andrew Stein,PK,5-10,190.0,R-Jr.,"Slidell, La. / Northshore HS",Southern Miss,,,,
+91,,,"Javieon ""J.J."" Butler",WR,6-5,,Fr.,"Forest, Miss. / Scott Central HS",Southern Miss,,,,
+92,,,Elijah Douglas,DL,6-3,,Fr.,"Pensacola, Fla. / Pine Forest HS",Southern Miss,,,,
+93,,,Austin Gonzalez,QB,5-11,,Fr.,"Plano, Texas / Lovejoy HS",Southern Miss,,,,
+94,,,JQ Gray,RB,5-9,,Fr.,"Hattiesburg, Miss. / Oak Grove HS",Southern Miss,,,,
+95,,,Chris Hayes,OL,6-3,,Fr.,"Starkville, Miss. / Starkville HS",Southern Miss,,,,
+96,,,Tre'Mon Henry,LB,6-2,,Fr.,"Columbus, Ga. / Carver HS",Southern Miss,,,,
+97,,,Jacob Johnson,LB,6-2,,Fr.,"Covington, La. / St. Paul's HS",Southern Miss,,,,
+98,,,Wildrekus Johnson,DB,6-2,,Fr.,"Tylertown, Miss. / Tylertown HS",Southern Miss,,,,
+99,,,Miles Jones,SAF,-,,Fr.,"Byhalia, Miss. / Byhalia HS",Southern Miss,,,,
+100,,,Cameron Mackey,DL,6-3,,Fr.,"Clarksdale, Miss. / Clarksdale HS",Southern Miss,,,,
+101,,,Exavious Reed,TE,6-4,,Fr.,"LaGrange, Ga. / Callaway HS",Southern Miss,,,,
+102,,,Justyn Reid,TE,6-6,,Fr.,"Newnan, Ga. / Newnan HS",Southern Miss,,,,
+103,,,Jack Schwing,,-,,Fr.,"Metairie, La. / Metairie Park Country Day School",Southern Miss,,,,
+104,,,Tanner Welch,OL,6-7,,Fr.,"Brandon, Miss. / Northwest Rankin HS",Southern Miss,,,,
+105,,,Sentario Willis,DB,6-2,,Fr.,"Hazelhurst, Miss. / Hazelhurst HS",Southern Miss,,,,
+0,,,,,,,,,Southern Miss,,,Will Hall,Head Coach
+1,,,,,,,,,Southern Miss,,,Reed Stringer,Assistant Head Coach / General Manager
+2,,,,,,,,,Southern Miss,,,Dan O'Brien,Defensive Coordinator / Safeties
+3,,,,,,,,,Southern Miss,,,Sam Gregg,Offensive Coordinator / Offensive Line Coach
+4,,,,,,,,,Southern Miss,,,Cayden Cochran,Tight Ends
+5,,,,,,,,,Southern Miss,,,Mark Criner,Outside Linebackers
+6,,,,,,,,,Southern Miss,,,Jordy Joseph,Quarterbacks
+7,,,,,,,,,Southern Miss,,,Brandon Lacy,Defensive Line
+8,,,,,,,,,Southern Miss,,,Desmond Lindsey,Wide Receivers / Pass-Game Coordinator
+9,,,,,,,,,Southern Miss,,,Greg Meyer,Special Teams Coordinator / Running Backs
+10,,,,,,,,,Southern Miss,,,Chad Williams,Inside Linebackers / Run-Game Coordinator
+11,,,,,,,,,Southern Miss,,,Dwike Wilson,Cornerbacks
+12,,,,,,,,,Southern Miss,,,Tad Blaylock,Director of Football Operations
+13,,,,,,,,,Southern Miss,,,Joe Moreno,Director of Player Personnel
+0,,,,,,,,,Southern Miss,,,Lance Ancar,Head Strength and Conditioning Coach

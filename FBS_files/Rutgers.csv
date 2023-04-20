@@ -1,202 +1,184 @@
-,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown / High School,Previous School,Image,Name,Title
-0,,32.0,Rani Abdulaziz,DB,Sr.,5-10,195.0,"Roseland, N.J. / West Essex",,,,
-1,,5.0,Kessawn Abraham,DB,Sr.,5-10,190.0,"Brooklyn, N.Y. / Erasmus Hall",,,,
-2,,92.0,Mayan Ahanotu,DL,Sr.,6-4,290.0,"Tampa, Fla. / Berkeley Prep",,,,
-3,,10.0,Matt Alaimo,TE,Sr.,6-5,250.0,"Paramus, N.J. / St. Joseph Regional [Montvale]",,,,
-4,,19.0,Austin Albericci,QB,Sr.,5-10,175.0,"Closter, N.J. / Demarest",,,,
-5,,42.0,DJ Allen,DL,Fr.,6-7,250.0,"Leo, Ind. / Leo HS",,,,
-6,,74.0,Jacob Allen,OL,Fr.,6-6,300.0,"Spotswood, N.J. / The Hun School",,,,
-7,,24.0,Thomas Amankwaa,DB,Fr.,6-0,205.0,"Hillsborough, N.J. / Hillsborough",,,,
-8,,55.0,Zaire Angoy,DL,So.,6-3,325.0,"Irvington, N.J. / Irvington",,,,
-9,,95.0,Flynn Appleby,P,Fr.,6-2,195.0,"Cohuna, Victoria, Australia / Ballarat Clarendon College",,,,
-10,,69.0,Kwabena Asamoah,OL,Fr.,6-2,330.0,"Pickerington, Ohio / Pickerington Central",,,,
-11,,50.0,Jordan Augustin,DL,Fr.,6-3,275.0,"Newark, N.J. / Weequahic",,,,
-12,,45.0,Dami Awoyinfa,LB,So.,6-1,220.0,"Linden, N.J. / Linden",,,,
-13,,23.0,Wesley Bailey,DL,So.,6-5,250.0,"Ottawa, Ontario, Canada / Clearwater Academy International [Fla.]",,,,
-14,,9.0,Khayri Banton,LB,So.,6-3,225.0,"East Orange, N.J. / West Side",,,,
-15,,32.0,Charlie Barth,RB,Fr.,5-11,205.0,"New Providence, N.J. / New Providence",,,,
-16,,19.0,Todd Bowles Jr.,DB,So.,5-11,185.0,"Tampa, Fla. / Jesuit",,,,
-17,,6.0,Christian Braswell,DB,Sr.,5-11,185.0,"Washington, D.C. / Friendship College Academy",,,,
-18,,57.0,Ireland Brown,OL,Jr.,6-3,300.0,"Jamaica, N.Y. / Pope John XXIII",,,,
-19,,27.0,Samuel Brown V,RB,Fr.,6-1,220.0,"Philadelphia, Pa. / La Salle College HS",,,,
-20,,29.0,Amir Byrd,DB,Jr.,5-7,165.0,"Mount Laurel, N.J. / Lenape",,,,
-21,,48.0,Antonio Chadha,PK,Fr.,5-8,205.0,"Bryn Mawr, Pa. / St. Joseph's Prep",,,,
-22,,76.0,Dantae Chin,OL,Fr.,6-4,310.0,"Weston, Fla. / Cypress Bay HS",,,,
-23,,53.0,Mike Ciaffoni,OL,Jr.,6-3,300.0,"Sudbury, Mass. / Lincoln-Sudbury",,,,
-24,,54.0,Nick Ciaffoni,OL,Fr.,6-2,285.0,"Sudbury, Mass. / Buckingham Browne & Nichols",,,,
-25,,10.0,Shawn Collins,DL,So.,6-5,250.0,"Montclair, N.J. / Montclair",,,,
-26,,56.0,Sean Cooper,DL,So.,6-5,240.0,"Stanhope, N.J. / Lenape Valley",,,,
-27,,1.0,Aron Cruickshank,WR,Sr.,5-10,170.0,"Brooklyn, N.Y. / Erasmus Hall",,,,
-28,,21.0,Carnell Davis,DB,So.,6-1,180.0,"Galloway, N.J. / Eau Gallie [Fla.]",,,,
-29,,33.0,Parker Day,RB,Sr.,5-10,195.0,"Toms River, N.J. / Toms River North",,,,
-30,,66.0,Joe De Croce,OL,Fr.,6-6,300.0,"Haworth, N.J. / Northern Valley Regional HS",,,,
-31,,38.0,Austin Dean,LB,So.,6-2,225.0,"Tampa, Fla. / Berkeley Prep",,,,
-32,,57.0,Stanley Dennis II,DL,So.,5-11,280.0,"Jersey City, N.J. / St. Peter's Prep",The Taft School,,,
-33,,55.0,J.D. DiRenzo,OL,Sr.,6-6,315.0,"Hammonton, N.J. / St. Joseph Academy",,,,
-34,,58.0,Dariel Djabome,LB,Fr.,6-2,215.0,"Longueuil, Québec, Canada / Canada Prep Academy",,,,
-35,,6.0,Christian Dremel,WR,Jr.,5-9,185.0,"Caldwell, N.J. / Don Bosco Prep",,,,
-36,,51.0,Curtis Dunlap Jr.,OL,Sr.,6-5,335.0,"Jacksonville, Fla. / IMG Academy",,,,
-37,,46.0,Sammy El Hadidi,LS,Fr.,5-11,205.0,"Bridgewater, N.J. / Bridgewater-Raritan",,,,
-38,,96.0,Guy Fava,PK,Jr.,6-0,195.0,"Mahwah, N.J. / Don Bosco Prep",,,,
-39,,65.0,Bryan Felter,OL,So.,6-3,305.0,"Westfield, N.J. / Bergen Catholic",,,,
-40,,12.0,Kenny Fletcher,DL,Fr.,6-3,230.0,"Delran, N.J. / Delran",,,,
-41,,30.0,Sam Gadie,LB,Fr.,6-3,200.0,"Trenton, N.J. / Trenton Central",,,,
-42,,60.0,Moses Gbagbe-Sowah,OL,So.,6-1,295.0,"Newark, N.J. / West Side",,,,
-43,,96.0,Keshon Griffin,DL,So.,6-4,290.0,"Sicklerville, N.J. / St. Joseph Academy",,,,
-44,,48.0,Kyonte Hamilton,DL,So.,6-4,270.0,"District Heights, Md. / Georgetown Prep",,,,
-45,,50.0,CJ Hanson,OL,Jr.,6-5,310.0,"Jackson, N.J. / St. John Vianney",,,,
-46,,80.0,Jahzion Harris,DL,So.,6-4,205.0,"Staten Island, N.Y. / Erasmus Hall",,,,
-47,,62.0,Brad Harris Jr.,OL,Fr.,6-4,275.0,"Vineland, N.J. / St. Joseph's Prep [Pa.]",,,,
-48,,40.0,Connor Hebbeler,TE,Sr.,6-2,230.0,"Franklin Lakes, N.J. / Bergen Catholic",,,,
-49,,88.0,Mike Higgins,TE,Fr.,6-5,240.0,"Ho-Ho-Kus, N.J. / Blair Academy",,,,
-50,,54.0,Timmy Hinspeter,LB,Fr.,6-0,230.0,"Ramsey, N.J. / Don Bosco Prep",,,,
-51,,95.0,Henry Hughes Jr.,DL,So.,6-5,280.0,"Tampa, Fla. / Tampa Bay Tech",,,,
-52,,4.0,Desmond Igbinosun,DB,So.,6-3,205.0,"Union, N.J. / Union",,,,
-53,,0.0,Christian Izien,DB,Sr.,5-10,200.0,"Far Rockaway, N.Y. / Erasmus Hall",,,,
-54,,17.0,Deion Jennings,LB,Sr.,6-1,230.0,"Sicklerville, N.J. / Timber Creek",,,,
-55,,7.0,Shameen Jones,WR,Sr.,6-2,185.0,"Bronx, N.Y. / Cardinal Hayes",,,,
-56,,40.0,Sebastian Jusma,DB,Fr.,6-1,190.0,"Teaneck, N.J. / Teaneck",,,,
-57,,41.0,Jordan Kinsler,RB,So.,5-10,175.0,"Franklin Park, N.J. / St. Joseph [Metuchen]",,,,
-58,,90.0,Rene Konga,DL,So.,6-4,285.0,"Ottawa, Ontario, Canada / Colonel By Secondary School",,,,
-59,,89.0,Victor Konopka,TE,So.,6-7,250.0,"Kinnelon, N.J. / Blair Academy/Don Bosco Prep",,,,
-60,,94.0,Adam Korsak,P,Sr.,6-2,185.0,"Melbourne, Australia / Maribyrnong College",Victoria University,,,
-61,,21.0,Johnny Langan,TE,Sr.,6-3,235.0,"Wayne, N.J. / Bergen Catholic",,,,
-62,,75.0,Beau Lanzidelle,OL,So.,6-4,305.0,"Medford, N.J. / Shawnee/The Hun School",,,,
-63,,28.0,Fitzroy Ledgister,WR,Fr.,6-1,190.0,"Jersey City, N.J. / St. Peter's Prep",,,,
-64,,71.0,Aaron Lewis,DL,So.,6-5,250.0,"Williamstown, N.J. / Williamstown",,,,
-65,,46.0,Kareem Lewis,DB,Fr.,6-1,200.0,"Philadelphia, Pa. / Roman Catholic",,,,
-66,,9.0,Chris Long,WR,So.,6-0,175.0,"Willingboro, N.J. / Willingboro",,,,
-67,,7.0,Robert Longerbeam,DB,So.,5-11,170.0,"Alexandria, Va. / T.C. Williams",,,,
-68,,25.0,Shaquan Loyal,DB,So.,6-0,200.0,"Newark, N.J. / West Side",,,,
-69,,37.0,Joe Lusardi,DB,So.,5-11,190.0,"Summit, N.J. / Summit",,,,
-70,,20.0,Elijuwan Mack,DB,So.,5-11,185.0,"Newark, N.J. / St. Joseph Regional [Montvale]",,,,
-71,,88.0,Ifeanyi Maijeh,DL,Sr.,6-2,290.0,"Far Rockaway, N.Y. / Poly Prep",,,,
-72,,26.0,Damon Matthews,DB,Jr.,5-10,180.0,"Pine Hill, N.J. / Overbrook",,,,
-73,,93.0,Jude McAtamney,PK,Jr.,6-2,200.0,"Derry, Ireland / St. Patrick's College Maghera",,,,
-74,,16.0,Max Melton,DB,So.,6-0,190.0,"Mays Landing, N.J. / Cedar Creek",,,,
-75,,71.0,Kamar Missouri,OL,So.,6-5,295.0,"Baltimore, Md. / Mergenthaler Vo-Tech",,,,
-76,,23.0,Kyle Monangai,RB,So.,5-9,205.0,"Roseland, N.J. / Don Bosco Prep",,,,
-77,,64.0,Nelson Monegro,OL,Fr.,6-7,305.0,"Union City, N.J. / Union City",,,,
-78,,13.0,Nasir Montgomery,WR,So.,6-1,190.0,"East Orange, N.J. / East Orange",,,,
-79,,56.0,Tyler Needham,OL,So.,6-4,300.0,"Newton, Pa. / William Penn Charter",,,,
-80,,58.0,David Nwaogwugwu,OL,Sr.,6-5,305.0,"Bronx, N.Y. / DeWitt Clinton",,,,
-81,,99.0,Michael O’Connor,PK,So.,6-1,185.0,"Middletown, N.J. / Red Bank Catholic",,,,
-82,,16.0,Raeden Oliver,QB,Fr.,6-2,190.0,"Montclair, N.J. / East Orange Campus",,,,
-83,,35.0,David Onuoha,LB,Fr.,6-1,235.0,"Aberdeen, N.J. / Matawan Regional",,,,
-84,,44.0,Jai Patel,PK,Fr.,5-9,170.0,"Monmouth Junction, N.J. / South Brunswick HS",,,,
-85,,69.0,Caleb Patterson,DL,So.,6-2,260.0,"Jamesville, N.Y. / Jamesville-DeWitt",,,,
-86,,15.0,Max Patterson,WR,So.,6-0,180.0,"Arlington, Va. / Yorktown",,,,
-87,,72.0,Hollin Pierce,OL,So.,6-7,330.0,"Trenton, N.J. / Trenton Central",Fork Union Military Academy,,,
-88,,22.0,Tyreem Powell,LB,So.,6-5,235.0,"Vineland, N.J. / Vineland South",,,,
-89,,13.0,Q'yaeir Price,DL,Fr.,6-2,255.0,"Paterson, N.J. / DePaul Catholic",,,,
-90,,51.0,Troy Rainey,DL,So.,6-4,285.0,"Bridgeport, Conn. / Harding",,,,
-91,,18.0,Keenan Reid,DB,Sr.,5-10,180.0,"Somerset, N.J. / Franklin",,,,
-92,,31.0,Michael Robinson II,DB,So.,5-11,190.0,"Montclair, N.J. / Montclair",,,,
-93,,18.0,Rashad Rochelle,WR,Fr.,5-11,170.0,"Springfield, Ill. / Springfield",,,,
-94,,45.0,Ed Rogowski,LS,Sr.,6-1,225.0,"Streetsboro, Ohio / St. Edward",,,,
-95,,17.0,Gavin Rupp,QB,So.,6-3,205.0,"Tampa, Fla. / Berkeley Prep",,,,
-96,,41.0,Ryan Russo,LB,Fr.,6-1,225.0,"Harrisburg, Pa. / Bishop McDevitt",,,,
-97,,5.0,Sean Ryan,WR,Sr.,6-2,200.0,"Brooklyn, N.Y. / Erasmus Hall",,,,
-98,,26.0,Al-Shadee Salaam,RB,So.,5-10,190.0,"East Orange, N.J. / East Orange",,,,
-99,,73.0,Terrence Salami,OL,So.,6-2,290.0,"Willingboro, N.J. / Holy Cross Prep",,,,
-100,,3.0,Evan Simon,QB,So.,6-3,205.0,"Mount Joy, Pa. / Manheim Central",,,,
-101,,81.0,Jordan Smikle,WR,Fr.,6-0,170.0,"Farmingdale, N.Y. / Farmingdale",,,,
-102,,11.0,Cam'Ron Stewart,DL,So.,6-5,255.0,"Shillington, Pa. / Governor Mifflin",,,,
-103,,61.0,Emir Stinette,OL,Fr.,6-5,365.0,"Philadelphia, Pa. / Imhotep Charter",,,,
-104,,70.0,Reggie Sutton,OL,Sr.,6-4,310.0,"Baltimore, Md. / Calvert Hall",,,,
-105,,49.0,Zack Taylor,LS,So.,5-11,215.0,"Parsippany, N.J. / Parsippany Hills",,,,
-106,,14.0,Jordan Thompson,DL,So.,6-2,250.0,"Parsippany, N.J. / Parsippany Hills",,,,
-107,,8.0,Mohamed Toure,DL,Jr.,6-2,235.0,"Pleasantville, N.J. / Pleasantville",,,,
-108,,77.0,Willie Tyler III,OL,Sr.,6-6,320.0,"Racine, Wis. / Racine Lutheran",Iowa Western CC,,,
-109,,43.0,Andrew Vargas,DB,Fr.,5-9,190.0,"Ridgefield Park, N.J. / Ridgefield Park",,,,
-110,,0.0,Noah Vedral,QB,Sr.,6-1,200.0,"Wahoo, Neb. / Bishop Neumann",,,,
-111,,33.0,Andrew Vince,LB,So.,6-4,230.0,"Schwenksville, Pa. / Souderton",,,,
-112,,82.0,Jordan Walker,TE,Fr.,6-4,230.0,"Rochester, N.Y. / Rush-Henrietta",Milford Academy,,,
-113,,3.0,Moses Walker,LB,Fr.,6-2,220.0,"Staten Island, N.Y. / Erasmus Hall",,,,
-114,,86.0,Evan Ward,TE,So.,6-4,235.0,"Rutherford, N.J. / Rutherford",,,,
-115,,27.0,Timmy Ward,DB,So.,6-0,190.0,"Canton, Pa. / Canton",,,,
-116,,14.0,Isaiah Washington,WR,Jr.,6-3,205.0,"Jacksonville, Fla. / Trinity Christian Academy",,,,
-117,,63.0,Taj White,OL,Fr.,6-5,300.0,"Jersey City, N.J. / Hudson Catholic HS",,,,
-118,,36.0,Dominick Williams,LB,Sr.,6-1,215.0,"Rahway, N.J. / Rahway",,,,
-119,,15.0,Zilan Williams,DB,Fr.,6-1,180.0,"Martinsburg, W.Va. / DeMatha Catholic HS",,,,
-120,,2.0,Gavin Wimsatt,QB,So.,6-3,220.0,"Owensboro, Ky. / Owensboro",,,,
-121,,34.0,Micah Wing,LB,Fr.,6-2,205.0,"Wilmington, Del. / Salesianum",,,,
-122,,8.0,Jamier Wright-Collins,LB,So.,6-1,215.0,"Paterson, N.J. / John F. Kennedy",,,,
-123,,4.0,Aaron Young,RB,Jr.,5-10,200.0,"Coatesville, Pa. / Coatesville",,,,
-124,,2.0,Avery Young,DB,Sr.,6-1,205.0,"Coatesville, Pa. / Coatesville",,,,
-125,,12.0,Joshua Youngblood,WR,Jr.,5-10,185.0,"Tampa, Fla. / Berkeley Prep",,,,
-126,,59.0,Gus Zilinskas,OL,So.,6-2,295.0,"Englewood, Colo. / Cherry Creek",,,,
-0,,,,,,,,,,,Greg Schiano,Head Coach
-1,,,,,,,,,,,Kirk Ciarrocca,Offensive Coordinator/Quarterbacks
-2,,,,,,,,,,,Joe Harasymiak,Defensive Coordinator
-3,,,,,,,,,,,Mark Orphey,Cornerbacks
-4,,,,,,,,,,,Corey Hetherman,Linebackers
-5,,,,,,,,,,,Drew Lascari,Safeties
-6,,,,,,,,,,,Marquise Watson,Defensive Line
-7,,,,,,,,,,,Andrew Aurich,Tight Ends
-8,,,,,,,,,,,Dave Brock,Wide Receivers
-9,,,,,,,,,,,Damiere Shaw,Running Backs
-10,,,,,,,,,,,Pat Flaherty,Offensive Line
-11,,,,,,,,,,,Jay Butler,Director of Sports Performance
-12,,,,,,,,,,,Joe Susan,Special Assistant to the Head Coach
-13,,,,,,,,,,,Bob Fraser,Senior Advisor
-14,,,,,,,,,,,Ryan Pisarri,Sport Administrator
-15,,,,,,,,,,,Matthew Colagiovanni,Sport Administrator
-0,,,,,,,,,,,Chyron Brown-Wallace,Graduate Assistant Defense
-1,,,,,,,,,,,Joe Schiano,Graduate Assistant Defense
-2,,,,,,,,,,,Scott Vallone,Assistant Offensive Line
-3,,,,,,,,,,,Austin Triglia,Defensive Assistant
-4,,,,,,,,,,,Matt Hewitt,Defensive Assistant
-5,,,,,,,,,,,Jordan Huxtable,Defensive Assistant
-6,,,,,,,,,,,Charlie Noonan,Assistant Linebackers
-7,,,,,,,,,,,Eddie Allen,Special Teams Assistant
-8,,,,,,,,,,,Keith Bruno,Special Teams Assistant
-9,,,,,,,,,,,Damaso Muñoz,Special Teams Assistant
-10,,,,,,,,,,,William Gilkison,Associate Athletic Director/Football
-11,,,,,,,,,,,Jeff Jones,Director of Player Development
-12,,,,,,,,,,,Eric Josephs,Director of Player Personnel
-13,,,,,,,,,,,Kevin MacConnell,Chief of Staff
-14,,,,,,,,,,,Tim Machan,Director of Integrated High Performance
-15,,,,,,,,,,,David McCune,Director of Football Athletic Training
-16,,,,,,,,,,,Anthony Misuraco,Head Football Athletic Trainer
-17,,,,,,,,,,,Matt Walp,Director of Player Engagement
-18,,,,,,,,,,,Jordan Wolkstein,Director of Communications and Branding
-19,,,,,,,,,,,Chas Dodd,Assistant Strength and Conditioning
-20,,,,,,,,,,,Mike Tufo,Assistant Strength and Conditioning
-21,,,,,,,,,,,Jamaal Westerman,Assistant Strength and Conditioning
-22,,,,,,,,,,,PJ Barr,Player Development Assistant
-23,,,,,,,,,,,Steven Best,Director of Physical Therapy - Football
-24,,,,,,,,,,,Darrick Brown,Assistant Director of Academic Services
-25,,,,,,,,,,,Jan Bruins,Assistant Athletic Trainer - Football
-26,,,,,,,,,,,Milton Cordero,Player Development Assistant
-27,,,,,,,,,,,Rob Deese,Director of Football Nutrition
-28,,,,,,,,,,,Jasmine Edwards,Academic Advisor
-29,,,,,,,,,,,Jeremy Engel,Assistant Director of Video Technology
-30,,,,,,,,,,,Cinjun Erskine,Player Development Assistant
-31,,,,,,,,,,,Tim Falato,Assistant Director of Football Operations
-32,,,,,,,,,,,Colin Fox,Director of Creative
-33,,,,,,,,,,,Brandon Furrer,Assistant Director of Player Development
-34,,,,,,,,,,,Tyler Gjerazi,Graduate Assistant - Equipment
-35,,,,,,,,,,,Shamir Hill,Assistant Director of Recruiting
-36,,,,,,,,,,,Robert Horowitz,Football Technology Assistant
-37,,,,,,,,,,,Nick Jenkins,Assistant Equipment Manager
-38,,,,,,,,,,,Nasir Jones,Player Development Assistant
-39,,,,,,,,,,,Ramel Meekins,Academic Advisor
-40,,,,,,,,,,,PJ Mullen,Assistant Athletic Director of Marketing and Game Presentation
-41,,,,,,,,,,,Hannah O'Brien,Dietitian Assistant
-42,,,,,,,,,,,Adam Obirek,Director of Creative Video
-43,,,,,,,,,,,Andy Parham,Director of Football Technology
-44,,,,,,,,,,,Dominic Pedone,Sports Nutrition Analyst
-45,,,,,,,,,,,Cassie Petty,Director of Recruiting Operations
-46,,,,,,,,,,,Jean Riccio,Assistant to the Head Coach
-47,,,,,,,,,,,Sam Rotondi,Administrative Assistant
-48,,,,,,,,,,,Ramon Ruiz,Player Personnel Assistant
-49,,,,,,,,,,,Mike Shapley,Director of Equipment
-50,,,,,,,,,,,Tyrell Smith,Player Development Assistant
-51,,,,,,,,,,,Dan Spittal,Player Personnel Analyst
-52,,,,,,,,,,,Daniel Tocci,Senior Athletic Trainer - Football
-53,,,,,,,,,,,Dillon Tolman,Operations Assistant
-54,,,,,,,,,,,Rob Van Duzer,Assistant Athletic Trainer - Football
-55,,,,,,,,,,,Scott Walker,Executive Director - Academic Services
-56,,,,,,,,,,,Kayon Whitaker,Player Development Assistant
-57,,,,,,,,,,,Christian Willbrant,Creative Media Coordinator
+,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown / High School,Current School Name,Previous School,Image,Name,Title
+0,,5.0,Kessawn Abraham,DB,Sr.,5-10,190.0,"Brooklyn, N.Y. / Erasmus Hall",Rutgers,,,,
+1,,92.0,Mayan Ahanotu,DL,Sr.,6-4,290.0,"Tampa, Fla. / Berkeley Prep",Rutgers,,,,
+2,,42.0,DJ Allen,DL,So.,6-7,250.0,"Leo, Ind. / Leo HS",Rutgers,,,,
+3,,75.0,Jacob Allen,OL,So.,6-6,290.0,"Spotswood, N.J. / The Hun School",Rutgers,,,,
+4,,25.0,Charles Amankwaa,DB,Sr.,5-11,190.0,"Hillsborough, N.J. / Hillsborough",Rutgers,Monroe College,,,
+5,,24.0,Thomas Amankwaa,DB,So.,6-0,205.0,"Hillsborough, N.J. / Hillsborough",Rutgers,,,,
+6,,55.0,Zaire Angoy,DL,Jr.,6-3,315.0,"Irvington, N.J. / Irvington",Rutgers,,,,
+7,,95.0,Flynn Appleby,P,So.,6-2,205.0,"Cohuna, Victoria, Australia / Ballarat Clarendon College",Rutgers,,,,
+8,,69.0,Kwabena Asamoah,OL,So.,6-2,320.0,"Pickerington, Ohio / Pickerington Central",Rutgers,,,,
+9,,50.0,Jordan Augustin,DL,So.,6-3,270.0,"Newark, N.J. / Weequahic",Rutgers,,,,
+10,,23.0,Wesley Bailey,DL,Jr.,6-5,250.0,"Ottawa, Ontario, Canada / Clearwater Academy International [Fla.]",Rutgers,,,,
+11,,32.0,Charlie Barth,RB,So.,5-11,215.0,"New Providence, N.J. / New Providence",Rutgers,,,,
+12,,20.0,Ja'shon Benjamin,RB,Fr.,5-9,195.0,"Pahokee, Fla. / Pahokee",Rutgers,,,,
+13,,11.0,Logan Blake,TE,Fr.,6-6,230.0,"Frenchtown, N.J. / The Hun School",Rutgers,,,,
+14,,84.0,Gunnison Bloodgood,WR,Jr.,5-10,170.0,"Los Angeles, Calif. / St. John Vianney (N.J.)",Rutgers,Santa Monica CC,,,
+15,,19.0,Todd Bowles Jr.,DB,Jr.,5-11,185.0,"Tampa, Fla. / Jesuit",Rutgers,,,,
+16,,7.0,Dylan Braithwaite,WR,Fr.,5-10,175.0,"Valley Stream, N.Y. / Holy Trinity",Rutgers,,,,
+17,,28.0,Naseim Brantley,WR,Sr.,6-2,205.0,"Farmingdale, N.J. / Howell",Rutgers,,,,
+18,,57.0,Ireland Brown,OL,Sr.,6-3,295.0,"Jamaica, N.Y. / Pope John XXIII",Rutgers,,,,
+19,,27.0,Samuel Brown V,RB,So.,6-1,220.0,"Philadelphia, Pa. / La Salle College HS",Rutgers,,,,
+20,,39.0,Amir Byrd,DB,Sr.,5-7,165.0,"Mount Laurel, N.J. / Lenape",Rutgers,,,,
+21,,76.0,Dantae Chin,OL,So.,6-4,310.0,"Weston, Fla. / Cypress Bay HS",Rutgers,,,,
+22,,53.0,Mike Ciaffoni,OL,Sr.,6-3,300.0,"Sudbury, Mass. / Lincoln-Sudbury",Rutgers,,,,
+23,,54.0,Nick Ciaffoni,OL,So.,6-2,270.0,"Sudbury, Mass. / Buckingham Browne & Nichols",Rutgers,,,,
+24,,56.0,Sean Cooper,DL,Jr.,6-5,245.0,"Stanhope, N.J. / Lenape Valley",Rutgers,,,,
+25,,1.0,Carnell Davis,WR,Jr.,6-1,185.0,"Galloway, N.J. / Eau Gallie [Fla.]",Rutgers,,,,
+26,,66.0,Joe De Croce,OL,So.,6-6,300.0,"Haworth, N.J. / Northern Valley Regional HS",Rutgers,,,,
+27,,33.0,Donovan Delaney,RB,So.,5-10,205.0,"Middletown, Del. / St. Georges Tech",Rutgers,Milford Academy,,,
+28,,57.0,Stanley Dennis II,DL,Jr.,5-11,285.0,"Jersey City, N.J. / St. Peter's Prep",Rutgers,The Taft School,,,
+29,,10.0,Flip Dixon,DB,Jr.,6-2,210.0,"Statesboro, Ga. / Southeast Bulloch",Rutgers,,,,
+30,,28.0,Dariel Djabome,LB,So.,6-2,230.0,"Longueuil, Québec, Canada / Canada Prep Academy",Rutgers,,,,
+31,,6.0,Christian Dremel,WR,Sr.,5-9,185.0,"Caldwell, N.J. / Don Bosco Prep",Rutgers,,,,
+32,,51.0,Curtis Dunlap Jr.,OL,Sr.,6-5,330.0,"Jacksonville, Fla. / IMG Academy",Rutgers,,,,
+33,,46.0,Sammy El Hadidi,LS,So.,5-11,205.0,"Bridgewater, N.J. / Bridgewater-Raritan",Rutgers,,,,
+34,,49.0,Jake Eldridge,LS,Fr.,6-1,225.0,"Colleyville, Texas / IMG Academy [Fla.]",Rutgers,,,,
+35,,65.0,Bryan Felter,OL,Jr.,6-3,300.0,"Westfield, N.J. / Bergen Catholic",Rutgers,,,,
+36,,12.0,Kenny Fletcher,DL,So.,6-3,220.0,"Delran, N.J. / Delran",Rutgers,,,,
+37,,27.0,Davoun Fuse,LB,Fr.,6-4,210.0,"Washington, Pa. / Washington",Rutgers,,,,
+38,,30.0,Sam Gadie,LB,So.,6-3,210.0,"Trenton, N.J. / Trenton Central",Rutgers,,,,
+39,,60.0,Moses Gbagbe-Sowah,OL,Jr.,6-1,300.0,"Newark, N.J. / West Side",Rutgers,,,,
+40,,96.0,Keshon Griffin,DL,Jr.,6-4,295.0,"Sicklerville, N.J. / St. Joseph Academy",Rutgers,,,,
+41,,48.0,Kyonte Hamilton,DL,Jr.,6-4,290.0,"District Heights, Md. / Georgetown Prep",Rutgers,,,,
+42,,88.0,Mike Higgins,TE,So.,6-5,240.0,"Ho-Ho-Kus, N.J. / Blair Academy",Rutgers,,,,
+43,,47.0,Timmy Hinspeter,LB,So.,6-0,225.0,"Ramsey, N.J. / Don Bosco Prep",Rutgers,,,,
+44,,95.0,Henry Hughes Jr.,DL,Jr.,6-5,280.0,"Tampa, Fla. / Tampa Bay Tech",Rutgers,,,,
+45,,4.0,Desmond Igbinosun,DB,Jr.,6-3,210.0,"Union, N.J. / Union",Rutgers,,,,
+46,,17.0,Deion Jennings,LB,Sr.,6-1,230.0,"Sicklerville, N.J. / Timber Creek",Rutgers,,,,
+47,,40.0,Sebastian Jusma,DB,So.,6-1,190.0,"Teaneck, N.J. / Teaneck",Rutgers,,,,
+48,,41.0,Jordan Kinsler,RB,Jr.,5-10,185.0,"Franklin Park, N.J. / St. Joseph [Metuchen]",Rutgers,,,,
+49,,83.0,Bryce Kissi,WR,So.,5-11,175.0,"Worcester, Mass. / Abby Kelley Foster",Rutgers,,,,
+50,,90.0,Rene Konga,DL,Jr.,6-4,290.0,"Ottawa, Ontario, Canada / Colonel By Secondary School",Rutgers,,,,
+51,,89.0,Victor Konopka,TE,Jr.,6-7,250.0,"Kinnelon, N.J. / Blair Academy/Don Bosco Prep",Rutgers,,,,
+52,,21.0,Johnny Langan,TE,Sr.,6-3,240.0,"Wayne, N.J. / Bergen Catholic",Rutgers,,,,
+53,,18.0,Fitzroy Ledgister,WR,So.,6-1,185.0,"Jersey City, N.J. / St. Peter's Prep",Rutgers,,,,
+54,,71.0,Aaron Lewis,DL,Jr.,6-5,250.0,"Williamstown, N.J. / Williamstown",Rutgers,,,,
+55,,46.0,Kareem Lewis,DB,So.,5-11,190.0,"Philadelphia, Pa. / Roman Catholic",Rutgers,,,,
+56,,3.0,Chris Long,WR,Jr.,6-0,175.0,"Willingboro, N.J. / Willingboro",Rutgers,,,,
+57,,7.0,Robert Longerbeam,DB,Jr.,5-11,170.0,"Alexandria, Va. / T.C. Williams",Rutgers,,,,
+58,,6.0,Shaquan Loyal,DB,Jr.,6-0,200.0,"Newark, N.J. / West Side",Rutgers,,,,
+59,,37.0,Joe Lusardi,DB,Jr.,5-11,190.0,"Summit, N.J. / Summit",Rutgers,,,,
+60,,20.0,Elijuwan Mack,DB,Jr.,5-11,185.0,"Newark, N.J. / St. Joseph Regional [Montvale]",Rutgers,,,,
+61,,3.0,Bo Mascoe,DB,Fr.,5-11,185.0,"Kissimmee, Fla. / Osceola",Rutgers,,,,
+62,,93.0,Jude McAtamney,PK,Sr.,6-2,200.0,"Derry, Ireland / St. Patrick's College Maghera",Rutgers,,,,
+63,,16.0,Max Melton,DB,Jr.,6-0,190.0,"Mays Landing, N.J. / Cedar Creek",Rutgers,,,,
+64,,55.0,Kamar Missouri,OL,Jr.,6-5,305.0,"Baltimore, Md. / Mergenthaler Vo-Tech",Rutgers,,,,
+65,,5.0,Kyle Monangai,RB,Jr.,5-9,210.0,"Roseland, N.J. / Don Bosco Prep",Rutgers,,,,
+66,,64.0,Nelson Monegro,OL,So.,6-7,305.0,"Union City, N.J. / Union City",Rutgers,,,,
+67,,13.0,Nasir Montgomery,WR,Jr.,6-1,190.0,"East Orange, N.J. / East Orange",Rutgers,,,,
+68,,56.0,Tyler Needham,OL,Jr.,6-4,300.0,"Newton, Pa. / William Penn Charter",Rutgers,,,,
+69,,99.0,Michael O’Connor,LS,Jr.,6-1,210.0,"Middletown, N.J. / Red Bank Catholic",Rutgers,,,,
+70,,16.0,Jesse Ofurie,WR,Fr.,6-2,205.0,"Salem, Mass. / St. John's Prep",Rutgers,,,,
+71,,78.0,Nick Oliveira,OL,Fr.,6-5,295.0,"Mullica Hill, N.J. / Clearview",Rutgers,,,,
+72,,22.0,Raeden Oliver,QB,So.,6-2,195.0,"Montclair, N.J. / East Orange Campus",Rutgers,,,,
+73,,35.0,David Onuoha,LB,So.,6-1,235.0,"Aberdeen, N.J. / Matawan Regional",Rutgers,,,,
+74,,44.0,Jai Patel,PK,So.,5-9,175.0,"Monmouth Junction, N.J. / South Brunswick HS",Rutgers,,,,
+75,,69.0,Caleb Patterson,DL,Jr.,6-2,270.0,"Jamesville, N.Y. / Jamesville-DeWitt",Rutgers,,,,
+76,,0.0,Max Patterson,WR,Jr.,6-0,185.0,"Arlington, Va. / Yorktown",Rutgers,,,,
+77,,72.0,Hollin Pierce,OL,Jr.,6-8,340.0,"Trenton, N.J. / Trenton Central",Rutgers,Fork Union Military Academy,,,
+78,,22.0,Tyreem Powell,LB,Jr.,6-5,240.0,"Vineland, N.J. / Vineland South",Rutgers,,,,
+79,,53.0,Q'yaeir Price,DL,So.,6-2,255.0,"Paterson, N.J. / DePaul Catholic",Rutgers,,,,
+80,,51.0,Troy Rainey,DL,Jr.,6-4,295.0,"Bridgeport, Conn. / Harding",Rutgers,,,,
+81,,87.0,Liam Rempel,DL,Jr.,6-5,225.0,"Monmouth Beach, N.J. / The Hun School",Rutgers,,,,
+82,,33.0,Lance Rice,LB,Sr.,5-11,220.0,"Plainfield, N.J. / Edison",Rutgers,,,,
+83,,31.0,Michael Robinson II,DB,Jr.,5-11,195.0,"Montclair, N.J. / Montclair",Rutgers,,,,
+84,,8.0,Rashad Rochelle,WR,So.,5-11,175.0,"Springfield, Ill. / Springfield",Rutgers,,,,
+85,,0.0,Eric Rogers,DB,Jr.,6-2,185.0,"Burlington, N.J. / Burlington Township",Rutgers,,,,
+86,,17.0,Gavin Rupp,QB,Jr.,6-3,205.0,"Tampa, Fla. / Berkeley Prep",Rutgers,,,,
+87,,41.0,Ryan Russo,LB,So.,6-1,225.0,"Harrisburg, Pa. / Bishop McDevitt",Rutgers,,,,
+88,,26.0,Al-Shadee Salaam,RB,Jr.,5-10,185.0,"East Orange, N.J. / East Orange",Rutgers,,,,
+89,,73.0,Terrence Salami,OL,Jr.,6-2,295.0,"Willingboro, N.J. / Holy Cross Prep",Rutgers,,,,
+90,,15.0,Ajani Sheppard,QB,Fr.,6-3,230.0,"Bronx, N.Y. / Iona Prep",Rutgers,,,,
+91,,10.0,Evan Simon,QB,Jr.,6-3,200.0,"Mount Joy, Pa. / Manheim Central",Rutgers,,,,
+92,,80.0,Jordan Smikle,WR,So.,6-0,175.0,"Farmingdale, N.Y. / Farmingdale",Rutgers,,,,
+93,,11.0,Cam'Ron Stewart,DL,Jr.,6-5,250.0,"Shillington, Pa. / Governor Mifflin",Rutgers,,,,
+94,,61.0,Emir Stinette,OL,So.,6-5,365.0,"Philadelphia, Pa. / Imhotep Charter",Rutgers,,,,
+95,,71.0,John Stone,OL,Fr.,6-3,280.0,"Sewell, N.J. / Washington Township",Rutgers,,,,
+96,,29.0,Ian Strong,DB,Fr.,6-4,210.0,"Coram, N.Y. / St. Anthony's",Rutgers,,,,
+97,,70.0,Reggie Sutton,OL,Sr.,6-4,295.0,"Baltimore, Md. / Calvert Hall",Rutgers,,,,
+98,,14.0,Jordan Thompson,DL,Jr.,6-2,260.0,"Parsippany, N.J. / Parsippany Hills",Rutgers,,,,
+99,,1.0,Mohamed Toure,LB,Sr.,6-2,230.0,"Pleasantville, N.J. / Pleasantville",Rutgers,,,,
+100,,43.0,Andrew Vargas,DB,So.,5-9,185.0,"Ridgefield Park, N.J. / Ridgefield Park",Rutgers,,,,
+101,,82.0,Jordan Walker,TE,So.,6-4,240.0,"Rochester, N.Y. / Rush-Henrietta",Rutgers,Milford Academy,,,
+102,,2.0,Moses Walker,LB,So.,6-2,225.0,"Staten Island, N.Y. / Erasmus Hall",Rutgers,,,,
+103,,86.0,Evan Ward,TE,Jr.,6-4,245.0,"Rutherford, N.J. / Rutherford",Rutgers,,,,
+104,,26.0,Timmy Ward,DB,Jr.,6-0,185.0,"Canton, Pa. / Canton",Rutgers,,,,
+105,,14.0,Isaiah Washington,WR,Sr.,6-3,205.0,"Jacksonville, Fla. / Trinity Christian Academy",Rutgers,,,,
+106,,63.0,Taj White,OL,So.,6-5,295.0,"Jersey City, N.J. / Hudson Catholic HS",Rutgers,,,,
+107,,36.0,Dominick Williams,LB,Sr.,6-1,215.0,"Rahway, N.J. / Rahway",Rutgers,,,,
+108,,15.0,Zilan Williams,DB,So.,6-1,190.0,"Martinsburg, W.Va. / DeMatha Catholic HS",Rutgers,,,,
+109,,2.0,Gavin Wimsatt,QB,Jr.,6-3,225.0,"Owensboro, Ky. / Owensboro",Rutgers,,,,
+110,,34.0,Micah Wing,LB,So.,6-2,205.0,"Wilmington, Del. / Salesianum",Rutgers,,,,
+111,,13.0,Abram Wright,LB,Fr.,6-1,225.0,"Jacksonville, Fla. / Fleming Island",Rutgers,,,,
+112,,8.0,Jamier Wright-Collins,LB,Jr.,6-1,225.0,"Paterson, N.J. / John F. Kennedy",Rutgers,,,,
+113,,4.0,Aaron Young,RB,Sr.,5-10,205.0,"Coatesville, Pa. / Coatesville",Rutgers,,,,
+114,,59.0,Gus Zilinskas,OL,Jr.,6-2,300.0,"Englewood, Colo. / Cherry Creek",Rutgers,,,,
+0,,,,,,,,,Rutgers,,,Greg Schiano,Head Coach
+1,,,,,,,,,Rutgers,,,Kirk Ciarrocca,Offensive Coordinator/Quarterbacks
+2,,,,,,,,,Rutgers,,,Joe Harasymiak,Defensive Coordinator
+3,,,,,,,,,Rutgers,,,Mark Orphey,Cornerbacks
+4,,,,,,,,,Rutgers,,,Corey Hetherman,Linebackers
+5,,,,,,,,,Rutgers,,,Drew Lascari,Safeties
+6,,,,,,,,,Rutgers,,,Marquise Watson,Defensive Line
+7,,,,,,,,,Rutgers,,,Andrew Aurich,Tight Ends
+8,,,,,,,,,Rutgers,,,Dave Brock,Wide Receivers
+9,,,,,,,,,Rutgers,,,Damiere Shaw,Running Backs
+10,,,,,,,,,Rutgers,,,Pat Flaherty,Offensive Line
+11,,,,,,,,,Rutgers,,,Jay Butler,Director of Sports Performance
+12,,,,,,,,,Rutgers,,,Joe Susan,Special Assistant to the Head Coach
+13,,,,,,,,,Rutgers,,,Bob Fraser,Senior Advisor
+14,,,,,,,,,Rutgers,,,Ryan Pisarri,Sport Administrator
+15,,,,,,,,,Rutgers,,,Matthew Colagiovanni,Sport Administrator
+0,,,,,,,,,Rutgers,,,Joe Schiano,Graduate Assistant Defense
+1,,,,,,,,,Rutgers,,,Scott Vallone,Assistant Offensive Line
+2,,,,,,,,,Rutgers,,,Austin Triglia,Defensive Assistant
+3,,,,,,,,,Rutgers,,,Matt Hewitt,Defensive Assistant
+4,,,,,,,,,Rutgers,,,Jordan Huxtable,Defensive Assistant
+5,,,,,,,,,Rutgers,,,Charlie Noonan,Assistant Linebackers
+6,,,,,,,,,Rutgers,,,Eddie Allen,Special Teams Assistant
+7,,,,,,,,,Rutgers,,,Damaso Muñoz,Special Teams Assistant
+8,,,,,,,,,Rutgers,,,William Gilkison,Associate Athletic Director/Football
+9,,,,,,,,,Rutgers,,,Jeff Jones,Director of Player Development
+10,,,,,,,,,Rutgers,,,Eric Josephs,Director of Player Personnel
+11,,,,,,,,,Rutgers,,,Kevin MacConnell,Chief of Staff
+12,,,,,,,,,Rutgers,,,Tim Machan,Director of Integrated High Performance
+13,,,,,,,,,Rutgers,,,David McCune,Director of Football Athletic Training
+14,,,,,,,,,Rutgers,,,Anthony Misuraco,Head Football Athletic Trainer
+15,,,,,,,,,Rutgers,,,Matt Walp,Director of Player Engagement
+16,,,,,,,,,Rutgers,,,Jordan Wolkstein,Director of Communications and Branding
+17,,,,,,,,,Rutgers,,,Chas Dodd,Assistant Strength and Conditioning
+18,,,,,,,,,Rutgers,,,Mike Tufo,Assistant Strength and Conditioning
+19,,,,,,,,,Rutgers,,,Jamaal Westerman,Assistant Strength and Conditioning
+20,,,,,,,,,Rutgers,,,PJ Barr,Player Development Assistant
+21,,,,,,,,,Rutgers,,,Steven Best,Director of Physical Therapy - Football
+22,,,,,,,,,Rutgers,,,Darrick Brown,Assistant Director of Academic Services
+23,,,,,,,,,Rutgers,,,Jan Bruins,Assistant Athletic Trainer - Football
+24,,,,,,,,,Rutgers,,,Milton Cordero,Player Development Assistant
+25,,,,,,,,,Rutgers,,,Jasmine Edwards,Academic Advisor
+26,,,,,,,,,Rutgers,,,Jeremy Engel,Assistant Director of Video Technology
+27,,,,,,,,,Rutgers,,,Cinjun Erskine,Player Development Assistant
+28,,,,,,,,,Rutgers,,,Tim Falato,Assistant Director of Football Operations
+29,,,,,,,,,Rutgers,,,Colin Fox,Director of Creative
+30,,,,,,,,,Rutgers,,,Brandon Furrer,Assistant Director of Player Development
+31,,,,,,,,,Rutgers,,,Shamir Hill,Assistant Director of Recruiting
+32,,,,,,,,,Rutgers,,,Robert Horowitz,Football Technology Assistant
+33,,,,,,,,,Rutgers,,,Nick Jenkins,Assistant Equipment Manager
+34,,,,,,,,,Rutgers,,,Nasir Jones,Player Development Assistant
+35,,,,,,,,,Rutgers,,,Ramel Meekins,Academic Advisor
+36,,,,,,,,,Rutgers,,,PJ Mullen,Assistant Athletic Director of Marketing and Game Presentation
+37,,,,,,,,,Rutgers,,,Hannah O'Brien,Dietitian Assistant
+38,,,,,,,,,Rutgers,,,Adam Obirek,Director of Creative Video
+39,,,,,,,,,Rutgers,,,Dominic Pedone,Sports Nutrition Analyst
+40,,,,,,,,,Rutgers,,,Cassie Petty,Director of Recruiting Operations
+41,,,,,,,,,Rutgers,,,Jean Riccio,Assistant to the Head Coach
+42,,,,,,,,,Rutgers,,,Sam Rotondi,Administrative Assistant
+43,,,,,,,,,Rutgers,,,Ramon Ruiz,Player Personnel Assistant
+44,,,,,,,,,Rutgers,,,Mike Shapley,Director of Equipment
+45,,,,,,,,,Rutgers,,,Dan Spittal,Player Personnel Analyst
+46,,,,,,,,,Rutgers,,,Daniel Tocci,Senior Athletic Trainer - Football
+47,,,,,,,,,Rutgers,,,Dillon Tolman,Operations Assistant
+48,,,,,,,,,Rutgers,,,Rob Van Duzer,Assistant Athletic Trainer - Football
+49,,,,,,,,,Rutgers,,,Scott Walker,Executive Director - Academic Services
+50,,,,,,,,,Rutgers,,,Kayon Whitaker,Player Development Assistant
+51,,,,,,,,,Rutgers,,,Christian Willbrant,Creative Media Coordinator

@@ -1,155 +1,156 @@
-,Statistic,#,Name,Pos.,Ht.,Wt.,Yr.,Hometown,High School/Last School,Image,Title
-0,,0.0,Braelon Allen,RB,6-2,240.0,Jr.,"Fond du Lac, Wis.",Fond du Lac,,
-1,,1.0,Chez Mellusi,RB,5-11,208.0,Gr.,"Naples, Fla.",Naples,,
-2,,2.0,Ricardo Hallman,CB,5-10,180.0,R-So.,"Miami, Fla.",University School,,
-3,,3.0,T.J. Bollers,OLB,6-2,268.0,R-So.,"Tiffin, Iowa",Clear Creek Amana,,
-4,,3.0,Keontez Lewis,WR,6-2,187.0,Jr.,"East St. Louis, Ill.",East St. Louis,,
-5,,4.0,A'Khoury Lyde,CB,5-9,190.0,R-Fr.,"Paterson, N.J.",DePaul Catholic,,
-6,,4.0,C.J. Williams,WR,6-1,197.0,So.,"Mission Viejo, Calif.",Mater Dei,,
-7,,5.0,Quincy Burroughs,WR,6-3,203.0,R-Fr.,"Jacksonville, Fla.",Raines,,
-8,,7.0,Nick Evers,QB,6-3,190.0,R-Fr.,"Flower Mound, Texas",Flower Mound,,
-9,,7.0,Spencer Lytle,ILB,6-2,228.0,R-Sr.,"Redondo Beach, Calif.",St. John Bosco,,
-10,,8.0,Avyonne Jones,CB,5-11,193.0,R-Fr.,"Southlake, Texas",Carroll,,
-11,,8.0,Tanner Mordecai,QB,6-2,215.0,R-Sr.,"Waco, Texas",Midway,,
-12,,9.0,Austin Brown,S,6-1,207.0,So.,"Johnston City, Ill.",Johnston City,,
-13,,9.0,Bryson Green,WR,6-0,205.0,R-Jr.,"Allen, Texas",Allen,,
-14,,11.0,Skyler Bell,WR,6-0,195.0,R-So.,"Bronx, N.Y.",The Taft School,,
-15,,11.0,Alexander Smith,CB,5-11,190.0,Gr.,"Culver City, Calif.",Culver City,,
-16,,12.0,Marshall Howe,QB,6-1,193.0,R-Fr.,"Pacific Palisades, Calif.",Avon Old Farms (Conn.),,
-17,,12.0,Max Lofy,CB,5-10,190.0,R-Jr.,"Colorado Springs, Colo.",Pine Creek,,
-18,,13.0,Chimere Dike,WR,6-1,198.0,Sr.,"Waukesha, Wis.",North,,
-19,,13.0,Kamo'i Latu,S,6-0,196.0,Sr.,"Honolulu, Hawaii",Saint Louis School,,
-20,,14.0,Markus Allen,WR,6-1,208.0,R-So.,"Dayton, Ohio",Northmont,,
-21,,14.0,Preston Zachman,S,6-1,209.0,R-So.,"Elysburg, Pa.",Southern Columbia,,
-22,,15.0,Tommy McIntosh,WR,6-5,200.0,R-Fr.,"DeWitt, Mich.",DeWitt,,
-23,,16.0,Myles Burkett,QB,6-0,202.0,R-Fr.,"Franklin, Wis.",Franklin,,
-24,,16.0,Cade Yacamelli,S,6-0,210.0,R-Fr.,"Trafford, Pa.",Trafford-Penn,,
-25,,17.0,Cole LaCrue,QB,6-1,200.0,Fr.,"Broomfield, Colo.",Broomfield,,
-26,,17.0,Darryl Peterson,OLB,6-1,247.0,R-So.,"Akron, Ohio",Archbishop Hoban,,
-27,,18.0,Owen Arnett,S,5-11,210.0,R-So.,"Delafield, Wis.",Arrowhead,,
-28,,18.0,Braedyn Locke,QB,6-0,192.0,R-Fr.,"Rockwall, Texas",Rockwall,,
-29,,19.0,Will Pauling,WR,5-10,186.0,R-So.,"Chicago, Ill.",Homewood-Flossmoor,,
-30,,19.0,Darian Varner,DE,6-3,278.0,R-Jr.,"Norfolk, Va.",Maury,,
-31,,20.0,Braedyn Moore,S,6-2,197.0,Fr.,"Hamilton, Ohio",Stephen T. Badin,,
-32,,21.0,Jonas Duclona,CB,5-10,184.0,Fr.,"Naples, Fla.",Naples,,
-33,,21.0,Cam Fane,WR,6-1,180.0,R-Fr.,"Arlington, Texas",Madison Edgewood (Wis.),,
-34,,22.0,Jace Arnold,CB,5-9,180.0,Fr.,"Marietta, Ga.",Marietta,,
-35,,22.0,Jack Van Dyke,K,6-5,218.0,Sr.,"Neenah, Wis.",Neenah,,
-36,,23.0,Jason Maitre,CB,5-10,188.0,R-Sr.,"Orlando, Fla.",Everett,,
-37,,24.0,Cole Toennies,WR,6-2,194.0,R-Fr.,"Middleton, Wis.",Middleton,,
-38,,24.0,Hunter Wohler,S,6-2,211.0,Jr.,"Muskego, Wis.",Muskego,,
-39,,26.0,Travian Blaylock,S,5-11,208.0,Gr.,"Humble, Texas",Atascocita,,
-40,,26.0,Grady O'Neill,WR,5-11,160.0,R-Fr.,"Prior Lake, Minn.",St. Thomas Academy,,
-41,,27.0,Haakon Anderson,WR,6-1,213.0,R-Jr.,"Verona, Wis.",Verona,,
-42,,27.0,Tyler Jansey,ILB,6-0,227.0,Fr.,"Batavia, Ill.",Batavia,,
-43,,28.0,Gavin Meyers,P,6-1,202.0,R-Jr.,"Oshkosh, Wis.",Lourdes Academy,,
-44,,29.0,Nate Van Zelst,K,5-11,204.0,R-So.,"Glenview, Ill.",Loyola Academy,,
-45,,30.0,Alex Moeller,WR,5-11,175.0,R-So.,"Arlington Heights, Ill.",Prospect,,
-46,,31.0,Amaun Williams,CB,5-10,187.0,R-Jr.,"Milwaukee, Wis.",Riverside,,
-47,,32.0,Julius Davis,RB,5-10,198.0,R-Sr.,"Menomonee Falls, Wis.",Menomonee Falls,,
-48,,32.0,Marty Strey,OLB,6-2,235.0,Gr.,"Sun Prairie, Wis.",Sun Prairie,,
-49,,34.0,Jackson Acker,RB,6-1,240.0,R-So.,"Madison, Wis.",Verona,,
-50,,34.0,Charlie Jarvis,S,6-1,205.0,R-Fr.,"Hartland, Wis.",Catholic Memorial,,
-51,,36.0,Jake Chaney,ILB,5-11,233.0,Jr.,"Cape Coral, Fla.",Lehigh,,
-52,,37.0,Bryce Carey,S,6-1,192.0,R-Jr.,"Middleton, Wis.",Middleton,,
-53,,37.0,Riley Nowakowski,FB,6-1,241.0,R-Jr.,"Milwaukee, Wis.",Marquette University HS,,
-54,,38.0,Lee Hutton,CB,5-10,170.0,R-Fr.,"Minnetonka, Minn.",Hopkins,,
-55,,39.0,Tatum Grass,ILB,6-2,234.0,R-Sr.,"Holmen, Wis.",Holmen,,
-56,,41.0,JT Seagreaves,TE,6-6,224.0,R-Fr.,"Monroe, Wis.",Monroe,,
-57,,43.0,Grover Bortolotti,RB,5-9,193.0,R-So.,"Whitefish Bay, Wis.",Whitefish Bay,,
-58,,43.0,Jackson Trudgeon,S,6-1,202.0,R-Fr.,"Fitchburg, Wis.",Madison Edgewood,,
-59,,44.0,Zach Gloudeman,FB,6-2,226.0,R-Fr.,"Spring Green, Wis.",River Valley,,
-60,,44.0,Jeff Pietrowski Jr.,OLB,6-2,244.0,R-Jr.,"Medina, Ohio",St. Edward,,
-61,,45.0,Garrison Solliday,ILB,5-11,230.0,R-So.,"Eagan, Minn.",St. Thomas Academy,,
-62,,46.0,Deven Magli,S,6-1,198.0,R-Fr.,"DeForest, Wis.",DeForest,,
-63,,47.0,Peter Bowden,LS,6-2,245.0,R-Sr.,"San Diego, Calif.",Francis Parker,,
-64,,48.0,Cole Dakovich,TE,6-5,250.0,R-Jr.,"Waukesha, Wis.",Catholic Memorial,,
-65,,49.0,Cam Large,TE,6-3,242.0,R-Sr.,"Pomfret, Conn.",Noble & Greenough,,
-66,,50.0,Aidan Vaughan,ILB,6-2,220.0,R-Fr.,"Wixom, Mich.",Walled Lake Western,,
-67,,51.0,Bryan Sanborn,ILB,6-1,228.0,R-So.,"Deer Park, Ill.",Lake Zurich,,
-68,,52.0,Kaden Johnson,OLB,6-2,248.0,R-Jr.,"St. Paul, Minn",Minnehaha Academy,,
-69,,53.0,Ross Gengler,OLB,6-2,227.0,R-Jr.,"Delavan, Wis.",Delavan-Darien,,
-70,,54.0,Jordan Turner,ILB,6-1,235.0,R-Jr.,"Farmington, Mich.",Farmington,,
-71,,55.0,Maema Njongmeta,ILB,6-0,240.0,R-Sr.,"Buffalo Grove, Ill.",Adlai E. Stevenson,,
-72,,56.0,Joe Brunner,OL,6-5,315.0,R-Fr.,"Whitefish Bay, Wis.",Whitefish Bay,,
-73,,56.0,Rodas Johnson,DE,6-2,299.0,R-Sr.,"Columbus, Ohio",St. Francis DeSales,,
-74,,57.0,Luna Larson,ILB,6-2,222.0,R-Fr.,"Baraboo, Wis.",Baraboo,,
-75,,57.0,Jake Renfro,OL,6-4,316.0,R-Jr.,"Mokena, Ill.",Providence Catholic,,
-76,,58.0,Gabe Kirschke,DL,6-5,242.0,R-Fr.,"Lone Tree, Colo.",Valor Christian,,
-77,,59.0,Aaron Witt,OLB,6-6,265.0,R-Jr.,"Winona, Minn.",Winona,,
-78,,60.0,Joe Huber,OL,6-5,308.0,R-Jr.,"Dublin, Ohio",Jerome,,
-79,,61.0,Dylan Barrett,OL,6-5,319.0,R-Jr.,"St. Charles, Ill.",East,,
-80,,62.0,Max Rader,OL,6-6,267.0,R-Fr.,"De Pere, Wis.",Notre Dame Academy,,
-81,,63.0,Tanor Bortolini,OL,6-4,310.0,R-Jr.,"Kewaunee, Wis.",Kewaunee,,
-82,,64.0,Duncan McKinley,LS,6-2,230.0,R-Jr.,"Eau Claire, Wis.",Memorial,,
-83,,64.0,Sean Timmis,OL,6-4,310.0,R-So.,"Shorewood, Wis.",Marquette University HS,,
-84,,66.0,Nolan Rucci,OL,6-8,302.0,R-So.,"Lititz, Pa.",Warwick,,
-85,,67.0,JP Benzschawel,OL,6-6,305.0,R-So.,"Grafton, Wis.",Grafton,,
-86,,68.0,Ben Barten,DE,6-5,305.0,R-Jr.,"Stratford, Wis.",Stratford,,
-87,,69.0,Zach Zei,LS,6-2,220.0,R-So.,"Arlington Heights, Ill.",Prospect,,
-88,,70.0,Barrett Nelson,OL,6-6,284.0,R-Fr.,"Stoughton, Wis.",Stoughton,,
-89,,71.0,Riley Mahlman,OL,6-8,318.0,R-So.,"Lakeville, Minn.",South,,
-90,,73.0,Kerry Kodanko,OL,6-2,317.0,Jr.,"Green Bay, Wis.",West DePere,,
-91,,74.0,Michael Furtney,OL,6-5,314.0,Gr.,"Milan, Mich.",Milan,,
-92,,76.0,Tommy Brunner,DE,6-3,245.0,R-Sr.,"Milwaukee, Wis.",Whitefish Bay,,
-93,,76.0,John Clifford,OL,6-5,295.0,R-Fr.,"Watertown, Wis.",Watertown,,
-94,,77.0,Drew Evans,OL,6-4,293.0,R-Fr.,"Fort Atkinson, Wis.",Fort Atkinson,,
-95,,78.0,Trey Wedig,OL,6-7,322.0,R-Jr.,"Oconomowoc, Wis.",Kettle Moraine,,
-96,,79.0,Jack Nelson,OL,6-7,305.0,R-Jr.,"Stoughton, Wis.",Stoughton,,
-97,,81.0,Angel Toombs,TE,6-5,235.0,Fr.,"West Milwaukee, Wis.",Rufus King,,
-98,,82.0,Jack Eschenbach,TE,6-6,240.0,Gr.,"Downers Grove, Ill.",Benet Academy,,
-99,,84.0,Chris Brooks Jr.,WR,6-2,225.0,R-Fr.,"St. Louis, Mo.",St. Louis University School,,
-100,,84.0,Manny Mullens,DE,6-2,274.0,So.,"Columbus, Ohio",Harvest Preparatory,,
-101,,85.0,Clay Cundiff,TE,6-3,240.0,R-Jr.,"Wichita, Kan.",Bishop Carroll,,
-102,,86.0,Vinny Anthony II,WR,6-0,177.0,So.,"Louisville, Ky.",Male,,
-103,,87.0,Hayden Rucci,TE,6-4,253.0,R-Sr.,"Lititz, Pa.",Warwick,,
-104,,89.0,Jack Pugh,TE,6-5,252.0,R-So.,"Columbus, Ohio",Hilliard Bradley,,
-105,,90.0,James Thompson Jr.,DE,6-5,290.0,R-Jr.,"Cincinnati, Ohio",Roger Bacon,,
-106,,90.0,Nathanial Vakos,K,6-1,198.0,Fr.,"Avon, Ohio",Avon,,
-107,,91.0,Vito Calvaruso,K,6-3,204.0,R-Jr.,"Jefferson City, Mo.",Helias Catholic,,
-108,,92.0,Curt Neal,NT,6-0,297.0,R-Fr.,"Cornelius, N.C.",William A. Hough,,
-109,,93.0,Isaac Townsend,DE,6-5,280.0,R-Sr.,"Arvada, Colo.",Ralston Valley,,
-110,,94.0,Gio Paez,DE,6-3,319.0,R-Sr.,"Los Angeles, Calif.",William A. Hough (N.C.),,
-111,,95.0,Jordan Mayer,OLB,6-4,235.0,Fr.,"Jefferson Hills, Pa.",Thomas Jefferson,,
-112,,96.0,Cade McDonald,DE,6-6,285.0,R-Jr.,"Houlton, Wis.",Hudson,,
-113,,97.0,Mike Jarvis,DE,6-4,288.0,R-So.,"Medford, N.J.",Shawnee,,
-114,,97.0,Gavin Lahm,K,6-0,223.0,So.,"Kaukana, Wis.",Kaukauna,,
-115,,98.0,C.J. Goetz,OLB,6-3,235.0,Gr.,"Muskego, Wis.",Catholic Memorial,,
-116,,99.0,Isaiah Mullens,DE,6-4,295.0,Gr.,"Columbus, Ohio",Harvest Prep,,
-0,,,Luke Fickell,,,,,,,,Head Coach
-1,,,Phil Longo,,,,,,,,Offensive Coordinator/QBs
-2,,,Mike Tressel,,,,,,,,Defensive Coordinator/Inside Linebackers
-3,,,Jack Bicknell Jr.,,,,,,,,Offensive Line
-4,,,Mike Brown,,,,,,,,Associate Head Coach/Wide Receivers
-5,,,Paul Haynes,,,,,,,,Cornerbacks
-6,,,Colin Hitschler,,,,,,,,Co-Defensive Coordinator/Safeties
-7,,,Nate Letton,,,,,,,,Tight Ends
-8,,,Matt Mitchell,,,,,,,,Outside Linebackers/Special Teams
-9,,,Greg Scruggs,,,,,,,,Defensive Line
-10,,,Devon Spalding,,,,,,,,Running Backs
-11,,,Rob Everett,,,,,,,,Senior Offensive Analyst
-12,,,Tuf Borland,,,,,,,,Graduate Assistant - Defense
-13,,,Cullen Casey,,,,,,,,Graduate Assistant - Offense
-14,,,Daeshon Martin,,,,,,,,Graduate Assistant - Defense
-15,,,D.J. Stubbs,,,,,,,,Graduate Assistant - Offense
-16,,,Michael Caputo,,,,,,,,Quality Control - Defense
-17,,,Spencer Rymiszewski,,,,,,,,Quality Control - Special Teams | Defense
-0,,,Brady Collins,,,,,,,,Director of Football Strength & Conditioning
-1,,,Danny Folino,,,,,,,,Associate Director of Strength & Conditioning
-2,,,Jeremiah Ortiz,,,,,,,,Assistant Director of Strength & Conditioning
-3,,,Austin Stephan,,,,,,,,Assistant Director of Strength & Conditioning/Sport Science Director
-4,,,Dustin Tripp,,,,,,,,Assistant Director of Strength & Conditioning
-5,,,Sophie Pomrehn,,,,,,,,Football Performance Dietitian
-6,,,Greg Gillum,,,,,,,,Chief of Staff
-7,,,Pat Lambert,,,,,,,,Director of Recruiting
-8,,,Max Stienecker,,,,,,,,Director of Player Personnel
-9,,,Casey Rabach,,,,,,,,Director of Scouting
-10,,,John Richter,,,,,,,,Recruiting Assistant
-11,,,Molly Rottinghaus,,,,,,,,Director of On-Campus Recruiting
-12,,,Matt Whipple,,,,,,,,Recruiting Video Coordinator
-13,,,Alec James,,,,,,,,Director of High School & Alumni Relations
-14,,,John Schaefer,,,,,,,,Director of Football Video
-15,,,Kelsey Sharkey,,,,,,,,Director of New Media
-16,,,Ryan Dean,,,,,,,,Creative Media Designer
-17,,,Morgan Lukrich,,,,,,,,Football Digital Media Coordinator
-18,,,Jerry Mao,,,,,,,,Video Producer
+,Statistic,#,Name,Pos.,Ht.,Wt.,Yr.,Hometown,Current School Name,High School,Previous School,Image,Title
+0,,0.0,Braelon Allen,RB,6-2,240.0,Jr.,"Fond du Lac, Wis.",Wisconsin,Fond du Lac,,,
+1,,1.0,Chez Mellusi,RB,5-11,208.0,Gr.,"Naples, Fla.",Wisconsin,Naples,Clemson,,
+2,,2.0,Ricardo Hallman,CB,5-10,180.0,R-So.,"Miami, Fla.",Wisconsin,University School,,,
+3,,3.0,T.J. Bollers,OLB,6-2,268.0,R-So.,"Tiffin, Iowa",Wisconsin,Clear Creek Amana,,,
+4,,3.0,Keontez Lewis,WR,6-2,187.0,Jr.,"East St. Louis, Ill.",Wisconsin,East St. Louis,UCLA,,
+5,,4.0,A'Khoury Lyde,CB,5-9,190.0,R-Fr.,"Paterson, N.J.",Wisconsin,DePaul Catholic,,,
+6,,4.0,C.J. Williams,WR,6-1,197.0,So.,"Mission Viejo, Calif.",Wisconsin,Mater Dei,USC,,
+7,,5.0,Quincy Burroughs,WR,6-3,203.0,R-Fr.,"Jacksonville, Fla.",Wisconsin,Raines,Cincinnati,,
+8,,7.0,Nick Evers,QB,6-3,190.0,R-Fr.,"Flower Mound, Texas",Wisconsin,Flower Mound,Oklahoma,,
+9,,7.0,Spencer Lytle,ILB,6-2,228.0,R-Sr.,"Redondo Beach, Calif.",Wisconsin,St. John Bosco,,,
+10,,8.0,Avyonne Jones,CB,5-11,193.0,R-Fr.,"Southlake, Texas",Wisconsin,Carroll,,,
+11,,8.0,Tanner Mordecai,QB,6-2,215.0,R-Sr.,"Waco, Texas",Wisconsin,Midway,Oklahoma/SMU,,
+12,,9.0,Austin Brown,S,6-1,207.0,So.,"Johnston City, Ill.",Wisconsin,Johnston City,,,
+13,,9.0,Bryson Green,WR,6-0,205.0,R-Jr.,"Allen, Texas",Wisconsin,Allen,Oklahoma State,,
+14,,11.0,Skyler Bell,WR,6-0,195.0,R-So.,"Bronx, N.Y.",Wisconsin,The Taft School,,,
+15,,11.0,Alexander Smith,CB,5-11,190.0,Gr.,"Culver City, Calif.",Wisconsin,Culver City,,,
+16,,12.0,Marshall Howe,QB,6-1,193.0,R-Fr.,"Pacific Palisades, Calif.",Wisconsin,Avon Old Farms (Conn.),,,
+17,,12.0,Max Lofy,CB,5-10,190.0,R-Jr.,"Colorado Springs, Colo.",Wisconsin,Pine Creek,,,
+18,,13.0,Chimere Dike,WR,6-1,198.0,Sr.,"Waukesha, Wis.",Wisconsin,North,,,
+19,,13.0,Kamo'i Latu,S,6-0,196.0,Sr.,"Honolulu, Hawaii",Wisconsin,Saint Louis School,Utah,,
+20,,14.0,Markus Allen,WR,6-1,208.0,R-So.,"Dayton, Ohio",Wisconsin,Northmont,,,
+21,,14.0,Preston Zachman,S,6-1,209.0,R-So.,"Elysburg, Pa.",Wisconsin,Southern Columbia,,,
+22,,15.0,Tommy McIntosh,WR,6-5,200.0,R-Fr.,"DeWitt, Mich.",Wisconsin,DeWitt,,,
+23,,16.0,Myles Burkett,QB,6-0,202.0,R-Fr.,"Franklin, Wis.",Wisconsin,Franklin,,,
+24,,17.0,Cole LaCrue,QB,6-1,200.0,Fr.,"Broomfield, Colo.",Wisconsin,Broomfield,,,
+25,,17.0,Darryl Peterson,OLB,6-1,247.0,R-So.,"Akron, Ohio",Wisconsin,Archbishop Hoban,,,
+26,,18.0,Owen Arnett,S,5-11,210.0,R-So.,"Delafield, Wis.",Wisconsin,Arrowhead,,,
+27,,18.0,Braedyn Locke,QB,6-0,192.0,R-Fr.,"Rockwall, Texas",Wisconsin,Rockwall,Mississippi State,,
+28,,19.0,Will Pauling,WR,5-10,186.0,R-So.,"Chicago, Ill.",Wisconsin,Homewood-Flossmoor,Cincinnati,,
+29,,19.0,Darian Varner,DE,6-3,278.0,R-Jr.,"Norfolk, Va.",Wisconsin,Maury,Temple,,
+30,,20.0,Braedyn Moore,S,6-2,197.0,Fr.,"Hamilton, Ohio",Wisconsin,Stephen T. Badin,,,
+31,,21.0,Jonas Duclona,CB,5-10,184.0,Fr.,"Naples, Fla.",Wisconsin,Naples,,,
+32,,21.0,Cam Fane,WR,6-1,180.0,R-Fr.,"Arlington, Texas",Wisconsin,Madison Edgewood (Wis.),,,
+33,,22.0,Jace Arnold,CB,5-9,180.0,Fr.,"Marietta, Ga.",Wisconsin,Marietta,,,
+34,,22.0,Jack Van Dyke,K,6-5,218.0,Sr.,"Neenah, Wis.",Wisconsin,Neenah,,,
+35,,23.0,Jason Maitre,CB,5-10,188.0,R-Sr.,"Orlando, Fla.",Wisconsin,Everett,Boston College,,
+36,,24.0,Cole Toennies,WR,6-2,194.0,R-Fr.,"Middleton, Wis.",Wisconsin,Middleton,,,
+37,,24.0,Hunter Wohler,S,6-2,211.0,Jr.,"Muskego, Wis.",Wisconsin,Muskego,,,
+38,,25.0,Cade Yacamelli,RB,6-0,210.0,R-Fr.,"Trafford, Pa.",Wisconsin,Trafford-Penn,,,
+39,,26.0,Travian Blaylock,S,5-11,208.0,Gr.,"Humble, Texas",Wisconsin,Atascocita,,,
+40,,26.0,Grady O'Neill,WR,5-11,160.0,R-Fr.,"Prior Lake, Minn.",Wisconsin,St. Thomas Academy,,,
+41,,27.0,Haakon Anderson,WR,6-1,213.0,R-Jr.,"Verona, Wis.",Wisconsin,Verona,,,
+42,,27.0,Tyler Jansey,ILB,6-0,227.0,Fr.,"Batavia, Ill.",Wisconsin,Batavia,,,
+43,,28.0,Gavin Meyers,P,6-1,202.0,R-Jr.,"Oshkosh, Wis.",Wisconsin,Lourdes Academy,,,
+44,,29.0,Nate Van Zelst,K,5-11,204.0,R-So.,"Glenview, Ill.",Wisconsin,Loyola Academy,,,
+45,,30.0,Alex Moeller,WR,5-11,175.0,R-So.,"Arlington Heights, Ill.",Wisconsin,Prospect,,,
+46,,31.0,Amaun Williams,CB,5-10,187.0,R-Jr.,"Milwaukee, Wis.",Wisconsin,Riverside,,,
+47,,32.0,Julius Davis,RB,5-10,198.0,R-Sr.,"Menomonee Falls, Wis.",Wisconsin,Menomonee Falls,,,
+48,,32.0,Marty Strey,OLB,6-2,235.0,Gr.,"Sun Prairie, Wis.",Wisconsin,Sun Prairie,,,
+49,,34.0,Jackson Acker,RB,6-1,240.0,R-So.,"Madison, Wis.",Wisconsin,Verona,,,
+50,,34.0,Charlie Jarvis,S,6-1,205.0,R-Fr.,"Hartland, Wis.",Wisconsin,Catholic Memorial,,,
+51,,36.0,Jake Chaney,ILB,5-11,233.0,Jr.,"Cape Coral, Fla.",Wisconsin,Lehigh,,,
+52,,37.0,Bryce Carey,S,6-1,192.0,R-Jr.,"Middleton, Wis.",Wisconsin,Middleton,Northern Illinois,,
+53,,37.0,Riley Nowakowski,TE,6-1,241.0,R-Jr.,"Milwaukee, Wis.",Wisconsin,Marquette University HS,,,
+54,,38.0,Lee Hutton,CB,5-10,170.0,R-Fr.,"Minnetonka, Minn.",Wisconsin,Hopkins,,,
+55,,39.0,Tatum Grass,ILB,6-2,234.0,R-Sr.,"Holmen, Wis.",Wisconsin,Holmen,,,
+56,,41.0,JT Seagreaves,TE,6-6,224.0,R-Fr.,"Monroe, Wis.",Wisconsin,Monroe,,,
+57,,43.0,Grover Bortolotti,RB,5-9,193.0,R-So.,"Whitefish Bay, Wis.",Wisconsin,Whitefish Bay,,,
+58,,43.0,Jackson Trudgeon,S,6-1,202.0,R-Fr.,"Fitchburg, Wis.",Wisconsin,Madison Edgewood,,,
+59,,44.0,Zach Gloudeman,RB,6-2,226.0,R-Fr.,"Spring Green, Wis.",Wisconsin,River Valley,,,
+60,,44.0,Jeff Pietrowski Jr.,OLB,6-2,244.0,R-Jr.,"Medina, Ohio",Wisconsin,St. Edward,Michigan State,,
+61,,45.0,Garrison Solliday,ILB,5-11,230.0,R-So.,"Eagan, Minn.",Wisconsin,St. Thomas Academy,,,
+62,,46.0,Deven Magli,S,6-1,198.0,R-Fr.,"DeForest, Wis.",Wisconsin,DeForest,,,
+63,,47.0,Peter Bowden,LS,6-2,245.0,R-Sr.,"San Diego, Calif.",Wisconsin,Francis Parker,,,
+64,,48.0,Cole Dakovich,TE,6-5,250.0,R-Jr.,"Waukesha, Wis.",Wisconsin,Catholic Memorial,,,
+65,,49.0,Cam Large,TE,6-3,242.0,R-Sr.,"Pomfret, Conn.",Wisconsin,Noble & Greenough,,,
+66,,50.0,Aidan Vaughan,ILB,6-2,220.0,R-Fr.,"Wixom, Mich.",Wisconsin,Walled Lake Western,,,
+67,,51.0,Bryan Sanborn,ILB,6-1,228.0,R-So.,"Deer Park, Ill.",Wisconsin,Lake Zurich,,,
+68,,52.0,Kaden Johnson,OLB,6-2,248.0,R-Jr.,"St. Paul, Minn",Wisconsin,Minnehaha Academy,,,
+69,,53.0,Ross Gengler,OLB,6-2,227.0,R-Jr.,"Delavan, Wis.",Wisconsin,Delavan-Darien,,,
+70,,54.0,Jordan Turner,ILB,6-1,235.0,R-Jr.,"Farmington, Mich.",Wisconsin,Farmington,,,
+71,,55.0,Maema Njongmeta,ILB,6-0,240.0,R-Sr.,"Buffalo Grove, Ill.",Wisconsin,Adlai E. Stevenson,,,
+72,,56.0,Joe Brunner,OL,6-5,315.0,R-Fr.,"Whitefish Bay, Wis.",Wisconsin,Whitefish Bay,,,
+73,,56.0,Rodas Johnson,DE,6-2,299.0,R-Sr.,"Columbus, Ohio",Wisconsin,St. Francis DeSales,,,
+74,,57.0,Luna Larson,ILB,6-2,222.0,R-Fr.,"Baraboo, Wis.",Wisconsin,Baraboo,,,
+75,,57.0,Jake Renfro,OL,6-4,316.0,R-Jr.,"Mokena, Ill.",Wisconsin,Providence Catholic,Cincinnati,,
+76,,58.0,Gabe Kirschke,DL,6-5,242.0,R-Fr.,"Lone Tree, Colo.",Wisconsin,Valor Christian,,,
+77,,59.0,Aaron Witt,OLB,6-6,265.0,R-Jr.,"Winona, Minn.",Wisconsin,Winona,,,
+78,,60.0,Joe Huber,OL,6-5,308.0,R-Jr.,"Dublin, Ohio",Wisconsin,Jerome,Cincinnati,,
+79,,61.0,Dylan Barrett,OL,6-5,319.0,R-Jr.,"St. Charles, Ill.",Wisconsin,East,,,
+80,,62.0,Max Rader,OL,6-6,267.0,R-Fr.,"De Pere, Wis.",Wisconsin,Notre Dame Academy,North Dakota State,,
+81,,63.0,Tanor Bortolini,OL,6-4,310.0,R-Jr.,"Kewaunee, Wis.",Wisconsin,Kewaunee,,,
+82,,64.0,Duncan McKinley,LS,6-2,230.0,R-Jr.,"Eau Claire, Wis.",Wisconsin,Memorial,,,
+83,,64.0,Sean Timmis,OL,6-4,310.0,R-So.,"Shorewood, Wis.",Wisconsin,Marquette University HS,,,
+84,,66.0,Nolan Rucci,OL,6-8,302.0,R-So.,"Lititz, Pa.",Wisconsin,Warwick,,,
+85,,67.0,JP Benzschawel,OL,6-6,305.0,R-So.,"Grafton, Wis.",Wisconsin,Grafton,,,
+86,,68.0,Ben Barten,DE,6-5,305.0,R-Jr.,"Stratford, Wis.",Wisconsin,Stratford,,,
+87,,69.0,Zach Zei,LS,6-2,220.0,R-So.,"Arlington Heights, Ill.",Wisconsin,Prospect,,,
+88,,70.0,Barrett Nelson,OL,6-6,284.0,R-Fr.,"Stoughton, Wis.",Wisconsin,Stoughton,,,
+89,,71.0,Riley Mahlman,OL,6-8,318.0,R-So.,"Lakeville, Minn.",Wisconsin,South,,,
+90,,73.0,Kerry Kodanko,OL,6-2,317.0,Jr.,"Green Bay, Wis.",Wisconsin,West DePere,,,
+91,,74.0,Michael Furtney,OL,6-5,314.0,Gr.,"Milan, Mich.",Wisconsin,Milan,,,
+92,,76.0,Tommy Brunner,DE,6-3,245.0,R-Sr.,"Milwaukee, Wis.",Wisconsin,Whitefish Bay,Northern Illinois,,
+93,,76.0,John Clifford,OL,6-5,295.0,R-Fr.,"Watertown, Wis.",Wisconsin,Watertown,,,
+94,,77.0,Drew Evans,OL,6-4,293.0,R-Fr.,"Fort Atkinson, Wis.",Wisconsin,Fort Atkinson,,,
+95,,78.0,Trey Wedig,OL,6-7,322.0,R-Jr.,"Oconomowoc, Wis.",Wisconsin,Kettle Moraine,,,
+96,,79.0,Jack Nelson,OL,6-7,305.0,R-Jr.,"Stoughton, Wis.",Wisconsin,Stoughton,,,
+97,,81.0,Angel Toombs,TE,6-5,235.0,Fr.,"West Milwaukee, Wis.",Wisconsin,Rufus King,,,
+98,,82.0,Jack Eschenbach,TE,6-6,240.0,Gr.,"Downers Grove, Ill.",Wisconsin,Benet Academy,,,
+99,,84.0,Chris Brooks Jr.,WR,6-2,225.0,R-Fr.,"St. Louis, Mo.",Wisconsin,St. Louis University School,,,
+100,,84.0,Manny Mullens,DE,6-2,274.0,So.,"Columbus, Ohio",Wisconsin,Harvest Preparatory,Lake Erie College,,
+101,,85.0,Clay Cundiff,TE,6-3,240.0,R-Jr.,"Wichita, Kan.",Wisconsin,Bishop Carroll,,,
+102,,86.0,Vinny Anthony II,WR,6-0,177.0,So.,"Louisville, Ky.",Wisconsin,Male,,,
+103,,87.0,Hayden Rucci,TE,6-4,253.0,R-Sr.,"Lititz, Pa.",Wisconsin,Warwick,,,
+104,,89.0,Jack Pugh,TE,6-5,252.0,R-So.,"Columbus, Ohio",Wisconsin,Hilliard Bradley,,,
+105,,90.0,James Thompson Jr.,DE,6-5,290.0,R-Jr.,"Cincinnati, Ohio",Wisconsin,Roger Bacon,,,
+106,,90.0,Nathanial Vakos,K,6-1,198.0,Fr.,"Avon, Ohio",Wisconsin,Avon,Ohio,,
+107,,91.0,Vito Calvaruso,K,6-3,204.0,R-Jr.,"Jefferson City, Mo.",Wisconsin,Helias Catholic,Arkansas,,
+108,,92.0,Curt Neal,NT,6-0,297.0,R-Fr.,"Cornelius, N.C.",Wisconsin,William A. Hough,,,
+109,,93.0,Isaac Townsend,DE,6-5,280.0,R-Sr.,"Arvada, Colo.",Wisconsin,Ralston Valley,Oregon,,
+110,,94.0,Gio Paez,DE,6-3,319.0,R-Sr.,"Los Angeles, Calif.",Wisconsin,William A. Hough (N.C.),,,
+111,,95.0,Jordan Mayer,OLB,6-4,235.0,Fr.,"Jefferson Hills, Pa.",Wisconsin,Thomas Jefferson,,,
+112,,96.0,Cade McDonald,DE,6-6,285.0,R-Jr.,"Houlton, Wis.",Wisconsin,Hudson,,,
+113,,97.0,Mike Jarvis,DE,6-4,288.0,R-So.,"Medford, N.J.",Wisconsin,Shawnee,,,
+114,,97.0,Gavin Lahm,K,6-0,223.0,So.,"Kaukana, Wis.",Wisconsin,Kaukauna,,,
+115,,98.0,C.J. Goetz,OLB,6-3,235.0,Gr.,"Muskego, Wis.",Wisconsin,Catholic Memorial,,,
+116,,99.0,Isaiah Mullens,DE,6-4,295.0,Gr.,"Columbus, Ohio",Wisconsin,Harvest Prep,,,
+0,,,Luke Fickell,,,,,,Wisconsin,,,,Head Coach
+1,,,Phil Longo,,,,,,Wisconsin,,,,Offensive Coordinator/QBs
+2,,,Mike Tressel,,,,,,Wisconsin,,,,Defensive Coordinator/Inside Linebackers
+3,,,Jack Bicknell Jr.,,,,,,Wisconsin,,,,Offensive Line
+4,,,Mike Brown,,,,,,Wisconsin,,,,Associate Head Coach/Wide Receivers
+5,,,Paul Haynes,,,,,,Wisconsin,,,,Cornerbacks
+6,,,Colin Hitschler,,,,,,Wisconsin,,,,Co-Defensive Coordinator/Safeties
+7,,,Nate Letton,,,,,,Wisconsin,,,,Tight Ends
+8,,,Matt Mitchell,,,,,,Wisconsin,,,,Outside Linebackers/Special Teams
+9,,,Greg Scruggs,,,,,,Wisconsin,,,,Defensive Line
+10,,,Devon Spalding,,,,,,Wisconsin,,,,Running Backs
+11,,,Rob Everett,,,,,,Wisconsin,,,,Senior Offensive Analyst
+12,,,Tuf Borland,,,,,,Wisconsin,,,,Graduate Assistant - Defense
+13,,,Cullen Casey,,,,,,Wisconsin,,,,Graduate Assistant - Offense
+14,,,Daeshon Martin,,,,,,Wisconsin,,,,Graduate Assistant - Defense
+15,,,D.J. Stubbs,,,,,,Wisconsin,,,,Graduate Assistant - Offense
+16,,,Mitch Ferrick,,,,,,Wisconsin,,,,Quality Control - Offense
+17,,,Spencer Rymiszewski,,,,,,Wisconsin,,,,Quality Control - Special Teams | Defense
+0,,,Brady Collins,,,,,,Wisconsin,,,,Director of Football Strength & Conditioning
+1,,,Danny Folino,,,,,,Wisconsin,,,,Associate Director of Strength & Conditioning
+2,,,Jeremiah Ortiz,,,,,,Wisconsin,,,,Assistant Director of Strength & Conditioning
+3,,,Austin Stephan,,,,,,Wisconsin,,,,Assistant Director of Strength & Conditioning/Sport Science Director
+4,,,Dustin Tripp,,,,,,Wisconsin,,,,Assistant Director of Strength & Conditioning
+5,,,Sophie Pomrehn,,,,,,Wisconsin,,,,Football Performance Dietitian
+6,,,Greg Gillum,,,,,,Wisconsin,,,,Chief of Staff
+7,,,Pat Lambert,,,,,,Wisconsin,,,,Director of Recruiting
+8,,,Max Stienecker,,,,,,Wisconsin,,,,Director of Player Personnel
+9,,,Casey Rabach,,,,,,Wisconsin,,,,Director of Scouting
+10,,,John Richter,,,,,,Wisconsin,,,,Recruiting Assistant
+11,,,Molly Rottinghaus,,,,,,Wisconsin,,,,Director of On-Campus Recruiting
+12,,,Matt Whipple,,,,,,Wisconsin,,,,Recruiting Video Coordinator
+13,,,Alec James,,,,,,Wisconsin,,,,Director of High School & Alumni Relations
+14,,,Monique Felix,,,,,,Wisconsin,,,,Director of Football Student Services
+15,,,John Schaefer,,,,,,Wisconsin,,,,Director of Football Video
+16,,,Kelsey Sharkey,,,,,,Wisconsin,,,,Director of New Media
+17,,,Ryan Dean,,,,,,Wisconsin,,,,Creative Media Designer
+18,,,Morgan Lukrich,,,,,,Wisconsin,,,,Football Digital Media Coordinator
+19,,,Jerry Mao,,,,,,Wisconsin,,,,Video Producer

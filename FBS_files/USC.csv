@@ -1,149 +1,146 @@
-,Statistic,#,Name,Pos.,Ht.,Wt.,Year,Hometown,Last School,Major,Image,Title
-0,,0.0,"Foreman, Korey",DL,6-4,235.0,Jr.,"Corona, Calif",Centennial HS,Communication,,
-1,,0.0,"Lloyd, MarShawn",RB,5-9,215.0,R-Jr.,"Wilmington, Del.",DeMatha Catholic HS / South Carolina,Social Sciences,,
-2,,1.0,"Branch, Zachariah",WR,5-10,175.0,Fr.,"Las Vegas, Nev.",Bishop Gorman HS,Real Estate Development,,
-3,,1.0,"Jackson, Domani",DB,6-1,190.0,So.,"Santa Ana, Calif.",Mater Dei HS,Communication,,
-4,,2.0,"Height, Romello",RUSH,6-3,230.0,R-Jr.,"Dublin, Ga.",Dublin HS / Auburn,American Popular Culture,,
-5,,2.0,"Rice, Brenden",WR,6-3,210.0,Sr.,"Chandler, Ariz.",Hamilton HS / Colorado,American Popular Culture,,
-6,,4.0,"Williams, Mario",WR,5-9,180.0,Jr.,"Tampa, Fla.",Plant City HS / Oklahoma,Communication,,
-7,,4.0,"Williams, Max",DB,5-9,185.0,R-Sr.,"Carson, Calif.",Serra HS,Master's: Gerontology • Bachelor's: Real Estate Development,,
-8,,6.0,"Jones, Austin",RB,5-10,205.0,R-Sr.,"Antioch, Calif.",Bishop O’Dowd HS / Stanford,Communication,,
-9,,6.0,"Lucas, Anthony",DL,6-5,295.0,So.,"Scottsdale, Ariz.",Chapparal HS / Texas A&M,Undeclared,,
-10,,7.0,"Bullock, Calen",DB,6-3,190.0,Jr.,"Pasadena, Calif",John Muir HS,Communication,,
-11,,7.0,"Moss, Miller",QB,6-2,210.0,R-So.,"Los Angeles, Calif.",Bishop Alemany HS,"Law, History and Culture",,
-12,,8.0,"Branch, Zion",DB,6-2,210.0,R-Fr.,"Las Vegas, Nev.",Bishop Gorman HS,Undeclared,,
-13,,8.0,"Nelson, Malachi",QB,6-3,180.0,Fr.,"Los Alamitos, Calif.",Los Alamitos HS,Communication,,
-14,,9.0,"Davis, Raesjon",ILB,6-1,225.0,Jr.,"Norco, Calif.",Mater Dei HS,Communication,,
-15,,9.0,"Jackson III, Michael",WR,6-0,210.0,Jr.,"Las Vegas, Nev.",Desert Pines HS,Real Estate Development,,
-16,,10.0,"Hudson, Kyron",WR,6-1,200.0,R-So.,"Duarte, Calif.",Mater Dei HS,Undeclared,,
-17,,10.0,"Muhammad, Jamil",RUSH,6-1,240.0,R-Sr.,"Madison, Ala.",James Clemens HS / Georgia State,Master's: Social Entrepreneurship • Bachelor's: Social Entrepreneurship,,
-18,,13.0,"Cobb, Mason",ILB,6-0,230.0,Sr.,"Provo, Utah",Provo HS / Oklahoma State,Social Sciences,,
-19,,13.0,"Williams, Caleb",QB,6-1,220.0,Jr.,"Washington, D.C.",Gonzaga College HS / Oklahoma,Communication,,
-20,,14.0,"Brown, Raleek",RB,5-8,185.0,So.,"Santa Ana, Calif.",Mater Dei HS,Communication,,
-21,,14.0,"Covington, Jacobe",DB,6-2,200.0,R-Jr.,"Chandler, Ariz.",Saguaro HS / Washington,American Popular Culture,,
-22,,15.0,"Beavers Jr., Anthony",DB,6-1,210.0,R-So.,"Baldwin Hills, Calif.",St. Bernard HS,Psychology,,
-23,,15.0,"Singer, Dorian",WR,6-0,180.0,Jr.,"Saint Paul, Minn.",Pinnacle HS / Arizona,Communication,,
-24,,16.0,"Brown, Prophet",DB,5-11,190.0,R-So.,"Sacramento, Calif.",Monterey Trail HS,Communication,,
-25,,16.0,"Washington, Tahj",WR,5-10,175.0,R-Sr.,"Marshall, Texas",Marshall HS / Memphis,Social Sciences,,
-26,,17.0,"Jensen, Jake",QB,6-1,225.0,Jr.,"Pleasant Grove, Utah",Pleasant Grove HS / BYU / Contra Costa JC,Non-Governmental Organizations and Social Change,,
-27,,17.0,"Roland-Wallace, Christian",DB,6-0,205.0,R-Sr.,"Palmdale, Calif.",Williams J. Knight HS / Arizona,Master’s: Gerontology • Bachelor’s: Philosophy,,
-28,,18.0,"Gentry, Eric",ILB,6-6,205.0,Jr.,"Philadelphia, Pa.",Saints Neumann Goretti HS / Arizona State,American Popular Culture,,
-29,,18.0,"Wolfe, Jude",TE,6-5,250.0,R-Sr.,"Laguna Hills, Calif.",St. John Bosco,Master's: Communication Management • Bachelor's: Real Estate Development,,
-30,,19.0,"Smith, Jaylin",DB,5-11,180.0,Jr.,"Palmdale, Calif.",Bishop Alemany HS,Communication,,
-31,,21.0,"Joyner, Quinten",RB,5-11,200.0,Fr.,"Paige, Texas",Manor HS,Communication,,
-32,,21.0,"McCutchin, Latrell",DB,6-1,190.0,Jr.,"Austin, Texas",LBJ Early College HS / Oklahoma,American Studies and Ethnicity,,
-33,,22.0,"Barlow, Darwin",RB,6-0,220.0,R-Sr.,"Newton, Texas",Newton / TCU,Communication,,
-34,,22.0,"Wright, Ceyair",DB,6-0,180.0,R-So.,"Los Angeles, Calif.",Loyola HS,Communication,,
-35,,23.0,"Jackson Jr., Joshua",DB,6-1,185.0,R-Jr.,"Westminster, Calif",Narbonne HS,Communication,,
-36,,24.0,"Lemon, Makai",WR,5-11,180.0,Fr.,"Los Alamitos, Calif.",Los Alamitos HS,Communication,,
-37,,24.0,"Pierce, Christian",DB,6-1,190.0,Fr.,"Fontana, Calif.",Rancho Cucamonga HS,Astronomy,,
-38,,25.0,"Curtis, Tackett",ILB,6-2,220.0,Fr.,"Many, La.",Many HS,Business Administration,,
-39,,26.0,"Ross, Fabian",DB,6-0,205.0,So.,"Las Vegas, Nev.",Bishop Gorman HS,Undeclared,,
-40,,27.0,"Peterson, A'Marion",RB,6-0,205.0,Fr.,"Wichita Falls, Texas",Hirschi HS,Undeclared,,
-41,,27.0,"Shaw, Bryson",DB,6-0,190.0,R-Sr.,"Eldersburg, Md.",Bullis School / Ohio State,Political Science,,
-42,,28.0,"Gordon, Xamarion",DB,6-1,205.0,R-So.,"Houston, Texas",Warren HS,Communication,,
-43,,28.0,"Roy, Gage",QB,6-2,200.0,So.,"Dallas, Texas",Jesuit Dallas HS,Real Estate Development,,
-44,,29.0,"Crawford, Maliki",DB,6-4,170.0,Fr.,"Oxnard, Calif.",Pacifica HS,Undeclared,,
-45,,29.0,"Patterson, Keegan",QB,6-0,185.0,So.,"Longmont, Colo.",Longmont HS,Mechanical Engineering,,
-46,,30.0,"Thompson Jr., Chris",ILB,6-2,220.0,Sr.,"Duncanville, Texas",Duncanville HS / Auburn,Business Administration,,
-47,,31.0,"Taleni, Tyrone",DL,6-2,270.0,R-Sr.,"Savai’i, Western Samoa",Vaiola College HS / Mt. San Antonio JC / Kansas State,Human Biology,,
-48,,31.0,"Ward, Isaac",QB,5-10,185.0,R-Jr.,"Athens, Ga.",Clarke Central HS,American Popular Culture,,
-49,,34.0,"Colombo, Matt",RB,5-11,200.0,R-Jr.,"El Segundo, Calif",St. John Bosco HS,Business Administration,,
-50,,35.0,"McAllister, Michael",P,6-2,215.0,R-Jr.,"Carlsbad, Calif.",La Costa Canyon HS,Communication,,
-51,,36.0,"Rose, Will",P,6-1,190.0,R-Sr.,"Long Beach, Calif.",St. John Bosco HS,Real Estate Development,,
-52,,37.0,"Czaplicki, Eddie",PK/K,6-1,200.0,Jr.,"Charlotte, N.C.",Providence HS / Arizona State,Economics,,
-53,,37.0,"Thompkins, Devan",DL,6-5,260.0,R-Fr.,"Stockton, Calif.",Edison HS,Undeclared,,
-54,,39.0,"Casasante, Jac",SNP,6-0,225.0,R-Sr.,"Altadena, Calif.",Loyola HS,Sociology,,
-55,,39.0,"Pomerantz, Garrett",RUSH,6-2,220.0,So.,"Las Vegas, Nev.",Bishop Gorman HS,Health Promotion,,
-56,,40.0,"Shamblin, Ty",WR,5-11,195.0,R-Jr.,"Carpinteria, Calif.",Oaks Christian HS,Business Administration,,
-57,,40.0,"Simpson, L",DB,6-0,200.0,R-Jr.,"Chatsworth, Calif.",Sierra Canyon HS / Loyola Marymount,Communication and Sociology,,
-58,,41.0,"Madden, Garrison",ILB,6-3,215.0,R-Fr.,"Hampton, Ga.",Dutchtown HS,,,
-59,,42.0,"Ryan, Danny",WR,6-1,200.0,R-Jr.,"Larkspur, Calif.",St. Ignatius Prep,Real Estate Development,,
-60,,42.0,"Sleep-Dalton, Aadyn",P,6-1,195.0,Sr.,"Geelong, Australia",,Health and Human Sciences,,
-61,,44.0,"Greene, Sam",RUSH,6-1,240.0,Fr.,"Washington, D.C.",St. Frances Academy,Undeclared,,
-62,,44.0,"Zamora, Josiah",WR,5-10,185.0,R-So.,"Monrovia, Calif.",Mater Dei HS,"Law, History and Culture",,
-63,,46.0,"Lynch, Denis",PK,5-8,185.0,R-So.,"Newbury Park, Calif.",Newbury Park HS,Real Estate Development,,
-64,,46.0,"Nerhus, Corey",WR,5-9,215.0,Jr.,"Huntington Beach, Calif.",Mater Dei / Orange Coast CC,Human Biology,,
-65,,47.0,"Ta'ufo'ou, Stanley",DL,6-2,265.0,R-Sr.,"Simi Valley, Calif.",Grace Brethren HS,Non-Governmental Organizations and Social Change,,
-66,,48.0,"Jimenez-Fulton, Daniel",DB,5-10,195.0,R-So.,"Chandler, Ariz.",Chandler HS,Business Administration,,
-67,,48.0,"Meunier, Daniel",SNP,5-10,225.0,Sr.,"Lynwood, Calif",Bishop Mora Salesian HS / El Camino JC,Psychology,,
-68,,51.0,"Byrd, Solomon",RUSH,6-3,250.0,R-Sr.,"Palmdale, Calif.",Knight HS / Wyoming,Master's: Gerontology • Bachelor's: American Studies,,
-69,,52.0,"Bravos, Theo",ILB,5-10,210.0,Jr.,"Yuba City, Calif.",Sutter Union HS,Business Administration,,
-70,,52.0,"Kingston, Jarrett",OL,6-4,300.0,R-Sr.,"Anderson, Calif.",Anderson HS / Washington State,Master's: Gerontology • Bachelor's: Social Science,,
-71,,53.0,"Lee, Shane",ILB,6-0,245.0,R-Sr.,"Burtonsville, Md.",St. Frances Academy / Alabama,Master's: Aging Services Management • Bachelor's: Marketing,,
-72,,53.0,"Weneta, Nathan",SNP,6-0,220.0,R-Jr.,"San Diego, Calif.",Cathedral Catholic HS / Purdue,"Philosophy, Politics and Economics",,
-73,,56.0,"Dewerk, Andres",OL,6-7,325.0,R-Jr.,"San Jose, Calif.",Los Gatos HS,Real Estate Development,,
-74,,57.0,"Dedich, Justin",OL,6-2,295.0,R-Sr.,"Temecula, Calif.",Chaparral HS,Master's: Public Health • Bachelor's: Human Biology,,
-75,,57.0,"Marchetti, Roman",ILB,6-2,210.0,So.,"Santa Ana, Calif",Foothill HS,Journalism,,
-76,,58.0,"Tuliaupupu, Solomon",DL,6-3,250.0,R-Sr.,"Santa Ana, Calif.",Mater Dei,Master's: Project Management • Bachelor's: Business Administration,,
-77,,62.0,"Lovelace, Cooper",OL,6-5,300.0,R-Sr.,"Prairie Village, Kan.",Shawnee Mission East HS / Butler CC,Communication,,
-78,,65.0,"Tucker, Grant",OL,6-2,260.0,Sr.,"Colorado Springs, Colo.",Rampart HS,Business Administration,,
-79,,66.0,"Quinones, Gino",OL,6-3,300.0,R-Sr.,"Ewa Beach, Hawaii",Saint Louis HS,Geodesign,,
-80,,67.0,"O'Connor, Kilian",OL,6-1,285.0,So.,"Ladera Ranch, Calif.",Santa Margarita Catholic HS,Business Administration,,
-81,,71.0,"Tarquin, Michael",OL,6-5,310.0,R-Sr.,"Ocala, Fla.",North Marion / Florida,Master's: Gerontology • Bachelor's: Criminology,,
-82,,72.0,"Paige, Elijah",OL,6-7,305.0,Fr.,"Phoenix, Ariz.",Pinnacle HS,Journalism,,
-83,,74.0,"Ford, Courtland",OL,6-6,305.0,R-Jr.,"Cedar Hill, Texas",Cedar Hill HS,Social Sciences,,
-84,,76.0,"Murphy, Mason",OL,6-5,310.0,R-So.,"Riverside, CA",JSerra Catholic HS,Undeclared,,
-85,,77.0,"Sekona, Jamar",DL,6-3,290.0,R-Jr.,"Fairfax, Calif.",Marin Catholic HS,Social Sciences,,
-86,,78.0,"Milek, Andrew",OL,6-5,305.0,R-Jr.,"Chandler, Ariz.",Brophy Prep,Sociology,,
-87,,79.0,"Benton, De’jon",DL,6-1,270.0,R-Sr.,"Pittsburg, Calif.",Pittsburg HS,Non-Governmental Organizations and Social Change,,
-88,,79.0,"Monheim, Jonah",OL,6-5,295.0,R-Jr.,"Moorpark, Calif.",Moorpark HS,Business Administration,,
-89,,82.0,"Overn, Austin",WR,5-10,175.0,So.,"Santa Ana, Calif.",Foothill HS,Real Estate Development,,
-90,,82.0,"Ragsdale, Vincent",DB,5-11,180.0,Sr.,"San Juan Capistrano, Calif.",JSerra Catholic HS,Real Estate Development,,
-91,,84.0,"Tabaracci, Carson",TE,6-2,225.0,R-Fr.,"Park City, Utah",Park City HS / Utah,Communication,,
-92,,87.0,"McRee, Lake",TE,6-4,245.0,R-So.,"Austin, Texas",Lake Travis HS,Communication,,
-93,,89.0,"Russell, Jordan",DL,6-0,250.0,Sr.,"Oceanside, Calif.",Marysville Getchell HS / Simon Fraser,History,,
-94,,90.0,"Mobley, Colin",DL,6-3,290.0,R-So.,"Washington, D.C.",DeMatha Catholic HS,Undeclared,,
-95,,92.0,"Barrs, Kyon",DL,6-2,290.0,R-Sr.,"Murrieta, Calif.",Murrieta Mesa / Arizona,Master's: Gerontology • Bachelor's: General Studies – Sports and Society,,
-96,,93.0,"Astani, Sinjun",DL,6-4,255.0,R-Sr.,"Malibu, Calif.",Loyola HS / San José State,Master's: Communication Management • Bachelor's: Communication,,
-97,,94.0,"Pepe, Kobe",DL,6-2,320.0,R-Jr.,"Long Beach, Calif.",St. John Bosco HS,Social Sciences,,
-98,,95.0,"Otte, Luke",TE,6-5,200.0,So.,"Simi Valley, Calif.",Simi Valley HS / Mira Mar CC,Political Economy,,
-99,,97.0,"Barquet Jr., Earl",DL,6-2,275.0,R-Sr.,"Marrero, La.",John Ehret HS / TCU,Non-Governmental Organizations and Social Change,,
-100,,98.0,"White, Garth",PK-P,6-3,220.0,Jr.,"Westlake, Calif.",Oaks Christian HS / Ventura JC,Economics and Communication,,
-101,,99.0,"Sullivan, Jack",DL,6-5,275.0,R-Sr.,"Plainfield, Ill.",Plainfield East HS / Purdue,Master's: Gerontology • Bachelor's: Professional Flight Technology and Aviation Management,,
-0,,,Lincoln Riley,,,,,,,,,C. & J. Elerding Head Football Coach
-1,,,Alex Grinch,,,,,,,,,Defensive Coordinator / Safeties
-2,,,Zach Hanson,,,,,,,,,Tight Ends
-3,,,Josh Henson,,,,,,,,,Offensive Coordinator / Offensive Line
-4,,,Luke Huard,,,,,,,,,Inside Wide Receivers Coach
-5,,,Roy Manning,,,,,,,,,Outside Linebackers / Nickels / Assistant Head Coach for Defense
-6,,,Kiel McDonald,,,,,,,,,Running Backs
-7,,,Brian Odom,,,,,,,,,Inside Linebackers / Associate Head Coach for Defense
-8,,,Shaun Nua,,,,,,,,,Defensive Line
-9,,,Dennis Simmons,,,,,,,,,Assistant Head Coach / Outside Wide Receivers Coach / Offensive Passing Game Coordinator
-10,,,Donte Williams,,,,,,,,,Defensive Backs / Defensive Passing Game Coordinator
-11,,,Bennie Wylie,,,,,,,,,Director of Football Sports Performance
-12,,,Zach Crabtree,,,,,,,,,Offensive Graduate Assistant/Offensive Line
-13,,,Trey Tinsley,,,,,,,,,Offensive Graduate Assistant
-14,,,Will Johnson,,,,,,,,,Defensive Graduate Assistant/Secondary
-15,,,Peyton Pelluer,,,,,,,,,Defensive Graduate Assistant/Linebackers
-16,,,Ryan Dougherty,,,,,,,,,Senior Special Team Analyst/Assistant Special Teams Coordinator
-17,,,Derek Fa'avi,,,,,,,,,Offensive Analyst
-18,,,Greg Brown,,,,,,,,,Senior Defensive Analyst
-19,,,Parker Henry,,,,,,,,,Senior Defensive Analyst/Assistant Linebackers
-20,,,Taylor Mays,,,,,,,,,Defensive Analyst
-21,,,Bookie Radley-Hiles,,,,,,,,,Defensive Analyst
-22,,,Caesar Martinez,,,,,,,,,Assistant Director of Football Sports Performance
-23,,,Drew Smith,,,,,,,,,Assistant Director of Football Sports Performance
-24,,,Adam Thackery,,,,,,,,,Assistant Director of Football Sports Performance
-25,,,Jackson Polk,,,,,,,,,Assistant Director of Sports Science
-26,,,Caleb Withrow,,,,,,,,,Assistant Director of Football Sports Performance
-27,,,Eric Espinoza,,,,,,,,,Director of Video Operations
-28,,,Alex Nederhoff,,,,,,,,,Football Video & Systems Analyst
-0,,,Ed Stewart,,,,,,,,,Executive Senior Associate Athletic Director for Football Administration
-1,,,Dave Emerick,,,,,,,,,Senior Associate Athletic Director for Football / General Manager
-2,,,Clarke Stroud,,,,,,,,,Director of Football Operations
-3,,,Ben Hynds,,,,,,,,,Assistant Director of Football Operations
-4,,,Cheryl Taplin,,,,,,,,,Executive Assistant to Head Coach / Assistant Director of Operations
-5,,,Chris Carter,,,,,,,,,Director of Player Development
-6,,,Brittany Thackery,,,,,,,,,Director of Player Engagement
-7,,,Annie Hanson,,,,,,,,,Executive Director of Football Recruiting
-8,,,Morgan Laurence,,,,,,,,,Assistant Director of Recruiting Operations
-9,,,Gavin Morris,,,,,,,,,Assistant Athletic Director / Director of Player Relations
-10,,,Drew Fox,,,,,,,,,Assistant Director of Player Personnel
-11,,,Weston Zernechel,,,,,,,,,Assistant Director of Player Personnel
-12,,,Radmen Niven,,,,,,,,,Executive Director of Football Marketing and Branding
-13,,,Geno Velasco,,,,,,,,,Director of Cinematography and Post Production
-14,,,Rob Washington,,,,,,,,,Director of Content
-15,,,Juan Reyes,,,,,,,,,Director of Digital Strategy
-16,,,Jonathan Chaves,,,,,,,,,Art Director
+,Statistic,#,Name,Pos.,Ht.,Wt.,Year,Hometown,Current School Name,Last School,Major,Image,Title
+0,,0.0,"Foreman, Korey",DL,6-4,235.0,Jr.,"Corona, Calif",USC,Centennial HS,Communication,,
+1,,0.0,"Lloyd, MarShawn",RB,5-9,215.0,R-Jr.,"Wilmington, Del.",USC,DeMatha Catholic HS / South Carolina,Social Sciences,,
+2,,1.0,"Branch, Zachariah",WR,5-10,175.0,Fr.,"Las Vegas, Nev.",USC,Bishop Gorman HS,Real Estate Development,,
+3,,1.0,"Jackson, Domani",DB,6-1,190.0,So.,"Santa Ana, Calif.",USC,Mater Dei HS,Communication,,
+4,,2.0,"Height, Romello",RUSH,6-3,230.0,R-Jr.,"Dublin, Ga.",USC,Dublin HS / Auburn,American Popular Culture,,
+5,,2.0,"Rice, Brenden",WR,6-3,210.0,Sr.,"Chandler, Ariz.",USC,Hamilton HS / Colorado,American Popular Culture,,
+6,,4.0,"Williams, Mario",WR,5-9,180.0,Jr.,"Tampa, Fla.",USC,Plant City HS / Oklahoma,Communication,,
+7,,4.0,"Williams, Max",DB,5-9,185.0,R-Sr.,"Carson, Calif.",USC,Serra HS,Master's: Gerontology • Bachelor's: Real Estate Development,,
+8,,6.0,"Jones, Austin",RB,5-10,205.0,R-Sr.,"Antioch, Calif.",USC,Bishop O’Dowd HS / Stanford,Communication,,
+9,,6.0,"Lucas, Anthony",DL,6-5,295.0,So.,"Scottsdale, Ariz.",USC,Chapparal HS / Texas A&M,Undeclared,,
+10,,7.0,"Bullock, Calen",DB,6-3,190.0,Jr.,"Pasadena, Calif",USC,John Muir HS,Communication,,
+11,,7.0,"Moss, Miller",QB,6-2,210.0,R-So.,"Los Angeles, Calif.",USC,Bishop Alemany HS,"Law, History and Culture",,
+12,,8.0,"Branch, Zion",DB,6-2,210.0,R-Fr.,"Las Vegas, Nev.",USC,Bishop Gorman HS,Undeclared,,
+13,,8.0,"Nelson, Malachi",QB,6-3,180.0,Fr.,"Los Alamitos, Calif.",USC,Los Alamitos HS,Communication,,
+14,,9.0,"Davis, Raesjon",ILB,6-1,225.0,Jr.,"Norco, Calif.",USC,Mater Dei HS,Communication,,
+15,,9.0,"Jackson III, Michael",WR,6-0,210.0,Jr.,"Las Vegas, Nev.",USC,Desert Pines HS,Real Estate Development,,
+16,,10.0,"Hudson, Kyron",WR,6-1,200.0,R-So.,"Duarte, Calif.",USC,Mater Dei HS,Undeclared,,
+17,,10.0,"Muhammad, Jamil",RUSH,6-1,240.0,R-Sr.,"Madison, Ala.",USC,James Clemens HS / Georgia State,Master's: Social Entrepreneurship • Bachelor's: Social Entrepreneurship,,
+18,,13.0,"Cobb, Mason",ILB,6-0,230.0,Sr.,"Provo, Utah",USC,Provo HS / Oklahoma State,Social Sciences,,
+19,,13.0,"Williams, Caleb",QB,6-1,220.0,Jr.,"Washington, D.C.",USC,Gonzaga College HS / Oklahoma,Communication,,
+20,,14.0,"Brown, Raleek",RB,5-8,185.0,So.,"Santa Ana, Calif.",USC,Mater Dei HS,Communication,,
+21,,14.0,"Covington, Jacobe",DB,6-2,200.0,R-Jr.,"Chandler, Ariz.",USC,Saguaro HS / Washington,American Popular Culture,,
+22,,15.0,"Beavers Jr., Anthony",DB,6-1,210.0,R-So.,"Baldwin Hills, Calif.",USC,St. Bernard HS,Psychology,,
+23,,15.0,"Singer, Dorian",WR,6-0,180.0,Jr.,"Saint Paul, Minn.",USC,Pinnacle HS / Arizona,Communication,,
+24,,16.0,"Brown, Prophet",DB,5-11,190.0,R-So.,"Sacramento, Calif.",USC,Monterey Trail HS,Communication,,
+25,,16.0,"Washington, Tahj",WR,5-10,175.0,R-Sr.,"Marshall, Texas",USC,Marshall HS / Memphis,Social Sciences,,
+26,,17.0,"Jensen, Jake",QB,6-1,225.0,Jr.,"Pleasant Grove, Utah",USC,Pleasant Grove HS / BYU / Contra Costa JC,Non-Governmental Organizations and Social Change,,
+27,,17.0,"Roland-Wallace, Christian",DB,6-0,205.0,R-Sr.,"Palmdale, Calif.",USC,Williams J. Knight HS / Arizona,Master’s: Gerontology • Bachelor’s: Philosophy,,
+28,,18.0,"Gentry, Eric",ILB,6-6,205.0,Jr.,"Philadelphia, Pa.",USC,Saints Neumann Goretti HS / Arizona State,American Popular Culture,,
+29,,18.0,"Wolfe, Jude",TE,6-5,250.0,R-Sr.,"Laguna Hills, Calif.",USC,St. John Bosco,Master's: Communication Management • Bachelor's: Real Estate Development,,
+30,,19.0,"Smith, Jaylin",DB,5-11,180.0,Jr.,"Palmdale, Calif.",USC,Bishop Alemany HS,Communication,,
+31,,21.0,"Joyner, Quinten",RB,5-11,200.0,Fr.,"Paige, Texas",USC,Manor HS,Communication,,
+32,,21.0,"McCutchin, Latrell",DB,6-1,190.0,Jr.,"Austin, Texas",USC,LBJ Early College HS / Oklahoma,American Studies and Ethnicity,,
+33,,22.0,"Barlow, Darwin",RB,6-0,220.0,R-Sr.,"Newton, Texas",USC,Newton / TCU,Communication,,
+34,,22.0,"Wright, Ceyair",DB,6-0,180.0,R-So.,"Los Angeles, Calif.",USC,Loyola HS,Communication,,
+35,,23.0,"Jackson Jr., Joshua",DB,6-1,185.0,R-Jr.,"Westminster, Calif",USC,Narbonne HS,Communication,,
+36,,24.0,"Lemon, Makai",WR,5-11,180.0,Fr.,"Los Alamitos, Calif.",USC,Los Alamitos HS,Communication,,
+37,,24.0,"Pierce, Christian",DB,6-1,190.0,Fr.,"Fontana, Calif.",USC,Rancho Cucamonga HS,Astronomy,,
+38,,25.0,"Curtis, Tackett",ILB,6-2,220.0,Fr.,"Many, La.",USC,Many HS,Business Administration,,
+39,,26.0,"Ross, Fabian",DB,6-0,205.0,So.,"Las Vegas, Nev.",USC,Bishop Gorman HS,Undeclared,,
+40,,27.0,"Peterson, A'Marion",RB,6-0,205.0,Fr.,"Wichita Falls, Texas",USC,Hirschi HS,Undeclared,,
+41,,27.0,"Shaw, Bryson",DB,6-0,190.0,R-Sr.,"Eldersburg, Md.",USC,Bullis School / Ohio State,Political Science,,
+42,,28.0,"Gordon, Xamarion",DB,6-1,205.0,R-So.,"Houston, Texas",USC,Warren HS,Communication,,
+43,,28.0,"Roy, Gage",QB,6-2,200.0,So.,"Dallas, Texas",USC,Jesuit Dallas HS,Real Estate Development,,
+44,,29.0,"Crawford, Maliki",DB,6-4,170.0,Fr.,"Oxnard, Calif.",USC,Pacifica HS,Undeclared,,
+45,,30.0,"Thompson Jr., Chris",ILB,6-2,220.0,Sr.,"Duncanville, Texas",USC,Duncanville HS / Auburn,Business Administration,,
+46,,31.0,"Taleni, Tyrone",DL,6-2,270.0,R-Sr.,"Savai’i, Western Samoa",USC,Vaiola College HS / Mt. San Antonio JC / Kansas State,Human Biology,,
+47,,31.0,"Ward, Isaac",QB,5-10,185.0,R-Jr.,"Athens, Ga.",USC,Clarke Central HS,American Popular Culture,,
+48,,34.0,"Colombo, Matt",RB,5-11,200.0,R-Jr.,"El Segundo, Calif",USC,St. John Bosco HS,Business Administration,,
+49,,35.0,"McAllister, Michael",P,6-2,215.0,R-Jr.,"Carlsbad, Calif.",USC,La Costa Canyon HS,Communication,,
+50,,36.0,"Rose, Will",P,6-1,190.0,R-Sr.,"Long Beach, Calif.",USC,St. John Bosco HS,Real Estate Development,,
+51,,37.0,"Czaplicki, Eddie",PK/K,6-1,200.0,Jr.,"Charlotte, N.C.",USC,Providence HS / Arizona State,Economics,,
+52,,37.0,"Thompkins, Devan",DL,6-5,260.0,R-Fr.,"Stockton, Calif.",USC,Edison HS,Undeclared,,
+53,,39.0,"Casasante, Jac",SNP,6-0,225.0,R-Sr.,"Altadena, Calif.",USC,Loyola HS,Sociology,,
+54,,39.0,"Pomerantz, Garrett",RUSH,6-2,220.0,So.,"Las Vegas, Nev.",USC,Bishop Gorman HS,Health Promotion,,
+55,,40.0,"Shamblin, Ty",WR,5-11,195.0,R-Jr.,"Carpinteria, Calif.",USC,Oaks Christian HS,Business Administration,,
+56,,40.0,"Simpson, L",DB,6-0,200.0,R-Jr.,"Chatsworth, Calif.",USC,Sierra Canyon HS / Loyola Marymount,Communication and Sociology,,
+57,,41.0,"Madden, Garrison",ILB,6-3,215.0,R-Fr.,"Hampton, Ga.",USC,Dutchtown HS,,,
+58,,42.0,"Ryan, Danny",WR,6-1,200.0,R-Jr.,"Larkspur, Calif.",USC,St. Ignatius Prep,Real Estate Development,,
+59,,42.0,"Sleep-Dalton, Aadyn",P,6-1,195.0,Sr.,"Geelong, Australia",USC,,Health and Human Sciences,,
+60,,44.0,"Greene, Sam",RUSH,6-1,240.0,Fr.,"Washington, D.C.",USC,St. Frances Academy,Undeclared,,
+61,,44.0,"Zamora, Josiah",WR,5-10,185.0,R-So.,"Monrovia, Calif.",USC,Mater Dei HS,"Law, History and Culture",,
+62,,46.0,"Lynch, Denis",PK,5-8,185.0,R-So.,"Newbury Park, Calif.",USC,Newbury Park HS,Real Estate Development,,
+63,,46.0,"Nerhus, Corey",WR,5-9,215.0,Jr.,"Huntington Beach, Calif.",USC,Mater Dei / Orange Coast CC,Human Biology,,
+64,,47.0,"Ta'ufo'ou, Stanley",DL,6-2,265.0,R-Sr.,"Simi Valley, Calif.",USC,Grace Brethren HS,Non-Governmental Organizations and Social Change,,
+65,,48.0,"Jimenez-Fulton, Daniel",DB,5-10,195.0,R-So.,"Chandler, Ariz.",USC,Chandler HS,Business Administration,,
+66,,48.0,"Meunier, Daniel",SNP,5-10,225.0,Sr.,"Lynwood, Calif",USC,Bishop Mora Salesian HS / El Camino JC,Psychology,,
+67,,51.0,"Byrd, Solomon",RUSH,6-3,250.0,R-Sr.,"Palmdale, Calif.",USC,Knight HS / Wyoming,Master's: Gerontology • Bachelor's: American Studies,,
+68,,52.0,"Bravos, Theo",ILB,5-10,210.0,Jr.,"Yuba City, Calif.",USC,Sutter Union HS,Business Administration,,
+69,,52.0,"Kingston, Jarrett",OL,6-4,300.0,R-Sr.,"Anderson, Calif.",USC,Anderson HS / Washington State,Master's: Gerontology • Bachelor's: Social Science,,
+70,,53.0,"Lee, Shane",ILB,6-0,245.0,R-Sr.,"Burtonsville, Md.",USC,St. Frances Academy / Alabama,Master's: Aging Services Management • Bachelor's: Marketing,,
+71,,53.0,"Weneta, Nathan",SNP,6-0,220.0,R-Jr.,"San Diego, Calif.",USC,Cathedral Catholic HS / Purdue,"Philosophy, Politics and Economics",,
+72,,56.0,"Dewerk, Andres",OL,6-7,325.0,R-Jr.,"San Jose, Calif.",USC,Los Gatos HS,Real Estate Development,,
+73,,57.0,"Dedich, Justin",OL,6-2,295.0,R-Sr.,"Temecula, Calif.",USC,Chaparral HS,Master's: Public Health • Bachelor's: Human Biology,,
+74,,57.0,"Marchetti, Roman",ILB,6-2,210.0,So.,"Tustin, Calif",USC,Foothill HS,Journalism,,
+75,,58.0,"Tuliaupupu, Solomon",DL,6-3,250.0,R-Sr.,"Santa Ana, Calif.",USC,Mater Dei,Master's: Project Management • Bachelor's: Business Administration,,
+76,,62.0,"Lovelace, Cooper",OL,6-5,300.0,R-Sr.,"Prairie Village, Kan.",USC,Shawnee Mission East HS / Butler CC,Communication,,
+77,,65.0,"Tucker, Grant",OL,6-2,260.0,Sr.,"Colorado Springs, Colo.",USC,Rampart HS,Business Administration,,
+78,,66.0,"Quinones, Gino",OL,6-3,300.0,R-Sr.,"Ewa Beach, Hawaii",USC,Saint Louis HS,Geodesign,,
+79,,67.0,"O'Connor, Kilian",OL,6-1,285.0,So.,"Ladera Ranch, Calif.",USC,Santa Margarita Catholic HS,Business Administration,,
+80,,71.0,"Tarquin, Michael",OL,6-5,310.0,R-Sr.,"Ocala, Fla.",USC,North Marion / Florida,Master's: Gerontology • Bachelor's: Criminology,,
+81,,72.0,"Paige, Elijah",OL,6-7,305.0,Fr.,"Phoenix, Ariz.",USC,Pinnacle HS,Journalism,,
+82,,76.0,"Murphy, Mason",OL,6-5,310.0,R-So.,"Riverside, CA",USC,JSerra Catholic HS,Undeclared,,
+83,,77.0,"Sekona, Jamar",DL,6-3,290.0,R-Jr.,"Fairfax, Calif.",USC,Marin Catholic HS,Social Sciences,,
+84,,78.0,"Milek, Andrew",OL,6-5,305.0,R-Jr.,"Chandler, Ariz.",USC,Brophy Prep,Sociology,,
+85,,79.0,"Benton, De’jon",DL,6-1,270.0,R-Sr.,"Pittsburg, Calif.",USC,Pittsburg HS,Non-Governmental Organizations and Social Change,,
+86,,79.0,"Monheim, Jonah",OL,6-5,295.0,R-Jr.,"Moorpark, Calif.",USC,Moorpark HS,Business Administration,,
+87,,82.0,"Overn, Austin",WR,5-10,175.0,So.,"Santa Ana, Calif.",USC,Foothill HS,Real Estate Development,,
+88,,82.0,"Ragsdale, Vincent",DB,5-11,180.0,Sr.,"San Juan Capistrano, Calif.",USC,JSerra Catholic HS,Real Estate Development,,
+89,,84.0,"Tabaracci, Carson",TE,6-2,225.0,R-Fr.,"Park City, Utah",USC,Park City HS / Utah,Communication,,
+90,,87.0,"McRee, Lake",TE,6-4,245.0,R-So.,"Austin, Texas",USC,Lake Travis HS,Communication,,
+91,,90.0,"Mobley, Colin",DL,6-3,290.0,R-So.,"Washington, D.C.",USC,DeMatha Catholic HS,Undeclared,,
+92,,92.0,"Barrs, Kyon",DL,6-2,290.0,R-Sr.,"Murrieta, Calif.",USC,Murrieta Mesa / Arizona,Master's: Gerontology • Bachelor's: General Studies – Sports and Society,,
+93,,93.0,"Astani, Sinjun",DL,6-4,255.0,R-Sr.,"Malibu, Calif.",USC,Loyola HS / San José State,Master's: Communication Management • Bachelor's: Communication,,
+94,,94.0,"Pepe, Kobe",DL,6-2,320.0,R-Jr.,"Long Beach, Calif.",USC,St. John Bosco HS,Social Sciences,,
+95,,95.0,"Otte, Luke",TE,6-5,250.0,So.,"Simi Valley, Calif.",USC,Simi Valley HS / Mira Mar CC,Political Economy,,
+96,,97.0,"Barquet Jr., Earl",DL,6-2,275.0,R-Sr.,"Marrero, La.",USC,John Ehret HS / TCU,Non-Governmental Organizations and Social Change,,
+97,,98.0,"White, Garth",PK-P,6-3,220.0,Jr.,"Westlake, Calif.",USC,Oaks Christian HS / Ventura JC,Economics and Communication,,
+98,,99.0,"Sullivan, Jack",DL,6-5,275.0,R-Sr.,"Plainfield, Ill.",USC,Plainfield East HS / Purdue,Master's: Gerontology • Bachelor's: Professional Flight Technology and Aviation Management,,
+0,,,Lincoln Riley,,,,,,USC,,,,C. & J. Elerding Head Football Coach
+1,,,Alex Grinch,,,,,,USC,,,,Defensive Coordinator / Safeties
+2,,,Zach Hanson,,,,,,USC,,,,Tight Ends
+3,,,Josh Henson,,,,,,USC,,,,Offensive Coordinator / Offensive Line
+4,,,Luke Huard,,,,,,USC,,,,Inside Wide Receivers Coach
+5,,,Roy Manning,,,,,,USC,,,,Outside Linebackers / Nickels / Assistant Head Coach for Defense
+6,,,Kiel McDonald,,,,,,USC,,,,Running Backs
+7,,,Brian Odom,,,,,,USC,,,,Inside Linebackers / Associate Head Coach for Defense
+8,,,Shaun Nua,,,,,,USC,,,,Defensive Line
+9,,,Dennis Simmons,,,,,,USC,,,,Assistant Head Coach / Outside Wide Receivers Coach / Offensive Passing Game Coordinator
+10,,,Donte Williams,,,,,,USC,,,,Defensive Backs / Defensive Passing Game Coordinator
+11,,,Bennie Wylie,,,,,,USC,,,,Director of Football Sports Performance
+12,,,Zach Crabtree,,,,,,USC,,,,Offensive Graduate Assistant/Offensive Line
+13,,,Trey Tinsley,,,,,,USC,,,,Offensive Graduate Assistant
+14,,,Will Johnson,,,,,,USC,,,,Defensive Graduate Assistant/Secondary
+15,,,Peyton Pelluer,,,,,,USC,,,,Defensive Graduate Assistant/Linebackers
+16,,,Ryan Dougherty,,,,,,USC,,,,Senior Special Team Analyst/Assistant Special Teams Coordinator
+17,,,Derek Fa'avi,,,,,,USC,,,,Offensive Analyst
+18,,,Greg Brown,,,,,,USC,,,,Senior Defensive Analyst
+19,,,Parker Henry,,,,,,USC,,,,Senior Defensive Analyst/Assistant Linebackers
+20,,,Taylor Mays,,,,,,USC,,,,Defensive Analyst
+21,,,Bookie Radley-Hiles,,,,,,USC,,,,Defensive Analyst
+22,,,Caesar Martinez,,,,,,USC,,,,Assistant Director of Football Sports Performance
+23,,,Drew Smith,,,,,,USC,,,,Assistant Director of Football Sports Performance
+24,,,Adam Thackery,,,,,,USC,,,,Assistant Director of Football Sports Performance
+25,,,Jackson Polk,,,,,,USC,,,,Assistant Director of Sports Science
+26,,,Caleb Withrow,,,,,,USC,,,,Assistant Director of Football Sports Performance
+27,,,Eric Espinoza,,,,,,USC,,,,Director of Video Operations
+28,,,Alex Nederhoff,,,,,,USC,,,,Football Video & Systems Analyst
+0,,,Ed Stewart,,,,,,USC,,,,Executive Senior Associate Athletic Director for Football Administration
+1,,,Dave Emerick,,,,,,USC,,,,Senior Associate Athletic Director for Football / General Manager
+2,,,Clarke Stroud,,,,,,USC,,,,Director of Football Operations
+3,,,Ben Hynds,,,,,,USC,,,,Assistant Director of Football Operations
+4,,,Cheryl Taplin,,,,,,USC,,,,Executive Assistant to Head Coach / Assistant Director of Operations
+5,,,Chris Carter,,,,,,USC,,,,Director of Player Development
+6,,,Brittany Thackery,,,,,,USC,,,,Director of Player Engagement
+7,,,Annie Hanson,,,,,,USC,,,,Executive Director of Football Recruiting
+8,,,Morgan Laurence,,,,,,USC,,,,Assistant Director of Recruiting Operations
+9,,,Gavin Morris,,,,,,USC,,,,Assistant Athletic Director / Director of Player Relations
+10,,,Drew Fox,,,,,,USC,,,,Assistant Director of Player Personnel
+11,,,Weston Zernechel,,,,,,USC,,,,Assistant Director of Player Personnel
+12,,,Radmen Niven,,,,,,USC,,,,Executive Director of Football Marketing and Branding
+13,,,Geno Velasco,,,,,,USC,,,,Director of Cinematography and Post Production
+14,,,Rob Washington,,,,,,USC,,,,Director of Content
+15,,,Juan Reyes,,,,,,USC,,,,Director of Digital Strategy
+16,,,Jonathan Chaves,,,,,,USC,,,,Art Director

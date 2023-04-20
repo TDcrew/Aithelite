@@ -1,139 +1,136 @@
-,Number,Name,Position,Height,Weight,Class,Hometown,High school,Previous School,Social
-0,0.0,Jordan Anthony,Wide Receiver,5-9,156 lbs.,Redshirt Freshman,"Tylertown, Miss.",Tylertown,,twitter  instagram
-1,0.0,Deone Walker,Defensive Lineman,6-6,348 lbs.,Sophomore,"Detroit, Mich.",Cass Tech,,twitter  instagram
-2,1.0,Ray Davis,Running Back,5-10,216 lbs.,Senior,"San Francisco, Calif.",Blair Academy,Vanderbilt,
-3,3.0,Alex Afari Jr.,Defensive Back,6-2,214 lbs.,Sophomore,"Cincinnati, Ohio",Lakota West,,twitter  instagram
-4,3.0,Dekel Crowdus,Wide Receiver,5-10,171 lbs.,Sophomore,"Lexington, Ky.",Frederick Douglass,,instagram
-5,4.0,Jalen Geiger,Defensive Back,6-1,199 lbs.,Senior,"Columbia, S.C.",Spring Valley,,twitter  instagram  nil
-6,4.0,JuTahn McClain,Running Back,5-9,198 lbs.,Senior,"Fairfield, Ohio",Fairfield,,twitter  instagram
-7,5.0,Anthony Brown,Wide Receiver,5-10,168 lbs.,Freshman,"Springfield, Ohio",Springfield,,
-8,6.0,"Jonquis ""JQ"" Hardaway",Defensive Back,6-3,194 lbs.,Sophomore,"Columbus, Ga.",Central Phenix City (Ala.),Cincinnati,
-9,6.0,Dane Key,Wide Receiver,6-3,195 lbs.,Sophomore,"Lexington, Ky.",Frederick Douglass,,twitter  instagram
-10,7.0,Barion Brown,Wide Receiver,6-1,166 lbs.,Sophomore,"Nashville, Tenn.",Pearl-Cohn,,twitter  instagram
-11,8.0,Izayah Cummings,Tight End,6-3,232 lbs.,Senior,"Louisville, Ky.",Male,,twitter  instagram
-12,8.0,Octavious Oxendine,Defensive Lineman,6-1,276 lbs.,Senior,"Radcliff, Ky.",North Hardin,,twitter  instagram
-13,9.0,Tayvion Robinson,Wide Receiver,5-11,194 lbs.,Redshirt Fifth Year,"Virginia Beach, Va.",Cox,Virginia Tech,twitter  instagram
-14,9.0,Keeshawn Silver,Defensive Lineman,6-4,322 lbs.,Sophomore,"Rocky Mount, N.C.",Rocky Mount,North Carolina,
-15,10.0,Jantzen Dunn,Defensive Back,6-0,182 lbs.,Sophomore,"Bowling Green, Ky.",South Warren,Ohio State,
-16,11.0,Zion Childress,Defensive Back,6-0,201 lbs.,Junior,"Houston, Texas",New Caney,Texas State,twitter  instagram
-17,12.0,Chance Poore,Kicker,6-2,213 lbs.,Redshirt Fifth Year,"Anderson, S.C.",Westside,,twitter  instagram  nil
-18,12.0,Kaiya Sheron,Quarterback,6-3,210 lbs.,Sophomore,"Somerset, Ky.",Somerset,,twitter  instagram
-19,13.0,Devin Leary,Quarterback,6-1,217 lbs.,Senior,"Sicklerville, N.J.",Timber Creek,N.C. State,
-20,13.0,J.J. Weaver,Outside Linebacker,6-5,244 lbs.,Senior,"Louisville, Ky.",Moore Traditional,,twitter  instagram  nil
-21,14.0,Ty Bryant,Defensive Back,6-0,187 lbs.,Freshman,"Lexington, Ky.",Frederick Douglass,,
-22,15.0,Destin Wade,Quarterback,6-3,223 lbs.,Redshirt Freshman,"Spring Hill, Tenn.",Summit,,twitter  instagram
-23,16.0,Deuce Hogan,Quarterback,6-4,217 lbs.,Junior,"Southlake, Texas",Grapevine Faith Christian,Iowa,instagram
-24,18.0,Brandon White,Wide Receiver,5-9,167 lbs.,Redshirt Freshman,"Cincinnati, Ohio",Archbishop Moeller,,twitter  instagram
-25,19.0,Shane Hamm,Quarterback,5-11,209 lbs.,Sophomore,"North Jackson, Ohio",Hoban,Dayton,
-26,20.0,Keaten Wade,Outside Linebacker,6-5,250 lbs.,Sophomore,"Spring Hill, Tenn.",Summit,,twitter  instagram
-27,21.0,Dee Beckwith,Wide Receiver,6-5,236 lbs.,Junior,"Florence, Ala.",Florence,Tennessee,twitter  instagram
-28,21.0,Andre Stewart,Defensive Back,5-11,184 lbs.,Redshirt Freshman,"Atlanta, Ga.",North Cobb,,twitter  instagram
-29,23.0,Andru Phillips,Defensive Back,6-0,187 lbs.,Junior,"Mauldin, S.C.",Mauldin,,twitter  instagram
-30,24.0,Elijah Reed,Defensive Back,6-3,185 lbs.,Redshirt Freshman,"Louisville, Ky.",Pleasure Ridge Park,,twitter  instagram
-31,25.0,Jordan Lovett,Defensive Back,6-2,195 lbs.,Sophomore,"Radcliff, Ky.",North Hardin,,instagram  twitter
-32,26.0,Ramon Jefferson,Running Back,5-10,210 lbs.,Redshirt Fifth Year,"Bronx, N.Y.",Truman,Sam Houston/Garden City CC/Maine,twitter  instagram
-33,28.0,Jordan Robinson,Defensive Back,6-4,208 lbs.,Redshirt Sophomore,"Columbia, S.C.",Westwood,Livingstone College,instagram
-34,29.0,Jackson Schulz,Defensive Back,6-2,202 lbs.,Sophomore,"Louisville, Ky.",Trinity,,twitter  instagram
-35,29.0,La'Vell Wright,Running Back,6-0,214 lbs.,Redshirt Sophomore,"Louisville, Ky.",North Hardin,,twitter  instagram
-36,31.0,Maxwell Hairston,Defensive Back,6-1,181 lbs.,Sophomore,"West Bloomfield, Mich.",West Bloomfield,,twitter  instagram
-37,32.0,Trevin Wallace,Inside Linebacker,6-2,241 lbs.,Junior,"Jesup, Ga.",Wayne County,,twitter  instagram
-38,33.0,Tomiwa Durojaiye,Defensive Lineman,6-4,278 lbs.,Redshirt Freshman,"Middletown, Del.",Middletown,,twitter  instagram
-39,34.0,Trey Dennis,Wide Receiver,5-8,138 lbs.,Junior,"Lexington, Ky.",Sayre,,twitter  instagram
-40,34.0,Brady Pierce,Defensive Back,6-0,183 lbs.,Sophomore,"Spring Hill, Tenn.",Summit,,twitter  instagram
-41,35.0,Londyn Craft,Defensive Back,6-0,207 lbs.,Redshirt Fifth Year,"Rio Rancho, N.M.",IMG Academy,Mississippi State,
-42,35.0,Sean O'Horo,Running Back,5-11,182 lbs.,Sophomore,"Youngstown, Ohio",Boardman,,twitter  instagram
-43,37.0,Isaac Dixon,Running Back,5-11,199 lbs.,Sophomore,"Belfry, Ky.",Belfry,,twitter  instagram
-44,37.0,Edward McKee,Inside Linebacker,6-1,204 lbs.,Sophomore,"Fort Worth, Texas",IMG Academy,,twitter  instagram
-45,39.0,Jackson Smith,Kicker,5-11,204 lbs.,Redshirt Freshman,"Danville, Ky.",Boyle County,,twitter  instagram
-46,40.0,Luke Fulton,Linebacker,6-4,225 lbs.,Senior,"Youngstown, Ohio",Cardinal Mooney,Michigan State,twitter  instagram
-47,42.0,Tyreese Fearbry,Outside Linebacker,6-5,233 lbs.,Redshirt Freshman,"Pittsburgh, Pa.",Perry Traditional Academy,,twitter  instagram
-48,44.0,Martez Thrower,Inside Linebacker,6-2,224 lbs.,Junior,"Rochelle, Ga.",Wilcox County,,twitter  instagram
-49,45.0,Jase Bruner,Inside Linebacker,6-2,227 lbs.,Senior,"Science Hill, Ky.",Somerset,,twitter  instagram
-50,45.0,Chy Rivers,Wide Receiver,5-8,164 lbs.,Freshman,"Baton Rouge, La.",Parkview Baptist,,
-51,47.0,Justice Dingle II,Fullback,6-3,261 lbs.,Redshirt Fifth Year,"Bowling Green, Ky.",Bowling Green,Georgia Tech,twitter  instagram  nil
-52,47.0,Jarard Mosely,Defensive Back,6-2,183 lbs.,Sophomore,"West Palm Beach, Fla.",Cardinal Newman,,twitter  instagram
-53,48.0,Jack Varga,Fullback,5-11,222 lbs.,Senior,"Louisville, Ky.",St. Xavier,,twitter  instagram  nil
-54,49.0,Jai Williams,Outside Linebacker,6-5,214 lbs.,Junior,"Lake Forest, Ill.",Lake Forest,,twitter  instagram
-55,50.0,Darrion Henry-Young,Defensive Lineman,6-4,264 lbs.,Junior,"Cincinnati, Ohio",Princeton,Ohio State,twitter  instagram
-56,50.0,Koby Keenum,Offensive Lineman,6-4,295 lbs.,Freshman,"Florence, Ala.",Mars Hill Bible School,,
-57,51.0,Tanner Bowles,Offensive Lineman,6-5,306 lbs.,Senior,"Glasgow, Ky.",Glasgow,Alabama,
-58,54.0,D’Eryk Jackson,Inside Linebacker,6-1,245 lbs.,Senior,"Dublin, Ga.",West Laurens,,twitter  instagram
-59,55.0,Noah Matthews,Outside Linebacker,6-5,237 lbs.,Redshirt Freshman,"Bridgeville, Del.",Woodbridge,,instagram
-60,55.0,Clay Perry,Long Snapper,6-0,199 lbs.,Senior,"Upton, Ky.",Central Hardin,,twitter  instagram
-61,56.0,Deondre Buford,Offensive Lineman,6-3,312 lbs.,Junior,"Detroit, Mich.",Martin Luther King,,twitter
-62,57.0,Jonathan Berry,Offensive Lineman,6-5,294 lbs.,Junior,"Stamping Ground, Ky.",Scott County,,twitter  instagram
-63,58.0,Lucas Padgett,Offensive Lineman,6-4,315 lbs.,Junior,"Birmingham, Ala.",La Cueva,,twitter  instagram
-64,59.0,Conner Long,Outside Linebacker,6-3,213 lbs.,Junior,"East Lansing, Mich.",East Lansing,,twitter  instagram
-65,62.0,Jager Burton,Offensive Lineman,6-4,307 lbs.,Sophomore,"Lexington, Ky.",Frederick Douglass,,twitter  instagram
-66,65.0,Grant Bingham,Offensive Lineman,6-5,321 lbs.,Redshirt Freshman,"Johnson County, Ky.",Johnson Central,,twitter  instagram
-67,67.0,Paul Rodriguez,Offensive Lineman,6-5,324 lbs.,Sophomore,"Mason, Ohio",William Mason,,twitter  instagram
-68,68.0,Kenneth Horsey,Offensive Lineman,6-3,311 lbs.,Redshirt Fifth Year,"Sanford, Fla.",Sanford Seminole,,twitter  instagram  nil
-69,69.0,Marques Cox,Offensive Lineman,6-5,311 lbs.,Senior,"Peoria, Ill.",Peoria,Northern Illinois,
-70,70.0,Nikolas Hall,Offensive Lineman,6-6,314 lbs.,Redshirt Freshman,"Austin, Texas",Akins,,twitter  instagram
-71,71.0,Malachi Wood,Offensive Lineman,6-8,283 lbs.,Freshman,"Richmond, Ky.",Madison Central,,
-72,72.0,Josh Jones,Offensive Lineman,6-6,343 lbs.,Junior,"Columbus, Ga.",Central-Phenix City-Ala.,,twitter  instagram
-73,74.0,David Wohlabaugh Jr.,Offensive Lineman,6-6,321 lbs.,Sophomore,"Stow, Ohio",Walsh Jesuit,,twitter  instagram
-74,75.0,Eli Cox,Offensive Lineman,6-4,311 lbs.,Senior,"Nicholasville, Ky.",West Jessamine,,twitter  instagram  nil
-75,77.0,Jeremy Flax,Offensive Lineman,6-6,325 lbs.,Senior,"Detroit, Mich.",Robichaud,Independence CC,twitter  instagram
-76,80.0,Brenden Bates,Tight End,6-5,251 lbs.,Redshirt Fifth Year,"Cincinnati, Ohio",Archbishop Moeller,,twitter  instagram  nil
-77,81.0,Cole Lanter,Wide Receiver,5-11,182 lbs.,Sophomore,"Danville, Ky.",Boyle County,,twitter  instagram
-78,82.0,Khamari Anderson,Tight End,6-5,238 lbs.,Freshman,"Detroit, Mich.",Cass Tech,,
-79,83.0,Jack Monday,Tight End,6-1,224 lbs.,Sophomore,"Lexington, Ky.",Lexington Catholic,,twitter  instagram
-80,84.0,Josh Kattus,Tight End,6-4,231 lbs.,Sophomore,"Cincinnati, Ohio",Archbishop Moeller,,twitter  instagram
-81,85.0,Jordan Dingle,Tight End,6-4,238 lbs.,Sophomore,"Bowling Green, Ky.",Bowling Green,,twitter  instagram
-82,86.0,Dylan Gary,Wide Receiver,6-4,198 lbs.,Sophomore,"Sugar Hill, Ga.",North Gwinnett,,twitter  instagram
-83,87.0,Josh Terrell,Wide Receiver,5-10,189 lbs.,Sophomore,"Fort Worth, Texas",Grapevine Faith Christian,,
-84,90.0,Tre’vonn Rybka,Defensive Lineman,6-4,276 lbs.,Junior,"Dickson, Tenn.",Dickson County,,twitter  instagram
-85,91.0,Sam Anaele,Defensive Lineman,6-4,286 lbs.,Junior,"Lagos, Nigeria","McDougle Technical Institute (Pompano Beach, Fla.)",,twitter  instagram
-86,92.0,Kahlil Saunders,Defensive Lineman,6-5,285 lbs.,Sophomore,"Huntsville, Ala.",Grissom,,twitter  instagram
-87,93.0,Wilson Berry,Punter,6-4,213 lbs.,Sophomore,"Maribyrnong, Australia",Maribyrnong College,,twitter
-88,95.0,Jamarius Dinkins,Defensive Lineman,6-5,280 lbs.,Sophomore,"Columbus, Ohio",Walnut Ridge,,twitter  instagram
-89,96.0,Tommy Ziesmer,Defensive Lineman,6-2,257 lbs.,Freshman,"Danville, Ky.",Boyle County,,
-90,97.0,Josaih Hayes,Defensive Lineman,6-3,317 lbs.,Senior,"Horn Lake, Miss.",Horn Lake,,twitter  instagram
-91,98.0,Isaiah Beasley,Defensive Lineman,5-11,292 lbs.,Senior,"Radcliff, Ky.",North Hardin,,twitter  instagram
-0,,Mark Stoops,Head Coach,,,,,,,
-1,,Vince Marrow,Associate Head Coach/Tight Ends/Recruiting Coordinator/NFL Liaison,,,,,,,
-2,,Brad White,Defensive Coordinator / Outside Linebackers,,,,,,,
-3,,Liam Coen,Offensive Coordinator/Quarterbacks,,,,,,,
-4,,Jay Boulware,Running Backs/Special Teams Coordinator,,,,,,,
-5,,Frank Buffano,Assistant Coach - Safeties,,,,,,,
-6,,Chris Collins,Assistant Coach - Defensive Backs,,,,,,,
-7,,Anwar Stewart,Assistant Coach - Defensive Line,,,,,,,
-8,,Mike Stoops,Assistant Coach - Inside Linebackers,,,,,,,
-9,,Scott Woodward,Assistant Coach - Wide Receivers,,,,,,,
-10,,Zach Yenser,Assistant Coach - Offensive Line,,,,,,,
-11,,Corey Edmond,Director of Performance – Football,,,,,,,
-12,,Mark Hill,Director of Performance / Head Strength Coach – Football,,,,,,,
-13,,Rafael Horton,Strength & Conditioning Coach,,,,,,,
-14,,Tyler Malone,Assistant Strength Coach (FB),,,,,,,
-15,,Bryan Berezowitz,Quality Control,,,,,,,
-16,,Josh Estes-Waugh,Quality Control,,,,,,,
-17,,Mark Perry,Quality Control,,,,,,,
-18,,Joe Scola,Quality Control,,,,,,,
-19,,C.J. Conrad,Quality Control - Offense,,,,,,,
-20,,Mike Priefer Jr.,Quality Control - Special Teams,,,,,,,
-21,,Eddie Gran,Special Assistant to the Head Coach,,,,,,,
-22,,Cam Garner,Graduate Assistant – Offense - Off the Field,,,,,,,
-23,,Dan Hebert,Graduate Assistant - Offense - Off the Field,,,,,,,
-24,,Kalon Humphries,Graduate Assistant – Defense,,,,,,,
-25,,Drake Jackson,Graduate Assistant - Offense,,,,,,,
-26,,Courtney Love,Graduate Assistant (Defense),,,,,,,
-27,,Andrew Verboys,Graduate Assistant – Offense,,,,,,,
-28,,Chris Morris,Director of Performance Science,,,,,,,
-29,,Josh Pruitt,Director of Football Operations,,,,,,,
-30,,Tim Owens,Director of Player Development,,,,,,,
-31,,Chase Heuke,Director of Recruiting/General Manager,,,,,,,
-32,,Jacob Noger,Creative Coordinator,,,,,,,
-33,,Brian Moriarty,Assistant Creative Director,,,,,,,
-34,,Robert Franco,Visual Media Coordinator/Recruit Producer,,,,,,,
-35,,Becky Sauceda,Football Dietitian,,,,,,,
-36,,Alyssa Kuman,Graduate Assistant Dietitian,,,,,,,
-37,,Christian Fiero,Coaching Video Coordinator (FB),,,,,,,
-38,,Danielle Braswell,Executive Director of Recruiting,,,,,,,
-39,,Stephen Gillette,Assistant Director of Scouting & Analytics,,,,,,,
-40,,Andrew Hunter,Assistant Director of Player Personnel (Defense),,,,,,,
-41,,Kristen Hawkins,Assistant Director of On-Campus Recruiting,,,,,,,
-42,,Ty Williams,Football Recruiting Assistant,,,,,,,
-43,,Brinkley Berch,Recruiting – Graduate Assistant,,,,,,,
-44,,Abby Stover,Administrative Assistant,,,,,,,
-45,,Melissa Tomlinson,Administrative Assistant,,,,,,,
+,Number,Name,Position,Height,Weight,Class,Hometown,High school,Current School Name,Previous School,Social
+0,0.0,Jordan Anthony,Wide Receiver,5-9,156 lbs.,Redshirt Freshman,"Tylertown, Miss.",Tylertown,Kentucky,,twitter  instagram
+1,0.0,Deone Walker,Defensive Lineman,6-6,348 lbs.,Sophomore,"Detroit, Mich.",Cass Tech,Kentucky,,twitter  instagram
+2,1.0,Ray Davis,Running Back,5-10,216 lbs.,Senior,"San Francisco, Calif.",Blair Academy,Kentucky,Vanderbilt,
+3,3.0,Alex Afari Jr.,Defensive Back,6-2,214 lbs.,Sophomore,"Cincinnati, Ohio",Lakota West,Kentucky,,twitter  instagram
+4,3.0,Dekel Crowdus,Wide Receiver,5-10,171 lbs.,Sophomore,"Lexington, Ky.",Frederick Douglass,Kentucky,,instagram
+5,4.0,Jalen Geiger,Defensive Back,6-1,199 lbs.,Senior,"Columbia, S.C.",Spring Valley,Kentucky,,twitter  instagram  nil
+6,4.0,JuTahn McClain,Running Back,5-9,198 lbs.,Senior,"Fairfield, Ohio",Fairfield,Kentucky,,twitter  instagram
+7,5.0,Anthony Brown,Wide Receiver,5-10,168 lbs.,Freshman,"Springfield, Ohio",Springfield,Kentucky,,instagram
+8,6.0,"Jonquis ""JQ"" Hardaway",Defensive Back,6-3,194 lbs.,Sophomore,"Columbus, Ga.",Central Phenix City (Ala.),Kentucky,Cincinnati,
+9,6.0,Dane Key,Wide Receiver,6-3,195 lbs.,Sophomore,"Lexington, Ky.",Frederick Douglass,Kentucky,,twitter  instagram
+10,7.0,Barion Brown,Wide Receiver,6-1,166 lbs.,Sophomore,"Nashville, Tenn.",Pearl-Cohn,Kentucky,,twitter  instagram
+11,8.0,Izayah Cummings,Tight End,6-3,232 lbs.,Senior,"Louisville, Ky.",Male,Kentucky,,twitter  instagram
+12,8.0,Octavious Oxendine,Defensive Lineman,6-1,276 lbs.,Senior,"Radcliff, Ky.",North Hardin,Kentucky,,twitter  instagram
+13,9.0,Tayvion Robinson,Wide Receiver,5-11,194 lbs.,Redshirt Fifth Year,"Virginia Beach, Va.",Cox,Kentucky,Virginia Tech,twitter  instagram
+14,9.0,Keeshawn Silver,Defensive Lineman,6-4,322 lbs.,Sophomore,"Rocky Mount, N.C.",Rocky Mount,Kentucky,North Carolina,
+15,10.0,Jantzen Dunn,Defensive Back,6-0,182 lbs.,Sophomore,"Bowling Green, Ky.",South Warren,Kentucky,Ohio State,
+16,11.0,Zion Childress,Defensive Back,6-0,201 lbs.,Junior,"Houston, Texas",New Caney,Kentucky,Texas State,twitter  instagram
+17,12.0,Chance Poore,Kicker,6-2,213 lbs.,Redshirt Fifth Year,"Anderson, S.C.",Westside,Kentucky,,twitter  instagram  nil
+18,12.0,Kaiya Sheron,Quarterback,6-3,210 lbs.,Sophomore,"Somerset, Ky.",Somerset,Kentucky,,twitter  instagram
+19,13.0,Devin Leary,Quarterback,6-1,217 lbs.,Senior,"Sicklerville, N.J.",Timber Creek,Kentucky,N.C. State,
+20,13.0,J.J. Weaver,Outside Linebacker,6-5,244 lbs.,Senior,"Louisville, Ky.",Moore Traditional,Kentucky,,twitter  instagram  nil
+21,14.0,Ty Bryant,Defensive Back,6-0,187 lbs.,Freshman,"Lexington, Ky.",Frederick Douglass,Kentucky,,instagram
+22,15.0,Destin Wade,Quarterback,6-3,223 lbs.,Redshirt Freshman,"Spring Hill, Tenn.",Summit,Kentucky,,twitter  instagram
+23,16.0,Deuce Hogan,Quarterback,6-4,217 lbs.,Junior,"Southlake, Texas",Grapevine Faith Christian,Kentucky,Iowa,instagram
+24,18.0,Brandon White,Wide Receiver,5-9,167 lbs.,Redshirt Freshman,"Cincinnati, Ohio",Archbishop Moeller,Kentucky,,twitter  instagram
+25,19.0,Shane Hamm,Quarterback,5-11,209 lbs.,Sophomore,"North Jackson, Ohio",Hoban,Kentucky,Dayton,
+26,20.0,Keaten Wade,Outside Linebacker,6-5,250 lbs.,Sophomore,"Spring Hill, Tenn.",Summit,Kentucky,,twitter  instagram
+27,21.0,Dee Beckwith,Wide Receiver,6-5,236 lbs.,Junior,"Florence, Ala.",Florence,Kentucky,Tennessee,twitter  instagram
+28,21.0,Andre Stewart,Defensive Back,5-11,184 lbs.,Redshirt Freshman,"Atlanta, Ga.",North Cobb,Kentucky,,twitter  instagram
+29,23.0,Andru Phillips,Defensive Back,6-0,187 lbs.,Junior,"Mauldin, S.C.",Mauldin,Kentucky,,twitter  instagram
+30,24.0,Elijah Reed,Defensive Back,6-3,185 lbs.,Redshirt Freshman,"Louisville, Ky.",Pleasure Ridge Park,Kentucky,,twitter  instagram
+31,25.0,Jordan Lovett,Defensive Back,6-2,195 lbs.,Sophomore,"Radcliff, Ky.",North Hardin,Kentucky,,instagram  twitter
+32,26.0,Ramon Jefferson,Running Back,5-10,210 lbs.,Redshirt Fifth Year,"Bronx, N.Y.",Truman,Kentucky,Sam Houston/Garden City CC/Maine,twitter  instagram
+33,28.0,Jordan Robinson,Defensive Back,6-4,208 lbs.,Redshirt Sophomore,"Columbia, S.C.",Westwood,Kentucky,Livingstone College,instagram
+34,29.0,Jackson Schulz,Defensive Back,6-2,202 lbs.,Sophomore,"Louisville, Ky.",Trinity,Kentucky,,twitter  instagram
+35,29.0,La'Vell Wright,Running Back,6-0,214 lbs.,Redshirt Sophomore,"Louisville, Ky.",North Hardin,Kentucky,,twitter  instagram
+36,31.0,Maxwell Hairston,Defensive Back,6-1,181 lbs.,Sophomore,"West Bloomfield, Mich.",West Bloomfield,Kentucky,,twitter  instagram
+37,32.0,Trevin Wallace,Inside Linebacker,6-2,241 lbs.,Junior,"Jesup, Ga.",Wayne County,Kentucky,,twitter  instagram
+38,33.0,Tomiwa Durojaiye,Defensive Lineman,6-4,278 lbs.,Redshirt Freshman,"Middletown, Del.",Middletown,Kentucky,,twitter  instagram
+39,34.0,Trey Dennis,Wide Receiver,5-8,138 lbs.,Junior,"Lexington, Ky.",Sayre,Kentucky,,twitter  instagram
+40,34.0,Brady Pierce,Defensive Back,6-0,183 lbs.,Sophomore,"Spring Hill, Tenn.",Summit,Kentucky,,twitter  instagram
+41,35.0,Londyn Craft,Defensive Back,6-0,207 lbs.,Redshirt Fifth Year,"Rio Rancho, N.M.",IMG Academy,Kentucky,Mississippi State,
+42,37.0,Isaac Dixon,Running Back,5-11,199 lbs.,Sophomore,"Belfry, Ky.",Belfry,Kentucky,,twitter  instagram
+43,39.0,Jackson Smith,Kicker,5-11,204 lbs.,Redshirt Freshman,"Danville, Ky.",Boyle County,Kentucky,,twitter  instagram
+44,40.0,Luke Fulton,Linebacker,6-4,225 lbs.,Senior,"Youngstown, Ohio",Cardinal Mooney,Kentucky,Michigan State,twitter  instagram
+45,42.0,Tyreese Fearbry,Outside Linebacker,6-5,233 lbs.,Redshirt Freshman,"Pittsburgh, Pa.",Perry Traditional Academy,Kentucky,,twitter  instagram
+46,44.0,Martez Thrower,Inside Linebacker,6-2,224 lbs.,Junior,"Rochelle, Ga.",Wilcox County,Kentucky,,twitter  instagram
+47,45.0,Jase Bruner,Inside Linebacker,6-2,227 lbs.,Senior,"Science Hill, Ky.",Somerset,Kentucky,,twitter  instagram
+48,45.0,Chy Rivers,Wide Receiver,5-8,164 lbs.,Freshman,"Baton Rouge, La.",Parkview Baptist,Kentucky,,
+49,47.0,Justice Dingle II,Fullback,6-3,261 lbs.,Redshirt Fifth Year,"Bowling Green, Ky.",Bowling Green,Kentucky,Georgia Tech,twitter  instagram  nil
+50,47.0,Jarard Mosely,Defensive Back,6-2,183 lbs.,Sophomore,"West Palm Beach, Fla.",Cardinal Newman,Kentucky,,twitter  instagram
+51,48.0,Jack Varga,Fullback,5-11,222 lbs.,Senior,"Louisville, Ky.",St. Xavier,Kentucky,,twitter  instagram  nil
+52,49.0,Jai Williams,Outside Linebacker,6-5,214 lbs.,Junior,"Lake Forest, Ill.",Lake Forest,Kentucky,,twitter  instagram
+53,50.0,Darrion Henry-Young,Defensive Lineman,6-4,264 lbs.,Junior,"Cincinnati, Ohio",Princeton,Kentucky,Ohio State,twitter  instagram
+54,50.0,Koby Keenum,Offensive Lineman,6-4,295 lbs.,Freshman,"Florence, Ala.",Mars Hill Bible School,Kentucky,,
+55,51.0,Tanner Bowles,Offensive Lineman,6-5,306 lbs.,Senior,"Glasgow, Ky.",Glasgow,Kentucky,Alabama,
+56,54.0,D’Eryk Jackson,Inside Linebacker,6-1,245 lbs.,Senior,"Dublin, Ga.",West Laurens,Kentucky,,twitter  instagram
+57,55.0,Noah Matthews,Outside Linebacker,6-5,237 lbs.,Redshirt Freshman,"Bridgeville, Del.",Woodbridge,Kentucky,,instagram
+58,55.0,Clay Perry,Long Snapper,6-0,199 lbs.,Senior,"Upton, Ky.",Central Hardin,Kentucky,,twitter  instagram
+59,56.0,Deondre Buford,Offensive Lineman,6-3,312 lbs.,Junior,"Detroit, Mich.",Martin Luther King,Kentucky,,twitter  instagram
+60,57.0,Jonathan Berry,Offensive Lineman,6-5,294 lbs.,Junior,"Stamping Ground, Ky.",Scott County,Kentucky,,twitter  instagram
+61,58.0,Lucas Padgett,Offensive Lineman,6-4,315 lbs.,Junior,"Birmingham, Ala.",La Cueva,Kentucky,,twitter  instagram
+62,59.0,Conner Long,Outside Linebacker,6-3,213 lbs.,Junior,"East Lansing, Mich.",East Lansing,Kentucky,,twitter  instagram
+63,62.0,Jager Burton,Offensive Lineman,6-4,307 lbs.,Sophomore,"Lexington, Ky.",Frederick Douglass,Kentucky,,twitter  instagram
+64,65.0,Grant Bingham,Offensive Lineman,6-5,321 lbs.,Redshirt Freshman,"Johnson County, Ky.",Johnson Central,Kentucky,,twitter  instagram
+65,67.0,Paul Rodriguez,Offensive Lineman,6-5,324 lbs.,Sophomore,"Mason, Ohio",William Mason,Kentucky,,twitter  instagram
+66,68.0,Kenneth Horsey,Offensive Lineman,6-3,311 lbs.,Redshirt Fifth Year,"Sanford, Fla.",Sanford Seminole,Kentucky,,twitter  instagram  nil
+67,69.0,Marques Cox,Offensive Lineman,6-5,311 lbs.,Senior,"Peoria, Ill.",Peoria,Kentucky,Northern Illinois,
+68,70.0,Nikolas Hall,Offensive Lineman,6-6,314 lbs.,Redshirt Freshman,"Austin, Texas",Akins,Kentucky,,twitter  instagram
+69,71.0,Malachi Wood,Offensive Lineman,6-8,283 lbs.,Freshman,"Richmond, Ky.",Madison Central,Kentucky,,
+70,72.0,Josh Jones,Offensive Lineman,6-6,343 lbs.,Junior,"Columbus, Ga.",Central-Phenix City-Ala.,Kentucky,,twitter  instagram
+71,74.0,David Wohlabaugh Jr.,Offensive Lineman,6-6,321 lbs.,Sophomore,"Stow, Ohio",Walsh Jesuit,Kentucky,,twitter  instagram
+72,75.0,Eli Cox,Offensive Lineman,6-4,311 lbs.,Senior,"Nicholasville, Ky.",West Jessamine,Kentucky,,twitter  instagram  nil
+73,77.0,Jeremy Flax,Offensive Lineman,6-6,325 lbs.,Senior,"Detroit, Mich.",Robichaud,Kentucky,Independence CC,twitter  instagram
+74,80.0,Brenden Bates,Tight End,6-5,251 lbs.,Redshirt Fifth Year,"Cincinnati, Ohio",Archbishop Moeller,Kentucky,,twitter  instagram  nil
+75,81.0,Cole Lanter,Wide Receiver,5-11,182 lbs.,Sophomore,"Danville, Ky.",Boyle County,Kentucky,,twitter  instagram
+76,82.0,Khamari Anderson,Tight End,6-5,238 lbs.,Freshman,"Detroit, Mich.",Cass Tech,Kentucky,,instagram
+77,83.0,Jack Monday,Tight End,6-1,224 lbs.,Sophomore,"Lexington, Ky.",Lexington Catholic,Kentucky,,twitter  instagram
+78,84.0,Josh Kattus,Tight End,6-4,231 lbs.,Sophomore,"Cincinnati, Ohio",Archbishop Moeller,Kentucky,,twitter  instagram
+79,85.0,Jordan Dingle,Tight End,6-4,238 lbs.,Sophomore,"Bowling Green, Ky.",Bowling Green,Kentucky,,twitter  instagram
+80,86.0,Dylan Gary,Wide Receiver,6-4,198 lbs.,Sophomore,"Sugar Hill, Ga.",North Gwinnett,Kentucky,,twitter  instagram
+81,87.0,Josh Terrell,Wide Receiver,5-10,189 lbs.,Sophomore,"Fort Worth, Texas",Grapevine Faith Christian,Kentucky,,
+82,90.0,Tre’vonn Rybka,Defensive Lineman,6-4,276 lbs.,Junior,"Dickson, Tenn.",Dickson County,Kentucky,,twitter  instagram
+83,91.0,Sam Anaele,Defensive Lineman,6-4,286 lbs.,Junior,"Lagos, Nigeria","McDougle Technical Institute (Pompano Beach, Fla.)",Kentucky,,twitter  instagram
+84,92.0,Kahlil Saunders,Defensive Lineman,6-5,285 lbs.,Sophomore,"Huntsville, Ala.",Grissom,Kentucky,,twitter  instagram
+85,93.0,Wilson Berry,Punter,6-4,213 lbs.,Sophomore,"Maribyrnong, Australia",Maribyrnong College,Kentucky,,twitter
+86,95.0,Jamarius Dinkins,Defensive Lineman,6-5,280 lbs.,Sophomore,"Columbus, Ohio",Walnut Ridge,Kentucky,,twitter  instagram
+87,96.0,Tommy Ziesmer,Defensive Lineman,6-2,257 lbs.,Freshman,"Danville, Ky.",Boyle County,Kentucky,,
+88,97.0,Josaih Hayes,Defensive Lineman,6-3,317 lbs.,Senior,"Horn Lake, Miss.",Horn Lake,Kentucky,,twitter  instagram
+89,98.0,Isaiah Beasley,Defensive Lineman,5-11,292 lbs.,Senior,"Radcliff, Ky.",North Hardin,Kentucky,,twitter  instagram
+0,,Mark Stoops,Head Coach,,,,,,Kentucky,,
+1,,Vince Marrow,Associate Head Coach/Tight Ends/Recruiting Coordinator/NFL Liaison,,,,,,Kentucky,,
+2,,Brad White,Defensive Coordinator / Outside Linebackers,,,,,,Kentucky,,
+3,,Liam Coen,Offensive Coordinator/Quarterbacks,,,,,,Kentucky,,
+4,,Jay Boulware,Running Backs/Special Teams Coordinator,,,,,,Kentucky,,
+5,,Frank Buffano,Assistant Coach - Safeties,,,,,,Kentucky,,
+6,,Chris Collins,Assistant Coach - Defensive Backs,,,,,,Kentucky,,
+7,,Anwar Stewart,Assistant Coach - Defensive Line,,,,,,Kentucky,,
+8,,Mike Stoops,Assistant Coach - Inside Linebackers,,,,,,Kentucky,,
+9,,Scott Woodward,Assistant Coach - Wide Receivers,,,,,,Kentucky,,
+10,,Zach Yenser,Assistant Coach - Offensive Line,,,,,,Kentucky,,
+11,,Corey Edmond,Director of Performance – Football,,,,,,Kentucky,,
+12,,Mark Hill,Director of Performance / Head Strength Coach – Football,,,,,,Kentucky,,
+13,,Rafael Horton,Strength & Conditioning Coach,,,,,,Kentucky,,
+14,,Tyler Malone,Assistant Strength Coach (FB),,,,,,Kentucky,,
+15,,Bryan Berezowitz,Quality Control,,,,,,Kentucky,,
+16,,Josh Estes-Waugh,Quality Control,,,,,,Kentucky,,
+17,,Mark Perry,Quality Control,,,,,,Kentucky,,
+18,,Joe Scola,Quality Control,,,,,,Kentucky,,
+19,,C.J. Conrad,Quality Control - Offense,,,,,,Kentucky,,
+20,,Mike Priefer Jr.,Quality Control - Special Teams,,,,,,Kentucky,,
+21,,Eddie Gran,Special Assistant to the Head Coach,,,,,,Kentucky,,
+22,,Cam Garner,Graduate Assistant – Offense - Off the Field,,,,,,Kentucky,,
+23,,Dan Hebert,Graduate Assistant - Offense - Off the Field,,,,,,Kentucky,,
+24,,Kalon Humphries,Graduate Assistant – Defense,,,,,,Kentucky,,
+25,,Drake Jackson,Graduate Assistant - Offense,,,,,,Kentucky,,
+26,,Courtney Love,Graduate Assistant (Defense),,,,,,Kentucky,,
+27,,Andrew Verboys,Graduate Assistant – Offense,,,,,,Kentucky,,
+28,,Chris Morris,Director of Performance Science,,,,,,Kentucky,,
+29,,Josh Pruitt,Director of Football Operations,,,,,,Kentucky,,
+30,,Tim Owens,Director of Player Development,,,,,,Kentucky,,
+31,,Chase Heuke,Director of Recruiting/General Manager,,,,,,Kentucky,,
+32,,Jacob Noger,Creative Coordinator,,,,,,Kentucky,,
+33,,Brian Moriarty,Assistant Creative Director,,,,,,Kentucky,,
+34,,Robert Franco,Visual Media Coordinator/Recruit Producer,,,,,,Kentucky,,
+35,,Becky Sauceda,Football Dietitian,,,,,,Kentucky,,
+36,,Alyssa Kuman,Graduate Assistant Dietitian,,,,,,Kentucky,,
+37,,Christian Fiero,Coaching Video Coordinator (FB),,,,,,Kentucky,,
+38,,Danielle Braswell,Executive Director of Recruiting,,,,,,Kentucky,,
+39,,Stephen Gillette,Assistant Director of Scouting & Analytics,,,,,,Kentucky,,
+40,,Andrew Hunter,Assistant Director of Player Personnel (Defense),,,,,,Kentucky,,
+41,,Ty Williams,Football Recruiting Assistant,,,,,,Kentucky,,
+42,,Brinkley Berch,Recruiting – Graduate Assistant,,,,,,Kentucky,,
+43,,Abby Stover,Administrative Assistant,,,,,,Kentucky,,
+44,,Melissa Tomlinson,Administrative Assistant,,,,,,Kentucky,,

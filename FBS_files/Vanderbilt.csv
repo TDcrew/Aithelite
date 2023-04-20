@@ -1,144 +1,144 @@
-,Number,Name,Position,Class,Height,Weight,Hometown,High School
-0,3.0,Quincy Skinner Jr.,WR,Junior,"6'2""",205.0,"Pompano Beach, Fla.",St. Thomas Aquinas
-1,4.0,Patrick Smith,RB,Junior,"5'9""",188.0,"Atlantic City, N.J.",Holy Spirit
-2,7.0,Marlen Sewell,S,Junior,"6'1""",195.0,"Birmingham, Ala.",Shades Valley
-3,8.0,Tyson Russell,CB,Junior,"5'11""",187.0,"Plantation, Fla.",St. Thomas Aquinas
-4,8.0,Ken Seals,QB,Senior,"6'3""",225.0,"Azle, Texas",Weatherford
-5,9.0,Daevion Davis,DL,Graduate,"6'1""",285.0,"Madison, Ala.",James Clemens
-6,12.0,Walter Taylor,QB,Sophomore,"6'6""",235.0,"Jackson, Ala.",Jackson
-7,12.0,Errington Truesdell,LB,Junior,"6'0""",220.0,"Duluth, Ga.",Woodward Academy
-8,13.0,CJ Taylor,LB/S,Junior,"6'1""",201.0,"McMinnville, Tenn.",Warren County
-9,13.0,AJ Swann,QB,Sophomore,"6'3""",220.0,"White, Ga.",Cherokee
-10,14.0,Will Sheppard,WR,Senior,"6'3""",195.0,"Mandeville, La.",Mandeville
-11,16.0,Jayden McGowan,WR,Sophomore,"5'8""",181.0,"Laurens, S.C.",Laurens District 55
-12,17.0,Alex Brown,DE/LB,Graduate,"6'2""",265.0,"San Antonio, Texas",Claudia Taylor Johnson
-13,17.0,Drew Dickey,QB,Sophomore,"6'1""",210.0,"Austin, Texas",Regents School
-14,18.0,Logan Kyle,TE,Senior,"6'3""",220.0,"Cypress, Texas",Tomball Memorial
-15,18.0,Hayden Moses,QB,Junior,"5'9""",165.0,"Hollis, N.H.",Brighton Academy
-16,19.0,Kane Patterson,LB,Graduate,"6'1""",234.0,"Nashville, Tenn.",Christ Presbyterian Academy
-17,22.0,John Howse IV,S,Junior,"6'1""",195.0,"Nashville, Tenn.",Brentwood
-18,23.0,Jaylen Mahoney,DB,Graduate,"5'11""",200.0,"Rock Hill, S.C.",South Pointe
-19,26.0,BJ Anderson,CB,Graduate,"6'1""",200.0,"Andalusia, Ala.",Andalusia
-20,27.0,Quantaves Gaskins,CB,Sophomore,"6'1""",185.0,"Atlanta, Ga.",Hapeville Charter
-21,28.0,Steven Sannieniola,S,Sophomore,"6'2""",195.0,"Bowie, Md.",Quince Orchard
-22,29.0,Miles Capers,DE/LB,Junior,"6'4""",235.0,"Sumter, S.C.",Sumter
-23,30.0,Trudell Berry,CB,Sophomore,"6'1""",195.0,"Baytown, Texas",Lee
-24,31.0,Michael Spencer,DL,Senior,"6'4""",315.0,"Union, Ky.",The Taft School
-25,31.0,Landon Wells,WR,Sophomore,"5'10""",181.0,"Brentwood, Tenn.",Brentwood Academy
-26,32.0,Ethan Barr,LB,Senior,"6'3""",245.0,"Flower Mound, Texas",Marcus
-27,33.0,Richie Hoskins,WR,Junior,"6'1""",200.0,"Lake Forest, Ill.",Lake Forest
-28,34.0,Ja'Dais Richard,CB,Sophomore,"6'2""",197.0,"West Monroe, La.",West Monroe
-29,35.0,Aeneas DiCosmo,Edge,Graduate,"6'2""",245.0,"Montclair, N.J.",Bergen Catholic
-30,36.0,Sedrick Alexander,RB,Freshman,"5'9""",200.0,"Austin, Texas",LBJ
-31,37.0,Jailen Ruth,DE/LB,Freshman,"6'3""",210.0,"Hawthorne, Fla.",Hawthorne
-32,38.0,Jeffrey Ugochukwu,DB,Sophomore,"6'1""",202.0,"Richmond, Texas",George Ranch
-33,38.0,Will Faris,K,Junior,"6'1""",165.0,"Dallas, Texas",Lake Highlands
-34,39.0,Jameson Wharton,CB,Sophomore,"6'1""",175.0,"Hendersonville, Tenn.",Hendersonville
-35,40.0,Tommy Eckels,LB,Senior,"6'2""",225.0,"Kansas City, Mo.",Rockhurst
-36,41.0,Savion Riley,S,Sophomore,"6'2""",205.0,"Acworth, Ga.",Kennesaw Mountain
-37,42.0,Langston Patterson,LB,Sophomore,"6'1""",234.0,"Nashville, Tenn.",Christ Presbyterian Academy
-38,43.0,De'Rickey Wright,S,Senior,"6'4""",220.0,"Gadsden, Ala.",Gadsden City
-39,44.0,Alan Wright,CB,Junior,"5'11""",185.0,"Fayetteville, Ga.",Woodward Academy
-40,45.0,Dylan Betts-Pauley,RB,Junior,"5'11""",235.0,"Hoover, Ala.",Hoover
-41,45.0,Matthew Hayball,P,Graduate,"6'1""",187.0,"West Adelaide, Australia",Sacred Heart
-42,46.0,Mustafa Dannett,CB,Sophomore,"6'0""",175.0,"New London, Conn.",New London
-43,46.0,Chase Gillespie,RB,Sophomore,"5'10""",190.0,"Tallahassee, Fla.",Amos P. Godby
-44,47.0,Wesley Schelling,LS,Senior,"6'4""",240.0,"Nashville, Tenn.",Pearl-Cohn
-45,47.0,Isaiah Fontan,RB,Sophomore,"5'6""",185.0,"Hartford, Conn.",Capital Prep
-46,48.0,Bryce Cowan,LB,Sophomore,"6'4""",220.0,"Tallahassee, Fla.",Amos P. Godby
-47,49.0,Ethan Crisp,LB/S,Freshman,"6'3""",220.0,"Mount Juliet, Tenn.",Mount Juliet
-48,50.0,Bradley Ashmore,OL,Senior,"6'6""",300.0,"Neptune Beach, Fla.",Fletcher Senior
-49,51.0,Daniel Gaw,DE/LB,Junior,"6'2""",225.0,"Nashville, Tenn.",Montgomery Bell Academy
-50,52.0,Trent Weaver,OL,Senior,"6'3""",310.0,"St. Louis, Mo.",St. Louis University School
-51,53.0,Hayden Cate,LS,Sophomore,"6'0""",230.0,"Carmel, Ind.",Carmel
-52,54.0,Dominic Rezac,LB/S,Sophomore,"6'1""",190.0,"Omaha, Neb.",Westside
-53,55.0,Gunnar Hansen,OL,Junior,"6'5""",330.0,"Boca Raton, Fla.",St. Thomas Aquinas
-54,56.0,Jake Ketschek,OL,Junior,"6'4""",320.0,"Absecon, N.J.",St. Augustine Prep
-55,57.0,Leyton Nelson,OL,Sophomore,"6'6""",295.0,"Orlando, Fla.",Boone
-56,58.0,Carson Casteel,LB,Junior,"6'2""",222.0,"Florence, Ala.",Florence
-57,59.0,Nicholas Rinaldi,LB,Sophomore,"6'3""",230.0,"Dover, Mass.",Dover-Sherborn
-58,60.0,Duncan MacDonald,OL,Sophomore,"6'4""",300.0,"Newbury, Mass.",Milton Academy
-59,62.0,Julian Hernandez,OL,Graduate,"6'4""",315.0,"Davie, Fla.",St. Thomas Aquinas
-60,63.0,Jacob Katona,DL,Junior,"6'4""",265.0,"Birmingham, Ala.",Oak Mountain
-61,64.0,Delfin Xavier Castillo,OL,Junior,"6'5""",355.0,"Kissimmee, Fla.",Osceola
-62,65.0,Jacob Lurie,K,Senior,"5'9""",170.0,"Blue Point, N.Y.",Bayport-Blue Point
-63,67.0,Kevo Wesley,OL,Senior,"6'4""",310.0,"Chicago, Ill.",Curie
-64,70.0,David Siegel,OL,Sophomore,"6'6""",291.0,"New Canaan, Conn.",Hun School (N.J.)
-65,71.0,Gage Pitchford,OL,Junior,"6'6""",319.0,"Newnan, Ga.",East Coweta
-66,72.0,Levi Harber,OL,Sophomore,"6'4""",280.0,"Montrose, Mich.",Hill-McCloy
-67,73.0,Charlie Clark,OL,Junior,"6'7""",305.0,"Madison, Wisc.",Edgewood
-68,76.0,Grayson Morgan,OL,Sophomore,"6'5""",277.0,"Nashville, Tenn.",Montgomery Bell Academy
-69,77.0,Junior Uzebu,OL,Graduate,"6'6""",330.0,"Atlanta, Ga.",Alpharetta
-70,78.0,Dan Herman,OL,Graduate,"6'7""",310.0,"Bethesda, Md.",Wyoming Seminary
-71,80.0,Wilson Long,WR,Senior,"6'0""",200.0,"Austin, Texas",Regents School of Austin
-72,81.0,Hutch Baird,WR,Junior,"6'1""",200.0,"Concord, Ohio",Mentor
-73,82.0,Ezra McAllister,WR,Junior,"6'0""",183.0,"Marshall, Mich.",Marshall
-74,83.0,Gamarion Carter,WR,Junior,"6'2""",191.0,"Toccoa, Ga.",Stephens County
-75,84.0,Justin Ball,TE,Graduate,"6'6""",245.0,"Glenn Dale, Md.",Gonzaga Prep
-76,87.0,Daveon Walker,WR,Sophomore,"6'2""",180.0,"Warner Robins, Ga.",Warner Robins
-77,89.0,Cole Spence,TE,Sophomore,"6'7""",247.0,"Roswell, Ga.",Mount Pisgah Christian
-78,90.0,Nate Clifton,DE,Graduate,"6'4""",280.0,"La Vergne, Tenn.",Brentwood Academy
-79,91.0,Christian James,DL,Graduate,"6'4""",290.0,"Memphis, Tenn.",Christian Brothers
-80,92.0,Darren Agu,DE,Sophomore,"6'6""",255.0,"London, England",Rabun Gap-Nacoochee (Ga.)
-81,93.0,BJ Diakite,DE/LB,Sophomore,"6'4""",215.0,"Pinson, Ala.",Pinson Valley
-82,94.0,Bradley Mann,DL,Sophomore,"6'6""",275.0,"Jacksonville, Fla.",The Bolles School
-83,95.0,Linus Zunk,DL,Sophomore,"6'6""",260.0,"Berlin, Germany",Rabun Gap-Nacoochee (Ga.)
-84,96.0,Brayden Bapst,DL,Graduate,"6'8""",275.0,"Washington, D.C.",St. John's College
-85,98.0,Yilanan Ouattara,DL,Sophomore,"6'7""",305.0,"Cologne, Germany",Cologne Crocodiles
-86,99.0,Devin Lee,DL,Junior,"6'1""",290.0,"McDonough, Ga.",Ola
-0,,Clark Lea,Head Coach,,,,,
-1,,Justin Lustig,Associate Head Coach • Special Teams Coordinator • Tight Ends,,,,,
-2,,Joey Lynch,Offensive Coordinator • Quarterbacks,,,,,
-3,,Nick Howell,Defensive Coordinator,,,,,
-4,,Nick Lezynski,Defensive Run Game Coordinator • Linebackers,,,,,
-5,,AJ Blazek,Assistant Coach • Offensive Line,,,,,
-6,,Jovan Haye,Assistant Coach • Defensive Ends,,,,,
-7,,Larry Black,Assistant Coach • Defensive Line,,,,,
-8,,Alex Bailey,Assistant Coach • Wide Receivers,,,,,
-9,,Dan Jackson,Assistant Coach • Defensive Backs,,,,,
-10,,Jayden Everett,Assistant Coach • Running Backs,,,,,
-11,,Jeff LePak,Analyst • Special Teams,,,,,
-12,,Brendan Flaherty,Analyst • Offense,,,,,
-13,,Jimmy Thompson,Analyst • Defense,,,,,
-14,,Trenton Kirklin,Quality Control • Offense,,,,,
-15,,Josh Adams,Quality Control • Offense,,,,,
-16,,Robert Armand,Quality Control • Defense,,,,,
-17,,Jamaal Richardson,Quality Control · Defense,,,,,
-18,,Tito Overton,Graduate Assistant • Offense,,,,,
-19,,Dylan Autenreith,Graduate Assistant • Offense,,,,,
-20,,Josh Smith,Graduate Assistant • Defense,,,,,
-21,,Arion Shinaver,Graduate Assistant • Defense,,,,,
-22,,Brandon Hourigan,Director • Football Strength and Conditioning,,,,,
-23,,Emmanuel Ashamu,Assistant Director • Strength and Conditioning (Football),,,,,
-24,,Demetrius Kemp,Assistant Strength Coach (Football),,,,,
-25,,Dustin Curran,Assistant Strength Coach (Football),,,,,
-0,,Ben Cauthen,Chief of Staff,,,,,
-1,,Barton Simmons,General Manager • Director • Personnel,,,,,
-2,,Earl Bennett,Executive Director • Player Development and Administration,,,,,
-3,,Kaelene Curry,Director • Mental Performance,,,,,
-4,,Molly Hart,Executive Assistant to the Head Coach • Operations Coordinator,,,,,
-5,,Bob Lopez,Director • Football Operations,,,,,
-6,,Jamie Redmond,Director • Program Performance,,,,,
-7,,Chas Petrone,Director • Football Video Services,,,,,
-8,,Andrea Cain,Director • Recruiting Relations,,,,,
-9,,Nik Valdiserri,Director • Player Personnel,,,,,
-10,,Bella Baker,Director • Recruiting,,,,,
-11,,Brandon Jones,Director • Scouting,,,,,
-12,,Julia Baird,Director • Sports Nutrition,,,,,
-13,,Trent Pearson,Director • Football Equipment,,,,,
-14,,Jake Jola,Assistant Director • Football Operations,,,,,
-15,,Kendall Lawson,Senior Personnel Analyst,,,,,
-16,,Darrius Sims,Personnel Analyst,,,,,
-17,,Aldo Murià,Personnel Analyst,,,,,
-18,,KC Barrett,Graduate Assistant • Analytics,,,,,
-19,,Bailey Wheeler,Graphic Designer • Recruiting,,,,,
-20,,Paige Canfield,Sports Dietitian,,,,,
-21,,Sarah Campbell,Assistant Video Coordinator,,,,,
-22,,Gary Veach,Assistant Director • Football Equipment,,,,,
-23,,Kaleb Ward,Equipment Assistant,,,,,
-24,,Mya Webster,Recruiting Coordinator,,,,,
-25,,Ray Lysinger,Assistant Director • Athletic Training Services (Football),,,,,
-26,,Jordan Pierce,Associate Athletic Trainer (Football),,,,,
-27,,Miya Sullivan,Associate Athletic Trainer (Football),,,,,
-28,,Ryan Bussey,Athletic Trainer (Football),,,,,
-29,,Mark Bouwmeester,Term Professional,,,,,
+,Number,Name,Position,Class,Height,Weight,Hometown,High School,Current School Name
+0,3.0,Quincy Skinner Jr.,WR,Junior,"6'2""",205.0,"Pompano Beach, Fla.",St. Thomas Aquinas,Vanderbilt
+1,4.0,Patrick Smith,RB,Junior,"5'9""",188.0,"Atlantic City, N.J.",Holy Spirit,Vanderbilt
+2,7.0,Marlen Sewell,S,Junior,"6'1""",195.0,"Birmingham, Ala.",Shades Valley,Vanderbilt
+3,8.0,Tyson Russell,CB,Junior,"5'11""",187.0,"Plantation, Fla.",St. Thomas Aquinas,Vanderbilt
+4,8.0,Ken Seals,QB,Senior,"6'3""",225.0,"Azle, Texas",Weatherford,Vanderbilt
+5,9.0,Daevion Davis,DL,Graduate,"6'1""",285.0,"Madison, Ala.",James Clemens,Vanderbilt
+6,12.0,Walter Taylor,QB,Sophomore,"6'6""",235.0,"Jackson, Ala.",Jackson,Vanderbilt
+7,12.0,Errington Truesdell,LB,Junior,"6'0""",220.0,"Duluth, Ga.",Woodward Academy,Vanderbilt
+8,13.0,CJ Taylor,LB/S,Junior,"6'1""",201.0,"McMinnville, Tenn.",Warren County,Vanderbilt
+9,13.0,AJ Swann,QB,Sophomore,"6'3""",220.0,"White, Ga.",Cherokee,Vanderbilt
+10,14.0,Will Sheppard,WR,Senior,"6'3""",195.0,"Mandeville, La.",Mandeville,Vanderbilt
+11,16.0,Jayden McGowan,WR,Sophomore,"5'8""",181.0,"Laurens, S.C.",Laurens District 55,Vanderbilt
+12,17.0,Alex Brown,DE/LB,Graduate,"6'2""",265.0,"San Antonio, Texas",Claudia Taylor Johnson,Vanderbilt
+13,17.0,Drew Dickey,QB,Sophomore,"6'1""",210.0,"Austin, Texas",Regents School,Vanderbilt
+14,18.0,Logan Kyle,TE,Senior,"6'3""",220.0,"Cypress, Texas",Tomball Memorial,Vanderbilt
+15,18.0,Hayden Moses,QB,Junior,"5'9""",165.0,"Hollis, N.H.",Brighton Academy,Vanderbilt
+16,19.0,Kane Patterson,LB,Graduate,"6'1""",234.0,"Nashville, Tenn.",Christ Presbyterian Academy,Vanderbilt
+17,22.0,John Howse IV,S,Junior,"6'1""",195.0,"Nashville, Tenn.",Brentwood,Vanderbilt
+18,23.0,Jaylen Mahoney,DB,Graduate,"5'11""",200.0,"Rock Hill, S.C.",South Pointe,Vanderbilt
+19,26.0,BJ Anderson,CB,Graduate,"6'1""",200.0,"Andalusia, Ala.",Andalusia,Vanderbilt
+20,27.0,Quantaves Gaskins,CB,Sophomore,"6'1""",185.0,"Atlanta, Ga.",Hapeville Charter,Vanderbilt
+21,28.0,Steven Sannieniola,S,Sophomore,"6'2""",195.0,"Bowie, Md.",Quince Orchard,Vanderbilt
+22,29.0,Miles Capers,DE/LB,Junior,"6'4""",235.0,"Sumter, S.C.",Sumter,Vanderbilt
+23,30.0,Trudell Berry,CB,Sophomore,"6'1""",195.0,"Baytown, Texas",Lee,Vanderbilt
+24,31.0,Michael Spencer,DL,Senior,"6'4""",315.0,"Union, Ky.",The Taft School,Vanderbilt
+25,31.0,Landon Wells,WR,Sophomore,"5'10""",181.0,"Brentwood, Tenn.",Brentwood Academy,Vanderbilt
+26,32.0,Ethan Barr,LB,Senior,"6'3""",245.0,"Flower Mound, Texas",Marcus,Vanderbilt
+27,33.0,Richie Hoskins,WR,Junior,"6'1""",200.0,"Lake Forest, Ill.",Lake Forest,Vanderbilt
+28,34.0,Jadais Richard,CB,Sophomore,"6'2""",197.0,"West Monroe, La.",West Monroe,Vanderbilt
+29,35.0,Aeneas DiCosmo,Edge,Graduate,"6'2""",245.0,"Montclair, N.J.",Bergen Catholic,Vanderbilt
+30,36.0,Sedrick Alexander,RB,Freshman,"5'9""",200.0,"Austin, Texas",LBJ,Vanderbilt
+31,37.0,Jailen Ruth,DE/LB,Freshman,"6'3""",210.0,"Hawthorne, Fla.",Hawthorne,Vanderbilt
+32,38.0,Jeffrey Ugochukwu,DB,Sophomore,"6'1""",202.0,"Richmond, Texas",George Ranch,Vanderbilt
+33,38.0,Will Faris,K,Junior,"6'1""",165.0,"Dallas, Texas",Lake Highlands,Vanderbilt
+34,39.0,Jameson Wharton,CB,Sophomore,"6'1""",175.0,"Hendersonville, Tenn.",Hendersonville,Vanderbilt
+35,40.0,Tommy Eckels,LB,Senior,"6'2""",225.0,"Kansas City, Mo.",Rockhurst,Vanderbilt
+36,41.0,Savion Riley,S,Sophomore,"6'2""",205.0,"Acworth, Ga.",Kennesaw Mountain,Vanderbilt
+37,42.0,Langston Patterson,LB,Sophomore,"6'1""",234.0,"Nashville, Tenn.",Christ Presbyterian Academy,Vanderbilt
+38,43.0,De'Rickey Wright,S,Senior,"6'4""",220.0,"Gadsden, Ala.",Gadsden City,Vanderbilt
+39,44.0,Alan Wright,CB,Junior,"5'11""",185.0,"Fayetteville, Ga.",Woodward Academy,Vanderbilt
+40,45.0,Dylan Betts-Pauley,RB,Junior,"5'11""",235.0,"Hoover, Ala.",Hoover,Vanderbilt
+41,45.0,Matthew Hayball,P,Graduate,"6'1""",187.0,"West Adelaide, Australia",Sacred Heart,Vanderbilt
+42,46.0,Mustafa Dannett,CB,Sophomore,"6'0""",175.0,"New London, Conn.",New London,Vanderbilt
+43,46.0,Chase Gillespie,RB,Sophomore,"5'10""",190.0,"Tallahassee, Fla.",Amos P. Godby,Vanderbilt
+44,47.0,Wesley Schelling,LS,Senior,"6'4""",240.0,"Nashville, Tenn.",Pearl-Cohn,Vanderbilt
+45,47.0,Isaiah Fontan,RB,Sophomore,"5'6""",185.0,"Hartford, Conn.",Capital Prep,Vanderbilt
+46,48.0,Bryce Cowan,LB,Sophomore,"6'4""",220.0,"Tallahassee, Fla.",Amos P. Godby,Vanderbilt
+47,49.0,Ethan Crisp,LB/S,Freshman,"6'3""",220.0,"Mount Juliet, Tenn.",Mount Juliet,Vanderbilt
+48,50.0,Bradley Ashmore,OL,Senior,"6'6""",300.0,"Neptune Beach, Fla.",Fletcher Senior,Vanderbilt
+49,51.0,Daniel Gaw,DE/LB,Junior,"6'2""",225.0,"Nashville, Tenn.",Montgomery Bell Academy,Vanderbilt
+50,52.0,Trent Weaver,OL,Senior,"6'3""",310.0,"St. Louis, Mo.",St. Louis University School,Vanderbilt
+51,53.0,Hayden Cate,LS,Sophomore,"6'0""",230.0,"Carmel, Ind.",Carmel,Vanderbilt
+52,54.0,Dominic Rezac,LB/S,Sophomore,"6'1""",190.0,"Omaha, Neb.",Westside,Vanderbilt
+53,55.0,Gunnar Hansen,OL,Junior,"6'5""",330.0,"Boca Raton, Fla.",St. Thomas Aquinas,Vanderbilt
+54,56.0,Jake Ketschek,OL,Junior,"6'4""",320.0,"Absecon, N.J.",St. Augustine Prep,Vanderbilt
+55,57.0,Leyton Nelson,OL,Sophomore,"6'6""",295.0,"Orlando, Fla.",Boone,Vanderbilt
+56,58.0,Carson Casteel,LB,Junior,"6'2""",222.0,"Florence, Ala.",Florence,Vanderbilt
+57,59.0,Nicholas Rinaldi,LB,Sophomore,"6'3""",230.0,"Dover, Mass.",Dover-Sherborn,Vanderbilt
+58,60.0,Duncan MacDonald,OL,Sophomore,"6'4""",300.0,"Newbury, Mass.",Milton Academy,Vanderbilt
+59,62.0,Julian Hernandez,OL,Graduate,"6'4""",315.0,"Davie, Fla.",St. Thomas Aquinas,Vanderbilt
+60,63.0,Jacob Katona,DL,Junior,"6'4""",265.0,"Birmingham, Ala.",Oak Mountain,Vanderbilt
+61,64.0,Delfin Xavier Castillo,OL,Junior,"6'5""",355.0,"Kissimmee, Fla.",Osceola,Vanderbilt
+62,65.0,Jacob Lurie,K,Senior,"5'9""",170.0,"Blue Point, N.Y.",Bayport-Blue Point,Vanderbilt
+63,67.0,Kevo Wesley,OL,Senior,"6'4""",310.0,"Chicago, Ill.",Curie,Vanderbilt
+64,70.0,David Siegel,OL,Sophomore,"6'6""",291.0,"New Canaan, Conn.",Hun School (N.J.),Vanderbilt
+65,71.0,Gage Pitchford,OL,Junior,"6'6""",319.0,"Newnan, Ga.",East Coweta,Vanderbilt
+66,72.0,Levi Harber,OL,Sophomore,"6'4""",280.0,"Montrose, Mich.",Hill-McCloy,Vanderbilt
+67,73.0,Charlie Clark,OL,Junior,"6'7""",305.0,"Madison, Wisc.",Edgewood,Vanderbilt
+68,76.0,Grayson Morgan,OL,Sophomore,"6'5""",277.0,"Nashville, Tenn.",Montgomery Bell Academy,Vanderbilt
+69,77.0,Junior Uzebu,OL,Graduate,"6'6""",330.0,"Atlanta, Ga.",Alpharetta,Vanderbilt
+70,78.0,Dan Herman,OL,Graduate,"6'7""",310.0,"Bethesda, Md.",Wyoming Seminary,Vanderbilt
+71,80.0,Wilson Long,WR,Senior,"6'0""",200.0,"Austin, Texas",Regents School of Austin,Vanderbilt
+72,81.0,Hutch Baird,WR,Junior,"6'1""",200.0,"Concord, Ohio",Mentor,Vanderbilt
+73,82.0,Ezra McAllister,WR,Junior,"6'0""",183.0,"Marshall, Mich.",Marshall,Vanderbilt
+74,83.0,Gamarion Carter,WR,Junior,"6'2""",191.0,"Toccoa, Ga.",Stephens County,Vanderbilt
+75,84.0,Justin Ball,TE,Graduate,"6'6""",245.0,"Glenn Dale, Md.",Gonzaga Prep,Vanderbilt
+76,87.0,Daveon Walker,WR,Sophomore,"6'2""",180.0,"Warner Robins, Ga.",Warner Robins,Vanderbilt
+77,89.0,Cole Spence,TE,Sophomore,"6'7""",247.0,"Roswell, Ga.",Mount Pisgah Christian,Vanderbilt
+78,90.0,Nate Clifton,DE,Graduate,"6'4""",280.0,"La Vergne, Tenn.",Brentwood Academy,Vanderbilt
+79,91.0,Christian James,DL,Graduate,"6'4""",290.0,"Memphis, Tenn.",Christian Brothers,Vanderbilt
+80,92.0,Darren Agu,DE,Sophomore,"6'6""",255.0,"London, England",Rabun Gap-Nacoochee (Ga.),Vanderbilt
+81,93.0,BJ Diakite,DE/LB,Sophomore,"6'4""",215.0,"Pinson, Ala.",Pinson Valley,Vanderbilt
+82,94.0,Bradley Mann,DL,Sophomore,"6'6""",275.0,"Jacksonville, Fla.",The Bolles School,Vanderbilt
+83,95.0,Linus Zunk,DL,Sophomore,"6'6""",260.0,"Berlin, Germany",Rabun Gap-Nacoochee (Ga.),Vanderbilt
+84,96.0,Brayden Bapst,DL,Graduate,"6'8""",275.0,"Washington, D.C.",St. John's College,Vanderbilt
+85,98.0,Yilanan Ouattara,DL,Sophomore,"6'7""",305.0,"Cologne, Germany",Cologne Crocodiles,Vanderbilt
+86,99.0,Devin Lee,DL,Junior,"6'1""",290.0,"McDonough, Ga.",Ola,Vanderbilt
+0,,Clark Lea,Head Coach,,,,,,Vanderbilt
+1,,Justin Lustig,Associate Head Coach • Special Teams Coordinator • Tight Ends,,,,,,Vanderbilt
+2,,Joey Lynch,Offensive Coordinator • Quarterbacks,,,,,,Vanderbilt
+3,,Nick Howell,Defensive Coordinator,,,,,,Vanderbilt
+4,,Nick Lezynski,Defensive Run Game Coordinator • Linebackers,,,,,,Vanderbilt
+5,,AJ Blazek,Assistant Coach • Offensive Line,,,,,,Vanderbilt
+6,,Jovan Haye,Assistant Coach • Defensive Ends,,,,,,Vanderbilt
+7,,Larry Black,Assistant Coach • Defensive Line,,,,,,Vanderbilt
+8,,Alex Bailey,Assistant Coach • Wide Receivers,,,,,,Vanderbilt
+9,,Dan Jackson,Assistant Coach • Defensive Backs,,,,,,Vanderbilt
+10,,Jayden Everett,Assistant Coach • Running Backs,,,,,,Vanderbilt
+11,,Jeff LePak,Analyst • Special Teams,,,,,,Vanderbilt
+12,,Brendan Flaherty,Analyst • Offense,,,,,,Vanderbilt
+13,,Jimmy Thompson,Analyst • Defense,,,,,,Vanderbilt
+14,,Trenton Kirklin,Quality Control • Offense,,,,,,Vanderbilt
+15,,Josh Adams,Quality Control • Offense,,,,,,Vanderbilt
+16,,Robert Armand,Quality Control • Defense,,,,,,Vanderbilt
+17,,Jamaal Richardson,Quality Control · Defense,,,,,,Vanderbilt
+18,,Tito Overton,Graduate Assistant • Offense,,,,,,Vanderbilt
+19,,Dylan Autenreith,Graduate Assistant • Offense,,,,,,Vanderbilt
+20,,Josh Smith,Graduate Assistant • Defense,,,,,,Vanderbilt
+21,,Arion Shinaver,Graduate Assistant • Defense,,,,,,Vanderbilt
+22,,Brandon Hourigan,Director • Football Strength and Conditioning,,,,,,Vanderbilt
+23,,Emmanuel Ashamu,Assistant Director • Strength and Conditioning (Football),,,,,,Vanderbilt
+24,,Demetrius Kemp,Assistant Strength Coach (Football),,,,,,Vanderbilt
+25,,Dustin Curran,Assistant Strength Coach (Football),,,,,,Vanderbilt
+0,,Ben Cauthen,Chief of Staff,,,,,,Vanderbilt
+1,,Barton Simmons,General Manager • Director • Personnel,,,,,,Vanderbilt
+2,,Earl Bennett,Executive Director • Player Development and Administration,,,,,,Vanderbilt
+3,,Kaelene Curry,Director • Mental Performance,,,,,,Vanderbilt
+4,,Molly Hart,Executive Assistant to the Head Coach • Operations Coordinator,,,,,,Vanderbilt
+5,,Bob Lopez,Director • Football Operations,,,,,,Vanderbilt
+6,,Jamie Redmond,Director • Program Performance,,,,,,Vanderbilt
+7,,Chas Petrone,Director • Football Video Services,,,,,,Vanderbilt
+8,,Andrea Cain,Director • Recruiting Relations,,,,,,Vanderbilt
+9,,Nik Valdiserri,Director • Player Personnel,,,,,,Vanderbilt
+10,,Bella Baker,Director • Recruiting,,,,,,Vanderbilt
+11,,Brandon Jones,Director • Scouting,,,,,,Vanderbilt
+12,,Julia Baird,Director • Sports Nutrition,,,,,,Vanderbilt
+13,,Trent Pearson,Director • Football Equipment,,,,,,Vanderbilt
+14,,Jake Jola,Assistant Director • Football Operations,,,,,,Vanderbilt
+15,,Kendall Lawson,Senior Personnel Analyst,,,,,,Vanderbilt
+16,,Darrius Sims,Personnel Analyst,,,,,,Vanderbilt
+17,,Aldo Murià,Personnel Analyst,,,,,,Vanderbilt
+18,,KC Barrett,Graduate Assistant • Analytics,,,,,,Vanderbilt
+19,,Bailey Wheeler,Graphic Designer • Recruiting,,,,,,Vanderbilt
+20,,Paige Canfield,Sports Dietitian,,,,,,Vanderbilt
+21,,Sarah Campbell,Assistant Video Coordinator,,,,,,Vanderbilt
+22,,Gary Veach,Assistant Director • Football Equipment,,,,,,Vanderbilt
+23,,Kaleb Ward,Equipment Assistant,,,,,,Vanderbilt
+24,,Mya Webster,Recruiting Coordinator,,,,,,Vanderbilt
+25,,Ray Lysinger,Assistant Director • Athletic Training Services (Football),,,,,,Vanderbilt
+26,,Jordan Pierce,Associate Athletic Trainer (Football),,,,,,Vanderbilt
+27,,Miya Sullivan,Associate Athletic Trainer (Football),,,,,,Vanderbilt
+28,,Ryan Bussey,Athletic Trainer (Football),,,,,,Vanderbilt
+29,,Mark Bouwmeester,Term Professional,,,,,,Vanderbilt

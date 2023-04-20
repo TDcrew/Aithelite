@@ -1,140 +1,147 @@
-,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown / High School,Headshot,Image,Name,Title
-0,,2.0,David Green,DL,R-Sr.,6-1,285.0,"West Mifflin, PA / Pittsburgh Central Catholic",,,,
-1,,3.0,Donovan McMillon,DB,Jr.,6-2,210.0,"McMurray, PA / Peters Township",,,,
-2,,4.0,Daniel Carter,RB,R-Sr.,5-10,240.0,"Margate, FL / St. Thomas Aquinas",,,,
-3,,4.0,Nahki Johnson,DL,R-So.,6-2,255.0,"Pittsburgh, PA / West Mifflin",,,,
-4,,5.0,Phil Jurkovec,QB,R-Sr.,6-5,235.0,"Pittsburgh, PA / Pine-Richland",,,,
-5,,6.0,Rodney Hammond Jr.,RB,Jr.,5-9,200.0,"Norfolk, VA / Booker T. Washington",,,,
-6,,8.0,Karter Johnson,TE,R-Sr.,6-2,265.0,"Pickerington, OH / Pickerington Central",,,,
-7,,9.0,Konata Mumpfield,WR,Jr.,6-1,180.0,"Hoschton, GA / Dacula",,,,
-8,,9.0,A.J. Woods,DB,R-Sr.,5-11,195.0,"Germantown, MD / Northwest",,,,
-9,,11.0,Bangally Kamara,LB,Sr.,6-2,225.0,"Akron, OH / East",,,,
-10,,11.0,Christian Veilleux,QB,R-So.,6-4,220.0,"Ottawa, Ontario / Bullis School (MD)",,,,
-11,,12.0,M.J. Devonshire,DB,R-Sr.,5-11,190.0,"Aliquippa, PA / Aliquippa",,,,
-12,,14.0,Ty Dieffenbach,QB,Fr.,6-6,210.0,"Calabasas, CA / Agoura",,,,
-13,,14.0,Marquis Williams,DB,R-Sr.,5-9,180.0,"Pompano Beach, FL / Cardinal Gibbons",,,,
-14,,15.0,Rashad Battle,DB,R-Jr.,6-3,205.0,"Atlanta, GA / Creekside",,,,
-15,,15.0,Bub Means,WR,R-Sr.,6-2,215.0,"Lovejoy, GA / Lovejoy",,,,
-16,,16.0,David Lynch,QB,Fr.,6-3,220.0,"East Greenwich, RI / Bishop Hendricken",,,,
-17,,16.0,Nate Temple,DL,R-Sr.,6-4,245.0,"Abbeville, SC / Abbeville",,,,
-18,,17.0,Jake Frantl,QB,R-So.,6-0,205.0,"Erin, WI / Hartford Union",,,,
-19,,17.0,Samuel Okunlola,DL,R-Fr.,6-4,245.0,"Brockton, MA / Thayer Academy",,,,
-20,,18.0,Ryland Gandy,DB,R-Fr.,6-0,180.0,"Buford, GA / Buford",,,,
-21,,18.0,Eli Kosanovich,QB,R-Sr.,6-2,210.0,"Aliquippa, PA / Aliquippa",,,,
-22,,19.0,Jahvante Royal,WR,R-Jr.,6-3,195.0,"Miramar, FL / St. Thomas Aquinas",,,,
-23,,19.0,Nate Yarnell,QB,R-So.,6-6,215.0,"Austin, TX / Lake Travis",,,,
-24,,20.0,Myles Alston,WR,R-So.,6-1,180.0,"Virginia Beach, VA / Ocean Lakes",,,,
-25,,20.0,Javon McIntyre,DB,R-So.,6-0,195.0,"Bear, DE / Imhotep Charter (PA)",,,,
-26,,21.0,Che Nwabuko,WR,R-Fr.,5-10,175.0,"Austin, TX / Manor",,,,
-27,,22.0,Phillip O'Brien Jr.,DB,Jr.,6-0,185.0,"Pompano Beach, FL / Deerfield Beach",,,,
-28,,23.0,Solomon DeShields,LB,R-Jr.,6-3,230.0,"Millville, NJ / Millville Senior",,,,
-29,,24.0,Tamarion Crumpley,DB,R-So.,6-1,195.0,"Cincinnati, OH / Winton Woods",,,,
-30,,24.0,C'Bo Flemister,RB,R-Sr.,5-11,210.0,"Williamson, GA / Pike County",,,,
-31,,25.0,TJ Harvison,RB,Fr.,6-1,195.0,"Carrolton, GA / Bowdon",,,,
-32,,27.0,Buddy Mack III,DB,Sr.,6-1,200.0,"Greer, SC / Byrnes",,,,
-33,,27.0,Israel Polk,WR,Fr.,6-1,170.0,"Richmond, CA / St. John Bosco",,,,
-34,,28.0,Noah Biglow,DB,R-So.,5-11,180.0,"Wesley Chapel, FL / Armwood",,,,
-35,,29.0,Luke DelGaudio,LB,R-Jr.,6-2,220.0,"Shavertown, PA / Dallas",,,,
-36,,29.0,Josh Junko,WR,R-Sr.,6-1,200.0,"Akron, OH / Cuyahoga Valley Christian Academy",,,,
-37,,30.0,Brandon George,LB,R-Sr.,6-3,250.0,"Reading, PA / Berks Catholic",,,,
-38,,30.0,Caleb Williams,RB,Fr.,5-11,210.0,"Pittsburgh, PA / Montour",,,,
-39,,32.0,Shayne Simon,LB,R-Sr.,6-3,235.0,"West Orange, NJ / St. Peter's Prep",,,,
-40,,34.0,Derrick Davis Jr.,RB,Jr.,6-0,210.0,"Pittsburgh, PA / Gateway",,,,
-41,,35.0,Braylan Lovelace,LB,Fr.,6-2,210.0,"Leechburg, PA / Leechburg",,,,
-42,,37.0,Stephon Hall,DB,R-So.,6-1,190.0,"Monaca, PA / Central Valley",,,,
-43,,38.0,Kyle Louis,LB,R-Fr.,5-11,215.0,"East Orange, NJ / East Orange Campus",,,,
-44,,39.0,Devin Whitlock,WR,Fr.,5-10,165.0,"Monessen, PA / Belle Vernon Area",,,,
-45,,40.0,Addison Copeland III,WR,R-Fr.,6-2,180.0,"Buffalo, NY / Western New York Maritime Charter",,,,
-46,,43.0,Cole Mitchell,TE,R-So.,6-5,245.0,"Frederick, MD / Linganore",,,,
-47,,44.0,Jimmy Scott,DL,R-Fr.,6-2,255.0,"Cheektowaga, NY / St. Francis",,,,
-48,,45.0,Dante Caputo,DB,R-Sr.,5-11,180.0,"Wexford, PA / North Allegheny",,,,
-49,,46.0,Peter Vardzel,WR,R-So.,6-0,185.0,"Charleston, SC / Wando",,,,
-50,,47.0,Aydin Henningham,LB,R-Jr.,6-2,225.0,"Delray Beach, FL / Deerfield Beach",,,,
-51,,47.0,Caden Smith,WR,R-Fr.,6-4,185.0,"Murrysville, PA / Franklin Regional",,,,
-52,,48.0,Matthew Amofa,DB,R-Fr.,5-10,185.0,"Hillsborough, NJ / Hillsborough",,,,
-53,,48.0,Lorenzo Jenkins,WR,R-Fr.,6-3,185.0,"Beaver Falls, PA / Blackhawk",,,,
-54,,49.0,Byron Floyd,LS,R-Jr.,6-1,245.0,"Mentor, OH / Mentor",,,,
-55,,50.0,Jason Collier Jr.,OL,R-Sr.,6-6,325.0,"West Deptford, NJ / West Deptford",,,,
-56,,50.0,Dayon Hayes,DL,Sr.,6-3,270.0,"Pittsburgh, PA / Westinghouse",,,,
-57,,51.0,Dorien Ford,OL,R-So.,6-4,325.0,"Pittsburgh, PA / Baldwin",,,,
-58,,51.0,Drew Foster,LB,R-Fr.,6-2,215.0,"Austin, TX / Hyde Park Baptist",,,,
-59,,52.0,Abe Ibrahim,LB,R-Fr.,6-1,210.0,"Bridgeville, PA / Chartiers Valley",,,,
-60,,53.0,Jake Kradel,OL,R-Sr.,6-3,305.0,"Butler, PA / Butler Senior",,,,
-61,,54.0,Trey Andersen,OL,R-So.,6-6,290.0,"Eagle Mountain, UT / Lehi",,,,
-62,,54.0,Dylan Bennett,LB,R-So.,6-3,235.0,"Montoursville, PA / Montoursville",,,,
-63,,55.0,Sean FitzSimmons,DL,R-Fr.,6-3,285.0,"Monaca, PA / Central Valley",,,,
-64,,55.0,BJ Williams,OL,Fr.,6-3,295.0,"Lawrenceville, GA / Creekside",,,,
-65,,56.0,Will King IV,DL,R-Jr.,6-4,280.0,"Holland, MI / Holland Christian",,,,
-66,,57.0,Bam Brima,DL,R-Sr.,6-5,270.0,"Worcester, MA / Loyalsock Township (PA)",,,,
-67,,58.0,Terrence Moore,OL,R-So.,6-5,305.0,"Massillon, OH / Massillon Washington",,,,
-68,,59.0,Nick Lapi,LB,R-So.,6-2,220.0,"Upper Saddle River, NJ / Northern Highlands",,,,
-69,,61.0,Ryan Jacoby,OL,R-Sr.,6-4,300.0,"Mentor, OH / Mentor",,,,
-70,,63.0,Matt Altsman,OL,R-Jr.,6-0,285.0,"Zelienople, PA / Pittsburgh Central Catholic",,,,
-71,,66.0,George French II,OL,R-Jr.,6-8,320.0,"Bethlehem, PA / Bethlehem Catholic",,,,
-72,,68.0,Blake Zubovic,OL,R-Sr.,6-4,325.0,"Belle Vernon, PA / Belle Vernon Area",,,,
-73,,69.0,Matt Metrosky,OL,R-So.,6-1,290.0,"Greensburg, PA / Greensburg Central Catholic",,,,
-74,,70.0,Ryan Baer,OL,R-Fr.,6-7,335.0,"Eastlake, OH / North",,,,
-75,,72.0,Isaiah Montgomery,OL,R-Fr.,6-4,295.0,"Virginia Beach, VA / Landstown",,,,
-76,,74.0,Terrence Enos Jr.,OL,R-So.,6-4,320.0,"Redford, MI / Cass Technical",,,,
-77,,76.0,Matt Goncalves,OL,R-Sr.,6-6,325.0,"Manorville, NY / Eastport-South Manor",,,,
-78,,78.0,Branson Taylor,OL,R-Jr.,6-5,330.0,"Lorain, OH / Elyria Catholic",,,,
-79,,81.0,Daejon Reynolds,WR,R-So.,6-2,210.0,"Springfield, IL / Grayson",,,,
-80,,83.0,Lamar Seymore,WR,Fr.,6-1,185.0,"Miami, FL / Miami Central",,,,
-81,,84.0,Jake McConnachie,WR,R-Jr.,6-5,205.0,"Verona, NJ / Verona",,,,
-82,,85.0,Josh Altsman,TE,R-Fr.,6-3,235.0,"Zelienople, PA / Pittsburgh Central Catholic",,,,
-83,,86.0,Gavin Bartholomew,TE,Jr.,6-5,255.0,"Schuylkill Haven, PA / Blue Mountain",,,,
-84,,87.0,Trevor Faulkner,TE,R-So.,6-4,240.0,"Pittsburgh, PA / Avonworth",,,,
-85,,88.0,Jake Renda,TE,R-So.,6-4,230.0,"Princeton, NJ / IMG Academy (FL)",,,,
-86,,90.0,Deandre Jules,DL,R-Sr.,6-3,310.0,"Germantown, MD / Northwest",,,,
-87,,90.0,Ben Sauls,PK,R-Jr.,5-10,185.0,"Tipp City, OH / Tippecanoe",,,,
-88,,91.0,Thomas Aden,DL,R-Fr.,6-1,280.0,"Lakewood, OH / St. Edward",,,,
-89,,92.0,Tyler Bentley,DL,R-Sr.,6-2,305.0,"West Chester, OH / Lakota West",,,,
-90,,92.0,Cam Guess,P,R-Jr.,5-11,205.0,"Belle Vernon, PA / Belle Vernon Area",,,,
-91,,93.0,James Fineran,LS,R-So.,6-5,235.0,"Towson, MD / Calvert Hall College H.S.",,,,
-92,,94.0,Elliot Donald,DL,R-So.,6-2,275.0,"Pittsburgh, PA / Pittsburgh Central Catholic",,,,
-93,,94.0,Sam Vander Haar,P,So.,6-0,215.0,"Melbourne, Australia / Box Hill Senior Secondary College",,,,
-94,,95.0,Devin Danielson,DL,R-Sr.,6-2,290.0,"Pittsburgh, PA / Thomas Jefferson",,,,
-95,,95.0,Caleb Junko,P,R-So.,6-1,200.0,"Akron, OH / Hudson",,,,
-96,,96.0,Franco Fernandez,PK,Fr.,5-10,160.0,"Chicago, IL / Glenbrook South",,,,
-97,,97.0,Isaiah Neal,DL,Fr.,6-2,265.0,Washington D.C. / St. Frances Academy (MD),,,,
-98,,97.0,Jeff Yurk,P,Jr.,6-1,225.0,"Southern Pines, NC / Pinecrest",,,,
-99,,98.0,Brock Wilkins,LS,R-Fr.,6-1,225.0,"Blairsville, PA / Kiski Area",,,,
-0,,,,,,,,,,,Pat Narduzzi,Chris Bickell '97 Head Football Coach
-1,,,,,,,,,,,Charlie Partridge,Assistant Head Coach / Defensive Line
-2,,,,,,,,,,,Frank Cignetti Jr.,Offensive Coordinator / Quarterbacks
-3,,,,,,,,,,,Randy Bates,Defensive Coordinator
-4,,,,,,,,,,,Andre Powell,Special Teams Coordinator / Running Backs
-5,,,,,,,,,,,Tiquan Underwood,Wide Receivers / Passing Game Coordinator
-6,,,,,,,,,,,Dave Borbely,Offensive Line
-7,,,,,,,,,,,Archie Collins,Secondary
-8,,,,,,,,,,,Ryan Manalac,Linebackers
-9,,,,,,,,,,,Tim Salem,Tight Ends
-10,,,,,,,,,,,Cory Sanders,Safeties
-11,,,,,,,,,,,Michael Stacchiotti,Head Strength and Conditioning Coach
-12,,,,,,,,,,,Chris LaSala,"Associate Athletic Director, Football Administration"
-13,,,,,,,,,,,John Ford Jr.,"Assistant Athletic Director, Football Operations"
-14,,,,,,,,,,,Graham Wilbert,Director of Player Personnel
-15,,,,,,,,,,,Adam Caltury,Director of Recruiting
-16,,,,,,,,,,,Karlo Zovko,Assistant Director of Player Personnel
-17,,,,,,,,,,,Alex Kline,Assistant Director of Player Personnel
-18,,,,,,,,,,,Peter Collins,Offensive Quality Control
-19,,,,,,,,,,,Phil DeCapito,Defensive Quality Control
-20,,,,,,,,,,,Jonathan DiBiaso,Offensive Graduate Assistant
-21,,,,,,,,,,,Sina D'Amico,Sports Dietitian (FB)
-22,,,,,,,,,,,DeVaughn Gordon,Assistant Strength and Conditioning Coach (FB)
-23,,,,,,,,,,,Michael Ray,Assistant Strength and Conditioning Coach (FB)
-24,,,,,,,,,,,Ryan Ross,Assistant Strength and Conditioning Coach (FB)
-25,,,,,,,,,,,Parker Showers,Assistant Strength and Conditioning Coach (FB)
-26,,,,,,,,,,,Chris Hanks,Head Football Athletic Trainer
-27,,,,,,,,,,,Ryan Bohn,Athletic Trainer (FB)
-28,,,,,,,,,,,Ada Weiss,Athletic Trainer (FB)
-29,,,,,,,,,,,Taylor Wilhelm,Director of Creative Media
-30,,,,,,,,,,,Max Behr,Assistant Director of Creative Content
-31,,,,,,,,,,,Chris Dountas,Director of Equipment Services (FB)
-32,,,,,,,,,,,Danny Kozusko,Assistant Director of Equipment Services (FB)
-33,,,,,,,,,,,Chad Bogard,Director of Football Video Services
-34,,,,,,,,,,,Greg Daniels,Director of Broadcast and Video Production (FB)
-35,,,,,,,,,,,Mitch Robinson,Assistant Director of Broadcast and Video Production (FB)
-36,,,,,,,,,,,Sam Kukura,Recruiting Analyst
-37,,,,,,,,,,,Vicki Kline,General Administrative Assistant to Coach Narduzzi
-38,,,,,,,,,,,Lynnie Koontz,Administrative Assistant for Recruiting
+,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown / High School,Current School Name,Headshot,Image,Name,Title
+0,,2.0,David Green,DL,R-Sr.,6-1,285.0,"West Mifflin, PA / Pittsburgh Central Catholic",Pittsburgh,,,,
+1,,3.0,Donovan McMillon,DB,Jr.,6-2,210.0,"McMurray, PA / Peters Township",Pittsburgh,,,,
+2,,4.0,Daniel Carter,RB,R-Sr.,5-10,240.0,"Margate, FL / St. Thomas Aquinas",Pittsburgh,,,,
+3,,4.0,Nahki Johnson,DL,R-So.,6-2,255.0,"Pittsburgh, PA / West Mifflin",Pittsburgh,,,,
+4,,5.0,Phil Jurkovec,QB,R-Sr.,6-5,235.0,"Pittsburgh, PA / Pine-Richland",Pittsburgh,,,,
+5,,6.0,Rodney Hammond Jr.,RB,Jr.,5-9,200.0,"Norfolk, VA / Booker T. Washington",Pittsburgh,,,,
+6,,8.0,Karter Johnson,TE,R-Sr.,6-2,265.0,"Pickerington, OH / Pickerington Central",Pittsburgh,,,,
+7,,9.0,Konata Mumpfield,WR,Jr.,6-1,180.0,"Hoschton, GA / Dacula",Pittsburgh,,,,
+8,,9.0,A.J. Woods,DB,R-Sr.,5-11,195.0,"Germantown, MD / Northwest",Pittsburgh,,,,
+9,,11.0,Bangally Kamara,LB,Sr.,6-2,225.0,"Akron, OH / East",Pittsburgh,,,,
+10,,11.0,Christian Veilleux,QB,R-So.,6-4,220.0,"Ottawa, Ontario / Bullis School (MD)",Pittsburgh,,,,
+11,,12.0,M.J. Devonshire,DB,R-Sr.,5-11,190.0,"Aliquippa, PA / Aliquippa",Pittsburgh,,,,
+12,,14.0,Ty Dieffenbach,QB,Fr.,6-6,210.0,"Calabasas, CA / Agoura",Pittsburgh,,,,
+13,,14.0,Marquis Williams,DB,R-Sr.,5-9,180.0,"Pompano Beach, FL / Cardinal Gibbons",Pittsburgh,,,,
+14,,15.0,Rashad Battle,DB,R-Jr.,6-3,205.0,"Atlanta, GA / Creekside",Pittsburgh,,,,
+15,,15.0,Bub Means,WR,R-Sr.,6-2,215.0,"Lovejoy, GA / Lovejoy",Pittsburgh,,,,
+16,,16.0,David Lynch,QB,Fr.,6-3,220.0,"East Greenwich, RI / Bishop Hendricken",Pittsburgh,,,,
+17,,16.0,Nate Temple,DL,R-Sr.,6-4,245.0,"Abbeville, SC / Abbeville",Pittsburgh,,,,
+18,,17.0,Jake Frantl,QB,R-So.,6-0,205.0,"Erin, WI / Hartford Union",Pittsburgh,,,,
+19,,17.0,Samuel Okunlola,DL,R-Fr.,6-4,245.0,"Brockton, MA / Thayer Academy",Pittsburgh,,,,
+20,,18.0,Ryland Gandy,DB,R-Fr.,6-0,180.0,"Buford, GA / Buford",Pittsburgh,,,,
+21,,18.0,Eli Kosanovich,QB,R-Sr.,6-2,210.0,"Aliquippa, PA / Aliquippa",Pittsburgh,,,,
+22,,19.0,Jahvante Royal,WR,R-Jr.,6-3,195.0,"Miramar, FL / St. Thomas Aquinas",Pittsburgh,,,,
+23,,19.0,Nate Yarnell,QB,R-So.,6-6,215.0,"Austin, TX / Lake Travis",Pittsburgh,,,,
+24,,20.0,Javon McIntyre,DB,R-So.,6-0,195.0,"Bear, DE / Imhotep Charter (PA)",Pittsburgh,,,,
+25,,21.0,Che Nwabuko,WR,R-Fr.,5-10,175.0,"Austin, TX / Manor",Pittsburgh,,,,
+26,,22.0,Phillip O'Brien Jr.,DB,Jr.,6-0,185.0,"Pompano Beach, FL / Deerfield Beach",Pittsburgh,,,,
+27,,23.0,Solomon DeShields,LB,R-Jr.,6-3,230.0,"Millville, NJ / Millville Senior",Pittsburgh,,,,
+28,,24.0,Tamarion Crumpley,DB,R-So.,6-1,195.0,"Cincinnati, OH / Winton Woods",Pittsburgh,,,,
+29,,24.0,C'Bo Flemister,RB,R-Sr.,5-11,210.0,"Williamson, GA / Pike County",Pittsburgh,,,,
+30,,25.0,TJ Harvison,RB,Fr.,6-1,195.0,"Carrolton, GA / Bowdon",Pittsburgh,,,,
+31,,27.0,Buddy Mack III,DB,Sr.,6-1,200.0,"Greer, SC / Byrnes",Pittsburgh,,,,
+32,,27.0,Israel Polk,WR,Fr.,6-1,170.0,"Richmond, CA / St. John Bosco",Pittsburgh,,,,
+33,,28.0,Noah Biglow,DB,R-So.,5-11,180.0,"Wesley Chapel, FL / Armwood",Pittsburgh,,,,
+34,,29.0,Luke DelGaudio,LB,R-Jr.,6-2,220.0,"Shavertown, PA / Dallas",Pittsburgh,,,,
+35,,29.0,Josh Junko,WR,R-Sr.,6-1,200.0,"Akron, OH / Cuyahoga Valley Christian Academy",Pittsburgh,,,,
+36,,30.0,Brandon George,LB,R-Sr.,6-3,250.0,"Reading, PA / Berks Catholic",Pittsburgh,,,,
+37,,30.0,Caleb Williams,RB,Fr.,5-11,210.0,"Pittsburgh, PA / Montour",Pittsburgh,,,,
+38,,32.0,Shayne Simon,LB,R-Sr.,6-3,235.0,"West Orange, NJ / St. Peter's Prep",Pittsburgh,,,,
+39,,34.0,Derrick Davis Jr.,RB,Jr.,6-0,210.0,"Pittsburgh, PA / Gateway",Pittsburgh,,,,
+40,,35.0,Braylan Lovelace,LB,Fr.,6-2,210.0,"Leechburg, PA / Leechburg",Pittsburgh,,,,
+41,,37.0,Stephon Hall,DB,R-So.,6-1,190.0,"Monaca, PA / Central Valley",Pittsburgh,,,,
+42,,38.0,Kyle Louis,LB,R-Fr.,5-11,215.0,"East Orange, NJ / East Orange Campus",Pittsburgh,,,,
+43,,39.0,Devin Whitlock,WR,Fr.,5-10,165.0,"Monessen, PA / Belle Vernon Area",Pittsburgh,,,,
+44,,40.0,Addison Copeland III,WR,R-Fr.,6-2,180.0,"Buffalo, NY / Western New York Maritime Charter",Pittsburgh,,,,
+45,,43.0,Cole Mitchell,TE,R-So.,6-5,245.0,"Frederick, MD / Linganore",Pittsburgh,,,,
+46,,44.0,Jimmy Scott,DL,R-Fr.,6-2,255.0,"Cheektowaga, NY / St. Francis",Pittsburgh,,,,
+47,,45.0,Dante Caputo,DB,R-Sr.,5-11,180.0,"Wexford, PA / North Allegheny",Pittsburgh,,,,
+48,,46.0,Peter Vardzel,WR,R-So.,6-0,185.0,"Charleston, SC / Wando",Pittsburgh,,,,
+49,,47.0,Aydin Henningham,LB,R-Jr.,6-2,225.0,"Delray Beach, FL / Deerfield Beach",Pittsburgh,,,,
+50,,47.0,Caden Smith,WR,R-Fr.,6-4,185.0,"Murrysville, PA / Franklin Regional",Pittsburgh,,,,
+51,,48.0,Matthew Amofa,DB,R-Fr.,5-10,185.0,"Hillsborough, NJ / Hillsborough",Pittsburgh,,,,
+52,,48.0,Lorenzo Jenkins,WR,R-Fr.,6-3,185.0,"Beaver Falls, PA / Blackhawk",Pittsburgh,,,,
+53,,49.0,Byron Floyd,LS,R-Jr.,6-1,245.0,"Mentor, OH / Mentor",Pittsburgh,,,,
+54,,50.0,Jason Collier Jr.,OL,R-Sr.,6-6,325.0,"West Deptford, NJ / West Deptford",Pittsburgh,,,,
+55,,50.0,Dayon Hayes,DL,Sr.,6-3,270.0,"Pittsburgh, PA / Westinghouse",Pittsburgh,,,,
+56,,51.0,Dorien Ford,OL,R-So.,6-4,325.0,"Pittsburgh, PA / Baldwin",Pittsburgh,,,,
+57,,51.0,Drew Foster,LB,R-Fr.,6-2,215.0,"Austin, TX / Hyde Park Baptist",Pittsburgh,,,,
+58,,52.0,Abe Ibrahim,LB,R-Fr.,6-1,210.0,"Bridgeville, PA / Chartiers Valley",Pittsburgh,,,,
+59,,53.0,Jake Kradel,OL,R-Sr.,6-3,305.0,"Butler, PA / Butler Senior",Pittsburgh,,,,
+60,,54.0,Trey Andersen,OL,R-So.,6-6,290.0,"Eagle Mountain, UT / Lehi",Pittsburgh,,,,
+61,,54.0,Dylan Bennett,LB,R-So.,6-3,235.0,"Montoursville, PA / Montoursville",Pittsburgh,,,,
+62,,55.0,Sean FitzSimmons,DL,R-Fr.,6-3,285.0,"Monaca, PA / Central Valley",Pittsburgh,,,,
+63,,55.0,BJ Williams,OL,Fr.,6-3,295.0,"Lawrenceville, GA / Creekside",Pittsburgh,,,,
+64,,56.0,Will King IV,DL,R-Jr.,6-4,280.0,"Holland, MI / Holland Christian",Pittsburgh,,,,
+65,,57.0,Bam Brima,DL,R-Sr.,6-5,270.0,"Worcester, MA / Loyalsock Township (PA)",Pittsburgh,,,,
+66,,58.0,Terrence Moore,OL,R-So.,6-5,305.0,"Massillon, OH / Massillon Washington",Pittsburgh,,,,
+67,,59.0,Nick Lapi,LB,R-So.,6-2,220.0,"Upper Saddle River, NJ / Northern Highlands",Pittsburgh,,,,
+68,,61.0,Ryan Jacoby,OL,R-Sr.,6-4,300.0,"Mentor, OH / Mentor",Pittsburgh,,,,
+69,,63.0,Matt Altsman,OL,R-Jr.,6-0,285.0,"Zelienople, PA / Pittsburgh Central Catholic",Pittsburgh,,,,
+70,,66.0,George French II,OL,R-Jr.,6-8,320.0,"Bethlehem, PA / Bethlehem Catholic",Pittsburgh,,,,
+71,,68.0,Blake Zubovic,OL,R-Sr.,6-4,325.0,"Belle Vernon, PA / Belle Vernon Area",Pittsburgh,,,,
+72,,69.0,Matt Metrosky,OL,R-So.,6-1,290.0,"Greensburg, PA / Greensburg Central Catholic",Pittsburgh,,,,
+73,,70.0,Ryan Baer,OL,R-Fr.,6-7,335.0,"Eastlake, OH / North",Pittsburgh,,,,
+74,,72.0,Isaiah Montgomery,OL,R-Fr.,6-4,295.0,"Virginia Beach, VA / Landstown",Pittsburgh,,,,
+75,,74.0,Terrence Enos Jr.,OL,R-So.,6-4,320.0,"Redford, MI / Cass Technical",Pittsburgh,,,,
+76,,76.0,Matt Goncalves,OL,R-Sr.,6-6,325.0,"Manorville, NY / Eastport-South Manor",Pittsburgh,,,,
+77,,78.0,Branson Taylor,OL,R-Jr.,6-5,330.0,"Lorain, OH / Elyria Catholic",Pittsburgh,,,,
+78,,81.0,Daejon Reynolds,WR,R-So.,6-2,210.0,"Springfield, IL / Grayson",Pittsburgh,,,,
+79,,83.0,Lamar Seymore,WR,Fr.,6-1,185.0,"Miami, FL / Miami Central",Pittsburgh,,,,
+80,,84.0,Jake McConnachie,WR,R-Jr.,6-5,205.0,"Verona, NJ / Verona",Pittsburgh,,,,
+81,,85.0,Josh Altsman,TE,R-Fr.,6-3,235.0,"Zelienople, PA / Pittsburgh Central Catholic",Pittsburgh,,,,
+82,,86.0,Gavin Bartholomew,TE,Jr.,6-5,255.0,"Schuylkill Haven, PA / Blue Mountain",Pittsburgh,,,,
+83,,87.0,Trevor Faulkner,TE,R-So.,6-4,240.0,"Pittsburgh, PA / Avonworth",Pittsburgh,,,,
+84,,88.0,Jake Renda,TE,R-So.,6-4,230.0,"Princeton, NJ / IMG Academy (FL)",Pittsburgh,,,,
+85,,90.0,Deandre Jules,DL,R-Sr.,6-3,310.0,"Germantown, MD / Northwest",Pittsburgh,,,,
+86,,90.0,Ben Sauls,PK,R-Jr.,5-10,185.0,"Tipp City, OH / Tippecanoe",Pittsburgh,,,,
+87,,91.0,Thomas Aden,DL,R-Fr.,6-1,280.0,"Lakewood, OH / St. Edward",Pittsburgh,,,,
+88,,92.0,Tyler Bentley,DL,R-Sr.,6-2,305.0,"West Chester, OH / Lakota West",Pittsburgh,,,,
+89,,92.0,Cam Guess,P,R-Jr.,5-11,205.0,"Belle Vernon, PA / Belle Vernon Area",Pittsburgh,,,,
+90,,93.0,James Fineran,LS,R-So.,6-5,235.0,"Towson, MD / Calvert Hall College H.S.",Pittsburgh,,,,
+91,,94.0,Elliot Donald,DL,R-So.,6-2,275.0,"Pittsburgh, PA / Pittsburgh Central Catholic",Pittsburgh,,,,
+92,,94.0,Sam Vander Haar,P,So.,6-0,215.0,"Melbourne, Australia / Box Hill Senior Secondary College",Pittsburgh,,,,
+93,,95.0,Devin Danielson,DL,R-Sr.,6-2,290.0,"Pittsburgh, PA / Thomas Jefferson",Pittsburgh,,,,
+94,,95.0,Caleb Junko,P,R-So.,6-1,200.0,"Akron, OH / Hudson",Pittsburgh,,,,
+95,,96.0,Franco Fernandez-Enjo,PK,Fr.,5-10,160.0,"Glenview, IL / Glenbrook South",Pittsburgh,,,,
+96,,97.0,Isaiah Neal,DL,Fr.,6-2,265.0,Washington D.C. / St. Frances Academy (MD),Pittsburgh,,,,
+97,,97.0,Jeff Yurk,P,Jr.,6-1,225.0,"Southern Pines, NC / Pinecrest",Pittsburgh,,,,
+98,,98.0,Brock Wilkins,LS,R-Fr.,6-1,225.0,"Blairsville, PA / Kiski Area",Pittsburgh,,,,
+0,,,,,,,,,Pittsburgh,,,Pat Narduzzi,Chris Bickell '97 Head Football Coach
+1,,,,,,,,,Pittsburgh,,,Charlie Partridge,Assistant Head Coach / Defensive Line
+2,,,,,,,,,Pittsburgh,,,Frank Cignetti Jr.,Offensive Coordinator / Quarterbacks
+3,,,,,,,,,Pittsburgh,,,Randy Bates,Defensive Coordinator
+4,,,,,,,,,Pittsburgh,,,Andre Powell,Special Teams Coordinator / Running Backs
+5,,,,,,,,,Pittsburgh,,,Tiquan Underwood,Wide Receivers / Passing Game Coordinator
+6,,,,,,,,,Pittsburgh,,,Dave Borbely,Offensive Line
+7,,,,,,,,,Pittsburgh,,,Archie Collins,Secondary
+8,,,,,,,,,Pittsburgh,,,Ryan Manalac,Linebackers
+9,,,,,,,,,Pittsburgh,,,Tim Salem,Tight Ends
+10,,,,,,,,,Pittsburgh,,,Cory Sanders,Safeties
+11,,,,,,,,,Pittsburgh,,,Michael Stacchiotti,Head Strength and Conditioning Coach
+0,,,,,,,,,Pittsburgh,,,Chris LaSala,"Associate Athletic Director, Football Administration (FB)"
+1,,,,,,,,,Pittsburgh,,,John Ford Jr.,"Assistant Athletic Director, Football Operations"
+2,,,,,,,,,Pittsburgh,,,Mark Pennington,Assistant Director of Football Operations
+3,,,,,,,,,Pittsburgh,,,Graham Wilbert,Director of Player Personnel
+4,,,,,,,,,Pittsburgh,,,Adam Caltury,Director of Recruiting
+5,,,,,,,,,Pittsburgh,,,Karlo Zovko,Assistant Director of Player Personnel
+6,,,,,,,,,Pittsburgh,,,Alex Kline,Assistant Director of Player Personnel
+7,,,,,,,,,Pittsburgh,,,Peter Collins,Offensive Quality Control
+8,,,,,,,,,Pittsburgh,,,Phil DeCapito,Defensive Quality Control
+9,,,,,,,,,Pittsburgh,,,Jonathan DiBiaso,Offensive Graduate Assistant
+10,,,,,,,,,Pittsburgh,,,DeVaughn Gordon,Associate Strength and Conditioning Coach (FB)
+11,,,,,,,,,Pittsburgh,,,Michael Ray,Assistant Strength and Conditioning Coach (FB)
+12,,,,,,,,,Pittsburgh,,,Ryan Ross,Assistant Strength and Conditioning Coach (FB)
+13,,,,,,,,,Pittsburgh,,,Parker Showers,Assistant Strength and Conditioning Coach (FB)
+14,,,,,,,,,Pittsburgh,,,Chris Hanks,Assistant Athletic Director / Head Football Athletic Trainer
+15,,,,,,,,,Pittsburgh,,,Ryan Bohn,Athletic Trainer (FB)
+16,,,,,,,,,Pittsburgh,,,Ada Weiss,Athletic Trainer (FB)
+17,,,,,,,,,Pittsburgh,,,Sina D'Amico,Sports Dietitian (FB)
+18,,,,,,,,,Pittsburgh,,,Danielle Kravits,Sports Nutrition Fellow (FB)
+19,,,,,,,,,Pittsburgh,,,Chris Dountas,Director of Football Equipment Services
+20,,,,,,,,,Pittsburgh,,,Danny Kozusko,Assistant Director of Football Equipment Services
+21,,,,,,,,,Pittsburgh,,,Taylor Wilhelm,Director of Creative Media
+22,,,,,,,,,Pittsburgh,,,Max Behr,Assistant Director of Creative Media
+23,,,,,,,,,Pittsburgh,,,Chad Bogard,Director of Football Video Services
+24,,,,,,,,,Pittsburgh,,,Nate Sexauer,Assistant Director of Football Video Services
+25,,,,,,,,,Pittsburgh,,,Greg Daniels,Director of Broadcast and Video Production (FB)
+26,,,,,,,,,Pittsburgh,,,Mitch Robinson,Assistant Director of Broadcast and Video Production (FB)
+27,,,,,,,,,Pittsburgh,,,Sam Kukura,Recruiting Analyst
+28,,,,,,,,,Pittsburgh,,,Sam Wheatley,Academic Counselor (FB)
+29,,,,,,,,,Pittsburgh,,,Carter Pickering,Academic Counselor (FB)
+30,,,,,,,,,Pittsburgh,,,Monica McNeil,Academic Counselor (FB)
+31,,,,,,,,,Pittsburgh,,,E.J. Borghetti,"Executive Associate Athletic Director, Communications"
+32,,,,,,,,,Pittsburgh,,,R.J. Sepich,"Director of Football Communications and Digital StrategyFB, WRES"
+33,,,,,,,,,Pittsburgh,,,Vicki Kline,General Administrative Assistant to Coach Narduzzi
+34,,,,,,,,,Pittsburgh,,,Lynnie Koontz,Administrative Assistant for Recruiting

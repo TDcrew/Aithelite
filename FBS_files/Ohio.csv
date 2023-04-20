@@ -1,120 +1,119 @@
-,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown / High School,Previous School,Image,Name,Title
-0,,0.0,O'Shaan Allison,RB,Red 5th,5-10,202.0,"Malvern, Pa. / Malvern Prep",,,,
-1,,2.0,Alec Burton,TE,Gr.,6-4,242.0,"Danville, Ind. / Danville",,,,
-2,,2.0,Nife Oseni,S,R-Jr.,5-10,193.0,"Rolling Meadows, Ill. / Rolling Meadows",,,,
-3,,3.0,Keegan Wilburn,WR,R-Jr.,5-9,180.0,"Nelsonville, Ohio / Nelsonville-York",,,,
-4,,3.0,Jeremiah Wood,S,Red 5th,6-0,213.0,"Pickerington, Ohio / Pickerington Central",,,,
-5,,4.0,Roman Parodie,CB,R-Jr.,6-1,191.0,"Fort Lauderdale, Fla. / Cardinal Gibbons",,,,
-6,,4.0,Tyler Walton,WR,Red 5th,5-9,174.0,"St. Louis, Mo. / Christian Brothers",,,,
-7,,6.0,Dontay Hunter II,DE,R-Sr.,6-4,251.0,"Westerville, Ohio / Westerville Central",Purdue,,,
-8,,6.0,Quintell Quinn,RB,R-So.,6-1,219.0,"Columbus, Ohio / St. Francis DeSales High School",,,,
-9,,7.0,"Torrie Cox, Jr.",CB,R-So.,5-9,166.0,"Miami Gardens, Fla. / | Chaminade-Madonna Preparatory School",,,,
-10,,7.0,Kurtis Rourke,QB,R-Sr.,6-5,216.0,"Oakville, Ontario, Canada / Holy Trinity",,,,
-11,,8.0,Justin Birchette,CB,Gr.,5-10,181.0,"Palm Beach Gardens, Fla. / Dwyer",,,,
-12,,8.0,Jacoby Jones,WR,Sr.,6-1,223.0,"Tunica, Miss. /",NW Mississippi CC,,,
-13,,9.0,Callum Wither,QB,R-Fr.,6-3,208.0,"Mississauga, Ontario / Clarkson Football North",,,,
-14,,10.0,CJ Harris,QB,R-Jr.,6-3,215.0,"West Bloomfield, Mich. / West Bloomfield",,,,
-15,,11.0,Kobi Gorman,DT,Fr.,-,,"Pickerington, Ohio / Pickerington Central",,,,
-16,,11.0,Rodney Harris II,WR,R-Fr.,6-2,201.0,"Cincinnati, Ohio / Princeton High School",,,,
-17,,12.0,Tank Pearson,CB,Jr.,-,,"Oxford, Mississippi /",Northwest Mississippi Community College,,,
-18,,12.0,Sam Wiglusz,WR,Gr.,5-11,185.0,"Brecksville, Ohio / Brecksville",Ohio State,,,
-19,,13.0,Parker Navarro,QB,R-Jr.,6-0,201.0,"Tempe, Ariz. / Desert Vista",UCF,,,
-20,,14.0,Bryce Butler,TE,R-So.,6-3,265.0,"Bowie, Md. / St. John’s College High School",,,,
-21,,14.0,John Motton,S,R-So.,5-11,203.0,"Groveport, Ohio / Groveport-Madison High School",,,,
-22,,15.0,David Patterson,DE,R-So.,6-3,222.0,"Lilburn, Ga. / Parkview High School",,,,
-23,,15.0,Jacob Winters,QB,Fr.,-,,"Jackson, Ohio / Jackson",,,,
-24,,16.0,Isaiah Davis,WR,R-So.,6-3,195.0,"Apopka, Fla. / Wekiva High School",,,,
-25,,16.0,Chris Mayfield,DT,R-Jr.,6-2,270.0,"Hilliard, Ohio / Hilliard Bradley",Michigan State,,,
-26,,17.0,Vonnie Watkins,DE,Gr.,6-3,230.0,"Lusby, Md. / Patuxent",,,,
-27,,18.0,Caden Campolieti,LB,R-Sr.,6-1,222.0,"Cleveland, Ohio / Saint Ignatius",,,,
-28,,19.0,Miles Cross,WR,Jr.,6-1,213.0,"Bowie, Md. / Rock Hill High School (S.C.)",,,,
-29,,19.0,Kadin Schmitz,LB,Fr.,-,,/,,,,
-30,,20.0,Kendall Bannister,CB,Fr.,-,,"Woodbridge, Virginia / Freedom",,,,
-31,,21.0,Austin Brawley,CB,So.,5-10,177.0,"Massillon, Ohio / Massillon Washington",,,,
-32,,21.0,Nolan McCormick,RB,R-So.,5-10,219.0,"Mason, Ohio / William Mason",,,,
-33,,22.0,Sieh Bangura,RB,R-So.,6-0,200.0,"Bowie, Md. / Dematha Catholic High School",,,,
-34,,22.0,Adonis Williams Jr.,S,So.,6-2,202.0,"South Euclid, Ohio / Cleveland Heights",Naval Academy Prep School,,,
-35,,23.0,Ryan Logan,DE,So.,-,,/,,,,
-36,,24.0,Cam McCullum,CB,R-Jr.,5-11,177.0,"Greenville, Mississippi / East Mississippi CC",East Mississippi CC,,,
-37,,26.0,Bryce Kitrell,RB,R-Jr.,5-10,185.0,"Ashland, Neb. / Ashland-Greenwood",,,,
-38,,26.0,Walter Reynolds,S,Gr.,-,,"Detroit, Michigan / Detroit Jesuit",Holy Cross,,,
-39,,27.0,Jack Fries,S,R-Fr.,-,,"Cincinnati, Ohio /",,,,
-40,,28.0,Shane Bonner,DE,Gr.,5-11,219.0,"New Concord, Ohio / John Glenn",,,,
-41,,28.0,Rickey Hunt,RB,Fr.,-,,"Oklahoma City, Oklahoma / Millwood",,,,
-42,,30.0,Ben Johnson,S,R-Sr.,6-1,201.0,"Pickerington, Ohio / Pickerington North",,,,
-43,,31.0,Major Brown,WR,R-Jr.,6-1,207.0,"Gahanna, Ohio / Gahanna Lincoln",,,,
-44,,31.0,Justin Holloway,LS,Gr.,6-3,213.0,"Venice, Fla. / Venice",,,,
-45,,32.0,Bryce Houston,LB,Gr.,5-11,237.0,"Lewis Center, Ohio / Olentangy Orange",,,,
-46,,34.0,Dylan Stevens,LB,R-Jr.,5-10,200.0,"Powell, Ohio / Olentangy Liberty",,,,
-47,,35.0,Shay Taylor,LB,R-So.,6-3,214.0,"Mount Perry, Ohio / Sheridan High School",,,,
-48,,36.0,Cam Dorsey,S,R-Jr.,6-0,200.0,"Alpharetta, Ga. / Alpharetta",,,,
-49,,37.0,Xander Karagosian,S,R-Fr.,6-1,195.0,"Jackson, Ohio / Alexander and Jackson",,,,
-50,,37.0,Tyler Toledo,RB,R-So.,5-9,207.0,"Canal Winchester, Ohio / Canal Winchester",,,,
-51,,38.0,Keye Thompson,LB,Gr.,6-0,230.0,"Barberton, Ohio / Barberton",,,,
-52,,39.0,Mekah Ryder,CB,So.,6-0,173.0,"McKinney, Texas / McKinney High School",,,,
-53,,41.0,Devon Hunter,RB,R-So.,5-10,190.0,"Avon, Ohio / Avon",Ball State,,,
-54,,43.0,Jack Wilson,P,R-Jr.,5-10,218.0,"Lancefield, Victoria, Australia / Gisborne Secondary College (ProKick Australia)",,,,
-55,,44.0,Jeremiah Burton,DE,R-Sr.,6-1,251.0,"Reynoldsburg, Ohio / Reynoldsburg",,,,
-56,,45.0,Ben Bergfeld,LS,R-Fr.,5-9,240.0,"Davenport, Iowa / Davenport North",,,,
-57,,47.0,Bailey Russ,S,R-So.,6-1,182.0,"Cuyahoga Falls, Ohio / Walsh Jesuit",,,,
-58,,51.0,Davion Weatherspoon,OL,R-So.,6-1,292.0,"Harper Woods, Mich. / Harper Woods High School",,,,
-59,,53.0,Jay Amburgey,OL,R-Sr.,6-4,298.0,"Reynoldsburg, Ohio / Reynoldsburg",,,,
-60,,54.0,Joe Oakes,OL,R-Sr.,6-2,281.0,"Cincinnati, Ohio / Indian Hill",,,,
-61,,55.0,Rodney Mathews,DT,Gr.,6-2,295.0,"Memphis, Tenn. / Craigmont",Hutchinson Community College,,,
-62,,56.0,Ches Jackson,OL,Gr.,-,,"TIfton, Georgia /",,,,
-63,,60.0,Demond Arter,OL,R-Jr.,6-4,296.0,"Elkridge, Md. / St. John's (Washington DC)",,,,
-64,,61.0,Kaden Rogers,OL,R-So.,6-3,295.0,"Hamilton, Ohio / Ross High School",,,,
-65,,64.0,Shedrick Rhodes Jr.,OL,R-Jr.,6-4,311.0,"McDonough, Ga. / Eagle's Landing Christian Academy",,,,
-66,,65.0,Jake Skelly,OL,R-So.,6-4,265.0,"Columbus, Ohio / Bishop Harley High School",,,,
-67,,66.0,Christophe Atkinson,OL,R-Sr.,6-3,301.0,"Leesburg, Va. / Tuscarora",,,,
-68,,67.0,Kam Wright,OL,R-Fr.,6-4,315.0,"Granville, Ohio / Granville",,,,
-69,,69.0,Parker Titsworth,OL,R-Sr.,6-1,284.0,"Wexford, Pa. / North Allegheny",,,,
-70,,72.0,Kurt Danneker,OL,Gr.,6-3,334.0,"Linden, Pa. / Williamsport Area",,,,
-71,,73.0,Joseph Habinowski,OL,R-Jr.,6-5,297.0,"Pembroke Pines, Fla. / Chaminade-Madonna College Preparatory",,,,
-72,,74.0,Joseph Watson,OL,R-Fr.,6-0,270.0,"Unioto, Ohio / Unioto",,,,
-73,,75.0,Jarian Shelby,OL,R-Fr.,6-3,301.0,"Luling, La. / Hahnville High School",,,,
-74,,77.0,Jacob Dennison,OL,R-Jr.,6-5,302.0,"Mansfield, Ohio / Lexington",Jacksonville State,,,
-75,,80.0,Ryan McDole,WR,R-Fr.,6-4,205.0,"Cincinnati, Ohio / Turpin",,,,
-76,,81.0,Bralen Henderson,DT,R-So.,6-3,277.0,"Pittsburgh, Pa. / Central Catholic High School",,,,
-77,,81.0,Aramoni Rhone,WR,R-So.,6-5,194.0,"Orlando, Fla. / Plant City High School",,,,
-78,,82.0,Kyle Fullam,TE,R-Fr.,6-5,225.0,"Vandalia, Ohio / Butler Senior High School",,,,
-79,,83.0,Christian Hilton,WR,So.,-,,/,,,,
-80,,84.0,Michael Molnar,TE,R-Fr.,6-3,205.0,"Mason, Ohio / Mason",,,,
-81,,85.0,Jack Kenneally,TE,R-Fr.,-,,/,,,,
-82,,86.0,Tyler Foster,TE,R-Sr.,6-5,247.0,"Pickerington, Ohio / Pickerington",,,,
-83,,87.0,Will Kacmarek,TE,R-So.,6-6,252.0,"St. Louis, Mo. / Mary Institute and Saint Louis Country Day School",,,,
-84,,88.0,Caleb Gossett,WR,R-So.,6-3,198.0,"Lewis Center, Ohio / Olentangy",Dayton,,,
-85,,89.0,Kalos Farrier,DT,R-Jr.,6-2,328.0,"Cincinnati, Ohio / Gamble Montessori",Hocking College,,,
-86,,94.0,Bradley Weaver,DE,R-So.,6-4,248.0,"Hilliard, Ohio / Hilliard Darby High School",,,,
-87,,95.0,Dane Middlebrook,DT,R-Jr.,6-0,337.0,"Indianapolis, Ind. / Brownsburg",,,,
-88,,97.0,Rayyan Buell,DT,R-Sr.,6-2,276.0,"Hornell, N.Y. / Hornell Senior",Northwest Mississippi CC,,,
-89,,98.0,Jordon Jones,DT,R-Fr.,6-2,266.0,"Ashland, Ky. / Paul G. Blazer",,,,
-90,,99.0,Joey Woolard,DT,R-Jr.,6-1,282.0,"Grove City, Ohio / Grove City",,,,
-0,,,,,,,,,,,Tim Albin,Head Coach
-1,,,,,,,,,,,Spence Nowinsky,Assistant Football Coach/Defensive Coordinator
-2,,,,,,,,,,,Scott Isphording,Offensive Coordinator/Quarterbacks
-3,,,,,,,,,,,Allen Rudolph,Co-Offensive Coordinator/Offensive Line
-4,,,,,,,,,,,Dwayne Dixon,Wide Receivers
-5,,,,,,,,,,,Tremayne Scott,Defensive Tackles
-6,,,,,,,,,,,John Hauser,Safeties Coach
-7,,,,,,,,,,,Brian Smith,Running Backs Coach and Passing Game Coordinator
-8,,,,,,,,,,,De'Angelo Smith,Cornerbacks/Director of Player Development
-9,,,,,,,,,,,Nate Faanes,Special Teams Coordinator/Linebackers
-10,,,,,,,,,,,Brian Metz,Tight Ends
-11,,,,,,,,,,,Jeremiah Covington,Assistant AD for Football Operations
-12,,,,,,,,,,,Kyle Pollock,Director of Recruiting and Video Operations
-13,,,,,,,,,,,Thomas Turnbaugh,Director of Video and Recruiting Services
-14,,,,,,,,,,,Will Fife,Director of Equipment
-15,,,,,,,,,,,Caleb Moon,Assistant Director of Equipment
-16,,,,,,,,,,,Kyle Obly,Graduate Assistant- Offense
-17,,,,,,,,,,,Jake Roney,Graduate Assistant - Offense
-18,,,,,,,,,,,Clay Finney,Graduate Assistant - Defense
-19,,,,,,,,,,,Danny Orrock,Graduate Assistant - Defense
-20,,,,,,,,,,,Elaine Goodfellow,Administrative Assistant
-0,,,,,,,,,,,Jake Miller,Director of Strength & Conditioning
-1,,,,,,,,,,,Sarah Newgarde,"Director of Athletics Communications (Football, Wrestling, Baseball)"
-2,,,,,,,,,,,Matthias Reiber,Head Football Athletic Trainer
-3,,,,,,,,,,,Jerry Lin,"Staff Athletic Trainer (Football, Swim & Dive)"
-4,,,,,,,,,,,"Jessica Arquette MS, RDN, LD",Ohio Athletics Sports Dietitian
-5,,,,,,,,,,,Kaitlyn Michener,Nutritionist
-6,,,,,,,,,,,Hannah Rastatter,Nutritionist
+,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown / High School,Current School Name,Previous School,Image,Name,Title
+0,,0.0,O'Shaan Allison,RB,Red 5th,5-10,202.0,"Malvern, Pa. / Malvern Prep",Ohio,,,,
+1,,2.0,Alec Burton,TE,Gr.,6-4,242.0,"Danville, Ind. / Danville",Ohio,,,,
+2,,2.0,Nife Oseni,S,R-Jr.,5-10,193.0,"Rolling Meadows, Ill. / Rolling Meadows",Ohio,,,,
+3,,3.0,Keegan Wilburn,WR,R-Jr.,5-9,180.0,"Nelsonville, Ohio / Nelsonville-York",Ohio,,,,
+4,,3.0,Jeremiah Wood,S,Red 5th,6-0,213.0,"Pickerington, Ohio / Pickerington Central",Ohio,,,,
+5,,4.0,Roman Parodie,CB,R-Jr.,6-1,191.0,"Fort Lauderdale, Fla. / Cardinal Gibbons",Ohio,,,,
+6,,4.0,Tyler Walton,WR,Red 5th,5-9,174.0,"St. Louis, Mo. / Christian Brothers",Ohio,,,,
+7,,6.0,Dontay Hunter II,DE,R-Sr.,6-4,251.0,"Westerville, Ohio / Westerville Central",Ohio,Purdue,,,
+8,,6.0,Quintell Quinn,RB,R-So.,6-1,219.0,"Columbus, Ohio / St. Francis DeSales High School",Ohio,,,,
+9,,7.0,"Torrie Cox, Jr.",CB,R-So.,5-9,166.0,"Miami Gardens, Fla. / | Chaminade-Madonna Preparatory School",Ohio,,,,
+10,,7.0,Kurtis Rourke,QB,R-Sr.,6-5,216.0,"Oakville, Ontario, Canada / Holy Trinity",Ohio,,,,
+11,,8.0,Justin Birchette,CB,Gr.,5-10,181.0,"Palm Beach Gardens, Fla. / Dwyer",Ohio,,,,
+12,,8.0,Jacoby Jones,WR,Sr.,6-1,223.0,"Tunica, Miss. /",Ohio,NW Mississippi CC,,,
+13,,9.0,Callum Wither,QB,R-Fr.,6-3,208.0,"Mississauga, Ontario / Clarkson Football North",Ohio,,,,
+14,,10.0,CJ Harris,QB,R-Jr.,6-3,215.0,"West Bloomfield, Mich. / West Bloomfield",Ohio,,,,
+15,,11.0,Kobi Gorman,DT,Fr.,-,,"Pickerington, Ohio / Pickerington Central",Ohio,,,,
+16,,11.0,Rodney Harris II,WR,R-Fr.,6-2,201.0,"Cincinnati, Ohio / Princeton High School",Ohio,,,,
+17,,12.0,Tank Pearson,CB,Jr.,-,,"Oxford, Mississippi /",Ohio,Northwest Mississippi Community College,,,
+18,,12.0,Sam Wiglusz,WR,Gr.,5-11,185.0,"Brecksville, Ohio / Brecksville",Ohio,Ohio State,,,
+19,,13.0,Parker Navarro,QB,R-Jr.,6-0,201.0,"Tempe, Ariz. / Desert Vista",Ohio,UCF,,,
+20,,14.0,Bryce Butler,TE,R-So.,6-3,265.0,"Bowie, Md. / St. John’s College High School",Ohio,,,,
+21,,14.0,John Motton,S,R-So.,5-11,203.0,"Groveport, Ohio / Groveport-Madison High School",Ohio,,,,
+22,,15.0,David Patterson,DE,R-So.,6-3,222.0,"Lilburn, Ga. / Parkview High School",Ohio,,,,
+23,,15.0,Jacob Winters,QB,Fr.,-,,"Jackson, Ohio / Jackson",Ohio,,,,
+24,,16.0,Chris Mayfield,DT,R-Jr.,6-2,270.0,"Hilliard, Ohio / Hilliard Bradley",Ohio,Michigan State,,,
+25,,17.0,Vonnie Watkins,DE,Gr.,6-3,230.0,"Lusby, Md. / Patuxent",Ohio,,,,
+26,,18.0,Caden Campolieti,LB,R-Sr.,6-1,222.0,"Cleveland, Ohio / Saint Ignatius",Ohio,,,,
+27,,19.0,Miles Cross,WR,Jr.,6-1,213.0,"Bowie, Md. / Rock Hill High School (S.C.)",Ohio,,,,
+28,,19.0,Kadin Schmitz,LB,Fr.,-,,/,Ohio,,,,
+29,,20.0,Kendall Bannister,CB,Fr.,-,,"Woodbridge, Virginia / Freedom",Ohio,,,,
+30,,21.0,Austin Brawley,CB,So.,5-10,177.0,"Massillon, Ohio / Massillon Washington",Ohio,,,,
+31,,21.0,Nolan McCormick,RB,R-So.,5-10,219.0,"Mason, Ohio / William Mason",Ohio,,,,
+32,,22.0,Sieh Bangura,RB,R-So.,6-0,200.0,"Bowie, Md. / Dematha Catholic High School",Ohio,,,,
+33,,22.0,Adonis Williams Jr.,S,So.,6-2,202.0,"South Euclid, Ohio / Cleveland Heights",Ohio,Naval Academy Prep School,,,
+34,,23.0,Ryan Logan,DE,So.,-,,/,Ohio,,,,
+35,,24.0,Cam McCullum,CB,R-Jr.,5-11,177.0,"Greenville, Mississippi / East Mississippi CC",Ohio,East Mississippi CC,,,
+36,,26.0,Bryce Kitrell,RB,R-Jr.,5-10,185.0,"Ashland, Neb. / Ashland-Greenwood",Ohio,,,,
+37,,26.0,Walter Reynolds,S,Gr.,-,,"Detroit, Michigan / Detroit Jesuit",Ohio,Holy Cross,,,
+38,,27.0,Jack Fries,S,R-Fr.,-,,"Cincinnati, Ohio /",Ohio,,,,
+39,,28.0,Shane Bonner,DE,Gr.,5-11,219.0,"New Concord, Ohio / John Glenn",Ohio,,,,
+40,,28.0,Rickey Hunt,RB,Fr.,-,,"Oklahoma City, Oklahoma / Millwood",Ohio,,,,
+41,,30.0,Ben Johnson,S,R-Sr.,6-1,201.0,"Pickerington, Ohio / Pickerington North",Ohio,,,,
+42,,31.0,Major Brown,WR,R-Jr.,6-1,207.0,"Gahanna, Ohio / Gahanna Lincoln",Ohio,,,,
+43,,31.0,Justin Holloway,LS,Gr.,6-3,213.0,"Venice, Fla. / Venice",Ohio,,,,
+44,,32.0,Bryce Houston,LB,Gr.,5-11,237.0,"Lewis Center, Ohio / Olentangy Orange",Ohio,,,,
+45,,34.0,Dylan Stevens,LB,R-Jr.,5-10,200.0,"Powell, Ohio / Olentangy Liberty",Ohio,,,,
+46,,35.0,Shay Taylor,LB,R-So.,6-3,214.0,"Mount Perry, Ohio / Sheridan High School",Ohio,,,,
+47,,36.0,Cam Dorsey,S,R-Jr.,6-0,200.0,"Alpharetta, Ga. / Alpharetta",Ohio,,,,
+48,,37.0,Xander Karagosian,S,R-Fr.,6-1,195.0,"Jackson, Ohio / Alexander and Jackson",Ohio,,,,
+49,,37.0,Tyler Toledo,RB,R-So.,5-9,207.0,"Canal Winchester, Ohio / Canal Winchester",Ohio,,,,
+50,,38.0,Keye Thompson,LB,Gr.,6-0,230.0,"Barberton, Ohio / Barberton",Ohio,,,,
+51,,39.0,Mekah Ryder,CB,So.,6-0,173.0,"McKinney, Texas / McKinney High School",Ohio,,,,
+52,,41.0,Devon Hunter,RB,R-So.,5-10,190.0,"Avon, Ohio / Avon",Ohio,Ball State,,,
+53,,43.0,Jack Wilson,P,R-Jr.,5-10,218.0,"Lancefield, Victoria, Australia / Gisborne Secondary College (ProKick Australia)",Ohio,,,,
+54,,44.0,Jeremiah Burton,DE,R-Sr.,6-1,251.0,"Reynoldsburg, Ohio / Reynoldsburg",Ohio,,,,
+55,,45.0,Ben Bergfeld,LS,R-Fr.,5-9,240.0,"Davenport, Iowa / Davenport North",Ohio,,,,
+56,,47.0,Bailey Russ,S,R-So.,6-1,182.0,"Cuyahoga Falls, Ohio / Walsh Jesuit",Ohio,,,,
+57,,51.0,Davion Weatherspoon,OL,R-So.,6-1,292.0,"Harper Woods, Mich. / Harper Woods High School",Ohio,,,,
+58,,53.0,Jay Amburgey,OL,R-Sr.,6-4,298.0,"Reynoldsburg, Ohio / Reynoldsburg",Ohio,,,,
+59,,54.0,Joe Oakes,OL,R-Sr.,6-2,281.0,"Cincinnati, Ohio / Indian Hill",Ohio,,,,
+60,,55.0,Rodney Mathews,DT,Gr.,6-2,295.0,"Memphis, Tenn. / Craigmont",Ohio,Hutchinson Community College,,,
+61,,56.0,Ches Jackson,OL,Gr.,-,,"TIfton, Georgia /",Ohio,,,,
+62,,60.0,Demond Arter,OL,R-Jr.,6-4,296.0,"Elkridge, Md. / St. John's (Washington DC)",Ohio,,,,
+63,,61.0,Kaden Rogers,OL,R-So.,6-3,295.0,"Hamilton, Ohio / Ross High School",Ohio,,,,
+64,,64.0,Shedrick Rhodes Jr.,OL,R-Jr.,6-4,311.0,"McDonough, Ga. / Eagle's Landing Christian Academy",Ohio,,,,
+65,,65.0,Jake Skelly,OL,R-So.,6-4,265.0,"Columbus, Ohio / Bishop Harley High School",Ohio,,,,
+66,,66.0,Christophe Atkinson,OL,R-Sr.,6-3,301.0,"Leesburg, Va. / Tuscarora",Ohio,,,,
+67,,67.0,Kam Wright,OL,R-Fr.,6-4,315.0,"Granville, Ohio / Granville",Ohio,,,,
+68,,69.0,Parker Titsworth,OL,R-Sr.,6-1,284.0,"Wexford, Pa. / North Allegheny",Ohio,,,,
+69,,72.0,Kurt Danneker,OL,Gr.,6-3,334.0,"Linden, Pa. / Williamsport Area",Ohio,,,,
+70,,73.0,Joseph Habinowski,OL,R-Jr.,6-5,297.0,"Pembroke Pines, Fla. / Chaminade-Madonna College Preparatory",Ohio,,,,
+71,,74.0,Joseph Watson,OL,R-Fr.,6-0,270.0,"Unioto, Ohio / Unioto",Ohio,,,,
+72,,75.0,Jarian Shelby,OL,R-Fr.,6-3,301.0,"Luling, La. / Hahnville High School",Ohio,,,,
+73,,77.0,Jacob Dennison,OL,R-Jr.,6-5,302.0,"Mansfield, Ohio / Lexington",Ohio,Jacksonville State,,,
+74,,80.0,Ryan McDole,WR,R-Fr.,6-4,205.0,"Cincinnati, Ohio / Turpin",Ohio,,,,
+75,,81.0,Bralen Henderson,DT,R-So.,6-3,277.0,"Pittsburgh, Pa. / Central Catholic High School",Ohio,,,,
+76,,81.0,Aramoni Rhone,WR,R-So.,6-5,194.0,"Orlando, Fla. / Plant City High School",Ohio,,,,
+77,,82.0,Kyle Fullam,TE,R-Fr.,6-5,225.0,"Vandalia, Ohio / Butler Senior High School",Ohio,,,,
+78,,83.0,Christian Hilton,WR,So.,-,,/,Ohio,,,,
+79,,84.0,Michael Molnar,TE,R-Fr.,6-3,205.0,"Mason, Ohio / Mason",Ohio,,,,
+80,,85.0,Jack Kenneally,TE,R-Fr.,-,,/,Ohio,,,,
+81,,86.0,Tyler Foster,TE,R-Sr.,6-5,247.0,"Pickerington, Ohio / Pickerington",Ohio,,,,
+82,,87.0,Will Kacmarek,TE,R-So.,6-6,252.0,"St. Louis, Mo. / Mary Institute and Saint Louis Country Day School",Ohio,,,,
+83,,88.0,Caleb Gossett,WR,R-So.,6-3,198.0,"Lewis Center, Ohio / Olentangy",Ohio,Dayton,,,
+84,,89.0,Kalos Farrier,DT,R-Jr.,6-2,328.0,"Cincinnati, Ohio / Gamble Montessori",Ohio,Hocking College,,,
+85,,94.0,Bradley Weaver,DE,R-So.,6-4,248.0,"Hilliard, Ohio / Hilliard Darby High School",Ohio,,,,
+86,,95.0,Dane Middlebrook,DT,R-Jr.,6-0,337.0,"Indianapolis, Ind. / Brownsburg",Ohio,,,,
+87,,97.0,Rayyan Buell,DT,R-Sr.,6-2,276.0,"Hornell, N.Y. / Hornell Senior",Ohio,Northwest Mississippi CC,,,
+88,,98.0,Jordon Jones,DT,R-Fr.,6-2,266.0,"Ashland, Ky. / Paul G. Blazer",Ohio,,,,
+89,,99.0,Joey Woolard,DT,R-Jr.,6-1,282.0,"Grove City, Ohio / Grove City",Ohio,,,,
+0,,,,,,,,,Ohio,,,Tim Albin,Head Coach
+1,,,,,,,,,Ohio,,,Spence Nowinsky,Assistant Football Coach/Defensive Coordinator
+2,,,,,,,,,Ohio,,,Scott Isphording,Offensive Coordinator/Quarterbacks
+3,,,,,,,,,Ohio,,,Allen Rudolph,Co-Offensive Coordinator/Offensive Line
+4,,,,,,,,,Ohio,,,Dwayne Dixon,Wide Receivers
+5,,,,,,,,,Ohio,,,Tremayne Scott,Defensive Tackles
+6,,,,,,,,,Ohio,,,John Hauser,Safeties Coach
+7,,,,,,,,,Ohio,,,Brian Smith,Running Backs Coach and Passing Game Coordinator
+8,,,,,,,,,Ohio,,,De'Angelo Smith,Cornerbacks/Director of Player Development
+9,,,,,,,,,Ohio,,,Nate Faanes,Special Teams Coordinator/Linebackers
+10,,,,,,,,,Ohio,,,Brian Metz,Tight Ends
+11,,,,,,,,,Ohio,,,Jeremiah Covington,Assistant AD for Football Operations
+12,,,,,,,,,Ohio,,,Kyle Pollock,Director of Recruiting and Video Operations
+13,,,,,,,,,Ohio,,,Thomas Turnbaugh,Director of Video and Recruiting Services
+14,,,,,,,,,Ohio,,,Will Fife,Director of Equipment
+15,,,,,,,,,Ohio,,,Caleb Moon,Assistant Director of Equipment
+16,,,,,,,,,Ohio,,,Kyle Obly,Graduate Assistant- Offense
+17,,,,,,,,,Ohio,,,Jake Roney,Graduate Assistant - Offense
+18,,,,,,,,,Ohio,,,Clay Finney,Graduate Assistant - Defense
+19,,,,,,,,,Ohio,,,Danny Orrock,Graduate Assistant - Defense
+20,,,,,,,,,Ohio,,,Elaine Goodfellow,Administrative Assistant
+0,,,,,,,,,Ohio,,,Jake Miller,Director of Strength & Conditioning
+1,,,,,,,,,Ohio,,,Sarah Newgarde,"Director of Athletics Communications (Football, Wrestling, Baseball)"
+2,,,,,,,,,Ohio,,,Matthias Reiber,Head Football Athletic Trainer
+3,,,,,,,,,Ohio,,,Jerry Lin,"Staff Athletic Trainer (Football, Swim & Dive)"
+4,,,,,,,,,Ohio,,,"Jessica Arquette MS, RDN, LD",Ohio Athletics Sports Dietitian
+5,,,,,,,,,Ohio,,,Kaitlyn Michener,Nutritionist
+6,,,,,,,,,Ohio,,,Hannah Rastatter,Nutritionist

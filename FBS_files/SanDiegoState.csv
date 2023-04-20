@@ -1,119 +1,121 @@
-,Statistic,#,Full Name,Pos.,Ht.,Wt.,Year,Exp.,Hometown,High School,Previous School,Image,Name,Title
-0,,2.0,Jaylon Armstead,RB,5-11,220.0,Jr.,2L,"Los Angeles, Calif.",Serra High,,,,
-1,,2.0,Patrick McMorris,S,6-0,210.0,Sr.,4L,"Santa Ana, Calif.",Santa Ana High,,,,
-2,,3.0,Cedarious Barfield,S,5-11,195.0,Sr.,4L,"El Paso, Texas",El Dorado High,,,,
-3,,4.0,Liu Aumavae,QB,6-3,205.0,R-Fr.,RS,"Waldorf, Md.",Timpview High (Utah),,,,
-4,,4.0,Dezjhon Malone,CB,6-2,200.0,Jr.,2L,"Fresno, Calif.",Edison High,,,,
-5,,5.0,Raphael Williams Jr.,WR,5-10,165.0,Jr.,TR,"Ft. Lauderdale, Fla.",Dillard High,Western Carolina,,,
-6,,7.0,Lucky Sutton,RB,6-1,210.0,R-Fr.,RS,"San Diego, Calif.",Cathedral Catholic High,,,,
-7,,9.0,Kyle Crum,QB,6-3,205.0,R-Fr.,RS,"Norco, Calif.",Norco High,,,,
-8,,10.0,Tobin O'Dell,QB,6-2,200.0,R-Fr.,RS,"La Puenta, Calif.",Bishop Amat High,,,,
-9,,10.0,Noah Tumblin,CB,6-2,185.0,Sr.,3L,"San Diego, Calif.",Mira Mesa HS,,,,
-10,,11.0,Brionne Penny,WR,6-3,205.0,Sr.,1L,"Norwalk, Calif.",Narbonne High,,,,
-11,,12.0,Dallas Branch,CB,5-11,180.0,Sr.,3L,"Redondo Beach, Calif.",Salesian High,Long Beach City College,,,
-12,,13.0,Jack Browning,K/P,5-11,190.0,Sr.,2L,"Lakeside, Calif.",West Hills HS,Grossmont College,,,
-13,,13.0,Hassan Mahasin,WR,5-10,175.0,R-Fr.,RS,"Daly City, Calif.",Serra High,,,,
-14,,16.0,DJ Ralph,QB,6-2,195.0,So.,RS,"San Diego, Calif.",Cathedral Catholic High,Saddleback College,,,
-15,,17.0,Noah Avinger,CB,6-1,190.0,Jr.,2L,"Cerritos, Calif.",Servite High,,,,
-16,,18.0,Jalen Mayden,QB,6-3,220.0,Sr.,1L,"Garland, Texas",Sachse High,Mississippi State,,,
-17,,19.0,Kyron White,LB,5-11,210.0,Sr.,3L,"Fort Worth, Texas",Arlington High,,,,
-18,,20.0,Sheldon Canley II,RB,5-10,165.0,R-Fr.,RS,"Lompoc, Calif.",Lompoc High,,,,
-19,,20.0,Jatavious Magee,S,6-1,205.0,So.,1L,"Federal Way, Wash.",Federal Way High,,,,
-20,,21.0,Chris Johnson,CB,6-0,170.0,So.,1L,"Eastvale, Calif.",Eleanor Roosevelt High,,,,
-21,,22.0,Max Garrison,S,5-10,185.0,So.,1L,"Pasadena, Calif.",St. Francis High,,,,
-22,,23.0,Kenan Christon,RB,5-10,185.0,Sr.,1L,"San Diego, Calif.",Madison High,USC,,,
-23,,24.0,Josh Hunter,S,5-9,175.0,R-Fr.,RS,"Temecula, Calif.",Mater Dei High,,,,
-24,,26.0,Nick Gardinera,RB,5-10,200.0,R-Fr.,RS,"San Diego, Calif.",Scripps Ranch High,,,,
-25,,26.0,Joshua Goynes,CB,5-10,185.0,So.,SQ,"Las Vegas, Nev.",Faith Lutheran High,,,,
-26,,27.0,D'Andre Edwards,WR,6-5,205.0,R-Fr.,RS,"Nanuet, N.Y.",Nanuet Senior High,,,,
-27,,27.0,Jelani McLaughlin,S,6-0,190.0,Fr.,HS,"San Jacinto, Calif.",Citrus Valley High,,,,
-28,,29.0,Cam Davis,RB,5-8,175.0,So.,1L,"Dallas, Texas",South Oak Cliff High,,,,
-29,,29.0,Arnold Escano,CB,5-10,175.0,So.,RS,"San Diego, Calif.",Olympian High,Southwestern College,,,
-30,,30.0,Lucky Avinger,RB,6-1,210.0,Sr.,SQ,"Cerritos, Calif.",La Habra HS,Fullerton College,,,
-31,,30.0,Dominic Oliver,DL,6-3,230.0,So.,1L,"San Jose, Calif.",Valley Christian High,,,,
-32,,31.0,Davaughn Celestine,S,6-0,190.0,Sr.,2L,"Placentia, Calif.",El Dorado High,,,,
-33,,32.0,Marcus Ratcliffe,S,6-3,190.0,Fr.,HS,"Chula Vista, Calif.",Cathedral Catholic High,,,,
-34,,33.0,JD Coffey III,S,6-0,190.0,Jr.,TR,"Kennedale, Texas",Kennedale High,Texas,,,
-35,,34.0,Eric Butler,S,6-1,180.0,So.,1L,"Corona, Calif.",Centennial High,,,,
-36,,35.0,Martin Blake,RB,5-6,205.0,So.,1L,"Las Vegas, Nev.",Canyon Springs High,,,,
-37,,35.0,Jelani Whitmore,CB,6-2,175.0,Jr.,SQ,"Rialto, Calif.",Carter High,,,,
-38,,36.0,New Zealand Williams,LB,6-2,205.0,So.,SQ,"Carson, Calif.",St. Bernard High,,,,
-39,,37.0,DJ Bryant,S,6-0,185.0,So.,SQ,"Oakland, Calif.",San Leandro High,,,,
-40,,37.0,Darius Hyde,WR,6-1,195.0,Sr.,SQ,"Atwater, Calif.",Atwater High,Modesto College,,,
-41,,39.0,Garret Fountain,DL,6-4,250.0,Sr.,3L,"Turlock, Calif.",Turlock High,,,,
-42,,40.0,Mikey Welsh,WR,5-10,165.0,R-Fr.,RS,"Servite, Calif.",Servite High,,,,
-43,,41.0,Phillippe Wesley II,WR,6-0,190.0,So.,SQ,"Grandview, Mo.",St. Bernard High (Calif.),,,,
-44,,42.0,Brady Anderson,LB,6-2,230.0,So.,1L,"Bakersfield, Calif.",Liberty High,,,,
-45,,43.0,Onijai Sellers,WR,6-1,195.0,Sr.,TR,"Hayward, Calif.",Mt. Eden High,Modesto College,,,
-46,,44.0,Vai Kaho,LB,6-1,230.0,Sr.,3L,"Reno, Nev.",Bishop Manogue High,,,,
-47,,45.0,Wyatt Draeger,DL,6-4,265.0,Sr.,3L,"Reno, Nev.",Reno High,,,,
-48,,45.0,Nino Remigio,WR,5-11,165.0,Jr.,TR,"Santa Ana, Calif.",Mater Dei High,Saddleback College,,,
-49,,46.0,Gabriel Plascencia,K,6-1,210.0,Jr.,TR,"Oakland, Calif.",Bishop O'Dowd High,College of San Mateo,,,
-50,,47.0,Trey White,LB,6-1,225.0,R-Fr.,RS,"San Diego, Calif.",Eastlake High,,,,
-51,,48.0,Michael Pariseau,P,6-2,185.0,Jr.,TR,"San Mateo, Calif.",Menlo-Atherton High,College of San Mateo,,,
-52,,49.0,Zechariah Ramirez,K/P,5-10,150.0,R-Fr.,RS,"Upland, Calif.",Upland High,,,,
-53,,50.0,Ryan Wintermeyer,LS,6-1,220.0,Jr.,2L,"Scottsdale, Ariz.",Cactus Shadows High,,,,
-54,,51.0,Zyrus Fiaseu,LB,6-0,230.0,So.,1L,"Las Vegas, Nev.",Liberty High,,,,
-55,,52.0,Jayden Kendricks,LB,6-2,210.0,R-Fr.,HS,"Chula Vista, Calif.",Eastlake High,,,,
-56,,55.0,Cooper McDonald,LB,6-3,240.0,Sr.,1L,"Haslet, Texas",Northwest High,Washington,,,
-57,,56.0,DJ Herman,LB,6-2,225.0,So.,1L,"Las Vegas, Nev.",Bishop Gorman High,,,,
-58,,56.0,Tiger Yu,OL,6-4,330.0,R-Fr.,RS,"San Mateo, Calif.",Junipero Serra High,,,,
-59,,57.0,Darrell Masaniai,LB,6-2,220.0,Jr.,1L,"Honolulu, Hawaii",St. Louis School,,,,
-60,,58.0,Cody Moon,LB,6-3,205.0,Jr.,TR,"Albuquerque, N.M.",Volcano Vista High,New Mexico,,,
-61,,59.0,Keion Mitchell,DL,6-4,250.0,So.,SQ,"Framingham, Mass.",Framingham High,,,,
-62,,60.0,Cade Bennett,OL,6-3,315.0,Jr.,1L,"Scottsdale, Ariz.",Notre Dame Prep,Oklahoma State,,,
-63,,61.0,Brandon Crenshaw-Dickson,OL,6-6,310.0,Sr.,2L,"Inglewood, Calif.",Narbonne High,,,,
-64,,62.0,Kyle Stanback,OL,6-7,265.0,Jr.,TR,"Pasadena, Calif.",Newbury Park High,Ventura College,,,
-65,,63.0,Ross Ulugalu-Maseuli,OL,6-4,320.0,So.,1L,"San Diego, Calif.",Mater Dei High,,,,
-66,,64.0,Tyson Chavez,LS,6-2,235.0,R-Fr.,RS,"San Marcos, Calif.",Mission Hills High,,,,
-67,,65.0,Laakea Kapoi,OL,6-4,310.0,R-Fr.,RS,"Makakilo, Hawaii",St. Louis School,,,,
-68,,68.0,Thomas Mirabella,OL,6-4,300.0,Jr.,1L,"Mission Viejo, Calif.",Mission Viejo High,,,,
-69,,69.0,Mason Ianni,DL,6-4,200.0,R-Fr.,RS,"Palm Desert, Calif.",Xavier Prep High,,,,
-70,,70.0,Christian Jones,OL,6-9,320.0,So.,1L,"San Luis Obispo, Calif.",San Luis Obisbo High,,,,
-71,,71.0,Mohamed Mohamed,DL,6-2,190.0,R-Fr.,HS,"San Diego, Calif.",Crawford High,,,,
-72,,73.0,Ramsey Qishta,OL,6-3,300.0,R-Fr.,RS,"La Verne, Calif.",Damien High,,,,
-73,,74.0,Drew Azzopardi,OL,6-5,315.0,R-Fr.,RS,"Pacifica, Calif.",Junipero Serra High,,,,
-74,,75.0,Ryan Dirksen,OL,6-6,295.0,So.,RS,"Portland, Ore.",Central Catholic High,Butte College,,,
-75,,76.0,Dean Abdullah,OL,6-4,260.0,Jr.,1L,"Antelope, Calif.",Antelope High,American River College,,,
-76,,78.0,Rambo Mageo,OL,6-5,320.0,R-Fr.,RS,"Laie, Hawaii",Cathedral Catholic High (Calif.),,,,
-77,,79.0,Joey Wright,OL,6-5,305.0,Jr.,1L,"Reno, Nev.",Bishop Manogue High,,,,
-78,,81.0,Mark Redman,TE,6-6,250.0,Sr.,1L,"Newport Beach, Calif.",Corona del Mar High,Washington,,,
-79,,82.0,Jay Rudolph,TE,6-4,245.0,Sr.,3L,"Scottsdale, Ariz.",Horizon High,,,,
-80,,83.0,Mekhi Shaw,WR,5-10,175.0,Jr.,2L,"San Diego, Calif.",Scripps Ranch HS,,,,
-81,,84.0,Darius De Los Reyes,WR,5-9,175.0,Jr.,2L,"San Diego, Calif.",Lincoln High,,,,
-82,,85.0,Joshua Nicholson,WR,6-0,175.0,So.,1L,"Grand Prairie, Texas",South Grand Prairie High,,,,
-83,,86.0,Cameron Harpole,TE,6-4,235.0,So.,1L,"Prosper, Texas",Prosper High,,,,
-84,,87.0,Gus McGee,TE,6-5,245.0,So.,SQ,"Newburyport, Mass.",Christopher Columbus High (Fla.),,,,
-85,,88.0,Jacoby Kelly,WR,6-3,210.0,R-Fr.,RS,"Compton, Calif.",Loyola High,,,,
-86,,89.0,Logan Tanner,TE,6-3,235.0,R-Fr.,RS,"Houston, Texas",St. Pius X High,,,,
-87,,90.0,Daniel Okpoko,DL,6-5,255.0,Sr.,2L,"Saskatoon, Saskatchewan, Canada",St. Joseph's High,,,,
-88,,93.0,Dylan Taylor,DL,6-2,245.0,Sr.,1L,"Los Angeles, Calif.",Cathedral High,,,,
-89,,94.0,Aaron Greene,TE,6-4,255.0,Jr.,2L,"Prescott, Ariz.",Prescott High,,,,
-90,,94.0,Samuela Tuihalamaka,DL,6-1,305.0,Sr.,TR,"Riverside, Calif.",Mater Dei High,Oklahoma State,,,
-91,,95.0,Talib Salahuddin,DL,6-5,235.0,Jr.,TR,"Philadelphia, Pa.",Chaminade College Prep (Calif.),Riverside City College,,,
-92,,96.0,Ryan Henderson,DL,6-3,260.0,R-Fr.,RS,"Las Vegas, Nev.",Canyon Springs High,,,,
-93,,97.0,Darrion Dalton,DL,6-3,265.0,So.,SQ,"Apple Valley, Minn.",Saguaro High (Ariz.),,,,
-94,,98.0,Joseph Hall,DL,6-5,265.0,Jr.,TR,"Mission Viejo, Calif.",Judson High,Saddleback College,,,
-95,,99.0,Tupu Alualu,DL,6-1,285.0,Jr.,TR,"Honolulu, Hawaii",Moanalua High,Mt. SAC,,,
-0,,,,,,,,,,,,,Brady Hoke,Head Coach
-1,,,,,,,,,,,,,Ryan Lindley,Offensive Coordinator (quarterbacks)
-2,,,,,,,,,,,,,Kurt Mattix,Defensive Coordinator (linebackers)
-3,,,,,,,,,,,,,Doug Deakin,Assistant Coach (special teams coordinator)
-4,,,,,,,,,,,,,Savai’i Eselu,Assistant Coach (tight ends)
-5,,,,,,,,,,,,,Bojay Filimoeatu,Assistant Coach (defensive line)
-6,,,,,,,,,,,,,Mike Goff,Assistant Coach (offensive line)
-7,,,,,,,,,,,,,Kyle Hoke,Assistant Coach (safeties)
-8,,,,,,,,,,,,,Jonathan Krause,Assistant Coach (wide receivers)
-9,,,,,,,,,,,,,Demetrius Sumler,Assistant Coach (cornerbacks)
-10,,,,,,,,,,,,,Adam Hall,Assistant Athletic Director - Strength & Conditioning
-11,,,,,,,,,,,,,Ruben Pena,Director of Football Operations
-12,,,,,,,,,,,,,Gary Bernardi,Football Offensive Analyst
-13,,,,,,,,,,,,,Kevin Wolthausen,Football Defensive Analyst
-14,,,,,,,,,,,,,Taylor Long,Assistant Football Operations Specialist/Executive Assistant to Head Coach
-15,,,,,,,,,,,,,Nik Embernate,Football Recruiting Coordinator
-16,,,,,,,,,,,,,Anthony Zampese,Football Recruiting Coordinator
-17,,,,,,,,,,,,,Carissa Martinez,Football Operations Coordinator
-18,,,,,,,,,,,,,Daniel Bleske,Graduate Assistant
-19,,,,,,,,,,,,,Parker Houston,Graduate Assistant
-20,,,,,,,,,,,,,Ryan Krum,Graduate Assistant
-21,,,,,,,,,,,,,Chris Jurek,Assistant Strength & Conditioning Coach
+,Statistic,#,Full Name,Pos.,Ht.,Wt.,Year,Exp.,Current School Name,Hometown,High School,Previous School,Image,Name,Title
+0,,2.0,Jaylon Armstead,RB,5-11,220.0,Jr.,2L,San Diego State,"Los Angeles, Calif.",Serra High,,,,
+1,,2.0,Patrick McMorris,S,6-0,210.0,Sr.,4L,San Diego State,"Santa Ana, Calif.",Santa Ana High,,,,
+2,,3.0,Cedarious Barfield,S,5-11,195.0,Sr.,4L,San Diego State,"El Paso, Texas",El Dorado High,,,,
+3,,4.0,Liu Aumavae,QB,6-3,205.0,R-Fr.,RS,San Diego State,"Waldorf, Md.",Timpview High (Utah),,,,
+4,,4.0,Dezjhon Malone,CB,6-2,200.0,Jr.,2L,San Diego State,"Fresno, Calif.",Edison High,,,,
+5,,5.0,Raphael Williams Jr.,WR,5-10,165.0,Jr.,TR,San Diego State,"Ft. Lauderdale, Fla.",Dillard High,Western Carolina,,,
+6,,7.0,Lucky Sutton,RB,6-1,210.0,R-Fr.,RS,San Diego State,"San Diego, Calif.",Cathedral Catholic High,,,,
+7,,9.0,Kyle Crum,QB,6-3,205.0,R-Fr.,RS,San Diego State,"Norco, Calif.",Norco High,,,,
+8,,10.0,Tobin O'Dell,QB,6-2,200.0,R-Fr.,RS,San Diego State,"La Puenta, Calif.",Bishop Amat High,,,,
+9,,10.0,Noah Tumblin,CB,6-2,185.0,Sr.,3L,San Diego State,"San Diego, Calif.",Mira Mesa HS,,,,
+10,,11.0,Brionne Penny,WR,6-3,205.0,Sr.,1L,San Diego State,"Norwalk, Calif.",Narbonne High,,,,
+11,,12.0,Dallas Branch,CB,5-11,180.0,Sr.,3L,San Diego State,"Redondo Beach, Calif.",Salesian High,Long Beach City College,,,
+12,,13.0,Jack Browning,K/P,5-11,190.0,Sr.,2L,San Diego State,"Lakeside, Calif.",West Hills HS,Grossmont College,,,
+13,,13.0,Hassan Mahasin,WR,5-10,175.0,R-Fr.,RS,San Diego State,"Daly City, Calif.",Serra High,,,,
+14,,16.0,DJ Ralph,QB,6-2,195.0,So.,RS,San Diego State,"San Diego, Calif.",Cathedral Catholic High,Saddleback College,,,
+15,,17.0,Noah Avinger,CB,6-1,190.0,Jr.,2L,San Diego State,"Cerritos, Calif.",Servite High,,,,
+16,,18.0,Jalen Mayden,QB,6-3,220.0,Sr.,1L,San Diego State,"Garland, Texas",Sachse High,Mississippi State,,,
+17,,19.0,Kyron White,LB,5-11,210.0,Sr.,3L,San Diego State,"Fort Worth, Texas",Arlington High,,,,
+18,,20.0,Sheldon Canley II,RB,5-10,165.0,R-Fr.,RS,San Diego State,"Lompoc, Calif.",Lompoc High,,,,
+19,,20.0,Jatavious Magee,S,6-1,205.0,So.,1L,San Diego State,"Federal Way, Wash.",Federal Way High,,,,
+20,,21.0,Chris Johnson,CB,6-0,170.0,So.,1L,San Diego State,"Eastvale, Calif.",Eleanor Roosevelt High,,,,
+21,,22.0,Max Garrison,S,5-10,185.0,So.,1L,San Diego State,"Pasadena, Calif.",St. Francis High,,,,
+22,,23.0,Kenan Christon,RB,5-10,185.0,Sr.,1L,San Diego State,"San Diego, Calif.",Madison High,USC,,,
+23,,24.0,Josh Hunter,S,5-9,175.0,R-Fr.,RS,San Diego State,"Temecula, Calif.",Mater Dei High,,,,
+24,,26.0,Nick Gardinera,RB,5-10,200.0,R-Fr.,RS,San Diego State,"San Diego, Calif.",Scripps Ranch High,,,,
+25,,26.0,Joshua Goynes,CB,5-10,185.0,So.,SQ,San Diego State,"Las Vegas, Nev.",Faith Lutheran High,,,,
+26,,27.0,D'Andre Edwards,WR,6-5,205.0,R-Fr.,RS,San Diego State,"Nanuet, N.Y.",Nanuet Senior High,,,,
+27,,27.0,Jelani McLaughlin,S,6-0,190.0,Fr.,HS,San Diego State,"San Jacinto, Calif.",Citrus Valley High,,,,
+28,,29.0,Cam Davis,RB,5-8,175.0,So.,1L,San Diego State,"Dallas, Texas",South Oak Cliff High,,,,
+29,,29.0,Arnold Escano,CB,5-10,175.0,So.,RS,San Diego State,"San Diego, Calif.",Olympian High,Southwestern College,,,
+30,,30.0,Lucky Avinger,RB,6-1,210.0,Sr.,SQ,San Diego State,"Cerritos, Calif.",La Habra HS,Fullerton College,,,
+31,,30.0,Dominic Oliver,DL,6-3,230.0,So.,1L,San Diego State,"San Jose, Calif.",Valley Christian High,,,,
+32,,31.0,Davaughn Celestine,S,6-0,190.0,Sr.,2L,San Diego State,"Placentia, Calif.",El Dorado High,,,,
+33,,32.0,Marcus Ratcliffe,S,6-3,190.0,Fr.,HS,San Diego State,"Chula Vista, Calif.",Cathedral Catholic High,,,,
+34,,33.0,JD Coffey III,S,6-0,190.0,Jr.,TR,San Diego State,"Kennedale, Texas",Kennedale High,Texas,,,
+35,,34.0,Eric Butler,S,6-1,180.0,So.,1L,San Diego State,"Corona, Calif.",Centennial High,,,,
+36,,35.0,Martin Blake,RB,5-6,205.0,So.,1L,San Diego State,"Las Vegas, Nev.",Canyon Springs High,,,,
+37,,35.0,Jelani Whitmore,RW,6-2,175.0,Jr.,SQ,San Diego State,"Rialto, Calif.",Carter High,,,,
+38,,36.0,New Zealand Williams,LB,6-2,205.0,So.,SQ,San Diego State,"Carson, Calif.",St. Bernard High,,,,
+39,,37.0,DJ Bryant,S,6-0,185.0,So.,SQ,San Diego State,"Oakland, Calif.",San Leandro High,,,,
+40,,37.0,Darius Hyde,WR,6-1,195.0,Sr.,SQ,San Diego State,"Atwater, Calif.",Atwater High,Modesto College,,,
+41,,39.0,Garret Fountain,DL,6-4,250.0,Sr.,3L,San Diego State,"Turlock, Calif.",Turlock High,,,,
+42,,40.0,Mikey Welsh,WR,5-10,165.0,R-Fr.,RS,San Diego State,"Servite, Calif.",Servite High,,,,
+43,,41.0,Phillippe Wesley II,WR,6-0,190.0,So.,SQ,San Diego State,"Grandview, Mo.",St. Bernard High (Calif.),,,,
+44,,42.0,Brady Anderson,LB,6-2,230.0,So.,1L,San Diego State,"Bakersfield, Calif.",Liberty High,,,,
+45,,43.0,Onijai Sellers,WR,6-1,195.0,Sr.,TR,San Diego State,"Hayward, Calif.",Mt. Eden High,Modesto College,,,
+46,,44.0,Vai Kaho,LB,6-1,230.0,Sr.,3L,San Diego State,"Reno, Nev.",Bishop Manogue High,,,,
+47,,45.0,Wyatt Draeger,DL,6-4,265.0,Sr.,3L,San Diego State,"Reno, Nev.",Reno High,,,,
+48,,45.0,Nino Remigio,WR,5-11,165.0,Jr.,TR,San Diego State,"Santa Ana, Calif.",Mater Dei High,Saddleback College,,,
+49,,46.0,Gabriel Plascencia,K,6-1,210.0,Jr.,TR,San Diego State,"Oakland, Calif.",Bishop O'Dowd High,College of San Mateo,,,
+50,,47.0,Trey White,LB,6-1,225.0,R-Fr.,RS,San Diego State,"San Diego, Calif.",Eastlake High,,,,
+51,,48.0,Michael Pariseau,P,6-2,185.0,Jr.,TR,San Diego State,"San Mateo, Calif.",Menlo-Atherton High,College of San Mateo,,,
+52,,49.0,Zechariah Ramirez,K/P,5-10,150.0,R-Fr.,RS,San Diego State,"Upland, Calif.",Upland High,,,,
+53,,50.0,Ryan Wintermeyer,LS,6-1,220.0,Jr.,2L,San Diego State,"Scottsdale, Ariz.",Cactus Shadows High,,,,
+54,,51.0,Zyrus Fiaseu,LB,6-0,230.0,So.,1L,San Diego State,"Las Vegas, Nev.",Liberty High,,,,
+55,,52.0,Jayden Kendricks,LB,6-2,210.0,R-Fr.,HS,San Diego State,"Chula Vista, Calif.",Eastlake High,,,,
+56,,55.0,Cooper McDonald,LB,6-3,240.0,Sr.,1L,San Diego State,"Haslet, Texas",Northwest High,Washington,,,
+57,,56.0,DJ Herman,LB,6-2,225.0,So.,1L,San Diego State,"Las Vegas, Nev.",Bishop Gorman High,,,,
+58,,56.0,Tiger Yu,OL,6-4,330.0,R-Fr.,RS,San Diego State,"San Mateo, Calif.",Junipero Serra High,,,,
+59,,57.0,Darrell Masaniai,LB,6-2,220.0,Jr.,1L,San Diego State,"Honolulu, Hawaii",St. Louis School,,,,
+60,,58.0,Cody Moon,LB,6-3,205.0,Jr.,TR,San Diego State,"Albuquerque, N.M.",Volcano Vista High,New Mexico,,,
+61,,59.0,Keion Mitchell,DL,6-4,250.0,So.,SQ,San Diego State,"Framingham, Mass.",Framingham High,,,,
+62,,60.0,Cade Bennett,OL,6-3,315.0,Jr.,1L,San Diego State,"Scottsdale, Ariz.",Notre Dame Prep,Oklahoma State,,,
+63,,61.0,Brandon Crenshaw-Dickson,OL,6-6,310.0,Sr.,2L,San Diego State,"Inglewood, Calif.",Narbonne High,,,,
+64,,62.0,Kyle Stanback,OL,6-7,265.0,Jr.,TR,San Diego State,"Pasadena, Calif.",Newbury Park High,Ventura College,,,
+65,,63.0,Ross Ulugalu-Maseuli,OL,6-4,320.0,So.,1L,San Diego State,"San Diego, Calif.",Mater Dei High,,,,
+66,,64.0,Tyson Chavez,LS,6-2,235.0,R-Fr.,RS,San Diego State,"San Marcos, Calif.",Mission Hills High,,,,
+67,,65.0,Laakea Kapoi,OL,6-4,310.0,R-Fr.,RS,San Diego State,"Makakilo, Hawaii",St. Louis School,,,,
+68,,68.0,Thomas Mirabella,OL,6-4,300.0,Jr.,1L,San Diego State,"Mission Viejo, Calif.",Mission Viejo High,,,,
+69,,69.0,Mason Ianni,DL,6-4,200.0,R-Fr.,RS,San Diego State,"Palm Desert, Calif.",Xavier Prep High,,,,
+70,,70.0,Christian Jones,OL,6-9,320.0,So.,1L,San Diego State,"San Luis Obispo, Calif.",San Luis Obisbo High,,,,
+71,,71.0,Mohamed Mohamed,DL,6-2,190.0,R-Fr.,HS,San Diego State,"San Diego, Calif.",Crawford High,,,,
+72,,73.0,Ramsey Qishta,OL,6-3,300.0,R-Fr.,RS,San Diego State,"La Verne, Calif.",Damien High,,,,
+73,,74.0,Drew Azzopardi,OL,6-5,315.0,R-Fr.,RS,San Diego State,"Pacifica, Calif.",Junipero Serra High,,,,
+74,,75.0,Ryan Dirksen,OL,6-6,295.0,So.,RS,San Diego State,"Portland, Ore.",Central Catholic High,Butte College,,,
+75,,76.0,Dean Abdullah,OL,6-4,260.0,Jr.,1L,San Diego State,"Antelope, Calif.",Antelope High,American River College,,,
+76,,78.0,Rambo Mageo,OL,6-5,320.0,R-Fr.,RS,San Diego State,"Laie, Hawaii",Cathedral Catholic High (Calif.),,,,
+77,,79.0,Joey Wright,OL,6-5,305.0,Jr.,1L,San Diego State,"Reno, Nev.",Bishop Manogue High,,,,
+78,,81.0,Mark Redman,TE,6-6,250.0,Sr.,1L,San Diego State,"Newport Beach, Calif.",Corona del Mar High,Washington,,,
+79,,82.0,Jay Rudolph,TE,6-4,245.0,Sr.,3L,San Diego State,"Scottsdale, Ariz.",Horizon High,,,,
+80,,83.0,Mekhi Shaw,WR,5-10,175.0,Jr.,2L,San Diego State,"San Diego, Calif.",Scripps Ranch HS,,,,
+81,,84.0,Darius De Los Reyes,WR,5-9,175.0,Jr.,2L,San Diego State,"San Diego, Calif.",Lincoln High,,,,
+82,,85.0,Joshua Nicholson,WR,6-0,175.0,So.,1L,San Diego State,"Grand Prairie, Texas",South Grand Prairie High,,,,
+83,,86.0,Cameron Harpole,TE,6-4,235.0,So.,1L,San Diego State,"Prosper, Texas",Prosper High,,,,
+84,,87.0,Gus McGee,TE,6-5,245.0,So.,SQ,San Diego State,"Newburyport, Mass.",Christopher Columbus High (Fla.),,,,
+85,,88.0,Jacoby Kelly,WR,6-3,210.0,R-Fr.,RS,San Diego State,"Compton, Calif.",Loyola High,,,,
+86,,89.0,Logan Tanner,TE,6-3,235.0,R-Fr.,RS,San Diego State,"Houston, Texas",St. Pius X High,,,,
+87,,90.0,Daniel Okpoko,DL,6-5,255.0,Sr.,2L,San Diego State,"Saskatoon, Saskatchewan, Canada",St. Joseph's High,,,,
+88,,93.0,Dylan Taylor,DL,6-2,245.0,Sr.,1L,San Diego State,"Los Angeles, Calif.",Cathedral High,,,,
+89,,94.0,Aaron Greene,TE,6-4,255.0,Jr.,2L,San Diego State,"Prescott, Ariz.",Prescott High,,,,
+90,,94.0,Samuela Tuihalamaka,DL,6-1,305.0,Sr.,TR,San Diego State,"Riverside, Calif.",Mater Dei High,Oklahoma State,,,
+91,,95.0,Talib Salahuddin,DL,6-5,235.0,Jr.,TR,San Diego State,"Philadelphia, Pa.",Chaminade College Prep (Calif.),Riverside City College,,,
+92,,96.0,Ryan Henderson,DL,6-3,260.0,R-Fr.,RS,San Diego State,"Las Vegas, Nev.",Canyon Springs High,,,,
+93,,97.0,Darrion Dalton,DL,6-3,265.0,So.,SQ,San Diego State,"Apple Valley, Minn.",Saguaro High (Ariz.),,,,
+94,,98.0,Joseph Hall,DL,6-5,265.0,Jr.,TR,San Diego State,"Mission Viejo, Calif.",Judson High,Saddleback College,,,
+95,,99.0,Tupu Alualu,DL,6-1,285.0,Jr.,TR,San Diego State,"Honolulu, Hawaii",Moanalua High,Mt. SAC,,,
+0,,,,,,,,,San Diego State,,,,,Brady Hoke,Head Coach
+1,,,,,,,,,San Diego State,,,,,Ryan Lindley,Offensive Coordinator (quarterbacks)
+2,,,,,,,,,San Diego State,,,,,Kurt Mattix,Defensive Coordinator (linebackers)
+3,,,,,,,,,San Diego State,,,,,Jimmy Beal,Assistant Coach (running backs)
+4,,,,,,,,,San Diego State,,,,,Doug Deakin,Assistant Coach (special teams coordinator)
+5,,,,,,,,,San Diego State,,,,,Savai’i Eselu,Assistant Coach (tight ends)
+6,,,,,,,,,San Diego State,,,,,Bojay Filimoeatu,Assistant Coach (defensive line)
+7,,,,,,,,,San Diego State,,,,,Mike Goff,Assistant Coach (offensive line)
+8,,,,,,,,,San Diego State,,,,,Kyle Hoke,Assistant Coach (safeties)
+9,,,,,,,,,San Diego State,,,,,Jonathan Krause,Assistant Coach (wide receivers)
+10,,,,,,,,,San Diego State,,,,,Demetrius Sumler,Assistant Coach (cornerbacks)
+11,,,,,,,,,San Diego State,,,,,Adam Hall,Assistant Athletic Director - Strength & Conditioning
+12,,,,,,,,,San Diego State,,,,,Ruben Pena,Director of Football Operations
+13,,,,,,,,,San Diego State,,,,,Kevin Wolthausen,Football Defensive Analyst
+14,,,,,,,,,San Diego State,,,,,Taylor Long,Assistant Football Operations Specialist/Executive Assistant to Head Coach
+15,,,,,,,,,San Diego State,,,,,Ryon Lynn,Director of Player Personnel
+16,,,,,,,,,San Diego State,,,,,Tahj Capehart,Football Recruiting Coordinator
+17,,,,,,,,,San Diego State,,,,,Nik Embernate,Football Recruiting Coordinator
+18,,,,,,,,,San Diego State,,,,,Robby Hauck,Football Recruiting Coordinator
+19,,,,,,,,,San Diego State,,,,,Daniel Bleske,Graduate Assistant
+20,,,,,,,,,San Diego State,,,,,Parker Houston,Graduate Assistant
+21,,,,,,,,,San Diego State,,,,,Ryan Krum,Graduate Assistant
+22,,,,,,,,,San Diego State,,,,,Trey Lomax,Graduate Assistant
+23,,,,,,,,,San Diego State,,,,,Chris Jurek,Assistant Strength & Conditioning Coach

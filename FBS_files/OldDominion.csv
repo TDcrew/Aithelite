@@ -1,100 +1,97 @@
-,Statistic,#,Full Name,Pos.,Ht.,Wt.,Academic Year,Hometown,High School,Previous School,Image,Name,Title
-0,,0.0,Malcolm Britt,Linebacker,6-0,222.0,R-So.,"Chesapeake, Va.",Oscar Smith,,,,
-1,,0.0,Kadarius Calloway,Running Back,6-0,210.0,Jr.,"Philadelphia, Miss.",Philadelphia,East Mississippi,,,
-2,,1.0,Jordan Bly,Wide Receiver,5-10,166.0,Jr.,"Charlotte, N.C.",Myers Park,,,,
-3,,1.0,Terry Jones,Safety,6-1,187.0,R-Jr.,"Baltimore, Md.",Mergenthaler Vo Tech,,,,
-4,,2.0,LaMareon James,Cornerback,5-10,187.0,Jr.,"Norfolk, Va.",Indian River,,,,
-5,,3.0,Mario Easterly,Safety,6-0,178.0,R-Fr.,"Harrisburg, Pa.",Bishop McDevitt,,,,
-6,,3.0,Isaiah Spencer,Tight End,6-5,230.0,R-Sr.,"Gloucester, Va.",Gloucester,,,,
-7,,4.0,Javon Harvey,Wide Receiver,5-11,180.0,R-Jr.,"Norfolk, Va.",Lake Taylor,,,,
-8,,4.0,Amorie Morrison,Defensive End,6-4,244.0,R-So.,"Virginia Beach, Va.",Salem,,,,
-9,,5.0,Alonzo Ford Jr.,Defensive Tackle,6-3,272.0,Jr.,"Richmond, Va.",Varina,,,,
-10,,5.0,Isiah Paige,Wide Receiver,5-8,160.0,Jr.,"Richmond, Va.",Varina,,,,
-11,,6.0,Marqeese Dietz,Wide Receiver,6-0,180.0,R-So.,"Norfolk, Va.",Norview,,,,
-12,,7.0,Shawn Asbury II,Safety,5-9,195.0,Jr.,"Stafford, Va",North Stafford,Boston College,,,
-13,,7.0,Ahmarian Granger,Wide Receiver,6-1,175.0,So.,"Norfolk, Va.",Maury,,,,
-14,,8.0,Denzel Lowry,Defensive Tackle,6-2,280.0,R-So.,"Virginia Beach, Va.",Landstown,,,,
-15,,8.0,Jack Shields,Quarterback,6-1,192.0,R-So.,"Centreville, Va.",Centreville,,,,
-16,,9.0,Jalen Butler,Tight End,6-4,216.0,So.,"Chicago, Ill.",Niles North,Trinity Valley,,,
-17,,10.0,Marquez Bell,Wide Receiver,6-1,175.0,R-So.,"Lake City, Fla.",Columbia HS,Cincinnati,,,
-18,,10.0,Chazz Wallace,Defensive Tackle,6-2,295.0,Jr.,"Glenarden, Md.",The Avalon School,,,,
-19,,11.0,Kris Caine,Defensive End,6-3,215.0,Jr.,"Waldorf, Md.",Westlake,,,,
-20,,11.0,Hayden Wolff,Quarterback,6-5,235.0,R-Jr.,"Venice, Fla.",Venice,,,,
-21,,12.0,Tahj Ra-El,Safety,6-2,192.0,Jr.,"Charlotte, N.C.",Myers Park,,,,
-22,,13.0,Alhaji Kamara,Cornerback,6-0,182.0,R-So.,"Richmond, Va.",Hermitage,,,,
-23,,13.0,Grant Wilson,Quarterback,6-3,208.0,Jr.,"Arlington, Va.",Yorktown/Fordham,,,,
-24,,14.0,MarShawn Ferguson Jr.,Wide Receiver,5-9,175.0,Fr.,"Princeton, N.J.",DePaul Catholic,St. Thomas More,,,
-25,,14.0,Monterio Smith,Safety,6-3,197.0,So.,"Bessemer, Ala.",Shades Valley,Hutchinson,,,
-26,,15.0,Wayne Matthews III,Linebacker,6-2,221.0,R-So.,"Largo, Md.",Charles Herbert Flowers,,,,
-27,,15.0,Tyler Stott,Quarterback,6-4,195.0,R-Fr.,"Las Vegas, Nev.",Desert Oasis,,,,
-28,,16.0,Khian’Dre Harris,Cornerback,5-10,172.0,R-So.,"Fairless, Pa.",Conwell Egan Catholic,,,,
-29,,17.0,Ishmael Roy,Wide Receiver,6-0,193.0,R-Jr.,"Williamsburg, Va.",Lafayette,Louisburg College,,,
-30,,19.0,Peter Kikwata,Wide Receiver,6-1,178.0,So.,"Montgomery Village, Md.",Northwest,,,,
-31,,20.0,John Cook,Linebacker,6-0,210.0,R-So.,"Manassas, Va.",Charles J. Colgan,,,,
-32,,20.0,Dominic Dutton,Wide Receiver,5-10,162.0,R-So.,"Glen Allen, Va.",Glen Allen,,,,
-33,,21.0,Zion Frink,Safety,6-0,169.0,Fr.,"Chesapeake, Va.",Wake Forest HS,,,,
-34,,21.0,Obie Sanni,Running Back,5-9,194.0,R-So.,"Aurora, Colo.",Smoky Hill,,,,
-35,,22.0,Jalen McCain,Cornerback,5-10,182.0,R-So.,"Bowie, Md.",Charles Herbert Flowers,,,,
-36,,22.0,Keshawn Wicks,Running Back,6-1,193.0,R-Jr.,"Moncks Corner, S.C.",Berkeley,,,,
-37,,23.0,JeCareon Lathan,Cornerback,6-1,181.0,R-So.,"Minden, La.",Minden,Trinity Valley CC,,,
-38,,24.0,EJ Green,Linebacker,6-1,218.0,R-Jr.,"Williamsburg, Va.",Lafayette,,,,
-39,,25.0,"Anshon ""Bubba"" Camp",Safety,5-10,174.0,Fr.,"Charlotte, N.C.",Julius L. Chambers,,,,
-40,,26.0,Tariq Sims,Running Back,5-9,183.0,R-So.,"Leesburg, Va.",Loudoun County,,,,
-41,,28.0,Corey Chapman,Safety,5-11,181.0,R-So.,"Chesapeake, Va.",Hickory,,,,
-42,,29.0,Markus Knight,Safety,5-11,182.0,R-So.,"Tallahassee, Fla.",,Independence CC,,,
-43,,31.0,BJ Lowery Jr.,Cornerback,5-10,175.0,Fr.,"Varina, Va.",Life Christian Academy,,,,
-44,,32.0,Alex Jreige,Running Back,5-9,200.0,R-Fr.,"Vienna, Va.",Madison,,,,
-45,,34.0,Jahleel Culbreath,Linebacker,6-2,222.0,R-Fr.,"Virginia Beach, Va.",Ocean Lakes,,,,
-46,,40.0,Jude Buchanan,Linebacker,6-2,223.0,R-Fr.,"Vancouver, British Columbia, Canada",Blair Academy,,,,
-47,,42.0,Jason Henderson,Linebacker,6-1,225.0,Jr.,"Dingmans Ferry, Pa.",Delaware Valley HS,,,,
-48,,43.0,Kris Trinidad,Defensive End,6-5,246.0,R-So.,"Richmond, Va.",Lloyd C. Bird,,,,
-49,,44.0,Gideon Bedada,Defensive End,6-2,214.0,Fr.,"Calgary, Alberta, Canada",Clearwater Academy (Fla.),,,,
-50,,45.0,Brock Walters,Long Snapper,6-0,214.0,Fr.,"Kailua Kona, Hawaii",Winter Park,,,,
-51,,47.0,Koa Naotala,Linebacker,5-11,223.0,R-Fr.,"Newport News, Va.",Woodside,,,,
-52,,50.0,Nicholas Malley,Defensive End,6-2,230.0,R-Fr.,"Suitland, Md.",Bishop McNamara,Hampton,,,
-53,,52.0,Jahlil Taylor,Defensive Tackle,5-11,285.0,Sr.,"Cordele, Ga.",Crisp County,North Carolina,,,
-54,,55.0,Maarten Woudsma,Offensive Line,6-5,280.0,R-Fr.,"Amersfoort, Netherlands",Oscar Smith (Va.),,,,
-55,,56.0,Ryan Nolan,Offensive Line,6-3,335.0,R-Fr.,"Chesapeake, Va.",Deep Creek,,,,
-56,,56.0,Jaylon White-McClain,Defensive End,6-4,257.0,R-Fr.,"Virginia Beach, Va.",Kempsville,,,,
-57,,57.0,Ryan Harvey,Long Snapper,5-11,210.0,R-Jr.,"Ashburn, Va.",Stone Bridge,Towson,,,
-58,,58.0,Stephon Dubose-Bourne,Offensive Line,6-4,310.0,R-So.,"Chesapeake, Va.",Indian River,,,,
-59,,63.0,Xavier Black,Offensive Line,6-4,290.0,R-Jr.,"Fishersville, Va.",Wilson Memorial,,,,
-60,,65.0,Chris Adams,Offensive Line,6-6,280.0,R-So.,"Hagerstown, Md.",South Hagerstown,,,,
-61,,68.0,Caleb Gosney,Offensive Line,6-3,285.0,R-So.,"Richmond, Va.",Varina,,,,
-62,,70.0,Drew Pascoe,Offensive Line,6-3,275.0,R-So.,"Clifton, Va.",Centreville,,,,
-63,,71.0,Santana Saunders,Offensive Line,6-5,296.0,Jr.,"Upper Marlboro, Md.",Charles Herbert Flowers,,,,
-64,,72.0,Talyn Hunter,Offensive Line,6-4,292.0,R-So.,"Harrisburg, N.C.",Hickory Ridge,,,,
-65,,74.0,Caron McNair,Offensive Line,6-5,309.0,R-Fr.,"Toms River, N.J.",Donovan Catholic,,,,
-66,,75.0,Skyler Grant,Offensive Line,6-3,290.0,R-So.,"Fredericksburg, Va.",Riverbend,,,,
-67,,76.0,Alex Gutierrez,Defensive Line,6-3,263.0,R-Fr.,"Ashburn, Va.",Briar Woods,,,,
-68,,77.0,Mason Howard,Offensive Line,6-7,280.0,R-Fr.,"Moseley, Va.",Cosby,,,,
-69,,78.0,Elijah Hoskin,Offensive Line,6-3,291.0,R-So.,"Culpeper, Va,",Eastern View,,,,
-70,,79.0,Leroy Thomas,Offensive Line,6-3,290.0,R-Sr.,"Stafford, Va.",Colonial Forge,,,,
-71,,80.0,DJ Chandler,Tight End,6-5,225.0,So.,"Woodbridge, Va.",Colgan,Virginia Union,,,
-72,,81.0,Isaiah Smith,Wide Receiver,6-4,212.0,R-Fr.,"Hampton, Va.",Bethel/Myrtle Beach Prep,,,,
-73,,87.0,Trey Lancaster,Tight End,6-4,230.0,Sr.,"Chesapeake, Va.",Grassfield,Christopher Newport,,,
-74,,88.0,Curtis Nixon II,Tight End,6-5,236.0,R-So.,"Waldorf, Md.",Maret School,,,,
-75,,91.0,Trey Stephens,Kicker,5-11,200.0,Fr.,"Acworth, Ga.",North Cobb Christian School,,,,
-76,,92.0,Ethan Sanchez,Kicker,5-9,183.0,So.,"Dallas, Ga.",North Paulding,,,,
-77,,94.0,Louie Jackson,Kicker,5-11,205.0,Fr.,"Manchester, England",Dr. Phillips,,,,
-78,,95.0,Ethan Duane,Punter,6-1,215.0,Jr.,"Melbourne, Australia",,,,,
-79,,97.0,Devin Brandt-Epps,Defensive Tackle,6-3,292.0,Jr.,"Muskogee, Okla.",Hilldale,Northeastern Oklahoma A&M,,,
-80,,98.0,Christopher Spencer,Defensive Line,6-5,255.0,R-Fr.,"Burgaw, N.C.",Pender,,,,
-81,,99.0,Cole Daniels,Defensive Tackle,6-0,296.0,So.,"Sumrall, Miss.",Sumrall/Mississippi Gulf Coast,,,,
-0,,,,,,,,,,,,Ricky Rahne,Thurmond Family ODU Head Football Coach
-1,,,,,,,,,,,,Kevin Decker,Offensive Coordinator/Quarterbacks
-2,,,,,,,,,,,,Blake Seiler,Defensive Coordinator/Inside Linebackers
-3,,,,,,,,,,,,Kevin Smith,Special Teams Coordinator/Outside Linebackers
-4,,,,,,,,,,,,Mark Dupuis,Wide Receivers/Pass Game Coordinator
-5,,,,,,,,,,,,Justin Harper,Tight Ends/Offensive Recruiting Coordinator
-6,,,,,,,,,,,,Alex Huettel,Offensive Line
-7,,,,,,,,,,,,Victor Irokansi,Defensive Line
-8,,,,,,,,,,,,Tony Lucas,Running Backs/Assistant Head Coach
-9,,,,,,,,,,,,Remington Rebstock,Assistant Defensive Coordinator/Safeties
-10,,,,,,,,,,,,Tarron Williams,Cornerbacks
-11,,,,,,,,,,,,Chad Snodgrass,Director of Sports Performance
-12,,,,,,,,,,,,Tristin Iannone,Director of Player Personnel
-13,,,,,,,,,,,,Eric Baumgartner,Defensive Quality Control
-14,,,,,,,,,,,,Ryan Wilson,Graduate Assistant (Tight Ends/Running Backs)
-15,,,,,,,,,,,,Shane Baker,Graduate Assistant (Special Teams)
-16,,,,,,,,,,,,Jonathan Ceh,Assistant Director of Operations
+,Statistic,#,Full Name,Pos.,Ht.,Wt.,Academic Year,Hometown,Current School Name,High School,Previous School,Image,Name,Title
+0,,0.0,Malcolm Britt,Linebacker,6-0,222.0,R-So.,"Chesapeake, Va.",Old Dominion,Oscar Smith,,,,
+1,,0.0,Kadarius Calloway,Running Back,6-0,210.0,Jr.,"Philadelphia, Miss.",Old Dominion,Philadelphia,East Mississippi,,,
+2,,1.0,Jordan Bly,Wide Receiver,5-10,166.0,Jr.,"Charlotte, N.C.",Old Dominion,Myers Park,,,,
+3,,1.0,Terry Jones,Safety,6-1,187.0,R-Jr.,"Baltimore, Md.",Old Dominion,Mergenthaler Vo Tech,,,,
+4,,2.0,LaMareon James,Cornerback,5-10,187.0,Jr.,"Norfolk, Va.",Old Dominion,Indian River,,,,
+5,,3.0,Mario Easterly,Safety,6-0,178.0,R-Fr.,"Harrisburg, Pa.",Old Dominion,Bishop McDevitt,,,,
+6,,3.0,Isaiah Spencer,Tight End,6-5,230.0,R-Sr.,"Gloucester, Va.",Old Dominion,Gloucester,,,,
+7,,4.0,Javon Harvey,Wide Receiver,5-11,180.0,R-Jr.,"Norfolk, Va.",Old Dominion,Lake Taylor,,,,
+8,,4.0,Amorie Morrison,Defensive End,6-4,244.0,R-So.,"Virginia Beach, Va.",Old Dominion,Salem,,,,
+9,,5.0,Alonzo Ford Jr.,Defensive Tackle,6-3,272.0,Jr.,"Richmond, Va.",Old Dominion,Varina,,,,
+10,,5.0,Isiah Paige,Wide Receiver,5-8,160.0,Jr.,"Richmond, Va.",Old Dominion,Varina,,,,
+11,,6.0,MarQeese Dietz,Wide Receiver,6-0,180.0,R-So.,"Norfolk, Va.",Old Dominion,Norview,,,,
+12,,7.0,Shawn Asbury II,Safety,5-9,195.0,Jr.,"Stafford, Va",Old Dominion,North Stafford,Boston College,,,
+13,,7.0,Ahmarian Granger,Wide Receiver,6-1,175.0,So.,"Norfolk, Va.",Old Dominion,Maury,,,,
+14,,8.0,Denzel Lowry,Defensive Tackle,6-2,280.0,R-So.,"Virginia Beach, Va.",Old Dominion,Landstown,,,,
+15,,8.0,Jack Shields,Quarterback,6-1,192.0,R-So.,"Centreville, Va.",Old Dominion,Centreville,,,,
+16,,9.0,Jalen Butler,Tight End,6-4,216.0,So.,"Chicago, Ill.",Old Dominion,Niles North,Trinity Valley,,,
+17,,10.0,Marquez Bell,Wide Receiver,6-1,175.0,R-So.,"Lake City, Fla.",Old Dominion,Columbia HS,Cincinnati,,,
+18,,11.0,Kris Caine,Defensive End,6-3,215.0,Jr.,"Waldorf, Md.",Old Dominion,Westlake,,,,
+19,,12.0,Tahj Ra-El,Safety,6-2,192.0,Jr.,"Charlotte, N.C.",Old Dominion,Myers Park,,,,
+20,,13.0,Alhaji Kamara,Cornerback,6-0,182.0,R-So.,"Richmond, Va.",Old Dominion,Hermitage,,,,
+21,,13.0,Grant Wilson,Quarterback,6-3,208.0,Jr.,"Arlington, Va.",Old Dominion,Yorktown/Fordham,,,,
+22,,14.0,MarShawn Ferguson Jr.,Wide Receiver,5-9,175.0,Fr.,"Princeton, N.J.",Old Dominion,DePaul Catholic,St. Thomas More,,,
+23,,14.0,Monterio Smith,Safety,6-3,197.0,So.,"Bessemer, Ala.",Old Dominion,Shades Valley,Hutchinson,,,
+24,,15.0,Wayne Matthews III,Linebacker,6-2,221.0,R-So.,"Largo, Md.",Old Dominion,Charles Herbert Flowers,,,,
+25,,15.0,Tyler Stott,Quarterback,6-4,195.0,R-Fr.,"Las Vegas, Nev.",Old Dominion,Desert Oasis,,,,
+26,,16.0,Khian’Dre Harris,Cornerback,5-10,172.0,R-So.,"Fairless, Pa.",Old Dominion,Conwell Egan Catholic,,,,
+27,,17.0,Ishmael Roy,Wide Receiver,6-0,193.0,R-Jr.,"Williamsburg, Va.",Old Dominion,Lafayette,Louisburg College,,,
+28,,20.0,John Cook,Linebacker,6-0,210.0,R-So.,"Manassas, Va.",Old Dominion,Charles J. Colgan,,,,
+29,,20.0,Dominic Dutton,Wide Receiver,5-10,162.0,R-So.,"Glen Allen, Va.",Old Dominion,Glen Allen,,,,
+30,,21.0,Zion Frink,Safety,6-0,169.0,Fr.,"Chesapeake, Va.",Old Dominion,Wake Forest HS,,,,
+31,,21.0,Obie Sanni,Running Back,5-9,194.0,R-So.,"Aurora, Colo.",Old Dominion,Smoky Hill,,,,
+32,,22.0,Jalen McCain,Cornerback,5-10,182.0,R-So.,"Bowie, Md.",Old Dominion,Charles Herbert Flowers,,,,
+33,,22.0,Keshawn Wicks,Running Back,6-1,193.0,R-Jr.,"Moncks Corner, S.C.",Old Dominion,Berkeley,,,,
+34,,23.0,JeCareon Lathan,Cornerback,6-1,181.0,R-So.,"Minden, La.",Old Dominion,Minden,Trinity Valley CC,,,
+35,,24.0,EJ Green,Linebacker,6-1,218.0,R-Jr.,"Williamsburg, Va.",Old Dominion,Lafayette,,,,
+36,,25.0,"Anshon ""Bubba"" Camp",Safety,5-10,174.0,Fr.,"Charlotte, N.C.",Old Dominion,Julius L. Chambers,,,,
+37,,26.0,Tariq Sims,Running Back,5-9,183.0,R-So.,"Leesburg, Va.",Old Dominion,Loudoun County,,,,
+38,,28.0,Corey Chapman,Safety,5-11,181.0,R-So.,"Chesapeake, Va.",Old Dominion,Hickory,,,,
+39,,29.0,Markus Knight,Safety,5-11,182.0,R-So.,"Tallahassee, Fla.",Old Dominion,,Independence CC,,,
+40,,31.0,BJ Lowery Jr.,Cornerback,5-10,175.0,Fr.,"Varina, Va.",Old Dominion,Life Christian Academy,,,,
+41,,32.0,Alex Jreige,Running Back,5-9,200.0,R-Fr.,"Vienna, Va.",Old Dominion,Madison,,,,
+42,,34.0,Jahleel Culbreath,Linebacker,6-2,222.0,R-Fr.,"Virginia Beach, Va.",Old Dominion,Ocean Lakes,,,,
+43,,40.0,Jude Buchanan,Linebacker,6-2,223.0,R-Fr.,"Vancouver, British Columbia, Canada",Old Dominion,Blair Academy,,,,
+44,,42.0,Jason Henderson,Linebacker,6-1,225.0,Jr.,"Dingmans Ferry, Pa.",Old Dominion,Delaware Valley HS,,,,
+45,,43.0,Kris Trinidad,Defensive End,6-5,246.0,R-So.,"Richmond, Va.",Old Dominion,Lloyd C. Bird,,,,
+46,,44.0,Gideon Bedada,Defensive End,6-2,214.0,Fr.,"Calgary, Alberta, Canada",Old Dominion,Clearwater Academy (Fla.),,,,
+47,,45.0,Brock Walters,Long Snapper,6-0,214.0,Fr.,"Kailua Kona, Hawaii",Old Dominion,Winter Park,,,,
+48,,47.0,Koa Naotala,Linebacker,5-11,223.0,R-Fr.,"Newport News, Va.",Old Dominion,Woodside,,,,
+49,,50.0,Nicholas Malley,Defensive End,6-2,230.0,R-Fr.,"Suitland, Md.",Old Dominion,Bishop McNamara,Hampton,,,
+50,,52.0,Jahlil Taylor,Defensive Tackle,5-11,285.0,Sr.,"Cordele, Ga.",Old Dominion,Crisp County,North Carolina,,,
+51,,55.0,Maarten Woudsma,Offensive Line,6-5,280.0,R-Fr.,"Amersfoort, Netherlands",Old Dominion,Oscar Smith (Va.),,,,
+52,,56.0,Jaylon White-McClain,Defensive End,6-4,257.0,R-Fr.,"Virginia Beach, Va.",Old Dominion,Kempsville,,,,
+53,,57.0,Ryan Harvey,Long Snapper,5-11,210.0,R-Jr.,"Ashburn, Va.",Old Dominion,Stone Bridge,Towson,,,
+54,,58.0,Stephon Dubose-Bourne,Offensive Line,6-4,310.0,R-So.,"Chesapeake, Va.",Old Dominion,Indian River,,,,
+55,,63.0,Xavier Black,Offensive Line,6-4,290.0,R-Jr.,"Fishersville, Va.",Old Dominion,Wilson Memorial,,,,
+56,,65.0,Chris Adams,Offensive Line,6-6,280.0,R-So.,"Hagerstown, Md.",Old Dominion,South Hagerstown,,,,
+57,,68.0,Caleb Gosney,Offensive Line,6-3,285.0,R-So.,"Richmond, Va.",Old Dominion,Varina,,,,
+58,,70.0,Drew Pascoe,Offensive Line,6-3,275.0,R-So.,"Clifton, Va.",Old Dominion,Centreville,,,,
+59,,71.0,Santana Saunders,Offensive Line,6-5,296.0,Jr.,"Upper Marlboro, Md.",Old Dominion,Charles Herbert Flowers,,,,
+60,,72.0,Talyn Hunter,Offensive Line,6-4,292.0,R-So.,"Harrisburg, N.C.",Old Dominion,Hickory Ridge,,,,
+61,,75.0,Skyler Grant,Offensive Line,6-3,290.0,R-So.,"Fredericksburg, Va.",Old Dominion,Riverbend,,,,
+62,,76.0,Alex Gutierrez,Defensive Line,6-3,263.0,R-Fr.,"Ashburn, Va.",Old Dominion,Briar Woods,,,,
+63,,77.0,Mason Howard,Offensive Line,6-7,280.0,R-Fr.,"Moseley, Va.",Old Dominion,Cosby,,,,
+64,,78.0,Elijah Hoskin,Offensive Line,6-3,291.0,R-So.,"Culpeper, Va,",Old Dominion,Eastern View,,,,
+65,,79.0,Leroy Thomas,Offensive Line,6-3,290.0,R-Sr.,"Stafford, Va.",Old Dominion,Colonial Forge,,,,
+66,,80.0,DJ Chandler,Tight End,6-5,225.0,So.,"Woodbridge, Va.",Old Dominion,Colgan,Virginia Union,,,
+67,,81.0,Isaiah Smith,Wide Receiver,6-4,212.0,R-Fr.,"Hampton, Va.",Old Dominion,Bethel/Myrtle Beach Prep,,,,
+68,,87.0,Trey Lancaster,Tight End,6-4,230.0,Sr.,"Chesapeake, Va.",Old Dominion,Grassfield,Christopher Newport,,,
+69,,88.0,Curtis Nixon II,Tight End,6-5,236.0,R-So.,"Waldorf, Md.",Old Dominion,Maret School,,,,
+70,,91.0,Trey Stephens,Kicker,5-11,200.0,Fr.,"Acworth, Ga.",Old Dominion,North Cobb Christian School,,,,
+71,,92.0,Ethan Sanchez,Kicker,5-9,183.0,So.,"Dallas, Ga.",Old Dominion,North Paulding,,,,
+72,,94.0,Louie Jackson,Kicker,5-11,205.0,Fr.,"Manchester, England",Old Dominion,Dr. Phillips,,,,
+73,,95.0,Ethan Duane,Punter,6-1,215.0,Jr.,"Melbourne, Australia",Old Dominion,,,,,
+74,,97.0,Devin Brandt-Epps,Defensive Tackle,6-3,292.0,Jr.,"Muskogee, Okla.",Old Dominion,Hilldale,Northeastern Oklahoma A&M,,,
+75,,98.0,Christopher Spencer,Defensive Line,6-5,255.0,R-Fr.,"Burgaw, N.C.",Old Dominion,Pender,,,,
+76,,99.0,Cole Daniels,Defensive Tackle,6-0,296.0,So.,"Sumrall, Miss.",Old Dominion,Sumrall/Mississippi Gulf Coast,,,,
+0,,,,,,,,,Old Dominion,,,,Ricky Rahne,Thurmond Family ODU Head Football Coach
+1,,,,,,,,,Old Dominion,,,,Kevin Decker,Offensive Coordinator/Quarterbacks
+2,,,,,,,,,Old Dominion,,,,Blake Seiler,Defensive Coordinator/Inside Linebackers
+3,,,,,,,,,Old Dominion,,,,Kevin Smith,Special Teams Coordinator/Outside Linebackers
+4,,,,,,,,,Old Dominion,,,,Mark Dupuis,Wide Receivers/Pass Game Coordinator
+5,,,,,,,,,Old Dominion,,,,Justin Harper,Tight Ends/Offensive Recruiting Coordinator
+6,,,,,,,,,Old Dominion,,,,Alex Huettel,Offensive Line
+7,,,,,,,,,Old Dominion,,,,Victor Irokansi,Defensive Line
+8,,,,,,,,,Old Dominion,,,,Tony Lucas,Running Backs/Assistant Head Coach
+9,,,,,,,,,Old Dominion,,,,Remington Rebstock,Assistant Defensive Coordinator/Safeties
+10,,,,,,,,,Old Dominion,,,,Tarron Williams,Cornerbacks
+11,,,,,,,,,Old Dominion,,,,Chad Snodgrass,Director of Sports Performance
+12,,,,,,,,,Old Dominion,,,,Tristin Iannone,Director of Operations
+13,,,,,,,,,Old Dominion,,,,Eric Baumgartner,Defensive Quality Control
+14,,,,,,,,,Old Dominion,,,,Ryan Wilson,Graduate Assistant (Tight Ends/Running Backs)
+15,,,,,,,,,Old Dominion,,,,Shane Baker,Graduate Assistant (Special Teams)
+16,,,,,,,,,Old Dominion,,,,Cullen McCarty,Graduate Assistant (Offensive Line)
+17,,,,,,,,,Old Dominion,,,,Jonathan Ceh,Assistant Director of Operations
+18,,,,,,,,,Old Dominion,,,,Drew Casa,Director of Player Personnel
