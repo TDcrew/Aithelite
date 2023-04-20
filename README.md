@@ -12,8 +12,8 @@ Python v3.9.13
 
 
 Installation: 
-  Install the Andaconda3 navigator: https://www.anaconda.com/download/
-  Install needed dependencies with command line inside of andaconda3 navigator with the CMD.exe Prompt
+  Install the [Andaconda3](https://www.anaconda.com/download/) navigator.
+  Install needed dependencies with command line inside of andaconda3 navigator with the CMD.exe Prompt.
     - above installs can be done with commands: conda install -c conda-forge validators
                                                 conda install -c anaconda beautifulsoup4
                                                 conda install -c conda-forge selenium.
