@@ -14,9 +14,9 @@ DEPENDENCIES:
 Installation: 
   Install the [Andaconda3 Navigator](https://www.anaconda.com/download/).
   Install needed dependencies with command line inside of andaconda3 navigator with the CMD.exe Prompt.
-    - above installs can be done with commands: conda install -c conda-forge validators
-                                                conda install -c anaconda beautifulsoup4
-                                                conda install -c conda-forge selenium.
+    * - above installs can be done with commands: + conda install -c conda-forge validators
+                                                  + conda install -c anaconda beautifulsoup4
+                                                  + conda install -c conda-forge selenium.
                                                 
 
 How to Use:
