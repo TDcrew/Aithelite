@@ -97,10 +97,10 @@ def gather_data(links, names, fbs_fcs):
                 team_name = remove(names[index])
                 # make a link name by appending .csv to the end of the team name
                 link_name = str(team_name + '.csv')
-                #add team to its own csv if scrapable by pandas
+                #add team to its own csv if scrapable by pandas or selenium
                 path =  os.path.join(dir_path, link_name)
                 df.to_csv(path)
-                # let user know what the file name is of said team
+                # let user know what the file name is of current team
                 print(team_name + " was added to a csv file")
         # if not a url then let the user know the field was not a url
         else:
