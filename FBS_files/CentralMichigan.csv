@@ -1,127 +1,128 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Class,Hometown / High School,Previous School,Image,Title
-0,,0.0,Jalen McGaughy,WR,6-4,225.0,Jr.,"Detroit, Mich. / Martin Luther King H.S.",Ball State,,
-1,,0.0,Maurice White,DL,6-5,280.0,R-So.,"Detroit, Mich. / Martin Luther King H.S.",Memphis,,
-2,,3.0,Bert Emanuel Jr.,QB,6-3,210.0,R-Fr.,"Houston, Texas / Ridge Point H.S.",,,
-3,,3.0,Trey Jones,DB,6-2,200.0,Jr.,"Wetumpka, Ala. / Wetumpka H.S.",,,
-4,,4.0,Donte Kent,DB,5-11,185.0,Jr.,"Harrisburg, Pa. / Harrisburg H.S.",,,
-5,,5.0,De'Javion Stepney,DB,6-0,182.0,R-So.,"Macomb, Mich. / Dakota H.S.",,,
-6,,6.0,Lavario Wiley,DB,6-1,181.0,Jr.,"Los Angeles, Calif. / Banning H.S.",Cerritos College,,
-7,,7.0,Ed Conoran,DB,5-10,180.0,R-Fr.,"Dover, N.J. / DePaul Catholic H.S.",,,
-8,,8.0,Jarvarius Sims,DB,6-0,183.0,So.,"Decatur, Ga. / Martin Luther King H.S.",Myrtle Beach Collegiate,,
-9,,9.0,Marion Lukes,RB,5-9,195.0,Jr.,"Charlestown, Ind. / Charlestown H.S.",,,
-10,,10.0,"Stephan Bracey, Jr.",WR,5-10,185.0,Jr.,"Grand Rapids, Mich. / East Kentwood H.S.",Wisconsin,,
-11,,10.0,Jacques Bristol,DL,6-1,300.0,Sr.,"Sarasota, Fla. / Booker H.S.",,,
-12,,11.0,Bailey Smith,TE,6-1,220.0,Sr.,"Valencia, Calif. / Valencia H.S.",,,
-13,,12.0,Jordan Kwiatkowski,LB,6-1,230.0,So.,"Sterling Heights, Mich. / Stevenson H.S.",,,
-14,,12.0,Tyler Pape,QB,6-4,222.0,R-So.,"Spring Arbor, Mich. / Parma Western H.S.",,,
-15,,13.0,Chris Parker,WR,6-3,195.0,R-So.,"Saginaw, Mich. / Heritage H.S.",,,
-16,,13.0,Jake Walrath,P,6-4,200.0,Sr.,"Salado, Texas / Salada H.S.",Tarleton State/Utah State,,
-17,,14.0,Fernando Sanchez III,LB,6-3,235.0,R-So.,"Loganville, Ga. / Grayson H..S.",,,
-18,,15.0,Irone Jackson,WR,6-1,180.0,R-So.,"Bradenton, Fla. / Manatee H.S.",,,
-19,,15.0,Caleb Spann,DB,6-0,191.0,R-So.,"New Orleans, La. / John Curtis Christian H.S.",,,
-20,,16.0,Jase Bauer,QB,6-3,215.0,R-So.,"Ankeny, Iowa / Ankeny H.S.",,,
-21,,16.0,Nahree Biggins,DB,6-1,195.0,R-So.,"Hillside, N.J. / Hillside H.S.",,,
-22,,17.0,Jalen Handford,LB,6-0,233.0,R-Fr.,"Gurnee, Ill. / Warrren Township H.S.",,,
-23,,17.0,Finn Hogan,WR,6-5,209.0,R-So.,"Maple City, MIch. / Glen Lake H.S.",,,
-24,,18.0,Mark-Allen Gay,DB,6-0,180.0,Fr.,"Miami, Fla. / Miami Central H.S.",,,
-25,,18.0,Jordyn Williams,WR,6-1,184.0,R-So.,"Albany, Ga. / Trinity Christian H.S.",Jackson State,,
-26,,19.0,Tyson Davis,WR,5-10,175.0,R-So.,"Goodrich, Mich. / Goodrich H.S.",,,
-27,,20.0,Langston Lewis,WR,6-0,192.0,So.,"Savannah, Ga. / Islands H.S.",,,
-28,,20.0,Ke'Shon Parker,LB,6-1,225.0,Jr.,"Detroit, Mich. / Cass Technical H.S.",,,
-29,,21.0,Elijah Rikard,DB,6-1,184.0,R-So.,"Detroit, Mich. / UD Jesuit H.S.",,,
-30,,22.0,Kyle Moretti,LB,6-2,229.0,Jr.,"Arvada, Colo. / Pomona H.S.",,,
-31,,23.0,Jake Tafelski,RB,6-0,214.0,R-So.,"Dearborn, Mich. / Dearborn H.S.",,,
-32,,24.0,Kyle Krebs,DB,6-0,195.0,R-Fr.,"Denver, Colo. / Mullen H.S.",,,
-33,,26.0,Myles Bailey,RB,5-10,206.0,Jr.,"North Brunswick, N.J. / North Brunswick Township H.S.",,,
-34,,26.0,Jordan Kelly,WR,6-0,175.0,R-Fr.,"Beaumont, Texas / Mayde Creek H.S.",,,
-35,,27.0,DeAnthony Becton,DB,5-11,185.0,R-So.,"Akron, Ohio / Akron East H.S.",,,
-36,,27.0,Sam Hicks,WR,5-9,181.0,Jr.,"Fort Worth, Texas / Nolan Catholic H.S.",Saddleback,,
-37,,28.0,Jesse Prewitt III,WR,6-0,170.0,Jr.,"Columbus, Ohio / Northland H.S.",Wayne State,,
-38,,29.0,Jayden Davis,DB,6-0,202.0,Jr.,"Oakland, Calif. / Bishop O'Dowd H.S.",Contra Costa CC,,
-39,,30.0,Ben Pratt,LS,6-0,225.0,R-So.,"Normal, Ill. / Normal Community H.S.",,,
-40,,31.0,Marcus Badgett,DB,6-0,190.0,R-Fr.,"Red Oak, Texas / Red Oak H.S.",Tyler JC,,
-41,,32.0,Nick Apsey,LB,6-1,221.0,Sr.,"Empire, Mich. / Glen Lake H.S.",,,
-42,,32.0,Ryan Peluso,P,5-9,155.0,R-So.,"Troy, Mich. / Troy H.S.",,,
-43,,33.0,Jayden Evans,TE,6-6,255.0,R-Fr.,"Eastvale, Calif / Roosevelt H.S.",,,
-44,,34.0,Alec Palella,TE,6-5,245.0,R-So.,"Bartlett, Ill. / Barlett H.S.",,,
-45,,34.0,Jonathan Tillman,DB,6-3,200.0,R-Fr.,"Birmingham, Mich. / Brother Rice H.S.",,,
-46,,36.0,Christian Brown,RB,5-11,190.0,R-So.,"Temperance, Mich. / Temperance Bedford H.S.",,,
-47,,38.0,Danny MacLean,DB,6-0,202.0,R-So.,"Bloomfield Twp., Mich. / Detroit Country Day",,,
-48,,39.0,Tyler DeWitt,RB,5-11,170.0,So.,"Comstock Park, Mich. / Comstock Park H.S.",,,
-49,,40.0,Lawai'a Brown,LB,6-0,222.0,R-So.,"Honolulu, Hawaii / Saint Louis H.S.",,,
-50,,42.0,Tristan Mattson,PK,6-2,170.0,Sr.,"Clarkston, Mich. / Clarkston H.S.",Arkansas State,,
-51,,44.0,Kade Kostus,DL,6-2,252.0,So.,"Rockford, Mich. / Rockford H.S.",,,
-52,,44.0,Nathan VanTimmeren,TE,6-4,220.0,Fr.,"Grand Rapids, Mich. / Grand Rapids Catholic Central H.S.",,,
-53,,45.0,Justin Whiteside,LB,6-0,213.0,Jr.,"Flossmoor, Ill. / Homewood-Flossmoor H.S.",,,
-54,,46.0,Cole Riddle,LB,5-11,224.0,R-So.,"Brighton, Mich. / Brighton H.S.",,,
-55,,47.0,Jack Tremblay,WR,6-0,185.0,R-Fr.,"Frankfort, Ill. / Lincoln-Way H.S.",,,
-56,,48.0,Cade Conley,TE,6-4,240.0,R-So.,"Williamston, MIch. / Williamston H.S.",,,
-57,,49.0,Keshawn Hayden,DL,6-3,230.0,Fr.,"St. Louis, Mo. / East St. Louis H.S.",,,
-58,,49.0,Germanuel Tanelis,,5-11,190.0,Fr.,"North Lauderdale, Fla. / Chaminade-Madonna H.S.",,,
-59,,51.0,Dylan Hertzberg,P,6-0,175.0,R-Fr.,"Grand Blanc, Mich. / Grand Blanc H.S.",,,
-60,,52.0,Dakota Cochran,LB,6-2,235.0,R-So.,"Shaker Heights, Ohio / Shaker Heights H.S.",,,
-61,,55.0,Ryan Blum,OL,6-3,295.0,Fr.,"Swartz Creek, Mich. / Swartz Creek H.S.",,,
-62,,55.0,Malik Denkins,DL,6-3,260.0,So.,"Cincinnati, Ohio / Woodward H.S.",Hocking College,,
-63,,56.0,Tyrece Woods Jr.,DL,6-2,275.0,R-Jr.,"Detroit, Mich. / Martin Luther King H.S.",Buffalo,,
-64,,57.0,Ugochukwo Ike,DL,6-4,215.0,Fr.,"Royal Oak, Mich. / Shrine Cathedral H.S.",,,
-65,,58.0,Lucas Dailey,OL,6-6,277.0,R-So.,"Holland, Mich. / Holland H.S.",,,
-66,,59.0,Brady Ploucha,OL,6-5,291.0,R-Fr.,"Allen Park, Mich. / Divine Child H.S.",,,
-67,,61.0,Payton Pyle,OL,6-6,275.0,R-Fr.,"Brighton, Mich. / Hartland H.S.",,,
-68,,63.0,Josh Rolston,PK,6-3,210.0,Jr.,"Eagle River, Alaska / Chugiak H.S.",,,
-69,,65.0,Deiyantei Powell-Woods,OL,6-5,300.0,Sr.,"Bluefield, W.V. / Bluefield H.S.",,,
-70,,67.0,Jonathan Decker,OL,6-5,289.0,R-So.,"Elkhart, Ind. / Elkhart Central H.S.",,,
-71,,68.0,Brayden Swartout,OL,6-7,296.0,Jr.,"Essexville, MIch. / Garber H.S.",,,
-72,,69.0,Alex Heininger,OL,6-4,286.0,So.,"Rochester, N.Y. / Brighton H.S.",,,
-73,,70.0,Trevor Jones,OL,6-4,280.0,Jr.,"Ypsilanti, Mich. / Lincoln H.S.",,,
-74,,70.0,Will Leggon,DL,6-3,290.0,R-So.,"Beverly Hills, Mich. / Detroit Country Day",Mount Union,,
-75,,71.0,Robi Stuart,DL,6-3,286.0,Gr.,"Saginaw, Mich. / Saginaw Nouvel Catholic Central",,,
-76,,72.0,Cade Klimczak,OL,6-1,285.0,Jr.,"Rockford, Mich. / Rockford H.S.",,,
-77,,73.0,Bruno Guberinich,OL,6-5,280.0,R-So.,"Novi, Mich. / Detroit Catholic Central H.S.",,,
-78,,74.0,John Burke,OL,6-4,305.0,Fr.,"Sault Ste. Marie, Mich. / Sault Area H.S.",,,
-79,,75.0,Davis Heinzen,OL,6-5,289.0,R-So.,"Manitowoc, Wis. / Manitowoc Lincoln H.S.",,,
-80,,76.0,Martin Koivisto,OL,6-7,300.0,R-Fr.,"Shakopee, Minn. / Shakopee H.S.",,,
-81,,77.0,Keegan Smith,OL,6-3,300.0,R-So.,"Jackson, Mich. / Jackson Lumen Christi H.S.",,,
-82,,78.0,Vashon Bailey,OL,6-7,317.0,Jr.,"Sunrise, Fla. / Somerset Academy",,,
-83,,79.0,Kyle Kloska,OL,6-3,280.0,R-Fr.,"Grand Rapids, Mich. / West Catholic H.S.",,,
-84,,80.0,Matteo Carriere,WR,6-0,175.0,R-Fr.,"Alpharetta, Ga. / Alpharetta H.S.",,,
-85,,81.0,Thomas Pannunzio,WR,5-9,170.0,Sr.,"Pueblo, Colo. / Pueblo South H.S.",Colorado State,,
-86,,82.0,Mitchel Collier,TE,6-3,227.0,R-So.,"Columbus, Ind. / Columbus North H.S.",,,
-87,,83.0,Shatavious Hogan,WR,6-3,205.0,Fr.,"Milledgeville, Ga. / Miami Jackson H.S. (Fla.)",,,
-88,,84.0,Kenny Brewer III,WR,6-0,201.0,Jr.,"Lansing, Mich. / Waverly H.S.",Valparaiso,,
-89,,86.0,Marcus Young,TE,6-4,251.0,R-So.,"Dexter, Mich. / Dexter H.S.",,,
-90,,88.0,Decorion Temple,TE,6-5,230.0,R-Fr.,"Ypsilanti, Mich. / Orchard Lake St. Mary's Prep",,,
-91,,89.0,Javon Gantt,WR,6-4,215.0,Jr.,"Jacksonville, Fla. / Westside H.S.",,,
-92,,90.0,Oumar Conde,DL,6-3,245.0,R-Fr.,"Bronx, N.Y. / Capital Prep H.S.",Myrtle Beach Collegiate,,
-93,,91.0,Jonah Pace,DL,6-5,255.0,R-So.,"Marengo, Ill. / Marengo H.S.",,,
-94,,92.0,Isaiah Rogers,DL,6-2,296.0,R-So.,"Sharon Hill, Pa. / Academy Park H.S.",,,
-95,,93.0,Grayson Curtis,LS,6-1,215.0,R-Fr.,"East Lansing, Mich. / Haslett H.S.",,,
-96,,94.0,Jason Williams,DL,6-2,293.0,Jr.,"Ocoee, Fla. / Ocoee H.S.",,,
-97,,96.0,Franklin Lama,LS,6-2,255.0,Sr.,"Madison Heights, Mich. / Bishop Foley H.S.",,,
-98,,97.0,Michael Heldman,DL,6-4,246.0,R-So.,"Romeo, Mich. / Romeo H.S.",,,
-99,,98.0,Deonte Bryant,DL,6-5,240.0,Jr.,"Minneapolis, Minn. / Hopkins H.S.",Iowa Central College,,
-100,,99.0,Quindario Lee,DL,6-5,294.0,R-So.,"McKenzie, Ala. / McKenzie H.S.",Fort Scott CC,,
-0,,,Jim McElwain,,,,,,,,Head Coach
-1,,,Robb Akey,,,,,,,,Defensive Coordinator
-2,,,Paul Petrino,,,,,,,,Offensive Coordinator/Wide Receivers
-3,,,Michael Zordich,,,,,,,,Assistant Head Coach/Defensive Backs
-4,,,Cornell Jackson,,,,,,,,Running Backs
-5,,,Keith Murphy,,,,,,,,Special Teams Coordinator/Safeties
-6,,,Tavita Thompson,,,,,,,,Run Game Coordinator/Offensive Line
-7,,,Ryan McNamara,,,,,,,,Linebackers
-8,,,Jesse Williams,,,,,,,,Defensive Line
-9,,,Brandon Torrey,,,,,,,,Tight Ends/Tackles
-10,,,Jake Kostner,,,,,,,,Quarterbacks
-11,,,Joel Welsh,,,,,,,,Director of Strength & Conditioning
-12,,,John Leister,,,,,,,,Director of Football Operations
-13,,,Jay McDowell,,,,,,,,Football Video Operations Coordinator
-14,,,Chris Calley,,,,,,,,Director of Player Personnel
-15,,,Michael McGee,,,,,,,,Director of Recruiting
-16,,,Da'Quaun Jamison,,,,,,,,Defensive Graduate Assistant
-17,,,Jack Bush,,,,,,,,Offensive Graduate Assistant
-18,,,Cody Crawford,,,,,,,,Staff Assistant
-19,,,Kumehnnu Gwilly,,,,,,,,Staff Assistant
-20,,,Danny Akey,,,,,,,,Student Assistant
-21,,,Nick Belay,,,,,,,,Student Assistant
-22,,,Brandon Hintz,,,,,,,,Student Assistant
-23,,,Ashley Jetzer,,,,,,,,Student Assistant - Video
-24,,,Zach Winter,,,,,,,,Student Assistant- Video
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Class,Hometown / High School,Current School Name,Previous School,Image,Title
+0,,0.0,Jalen McGaughy,WR,6-4,225.0,Jr.,"Detroit, Mich. / Martin Luther King H.S.",Central Michigan,Ball State,,
+1,,0.0,Maurice White,DL,6-5,280.0,R-So.,"Detroit, Mich. / Martin Luther King H.S.",Central Michigan,Memphis,,
+2,,3.0,Bert Emanuel Jr.,QB,6-3,210.0,R-Fr.,"Houston, Texas / Ridge Point H.S.",Central Michigan,,,
+3,,3.0,Trey Jones,DB,6-2,200.0,Jr.,"Wetumpka, Ala. / Wetumpka H.S.",Central Michigan,,,
+4,,4.0,Donte Kent,DB,5-11,185.0,Jr.,"Harrisburg, Pa. / Harrisburg H.S.",Central Michigan,,,
+5,,5.0,De'Javion Stepney,DB,6-0,182.0,R-So.,"Macomb, Mich. / Dakota H.S.",Central Michigan,,,
+6,,6.0,Lavario Wiley,DB,6-1,181.0,Jr.,"Los Angeles, Calif. / Banning H.S.",Central Michigan,Cerritos College,,
+7,,7.0,Ed Conoran,DB,5-10,180.0,R-Fr.,"Dover, N.J. / DePaul Catholic H.S.",Central Michigan,,,
+8,,8.0,Jarvarius Sims,DB,6-0,183.0,So.,"Decatur, Ga. / Martin Luther King H.S.",Central Michigan,Myrtle Beach Collegiate,,
+9,,9.0,Marion Lukes,RB,5-9,195.0,Jr.,"Charlestown, Ind. / Charlestown H.S.",Central Michigan,,,
+10,,10.0,"Stephan Bracey, Jr.",WR,5-10,185.0,Jr.,"Grand Rapids, Mich. / East Kentwood H.S.",Central Michigan,Wisconsin,,
+11,,10.0,Jacques Bristol,DL,6-1,300.0,Sr.,"Sarasota, Fla. / Booker H.S.",Central Michigan,,,
+12,,11.0,Bailey Smith,TE,6-1,220.0,Sr.,"Valencia, Calif. / Valencia H.S.",Central Michigan,,,
+13,,12.0,Jordan Kwiatkowski,LB,6-1,230.0,So.,"Sterling Heights, Mich. / Stevenson H.S.",Central Michigan,,,
+14,,12.0,Tyler Pape,QB,6-4,222.0,R-So.,"Spring Arbor, Mich. / Parma Western H.S.",Central Michigan,,,
+15,,13.0,Chris Parker,WR,6-3,195.0,R-So.,"Saginaw, Mich. / Heritage H.S.",Central Michigan,,,
+16,,13.0,Jake Walrath,P,6-4,200.0,Sr.,"Salado, Texas / Salada H.S.",Central Michigan,Tarleton State/Utah State,,
+17,,14.0,Fernando Sanchez III,LB,6-3,235.0,R-So.,"Loganville, Ga. / Grayson H..S.",Central Michigan,,,
+18,,15.0,Irone Jackson,WR,6-1,180.0,R-So.,"Bradenton, Fla. / Manatee H.S.",Central Michigan,,,
+19,,15.0,Caleb Spann,DB,6-0,191.0,R-So.,"New Orleans, La. / John Curtis Christian H.S.",Central Michigan,,,
+20,,16.0,Jase Bauer,QB,6-3,215.0,R-So.,"Ankeny, Iowa / Ankeny H.S.",Central Michigan,,,
+21,,16.0,Nahree Biggins,DB,6-1,195.0,R-So.,"Hillside, N.J. / Hillside H.S.",Central Michigan,,,
+22,,17.0,Jalen Handford,LB,6-0,233.0,R-Fr.,"Gurnee, Ill. / Warrren Township H.S.",Central Michigan,,,
+23,,17.0,Finn Hogan,WR,6-5,209.0,R-So.,"Maple City, MIch. / Glen Lake H.S.",Central Michigan,,,
+24,,18.0,Mark-Allen Gay,DB,6-0,180.0,Fr.,"Miami, Fla. / Miami Central H.S.",Central Michigan,,,
+25,,18.0,Jordyn Williams,WR,6-1,184.0,R-So.,"Albany, Ga. / Trinity Christian H.S.",Central Michigan,Jackson State,,
+26,,19.0,Tyson Davis,WR,5-10,175.0,R-So.,"Goodrich, Mich. / Goodrich H.S.",Central Michigan,,,
+27,,20.0,Langston Lewis,WR,6-0,192.0,R-Fr.,"Savannah, Ga. / Islands H.S.",Central Michigan,,,
+28,,20.0,Ke'Shon Parker,LB,6-1,225.0,Jr.,"Detroit, Mich. / Cass Technical H.S.",Central Michigan,,,
+29,,21.0,Elijah Rikard,DB,6-1,184.0,R-So.,"Detroit, Mich. / UD Jesuit H.S.",Central Michigan,,,
+30,,22.0,Kyle Moretti,LB,6-2,229.0,Jr.,"Arvada, Colo. / Pomona H.S.",Central Michigan,,,
+31,,23.0,Jake Tafelski,RB,6-0,214.0,R-So.,"Dearborn, Mich. / Dearborn H.S.",Central Michigan,,,
+32,,24.0,Kyle Krebs,DB,6-0,195.0,R-Fr.,"Denver, Colo. / Mullen H.S.",Central Michigan,,,
+33,,26.0,Myles Bailey,RB,5-10,206.0,Jr.,"North Brunswick, N.J. / North Brunswick Township H.S.",Central Michigan,,,
+34,,26.0,Jordan Kelly,WR,6-0,175.0,R-Fr.,"Beaumont, Texas / Mayde Creek H.S.",Central Michigan,,,
+35,,27.0,DeAnthony Becton,DB,5-11,185.0,R-So.,"Akron, Ohio / Akron East H.S.",Central Michigan,,,
+36,,27.0,Sam Hicks,WR,5-9,181.0,Jr.,"Fort Worth, Texas / Nolan Catholic H.S.",Central Michigan,Saddleback,,
+37,,28.0,Jesse Prewitt III,WR,6-0,170.0,Jr.,"Columbus, Ohio / Northland H.S.",Central Michigan,Wayne State,,
+38,,29.0,Jayden Davis,DB,6-0,202.0,Jr.,"Oakland, Calif. / Bishop O'Dowd H.S.",Central Michigan,Contra Costa CC,,
+39,,30.0,Ben Pratt,LS,6-0,225.0,R-So.,"Normal, Ill. / Normal Community H.S.",Central Michigan,,,
+40,,31.0,Marcus Badgett,DB,6-0,190.0,R-Fr.,"Red Oak, Texas / Red Oak H.S.",Central Michigan,Tyler JC,,
+41,,32.0,Nick Apsey,LB,6-1,221.0,Sr.,"Empire, Mich. / Glen Lake H.S.",Central Michigan,,,
+42,,32.0,Ryan Peluso,P,5-9,155.0,R-So.,"Troy, Mich. / Troy H.S.",Central Michigan,,,
+43,,33.0,Jayden Evans,TE,6-6,255.0,R-Fr.,"Eastvale, Calif / Roosevelt H.S.",Central Michigan,,,
+44,,34.0,Alec Palella,TE,6-5,245.0,R-So.,"Bartlett, Ill. / Barlett H.S.",Central Michigan,,,
+45,,34.0,Jonathan Tillman,DB,6-3,200.0,R-Fr.,"Birmingham, Mich. / Brother Rice H.S.",Central Michigan,,,
+46,,36.0,Christian Brown,RB,5-11,190.0,R-So.,"Temperance, Mich. / Temperance Bedford H.S.",Central Michigan,,,
+47,,38.0,Danny MacLean,DB,6-0,202.0,R-So.,"Bloomfield Twp., Mich. / Detroit Country Day",Central Michigan,,,
+48,,39.0,Tyler DeWitt,RB,5-11,170.0,So.,"Comstock Park, Mich. / Comstock Park H.S.",Central Michigan,,,
+49,,40.0,Lawai'a Brown,LB,6-0,222.0,R-So.,"Honolulu, Hawaii / Saint Louis H.S.",Central Michigan,,,
+50,,42.0,Tristan Mattson,PK,6-2,170.0,Sr.,"Clarkston, Mich. / Clarkston H.S.",Central Michigan,Arkansas State,,
+51,,44.0,Kade Kostus,DL,6-2,252.0,So.,"Rockford, Mich. / Rockford H.S.",Central Michigan,,,
+52,,44.0,Nathan VanTimmeren,TE,6-4,220.0,Fr.,"Grand Rapids, Mich. / Grand Rapids Catholic Central H.S.",Central Michigan,,,
+53,,45.0,Justin Whiteside,LB,6-0,213.0,Jr.,"Flossmoor, Ill. / Homewood-Flossmoor H.S.",Central Michigan,,,
+54,,46.0,Cole Riddle,LB,5-11,224.0,R-So.,"Brighton, Mich. / Brighton H.S.",Central Michigan,,,
+55,,46.0,Germanuel Tanelus,RB,5-11,190.0,Fr.,"North Lauderdale, Fla. / Fort Lauderdale H.S.",Central Michigan,,,
+56,,47.0,Jack Tremblay,WR,6-0,185.0,R-Fr.,"Frankfort, Ill. / Lincoln-Way H.S.",Central Michigan,,,
+57,,48.0,Cade Conley,TE,6-4,240.0,R-So.,"Williamston, MIch. / Williamston H.S.",Central Michigan,,,
+58,,49.0,Keshawn Hayden,DL,6-3,230.0,Fr.,"St. Louis, Mo. / East St. Louis H.S.",Central Michigan,,,
+59,,51.0,Dylan Hertzberg,P,6-0,175.0,R-Fr.,"Grand Blanc, Mich. / Grand Blanc H.S.",Central Michigan,,,
+60,,52.0,Dakota Cochran,LB,6-2,235.0,R-So.,"Shaker Heights, Ohio / Shaker Heights H.S.",Central Michigan,,,
+61,,55.0,Ryan Blum,OL,6-3,295.0,Fr.,"Chandler, Ariz. / Basha H.S.",Central Michigan,,,
+62,,55.0,Malik Denkins,DL,6-3,260.0,So.,"Cincinnati, Ohio / Woodward H.S.",Central Michigan,Hocking College,,
+63,,56.0,Tyrece Woods Jr.,DL,6-2,275.0,R-Jr.,"Detroit, Mich. / Martin Luther King H.S.",Central Michigan,Buffalo,,
+64,,58.0,Lucas Dailey,OL,6-6,277.0,R-So.,"Holland, Mich. / Holland H.S.",Central Michigan,,,
+65,,59.0,Brady Ploucha,OL,6-5,291.0,R-Fr.,"Allen Park, Mich. / Divine Child H.S.",Central Michigan,,,
+66,,61.0,Payton Pyle,OL,6-6,275.0,R-Fr.,"Brighton, Mich. / Hartland H.S.",Central Michigan,,,
+67,,63.0,Josh Rolston,PK,6-3,210.0,Jr.,"Eagle River, Alaska / Chugiak H.S.",Central Michigan,,,
+68,,65.0,Deiyantei Powell-Woods,OL,6-5,300.0,Sr.,"Bluefield, W.V. / Bluefield H.S.",Central Michigan,,,
+69,,67.0,Jonathan Decker,OL,6-5,289.0,R-So.,"Elkhart, Ind. / Elkhart Central H.S.",Central Michigan,,,
+70,,68.0,Brayden Swartout,OL,6-7,296.0,Jr.,"Essexville, MIch. / Garber H.S.",Central Michigan,,,
+71,,69.0,Alex Heininger,OL,6-4,286.0,So.,"Rochester, N.Y. / Brighton H.S.",Central Michigan,,,
+72,,70.0,Trevor Jones,OL,6-4,280.0,Jr.,"Ypsilanti, Mich. / Lincoln H.S.",Central Michigan,,,
+73,,70.0,Will Leggon,DL,6-3,290.0,R-So.,"Beverly Hills, Mich. / Detroit Country Day",Central Michigan,Mount Union,,
+74,,71.0,Robi Stuart,DL,6-3,286.0,Gr.,"Saginaw, Mich. / Saginaw Nouvel Catholic Central",Central Michigan,,,
+75,,72.0,Cade Klimczak,OL,6-1,285.0,Jr.,"Rockford, Mich. / Rockford H.S.",Central Michigan,,,
+76,,73.0,Bruno Guberinich,OL,6-5,280.0,R-So.,"Novi, Mich. / Detroit Catholic Central H.S.",Central Michigan,,,
+77,,74.0,John Burke,OL,6-4,305.0,Fr.,"Sault Ste. Marie, Mich. / Sault Area H.S.",Central Michigan,,,
+78,,75.0,Davis Heinzen,OL,6-5,289.0,R-So.,"Manitowoc, Wis. / Manitowoc Lincoln H.S.",Central Michigan,,,
+79,,76.0,Martin Koivisto,OL,6-7,300.0,R-Fr.,"Shakopee, Minn. / Shakopee H.S.",Central Michigan,,,
+80,,77.0,Keegan Smith,OL,6-3,300.0,R-So.,"Jackson, Mich. / Jackson Lumen Christi H.S.",Central Michigan,,,
+81,,78.0,Vashon Bailey,OL,6-7,317.0,Jr.,"Sunrise, Fla. / Somerset Academy",Central Michigan,,,
+82,,79.0,Kyle Kloska,OL,6-3,280.0,R-Fr.,"Grand Rapids, Mich. / West Catholic H.S.",Central Michigan,,,
+83,,80.0,Matteo Carriere,WR,6-0,175.0,R-Fr.,"Alpharetta, Ga. / Alpharetta H.S.",Central Michigan,,,
+84,,81.0,Thomas Pannunzio,WR,5-9,170.0,Sr.,"Pueblo, Colo. / Pueblo South H.S.",Central Michigan,Colorado State,,
+85,,82.0,Mitchel Collier,TE,6-3,227.0,R-So.,"Columbus, Ind. / Columbus North H.S.",Central Michigan,,,
+86,,83.0,Shatavious Hogan,WR,6-3,205.0,Fr.,"Milledgeville, Ga. / Miami Jackson H.S. (Fla.)",Central Michigan,,,
+87,,84.0,Kenny Brewer III,WR,6-0,201.0,Jr.,"Lansing, Mich. / Waverly H.S.",Central Michigan,Valparaiso,,
+88,,86.0,Marcus Young,TE,6-4,251.0,R-So.,"Dexter, Mich. / Dexter H.S.",Central Michigan,,,
+89,,88.0,Decorion Temple,TE,6-5,230.0,R-Fr.,"Ypsilanti, Mich. / Orchard Lake St. Mary's Prep",Central Michigan,,,
+90,,89.0,Javon Gantt,WR,6-4,215.0,Jr.,"Jacksonville, Fla. / Westside H.S.",Central Michigan,,,
+91,,90.0,Oumar Conde,DL,6-3,245.0,R-Fr.,"Bronx, N.Y. / Capital Prep H.S.",Central Michigan,Myrtle Beach Collegiate,,
+92,,91.0,Jonah Pace,DL,6-5,255.0,R-So.,"Marengo, Ill. / Marengo H.S.",Central Michigan,,,
+93,,93.0,Grayson Curtis,LS,6-1,215.0,R-Fr.,"East Lansing, Mich. / Haslett H.S.",Central Michigan,,,
+94,,94.0,Jason Williams,DL,6-2,293.0,Jr.,"Ocoee, Fla. / Ocoee H.S.",Central Michigan,,,
+95,,96.0,Franklin Lama,LS,6-2,255.0,Sr.,"Madison Heights, Mich. / Bishop Foley H.S.",Central Michigan,,,
+96,,97.0,Michael Heldman,DL,6-4,246.0,R-So.,"Romeo, Mich. / Romeo H.S.",Central Michigan,,,
+97,,98.0,Deonte Bryant,DL,6-5,240.0,Jr.,"Minneapolis, Minn. / Hopkins H.S.",Central Michigan,Iowa Central College,,
+98,,99.0,Quindario Lee,DL,6-5,294.0,R-So.,"McKenzie, Ala. / McKenzie H.S.",Central Michigan,Fort Scott CC,,
+0,,,Jim McElwain,,,,,,Central Michigan,,,Head Coach
+1,,,Robb Akey,,,,,,Central Michigan,,,Defensive Coordinator
+2,,,Paul Petrino,,,,,,Central Michigan,,,Offensive Coordinator/Wide Receivers
+3,,,Michael Zordich,,,,,,Central Michigan,,,Assistant Head Coach/Defensive Backs
+4,,,Cornell Jackson,,,,,,Central Michigan,,,Running Backs
+5,,,Keith Murphy,,,,,,Central Michigan,,,Special Teams Coordinator/Safeties
+6,,,Tavita Thompson,,,,,,Central Michigan,,,Run Game Coordinator/Offensive Line
+7,,,Ryan McNamara,,,,,,Central Michigan,,,Linebackers
+8,,,Jesse Williams,,,,,,Central Michigan,,,Defensive Line
+9,,,Brandon Torrey,,,,,,Central Michigan,,,Tight Ends/Tackles
+10,,,Jake Kostner,,,,,,Central Michigan,,,Quarterbacks
+11,,,Joel Welsh,,,,,,Central Michigan,,,Director of Strength & Conditioning
+12,,,John Leister,,,,,,Central Michigan,,,Director of Football Operations
+13,,,Jay McDowell,,,,,,Central Michigan,,,Football Video Operations Coordinator
+14,,,Chris Calley,,,,,,Central Michigan,,,Director of Player Personnel
+15,,,Michael McGee,,,,,,Central Michigan,,,Director of Recruiting
+16,,,Mark DeBastiani,,,,,,Central Michigan,,,Senior Director/Football Relations & Student-Athlete Engagement
+17,,,Nate Mason,,,,,,Central Michigan,,,Coordinator/Athletic Equipment Operations
+18,,,Da'Quaun Jamison,,,,,,Central Michigan,,,Defensive Graduate Assistant
+19,,,Jack Bush,,,,,,Central Michigan,,,Offensive Graduate Assistant
+20,,,Cody Crawford,,,,,,Central Michigan,,,Staff Assistant
+21,,,Kumehnnu Gwilly,,,,,,Central Michigan,,,Staff Assistant
+22,,,Danny Akey,,,,,,Central Michigan,,,Student Assistant
+23,,,Nick Belay,,,,,,Central Michigan,,,Student Assistant
+24,,,Brandon Hintz,,,,,,Central Michigan,,,Student Assistant
+25,,,Ashley Jetzer,,,,,,Central Michigan,,,Student Assistant - Video
+26,,,Danny Motowski,,,,,,Central Michigan,,,Student Assistant
+27,,,Zach Winter,,,,,,Central Michigan,,,Student Assistant- Video

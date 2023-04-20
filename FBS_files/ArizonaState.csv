@@ -1,145 +1,147 @@
-,Statistic,#,Full Name,Ht.,Wt.,Pos.,Academic Year,Hometown / High School,Previous School,Image,Name,Title
-0,,0.0,"Johnson, Isaiah",6-1,190.0,DB,R-So.,"Blue Spring, W.V. / St. Bernard",,,,
-1,,0.0,"Stovall, Melquan",5-9,185.0,WR,Gr.,"Lancaster, Calif. / Junipero Serra",Nevada / Colorado State,,,
-2,,1.0,"Abney, Keith",6-0,183.0,DB,Fr.,"Waxahachie, Texas / Waxahachie",,,,
-3,,1.0,"Clark, Jordan",5-10,185.0,DB,R-Sr.,"Baton Rouge, La. / University Lab",,,,
-4,,1.0,"Cox, Josiah",6-2,180.0,DB,Fr.,"San Diego, Calif. / Lincoln",,,,
-5,,1.0,"Guillory, Xavier",6-2,195.0,WR,R-Jr.,"Spokane, Wash. / Lewis and Clark",Idaho State,,,
-6,,1.0,"Omeire, Troy",6-3,213.0,WR,R-Jr.,"Sugar Land, Texas / Fort Bend Austin",Texas,,,
-7,,2.0,"Badger, Elijhah",6-2,190.0,WR,R-Jr.,"Sacramento, Calif. / Folsom",,,,
-8,,2.0,"Black, Kaleb",5-9,165.0,WR,Fr.,"Spring, Texas / Klein Oak",,,,
-9,,4.0,"Skattebo, Cameron",5-10,222.0,RB,Jr.,"Rio Linda, Calif. / Rio Linda",Sacramento State,,,
-10,,5.0,"Alford, Xavion",6-0,190.0,DB,R-Jr.,"Pearland, Texas / Shadow Creek",Texas / USC,,,
-11,,5.0,"Edmonds, Chris",6-2,215.0,DB,Sr.,"Phenix City, Ala. / Brookstone",Samford,,,
-12,,5.0,"Rashada, Jaden",6-4,185.0,QB,Fr.,"Pittsburg, Calif. / Pittsburg",,,,
-13,,5.0,"Russ, Shawn",6-3,185.0,DB,Fr.,"Fort Myers, Fla. / Dunbar",,,,
-14,,6.0,"Thunderbird, K'Vion",6-1,215.0,LB,Fr.,"Chicago, Ill. / Kenwood Academy",,,,
-15,,6.0,"Williams, Macen",5-11,190.0,DB,R-Jr.,"Carson, Calif. / Narbonne",,,,
-16,,7.0,"Meredith, Bennett",6-3,195.0,QB,R-Fr.,"Hoover, Ala. / Hoover",,,,
-17,,7.0,"Warren, Montana",6-3,180.0,DB,Fr.,"Marshall, Texas / Marshall",,,,
-18,,8.0,"Jacobs, Javen",5-10,190.0,WR,So.,"Chandler, Ariz. / Saguaro",,,,
-19,,8.0,"Simmons, Shamari",6-0,180.0,DB,R-Sr.,"Ashland, Ala. / Clay Central",Hutchinson CC / Austin Peay,,,
-20,,9.0,"O'Neal, Elijah",6-4,245.0,DL,Jr.,"Renton, Wash. / Hazen",Butte College,,,
-21,,9.0,"Torrence, Ro",6-3,210.0,DB,R-Jr.,"Bessemer, Ala. / Bessemer City",Auburn / Hutchinson CC,,,
-22,,10.0,"Pyne, Drew",6-0,194.0,QB,R-So.,"New Canaan, Conn. / New Canaan",Notre Dame,,,
-23,,10.0,"Woods, Ed",6-0,180.0,DB,R-Jr.,"Oakland, Calif. / McClymonds",,,,
-24,,11.0,"Hendrix, Korbin",6-3,180.0,WR,Fr.,"McKinney, Texas / McKinney North",,,,
-25,,12.0,"Conyers, Jalin",6-4,265.0,TE,R-Jr.,"Gruver, Texas / Gruver",Oklahoma,,,
-26,,13.0,"Lawson, Lenox",5-10,172.0,DB,Fr.,"Mesa, Ariz. / Red Mountain",,,,
-27,,13.0,"Pierre, Bryce",6-5,255.0,TE,R-Sr.,"Rancho Cucamonga, Calif. / Rancho Cucamonga",Mt. SAC,,,
-28,,14.0,"Freeman, Zeek",5-11,190.0,WR,Sr.,"Grand Prairie, Texas / Arlington Bowie",Kilgore College,,,
-29,,15.0,"McLemore, Daylin",6-3,200.0,QB,R-Jr.,"San Mateo, Calif. / Junipero Serra",,,,
-30,,16.0,"Bourguet, Trenton",5-11,185.0,QB,R-Sr.,"Tucson, Ariz. / Marana",,,,
-31,,17.0,"Benjamin, Sam",6-5,255.0,DL,R-Fr.,"Oro Valley, Ariz. / Ironwood Ridge",Idaho State,,,
-32,,17.0,"Conover, Jacob",6-0,213.0,QB,R-So.,"Chandler, Ariz. / Chandler",BYU,,,
-33,,17.0,"Johnson Jr. , Chad",6-2,185.0,WR,R-Jr.,"Los Angeles, Calif. / Cathedral",,,,
-34,,18.0,"Williams II, Patrick",6-5,200.0,WR,R-Fr.,"Monroe, La. / Wossman",,,,
-35,,19.0,"Bradley, Keontez",6-1,172.0,DB,Fr.,"Mansfield, Ohio / Mansfield Senior",,,,
-36,,19.0,"Clark, Max",5-11,170.0,QB,R-Fr.,"Boise, Idaho / Capital",,,,
-37,,20.0,"Sanders, Giovanni",6-0,185.0,WR,Gr.,"Murrieta, Calif. / Murrieta Mesa",Utah Tech/Riverside City College,,,
-38,,20.0,"Smith, Clayton",6-4,245.0,DL,R-So.,"Queen City, Texas / Texas High",Oklahoma,,,
-39,,21.0,"Regan, RJ",5-11,180.0,DB,Jr.,"Lakewood, Calif. / Orange Lutheran",,,,
-40,,22.0,"McCullough, Caleb",6-2,215.0,LB,R-Jr.,"Oxnard, Calif. / Pacifica",,,,
-41,,23.0,"Johnson, Donovan",5-11,180.0,DB,R-Fr.,"East Atlanta, Ga. / Cedar Grove",,,,
-42,,24.0,"Harts, Willie",5-11,180.0,DB,R-Sr.,"Pittsburg, Calif. / Pittsburg Senior",,,,
-43,,25.0,"Brooks, DeCarlos",5-10,210.0,RB,R-Jr.,"Chandler, Ariz. / Chandler",California,,,
-44,,25.0,"Luckett, Tarik",6-2,205.0,DB,Sr.,"Compton, Calif. / JSerra Catholic",Colorado / Cisco CC,,,
-45,,28.0,"Shaffer, Will",6-0,235.0,LB,R-Jr.,"Tempe, Ariz. / Saguaro",,,,
-46,,28.0,"White, Tevin",6-1,210.0,RB,So.,"Stafford, Va. / North Stafford",,,,
-47,,29.0,"Douglass, Bryce",5-11,175.0,RB,R-Fr.,"Tempe, Ariz. / Corona Del Sol",,,,
-48,,29.0,"Taylor, Alphonso",6-0,200.0,DB,R-Jr.,"Phoenix, Ariz. / North Canyon",Southeastern Louisiana / Utah,,,
-49,,30.0,"Longhetto, Dario",6-0,185.0,PK,Gr.,"Newbury Park, Calif. / Newbury Park",California,,,
-50,,31.0,"Boyd III, Jean",6-0,190.0,DB,R-Jr.,"Tempe, Arizona / Corona del Sol",,,,
-51,,32.0,"Allen, Charlie",6-1,190.0,LB,R-So.,"Novato, Calif. / Marin Catholic",,,,
-52,,32.0,"Dorbah, Prince",6-2,229.0,DL,R-Jr.,"Dallas, Texas / Highland Park",Texas,,,
-53,,32.0,"Romney, Tate",6-3,220.0,LB,R-Fr.,"Chandler, Ariz. / Chandler",BYU,,,
-54,,35.0,"Carlson, Josh",6-0,185.0,P,Gr.,"Gilbert, Ariz. / Gilbert",Utah Tech / New Mexico State,,,
-55,,35.0,"Green, B.J.",6-1,275.0,DL,Jr.,"Atlanta, Ga. / McEachern",,,,
-56,,36.0,"Gammage, Alijah",5-11,185.0,DB,R-Sr.,"Tempe, Ariz. / Desert Vista",,,,
-57,,36.0,"Williams, Ashley",6-5,225.0,DL,Fr.,"Zachary, La. / Zachary",,,,
-58,,37.0,"Green Jr., Saadite",5-11,185.0,DB,R-Fr.,"Paramount, Calif. / Inglewood",,,,
-59,,37.0,"Jackson, Krew",6-5,204.0,LB,R-So.,"Queen Creek, Ariz. / Queen Creek",Kansas State,,,
-60,,38.0,"Williamson, Damon",6-1,195.0,DB,Sr.,"Lake Charles, La. / Chaparral",University of Mary,,,
-61,,39.0,"Babb, Adam",6-1,190.0,P,R-So.,"Dubai, UAE / Las Vegas, Nev. / Faith Lutheran",,,,
-62,,39.0,"Hart, George",5-11,215.0,RB,Jr.,"Baton Rouge, La. / Catholic",,,,
-63,,41.0,"Bowers, Zach",5-11,230.0,LB,R-Sr.,"Chandler, Ariz. / Chandler",Hawai'i,,,
-64,,43.0,"Thomas, Landen",6-3,260.0,DL,Fr.,"Zachary, La. / Zachary",,,,
-65,,45.0,"Zellers, Slater",6-1,235.0,LS,Gr.,"Scottsdale, Ariz. / Notre Dame",California,,,
-66,,47.0,"Mahlum, Race",6-2,195.0,P,R-Jr.,"Huntington Beach, Calif. / Mater Dei",Oregon,,,
-67,,48.0,"McKelligon, Spencer",6-2,205.0,LB,R-Fr.,"Portland, Ore. / Jesuit",,,,
-68,,51.0,"DeVito, Dylan",5-11,230.0,LB,R-So.,"Los Angeles, California / Oaks Christian",,,,
-69,,52.0,"Jornadal, Jacob",5-11,215.0,LB,R-Jr.,"Bellflower, Calif. / St. John Bosco",,,,
-70,,53.0,"Niclasse, Fritzny",5-11,230.0,LB,R-Jr.,"Queen Creek, Ariz. / Queen Creek",,,,
-71,,55.0,"Valenzuela, Danny",6-3,285.0,OL,R-So.,Simi Valley / Grace Brethren,College of the Canyons,,,
-72,,56.0,"Ortiz, Matteo",6-3,275.0,OL,R-Jr.,"Chandler, Ariz. / Seton Catholic",Gila River,,,
-73,,57.0,"Scott, Kyle",6-5,300.0,OL,Jr.,"Lake Elsinore, Calif. / Temescal Canyon",Riverside CC,,,
-74,,58.0,"Fite, C.J.",6-1,282.0,DL,Fr.,"Tatum, Texas / Tatum",,,,
-75,,62.0,"Coleman, Ben",6-4,323.0,OL,Gr.,"Temecula, Calif. / Linfield Christian",Cal,,,
-76,,62.0,"Katergaris, Matt",6-2,275.0,OL,R-Fr.,"Scottsdale, Ariz. / Desert Mountain",,,,
-77,,63.0,"Kandiyeli, Sirri",6-3,265.0,OL,Fr.,"Mesa, Ariz. / Mountain View",,,,
-78,,64.0,"Bray, Ben",6-4,295.0,OL,R-Jr.,"Mesa, Ariz. / Red Mountain",,,,
-79,,65.0,"Frost, Aaron",6-5,306.0,OL,Gr.,"Long Beach, Calif. / Long Beach Poly",Nevada,,,
-80,,66.0,"Djonkam, James",6-3,245.0,LB,Jr.,"Springfield, Va. / West Springfield",Independence CC,,,
-81,,69.0,"Ramos, Joey",6-5,305.0,OL,R-Sr.,"Phoenix, Ariz. / Deer Valley",Iowa State,,,
-82,,70.0,"Bohle, Emmit",6-6,290.0,OL,Gr.,"Selby, S.D. / Selby Area",Northern State,,,
-83,,71.0,"Barry, Austin",6-5,295.0,OL,R-So.,"Moreno Valley, Calif. / John W. North",,,,
-84,,71.0,"Iheanachor, Max",6-5,319.0,OL,Jr.,"Los Angeles, Calif. / King Drew Medical",East Los Angeles College,,,
-85,,72.0,"Walden, Bram",6-5,302.0,OL,R-So.,"Scottsdale, Ariz. / Saguaro",Oregon,,,
-86,,73.0,"Glass, Isaia",6-5,295.0,OL,Jr.,"San Tan Valley, Ariz. / Queen Creek",,,,
-87,,74.0,"Na'a, Sean",6-4,275.0,OL,Fr.,"Inglewood, Calif. / St. John Bosco",,,,
-88,,76.0,"Le Boucher, Thomas",6-4,310.0,OL,R-Sr.,"Saint-Augustin de Desmaures, Quebec / Campus Notre-Dame de Foy",Independence CC,,,
-89,,79.0,"Fautanu, Leif",6-2,305.0,OL,R-Jr.,"Honolulu, Hawai’i / University Laboratory",UNLV,,,
-90,,80.0,"Swinson, Messiah",6-8,255.0,TE,R-Sr.,"Bay Shore, N.Y. / Lutheran",Missouri,,,
-91,,81.0,"Charles, Shawn",5-11,190.0,WR,R-Sr.,"Phoenix, Ariz. / Camelback",NAU / Garden City CC,,,
-92,,82.0,"Brown, Travion",6-3,230.0,LB,Gr.,"Moreno Valley, Calif. / Linfield Christian",Washington State,,,
-93,,82.0,"Johnson, Andre",6-3,210.0,WR,R-Sr.,"Avondale, Ariz. / Tolleson Union",,,,
-94,,82.0,"Smith, Jake",6-0,200.0,WR,R-Jr.,"Scottsdale, Ariz. / Notre Dame",Texas / USC,,,
-95,,83.0,"Wallace, Cooper",6-1,165.0,WR,R-So.,"Oak Park, Calif. / Simi Valley",,,,
-96,,84.0,"Cole, Jack",6-5,190.0,TE,R-Fr.,"Woodlands, Texas / Woodlands Christian",,,,
-97,,85.0,"Morgan, Ryan",6-3,260.0,TE/H,R-Jr.,"Lompoc, California / Lompoc",,,,
-98,,87.0,"Garvin, Colby",6-5,250.0,TE,R-So.,"Queen Creek, Ariz. / Queen Creek",Utah Tech,,,
-99,,87.0,"Ware, Max",6-1,185.0,WR,R-So.,"Phoenix, Ariz. / Brophy",,,,
-100,,88.0,"Bourguet, Coben",6-0,200.0,WR,R-So.,"Tucson, Ariz. / Salpointe",,,,
-101,,88.0,"Newell, Jacob",6-4,240.0,TE,R-Fr.,"Springfield, Ore. / Thurston",,,,
-102,,89.0,"Hart, Josh",6-0,205.0,WR,R-Jr.,"Tucson, Ariz. / Salpointe",,,,
-103,,90.0,"McElroy, Brandon",6-5,310.0,DL,R-Jr.,"Pasadena, Calif. / John Muir",Glendale CC,,,
-104,,91.0,"Matus, Michael",6-2,260.0,DE,Gr.,"Katy, Texas / Katy",,,,
-105,,91.0,"Monday, Tristan",6-4,276.0,DL,R-Fr.,"Scottsdale, Ariz. / Saguaro",Wisconsin,,,
-106,,93.0,"Harrison, Robby",6-4,325.0,DL,R-Fr.,"Greenwood, S.C. / Emerald",,,,
-107,,94.0,"Hall, Dylan",6-5,255.0,DL,R-Sr.,"Lancaster, Calif. / Antelope Valley",Boise State/Antelope Valley College,,,
-108,,95.0,"Pola-Mao, Matthew",6-2,340.0,DL,R-Jr.,"Chandler, Ariz. / Chandler",Kansas State,,,
-109,,96.0,"Cooper, Anthonie",6-2,275.0,DL,R-Sr.,"Glendale, Ariz. / Millennium",,,,
-110,,97.0,"Lono-Wong, Blazen",6-4,270.0,DL,R-Fr.,"Waimanalo, Hawaii / Kailua",,,,
-111,,98.0,"Rivera-Harvey, Jalil",6-2,310.0,DL,Jr.,"Buffalo, N.Y. / Cedar Hill",East Los Angeles College,,,
-112,,99.0,"Stansbury, Gharin",6-6,245.0,DL,R-So.,"Centerville, La. / Franklin Senior",,,,
-113,,,"North, Jarrett",5-11,180.0,K,R-Fr.,"Agoura Hills, Calif. / Simi Valley",Washington,,,
-0,,,,,,,,,,,Kenny Dillingham,Head Coach
-1,,,,,,,,,,,Matt Butterfield,Chief of Staff/Senior Coaching Advisor/Pro Liaison
-2,,,,,,,,,,,Charlie Ragle,Assistant Head Coach/Special Teams Coordinator
-3,,,,,,,,,,,Beau Baldwin,Offensive Coordinator/Quarterbacks
-4,,,,,,,,,,,Brian Ward,Defensive Coordinator
-5,,,,,,,,,,,Ra'Shaad Samples,Assistant Coach - Wide Receivers/Passing Game Coordinator
-6,,,,,,,,,,,Shaun Aguano,Assistant Coach - Running Backs
-7,,,,,,,,,,,Saga Tuitele,Assistant Coach - Offensive Line
-8,,,,,,,,,,,A.J. Cooper,Assistant Coach - Linebackers
-9,,,,,,,,,,,Bryan Carrington,Assistant Coach - Cornerbacks
-10,,,,,,,,,,,Vince Amey,Assistant Coach - Defensive Line
-11,,,,,,,,,,,Jason Mohns,Assistant Coach - Tight Ends
-0,,,,,,,,,,,Bobby Wade,Analyst - Offense
-1,,,,,,,,,,,Joey Muscarella,Analyst - Offense
-2,,,,,,,,,,,Marvin Lewis,Special Advisor
-3,,,,,,,,,,,Trent Greene,Analyst - Defense
-4,,,,,,,,,,,Max Silver,Analyst - Defense
-5,,,,,,,,,,,Pierre Cormier,Analyst - Special Teams
-6,,,,,,,,,,,Steve Miller,Graduate Assistant - Offense
-7,,,,,,,,,,,Ryan Jenkins,Graduate Assistant - Offense
-8,,,,,,,,,,,Ray Clark,Graduate Assistant - Defense
-9,,,,,,,,,,,Jordan Lee,Graduate Assistant - Defense
-10,,,,,,,,,,,Tony DeFeo,Associate Athletic Director for Football Administration
-11,,,,,,,,,,,Bryan McGinnis,Director of Football Operations
-12,,,,,,,,,,,D.J. Foster,Manager of Player Development
-13,,,,,,,,,,,Isaiah Williams,Director of Recruiting Strategy
-14,,,,,,,,,,,Joe Connolly,Head Coach - Football Sports Performance
-15,,,,,,,,,,,Clayton Kirven,Assistant Head Coach - Football Sports Performance
-16,,,,,,,,,,,Colbert Calhoun,Assistant Director - Football Sports Performance
-17,,,,,,,,,,,Allie Ueckert,On-Campus Recruiting Manager
+,Statistic,#,Full Name,Ht.,Wt.,Pos.,Academic Year,Hometown / High School,Current School Name,Previous School,Image,Name,Title
+0,,0.0,"Johnson, Isaiah",6-1,190.0,DB,R-So.,"Blue Spring, W.V. / St. Bernard",Arizona State,,,,
+1,,1.0,"Abney, Keith",6-0,183.0,DB,Fr.,"Waxahachie, Texas / Waxahachie",Arizona State,,,,
+2,,1.0,"Clark, Jordan",5-10,185.0,DB,R-Sr.,"Baton Rouge, La. / University Lab",Arizona State,,,,
+3,,1.0,"Guillory, Xavier",6-2,195.0,WR,R-Jr.,"Spokane, Wash. / Lewis and Clark",Arizona State,Idaho State,,,
+4,,2.0,"Alford, Xavion",6-0,190.0,DB,R-Jr.,"Pearland, Texas / Shadow Creek",Arizona State,Texas / USC,,,
+5,,2.0,"Badger, Elijhah",6-2,190.0,WR,R-Jr.,"Sacramento, Calif. / Folsom",Arizona State,,,,
+6,,2.0,"Black, Kaleb",5-9,165.0,WR,Fr.,"Spring, Texas / Klein Oak",Arizona State,,,,
+7,,3.0,"Smith, Clayton",6-4,245.0,DL,R-So.,"Queen City, Texas / Texas High",Arizona State,Oklahoma,,,
+8,,3.0,"Smith, Jake",6-0,200.0,WR,R-Jr.,"Scottsdale, Ariz. / Notre Dame",Arizona State,Texas / USC,,,
+9,,4.0,"Harrison, Robby",6-4,325.0,DL,R-Fr.,"Greenwood, S.C. / Emerald",Arizona State,,,,
+10,,4.0,"Skattebo, Cameron",5-10,222.0,RB,Jr.,"Rio Linda, Calif. / Rio Linda",Arizona State,Sacramento State,,,
+11,,5.0,"Edmonds, Chris",6-2,215.0,DB,Sr.,"Phenix City, Ala. / Brookstone",Arizona State,Samford,,,
+12,,5.0,"Rashada, Jaden",6-4,185.0,QB,Fr.,"Pittsburg, Calif. / Pittsburg",Arizona State,,,,
+13,,5.0,"Russ, Shawn",6-3,185.0,DB,Fr.,"Fort Myers, Fla. / Dunbar",Arizona State,,,,
+14,,6.0,"Meredith, Bennett",6-3,195.0,QB,R-Fr.,"Hoover, Ala. / Hoover",Arizona State,,,,
+15,,6.0,"Thunderbird, K'Vion",6-1,215.0,LB,Fr.,"Chicago, Ill. / Kenwood Academy",Arizona State,,,,
+16,,6.0,"Williams, Macen",5-11,190.0,DB,R-Jr.,"Carson, Calif. / Narbonne",Arizona State,,,,
+17,,7.0,"Simmons, Shamari",6-0,180.0,DB,R-Sr.,"Ashland, Ala. / Clay Central",Arizona State,Hutchinson CC / Austin Peay,,,
+18,,8.0,"Jacobs, Javen",5-10,190.0,WR,So.,"Chandler, Ariz. / Saguaro",Arizona State,,,,
+19,,8.0,"Shaffer, Will",6-0,235.0,LB,R-Jr.,"Tempe, Ariz. / Saguaro",Arizona State,,,,
+20,,9.0,"Omeire, Troy",6-3,213.0,WR,R-Jr.,"Sugar Land, Texas / Fort Bend Austin",Arizona State,Texas,,,
+21,,9.0,"Torrence, Ro",6-3,210.0,DB,R-Jr.,"Bessemer, Ala. / Bessemer City",Arizona State,Auburn / Hutchinson CC,,,
+22,,10.0,"Pyne, Drew",6-0,194.0,QB,R-So.,"New Canaan, Conn. / New Canaan",Arizona State,Notre Dame,,,
+23,,10.0,"Woods, Ed",6-0,180.0,DB,R-Jr.,"Oakland, Calif. / McClymonds",Arizona State,,,,
+24,,11.0,"Hendrix, Korbin",6-3,180.0,WR,Fr.,"McKinney, Texas / McKinney North",Arizona State,,,,
+25,,12.0,"Conyers, Jalin",6-4,265.0,TE,R-Jr.,"Gruver, Texas / Gruver",Arizona State,Oklahoma,,,
+26,,13.0,"Cox, Josiah",6-2,180.0,DB,Fr.,"San Diego, Calif. / Lincoln",Arizona State,,,,
+27,,13.0,"Lawson, Lenox",5-10,172.0,DB,Fr.,"Mesa, Ariz. / Red Mountain",Arizona State,,,,
+28,,13.0,"Pierre, Bryce",6-5,255.0,TE,R-Sr.,"Rancho Cucamonga, Calif. / Rancho Cucamonga",Arizona State,Mt. SAC,,,
+29,,14.0,"Freeman, Zeek",5-11,190.0,WR,Sr.,"Grand Prairie, Texas / Arlington Bowie",Arizona State,Kilgore College,,,
+30,,15.0,"Conover, Jacob",6-0,213.0,QB,R-So.,"Chandler, Ariz. / Chandler",Arizona State,BYU,,,
+31,,15.0,"McLemore, Daylin",6-3,200.0,QB,R-Jr.,"San Mateo, Calif. / Junipero Serra",Arizona State,,,,
+32,,15.0,"O'Neal, Elijah",6-4,245.0,DL,Jr.,"Renton, Wash. / Hazen",Arizona State,Butte College,,,
+33,,16.0,"Bourguet, Trenton",5-11,185.0,QB,R-Sr.,"Tucson, Ariz. / Marana",Arizona State,,,,
+34,,17.0,"Benjamin, Sam",6-5,255.0,DL,R-Fr.,"Oro Valley, Ariz. / Ironwood Ridge",Arizona State,Idaho State,,,
+35,,17.0,"Johnson Jr. , Chad",6-2,185.0,WR,R-Jr.,"Los Angeles, Calif. / Cathedral",Arizona State,,,,
+36,,17.0,"Williams, Ashley",6-5,225.0,DL,Fr.,"Zachary, La. / Zachary",Arizona State,,,,
+37,,18.0,"Warren, Montana",6-3,180.0,DB,Fr.,"Marshall, Texas / Marshall",Arizona State,,,,
+38,,18.0,"Williams II, Patrick",6-5,200.0,WR,R-Fr.,"Monroe, La. / Wossman",Arizona State,,,,
+39,,19.0,"Bradley, Keontez",6-1,172.0,DB,Fr.,"Mansfield, Ohio / Mansfield Senior",Arizona State,,,,
+40,,19.0,"Clark, Max",5-11,170.0,QB,R-Fr.,"Boise, Idaho / Capital",Arizona State,,,,
+41,,20.0,"Sanders, Giovanni",6-0,185.0,WR,Gr.,"Murrieta, Calif. / Murrieta Mesa",Arizona State,Utah Tech/Riverside City College,,,
+42,,21.0,"Regan, RJ",5-11,180.0,DB,Jr.,"Lakewood, Calif. / Orange Lutheran",Arizona State,,,,
+43,,22.0,"McCullough, Caleb",6-2,215.0,LB,R-Jr.,"Oxnard, Calif. / Pacifica",Arizona State,,,,
+44,,22.0,"Stovall, Melquan",5-9,185.0,WR,Gr.,"Lancaster, Calif. / Junipero Serra",Arizona State,Nevada / Colorado State,,,
+45,,23.0,"Johnson, Donovan",5-11,180.0,DB,R-Fr.,"East Atlanta, Ga. / Cedar Grove",Arizona State,,,,
+46,,24.0,"Harts, Willie",5-11,180.0,DB,R-Sr.,"Pittsburg, Calif. / Pittsburg Senior",Arizona State,,,,
+47,,25.0,"Brooks, DeCarlos",5-10,210.0,RB,R-Jr.,"Chandler, Ariz. / Chandler",Arizona State,California,,,
+48,,25.0,"Luckett, Tarik",6-2,205.0,DB,Sr.,"Compton, Calif. / JSerra Catholic",Arizona State,Colorado / Cisco CC,,,
+49,,26.0,"Lee, T",5-10,166.0,WE,R-So.,"Buford, Ga. / Buford",Arizona State,,,,
+50,,28.0,"White, Tevin",6-1,210.0,RB,So.,"Stafford, Va. / North Stafford",Arizona State,,,,
+51,,29.0,"Douglass, Bryce",5-11,175.0,RB,R-Fr.,"Tempe, Ariz. / Corona Del Sol",Arizona State,,,,
+52,,29.0,"Taylor, Alphonso",6-0,200.0,DB,R-Jr.,"Phoenix, Ariz. / North Canyon",Arizona State,Southeastern Louisiana / Utah,,,
+53,,31.0,"Boyd III, Jean",6-0,190.0,DB,R-Jr.,"Tempe, Arizona / Corona del Sol",Arizona State,,,,
+54,,32.0,"Allen, Charlie",6-1,190.0,LB,R-So.,"Novato, Calif. / Marin Catholic",Arizona State,,,,
+55,,32.0,"Dorbah, Prince",6-2,229.0,DL,R-Jr.,"Dallas, Texas / Highland Park",Arizona State,Texas,,,
+56,,34.0,"Amey, Myles",6-1,,LB,R-Fr.,"Gilbert, Ariz. / Higley",Arizona State,Idaho State,,,
+57,,35.0,"Carlson, Josh",6-0,185.0,P,Gr.,"Gilbert, Ariz. / Gilbert",Arizona State,Utah Tech / New Mexico State,,,
+58,,35.0,"Green, B.J.",6-1,275.0,DL,Jr.,"Atlanta, Ga. / McEachern",Arizona State,,,,
+59,,36.0,"Gammage, Alijah",5-11,185.0,DB,R-Sr.,"Tempe, Ariz. / Desert Vista",Arizona State,,,,
+60,,37.0,"Green Jr., Saadite",5-11,185.0,DB,R-Fr.,"Paramount, Calif. / Inglewood",Arizona State,,,,
+61,,37.0,"Longhetto, Dario",6-0,185.0,PK,Gr.,"Newbury Park, Calif. / Newbury Park",Arizona State,California,,,
+62,,38.0,"North, Jarrett",5-11,180.0,K,R-Fr.,"Agoura Hills, Calif. / Simi Valley",Arizona State,Washington,,,
+63,,38.0,"Williamson, Damon",6-1,195.0,DB,R-Jr.,"Lake Charles, La. / Chaparral",Arizona State,University of Mary,,,
+64,,39.0,"Babb, Adam",6-1,190.0,P,R-So.,"Dubai, UAE / Las Vegas, Nev. / Faith Lutheran",Arizona State,,,,
+65,,39.0,"Hart, George",5-11,215.0,RB,Jr.,"Baton Rouge, La. / Catholic",Arizona State,,,,
+66,,41.0,"Bowers, Zach",5-11,230.0,LB,R-Sr.,"Chandler, Ariz. / Chandler",Arizona State,Hawai'i,,,
+67,,43.0,"Jackson, Krew",6-5,204.0,LB,R-So.,"Queen Creek, Ariz. / Queen Creek",Arizona State,Kansas State,,,
+68,,43.0,"Thomas, Landen",6-3,260.0,DL,Fr.,"Zachary, La. / Zachary",Arizona State,,,,
+69,,44.0,"Romney, Tate",6-3,220.0,LB,R-Fr.,"Chandler, Ariz. / Chandler",Arizona State,BYU,,,
+70,,45.0,"Zellers, Slater",6-1,235.0,LS,Gr.,"Scottsdale, Ariz. / Notre Dame",Arizona State,California,,,
+71,,47.0,"Mahlum, Race",6-2,195.0,P,R-Jr.,"Huntington Beach, Calif. / Mater Dei",Arizona State,Oregon,,,
+72,,48.0,"McKelligon, Spencer",6-2,205.0,LB,R-Fr.,"Portland, Ore. / Jesuit",Arizona State,,,,
+73,,51.0,"DeVito, Dylan",5-11,230.0,LB,R-So.,"Los Angeles, California / Oaks Christian",Arizona State,,,,
+74,,52.0,"Jornadal, Jacob",5-11,215.0,LB,R-Jr.,"Bellflower, Calif. / St. John Bosco",Arizona State,,,,
+75,,53.0,"Niclasse, Fritzny",5-11,230.0,LB,R-Jr.,"Queen Creek, Ariz. / Queen Creek",Arizona State,,,,
+76,,55.0,"Valenzuela, Danny",6-3,285.0,OL,R-So.,Simi Valley / Grace Brethren,Arizona State,College of the Canyons,,,
+77,,56.0,"Ortiz, Matteo",6-3,275.0,OL,R-Jr.,"Chandler, Ariz. / Seton Catholic",Arizona State,Gila River,,,
+78,,57.0,"Scott, Kyle",6-5,300.0,OL,Jr.,"Lake Elsinore, Calif. / Temescal Canyon",Arizona State,Riverside CC,,,
+79,,58.0,"Fite, C.J.",5-11,282.0,DL,Fr.,"Tatum, Texas / Tatum",Arizona State,,,,
+80,,62.0,"Coleman, Ben",6-4,323.0,OL,Gr.,"Temecula, Calif. / Linfield Christian",Arizona State,Cal,,,
+81,,62.0,"Katergaris, Matt",6-2,275.0,OL,R-Fr.,"Scottsdale, Ariz. / Desert Mountain",Arizona State,,,,
+82,,63.0,"Kandiyeli, Sirri",6-3,265.0,OL,Fr.,"Mesa, Ariz. / Mountain View",Arizona State,,,,
+83,,64.0,"Bray, Ben",6-4,295.0,OL,R-Jr.,"Mesa, Ariz. / Red Mountain",Arizona State,,,,
+84,,65.0,"Frost, Aaron",6-5,306.0,OL,Gr.,"Long Beach, Calif. / Long Beach Poly",Arizona State,Nevada,,,
+85,,66.0,"Djonkam, James",6-3,245.0,LB,Jr.,"Springfield, Va. / West Springfield",Arizona State,Independence CC,,,
+86,,69.0,"Ramos, Joey",6-5,305.0,OL,R-Sr.,"Phoenix, Ariz. / Deer Valley",Arizona State,Iowa State,,,
+87,,70.0,"Bohle, Emmit",6-6,290.0,OL,Gr.,"Selby, S.D. / Selby Area",Arizona State,Northern State,,,
+88,,71.0,"Barry, Austin",6-5,295.0,OL,R-So.,"Moreno Valley, Calif. / John W. North",Arizona State,,,,
+89,,71.0,"Iheanachor, Max",6-5,319.0,OL,Jr.,"Los Angeles, Calif. / King Drew Medical",Arizona State,East Los Angeles College,,,
+90,,72.0,"Walden, Bram",6-5,302.0,OL,R-So.,"Scottsdale, Ariz. / Saguaro",Arizona State,Oregon,,,
+91,,73.0,"Glass, Isaia",6-5,295.0,OL,Jr.,"San Tan Valley, Ariz. / Queen Creek",Arizona State,,,,
+92,,74.0,"Na'a, Sean",6-4,275.0,OL,Fr.,"Inglewood, Calif. / St. John Bosco",Arizona State,,,,
+93,,76.0,"Le Boucher, Thomas",6-4,310.0,OL,R-Sr.,"Saint-Augustin de Desmaures, Quebec / Campus Notre-Dame de Foy",Arizona State,Independence CC,,,
+94,,79.0,"Fautanu, Leif",6-2,305.0,OL,R-Jr.,"Honolulu, Hawai’i / University Laboratory",Arizona State,UNLV,,,
+95,,80.0,"Swinson, Messiah",6-8,255.0,TE,R-Sr.,"Bay Shore, N.Y. / Lutheran",Arizona State,Missouri,,,
+96,,81.0,"Charles, Shawn",5-11,190.0,WR,R-Sr.,"Phoenix, Ariz. / Camelback",Arizona State,NAU / Garden City CC,,,
+97,,82.0,"Brown, Travion",6-3,230.0,LB,Gr.,"Moreno Valley, Calif. / Linfield Christian",Arizona State,Washington State,,,
+98,,82.0,"Johnson, Andre",6-3,210.0,WR,R-Sr.,"Avondale, Ariz. / Tolleson Union",Arizona State,,,,
+99,,83.0,"Wallace, Cooper",6-1,165.0,WR,R-So.,"Oak Park, Calif. / Simi Valley",Arizona State,,,,
+100,,84.0,"Cole, Jack",6-5,190.0,TE,R-Fr.,"Woodlands, Texas / Woodlands Christian",Arizona State,,,,
+101,,85.0,"Morgan, Ryan",6-3,260.0,TE/H,R-Jr.,"Lompoc, California / Lompoc",Arizona State,,,,
+102,,87.0,"Garvin, Colby",6-5,250.0,TE,R-So.,"Queen Creek, Ariz. / Queen Creek",Arizona State,Utah Tech,,,
+103,,87.0,"Ware, Max",6-1,185.0,WR,R-So.,"Phoenix, Ariz. / Brophy",Arizona State,,,,
+104,,88.0,"Bourguet, Coben",6-0,200.0,WR,R-So.,"Tucson, Ariz. / Salpointe",Arizona State,,,,
+105,,88.0,"Newell, Jacob",6-4,240.0,TE,R-Fr.,"Springfield, Ore. / Thurston",Arizona State,,,,
+106,,89.0,"Hart, Josh",6-0,205.0,WR,R-Jr.,"Tucson, Ariz. / Salpointe",Arizona State,,,,
+107,,90.0,"McElroy, Brandon",6-5,310.0,DL,R-Jr.,"Pasadena, Calif. / John Muir",Arizona State,Glendale CC,,,
+108,,91.0,"Matus, Michael",6-2,260.0,DE,Gr.,"Katy, Texas / Katy",Arizona State,,,,
+109,,91.0,"Monday, Tristan",6-4,276.0,DL,R-Fr.,"Scottsdale, Ariz. / Saguaro",Arizona State,Wisconsin,,,
+110,,94.0,"Hall, Dylan",6-5,255.0,DL,R-Sr.,"Lancaster, Calif. / Antelope Valley",Arizona State,Boise State/Antelope Valley College,,,
+111,,95.0,"Pola-Mao, Matthew",6-2,340.0,DL,R-Jr.,"Chandler, Ariz. / Chandler",Arizona State,Kansas State,,,
+112,,96.0,"Cooper, Anthonie",6-2,275.0,DL,R-Sr.,"Glendale, Ariz. / Millennium",Arizona State,,,,
+113,,97.0,"Lono-Wong, Blazen",6-4,270.0,DL,R-Fr.,"Waimanalo, Hawaii / Kailua",Arizona State,,,,
+114,,98.0,"Rivera-Harvey, Jalil",6-2,310.0,DL,Jr.,"Buffalo, N.Y. / Cedar Hill",Arizona State,East Los Angeles College,,,
+115,,99.0,"Stansbury, Gharin",6-6,245.0,DL,R-So.,"Centerville, La. / Franklin Senior",Arizona State,,,,
+0,,,,,,,,,Arizona State,,,Kenny Dillingham,Head Coach
+1,,,,,,,,,Arizona State,,,Matt Butterfield,Chief of Staff/Senior Coaching Advisor/Pro Liaison
+2,,,,,,,,,Arizona State,,,Charlie Ragle,Assistant Head Coach/Special Teams Coordinator
+3,,,,,,,,,Arizona State,,,Beau Baldwin,Offensive Coordinator/Quarterbacks
+4,,,,,,,,,Arizona State,,,Brian Ward,Defensive Coordinator
+5,,,,,,,,,Arizona State,,,Ra'Shaad Samples,Assistant Coach - Wide Receivers/Passing Game Coordinator
+6,,,,,,,,,Arizona State,,,Shaun Aguano,Assistant Coach - Running Backs
+7,,,,,,,,,Arizona State,,,Saga Tuitele,Assistant Coach - Offensive Line
+8,,,,,,,,,Arizona State,,,A.J. Cooper,Assistant Coach - Linebackers
+9,,,,,,,,,Arizona State,,,Bryan Carrington,Assistant Coach - Cornerbacks
+10,,,,,,,,,Arizona State,,,Vince Amey,Assistant Coach - Defensive Line
+11,,,,,,,,,Arizona State,,,Jason Mohns,Assistant Coach - Tight Ends
+0,,,,,,,,,Arizona State,,,Bobby Wade,Analyst - Offense
+1,,,,,,,,,Arizona State,,,Joey Muscarella,Analyst - Offense
+2,,,,,,,,,Arizona State,,,Marvin Lewis,Special Advisor
+3,,,,,,,,,Arizona State,,,Trent Greene,Analyst - Defense
+4,,,,,,,,,Arizona State,,,Max Silver,Analyst - Defense
+5,,,,,,,,,Arizona State,,,Pierre Cormier,Analyst - Special Teams
+6,,,,,,,,,Arizona State,,,Steve Miller,Graduate Assistant - Offense
+7,,,,,,,,,Arizona State,,,Ryan Jenkins,Graduate Assistant - Offense
+8,,,,,,,,,Arizona State,,,Ray Clark,Graduate Assistant - Defense
+9,,,,,,,,,Arizona State,,,Jordan Lee,Graduate Assistant - Defense
+10,,,,,,,,,Arizona State,,,Tony DeFeo,Associate Athletic Director for Football Administration
+11,,,,,,,,,Arizona State,,,Bryan McGinnis,Director of Football Operations
+12,,,,,,,,,Arizona State,,,D.J. Foster,Manager of Player Development
+13,,,,,,,,,Arizona State,,,Isaiah Williams,Director of Recruiting Strategy
+14,,,,,,,,,Arizona State,,,Joe Connolly,Head Coach - Football Sports Performance
+15,,,,,,,,,Arizona State,,,Clayton Kirven,Assistant Head Coach - Football Sports Performance
+16,,,,,,,,,Arizona State,,,Colbert Calhoun,Assistant Director - Football Sports Performance
+17,,,,,,,,,Arizona State,,,Allie Ueckert,On-Campus Recruiting Manager

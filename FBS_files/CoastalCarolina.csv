@@ -1,136 +1,135 @@
-,Statistic,#,Full Name,Year,Pos.,Ht.,Wt.,Hometown,High School,Previous School,C,Image,Name,Title
-0,,0.0,Deon Fountain,R-Sr.,WR,5-11,185.0,"Valdosta, Ga.",Brooks County HS,,,,,
-1,,1.0,Braydon Bennett,R-Jr.,RB,6-2,200.0,"Greenville, S.C.",Southside HS,,,,,
-2,,1.0,Shane Bruce,R-Jr.,LB,6-0,235.0,"Carrollton, Ga.",Central HS,,,,,
-3,,2.0,Reese White,Super-Sr.,RB,5-10,195.0,"Sandy Springs, Ga.",Riverwood International Charter School,,,,,
-4,,3.0,Ja'Quon Griffin,Super-Sr.,DT,6-0,255.0,"Rome, Ga.",Rome HS,Georgia Tech,,,,
-5,,4.0,CJ Beasley,R-Jr.,RB,5-10,205.0,"Norfolk, Va.",Maury HS,,,,,
-6,,4.0,Tobias Fletcher,Jr.,S,5-10,175.0,"Atlanta, Ga.",Carver HS,,,,,
-7,,6.0,Chris Rhone,R-So.,WR,6-4,200.0,"Columbia, S.C.",Gray Collegiate Academy,,,,,
-8,,7.0,Jarrett Guest,R-Sr.,QB,6-3,190.0,"Marietta, Ga.",Kennesaw Mountain HS,,,,,
-9,,8.0,Tyson Mobley,Sr.,WR,6-0,170.0,"Longwood, Fla.",Master's Academy,,,,,
-10,,10.0,Tavyn Jackson,Gr.,NICKEL,5-11,190.0,"Tallahassee, Fla.",Rickards HS,Coffeyville C.C.,,,,
-11,,10.0,Grayson McCall,R-Sr.,QB,6-3,215.0,"Indian Trail, N.C.",Porter Ridge HS,,,,,
-12,,11.0,De'Andre Coleman,R-Fr.,WR,6-2,205.0,"Hueytown, Ala.",Hueytown HS,,,,,
-13,,12.0,Dre Pinckney,R-So.,S,6-0,200.0,"Boiling Springs, S.C.",Boiling Springs HS,,,,,
-14,,13.0,Max Balthazar,R-So.,RB,5-11,200.0,"Fort Lauderdale, Fla.",TRU Prep Academy / University School,,,,,
-15,,13.0,Joshua Madison,R-Jr.,S,5-11,190.0,"Reseda, Calif.",Newbury Park HS,College of the Canyons,,,,
-16,,14.0,Jared Brown,R-So.,WR,6-0,185.0,"Lilburn, Ga.",Parkview HS,,,,,
-17,,14.0,Kiylan Miller,R-So.,S,6-3,190.0,"Forest City, N.C.",Chase HS,,,,,
-18,,15.0,Sam Pinckney,Super-Sr.,WR,6-4,215.0,"Greenwood, S.C.",Greenwood HS,Georgia State,,,,
-19,,15.0,Trelon Slade,Fr.,CB,6-2,180.0,"Powdersville, S.C.",Powdersville HS,Fork Union Military Academy,,,,
-20,,16.0,Matthew McDoom,So.,CB,5-11,170.0,"Winter Garden, Fla.",West Orange HS,,,,,
-21,,17.0,Kaleb Hutchinson,R-Fr.,S,6-0,180.0,"Augusta, Ga.",Westside HS,,,,,
-22,,18.0,Jahmar Brown,R-Sr.,S,6-1,210.0,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,South Carolina,,,,
-23,,19.0,Abraham Temoney III,R-Sr.,CB,6-4,190.0,"Sumter, S.C.",Sumter HS,Erskine,,,,
-24,,20.0,Chase Atkinson,R-Jr.,NICKEL,6-0,190.0,"Columbia, S.C.",Blythewood HS,Syracuse,,,,
-25,,20.0,Logan Mauldin,R-Jr.,TE,6-3,225.0,"Charlotte, N.C.",Myers Park HS,,,,,
-26,,21.0,JT Killen,R-Sr.,LB,6-3,225.0,"Lake Wylie, S.C.",Charlotte Christian School,,,,,
-27,,22.0,Josiah Robinson,So.,Nickel,5-11,205.0,"Apopka, Fla.",Apopka HS,,,,,
-28,,23.0,Jacob Proche,Super-Sr.,CB,5-10,190.0,"Red Oak, Texas",Red Oak HS,Coffeyville C.C.,,,,
-29,,25.0,Kade Hensley,R-So.,PK/P,5-10,185.0,"Johnson City, Tenn.",Science Hill HS,,,,,
-30,,27.0,Aaron Diggs,R-Jr.,LB,5-11,205.0,"Auburn, Ala.",Auburn HS,,,,,
-31,,28.0,Jerrod Cameron Jr.,R-Fr.,CB,5-8,160.0,"Miami, Fla.",St. Thomas Aquinas HS,,,,,
-32,,28.0,Evan Crenshaw,So.,P,6-4,180.0,"Ponte Vedra Beach, Fla.",Nease HS,,,,,
-33,,29.0,Derrick Maxey III,Fr.,S,5-11,180.0,"Atlanta, Ga.",Hapeville Charter Career Academy,,,,,
-34,,30.0,Legend Doggett,R-So.,CB,6-1,180.0,"McDonough, Ga.",Ola HS,Iowa Western C.C.,,,,
-35,,31.0,Liam Gray,R-So.,PK,6-0,215.0,"Westminster, Colo.",Holy Family HS,,,,,
-36,,31.0,Ze'marion Harrell,R-So.,LB,6-2,225.0,"Virginia Beach, Va.",Salem HS,,,,,
-37,,34.0,Brooks Johnson,R-Fr.,TE,6-5,215.0,"Fort Mill, S.C.",Nation Ford HS,,,,,
-38,,35.0,Eli Hillman,R-So.,S,5-11,190.0,"Myrtle Beach, S.C.",Carolina Forest HS,Warner University,,,,
-39,,35.0,Nate Merchant,R-Fr.,LS,6-1,210.0,"Easley, S.C.",Easley HS,,,,,
-40,,36.0,Joah Cash,R-So.,Bandit,6-2,225.0,"Savannah, Ga.",Jenkins HS,Naval Academy Preparatory School (NAPS),,,,
-41,,37.0,Laurence Sullivan Jr.,Jr.,CB,5-10,185.0,"Vicksburg, Miss.",Vicksburg HS,East Mississippi C.C.,,,,
-42,,38.0,Charles Arnold Jr.,R-So.,S,5-10,170.0,"Fairburn, Ga.",Langston Hughes HS,,,,,
-43,,38.0,Taj Thomas,R-Sr.,WR,6-1,190.0,"Irmo, S.C.",Dutch Fork HS,,,,,
-44,,39.0,Tré Pinkney,R-Sr.,LB,6-1,220.0,"Atlanta, Ga.",Pebblebrook HS,Hutchinson C.C.,,,,
-45,,40.0,Braylon Ryan,R-Jr.,DE,6-2,240.0,"Greenwood, S.C.",Greenwood HS,,,,,
-46,,41.0,Corey Warren,R-Fr.,DE,6-0,240.0,"Hoover, Ala.",Hoover HS,,,,,
-47,,42.0,Troy Dela Vega,R-Fr.,TE,6-4,240.0,"Park City, Utah",Park City HS,Utah State,,,,
-48,,43.0,Hunter Patrick,R-Jr.,P/PK,6-1,215.0,"Parkton, Md.",Hereford HS,Maryland,,,,
-49,,44.0,Nino Mastromatteo,R-Sr.,CB,6-0,175.0,"Clarkston, Mich.",Everest Collegiate HS,Morningside College,,,,
-50,,45.0,Mason Shelton,R-Jr.,LB,6-2,235.0,"Maryville, Tenn.",Maryville HS,,,,,
-51,,46.0,John Kirkpatrick,R-So.,LS,6-2,245.0,"Franklin, Tenn.",Franklin HS,Naval Academy Preparatory School (NAPS),,,,
-52,,47.0,Clinton Anokwuru,R-Jr.,Bandit,6-4,260.0,"Richmond, Texas",Fort Bend Bush HS,Kansas / Louisiana / Independence C.C.,,,,
-53,,48.0,Bailey Carraway,R-So.,Bandit,6-3,240.0,"Hartsville, S.C.",Hartsville HS,,,,,
-54,,49.0,John Grant III,R-Fr.,TE,6-3,215.0,"James Island, S.C.",James Island Charter HS,,,,,
-55,,49.0,Cameron Mitchell,R-Jr.,NICKEL,6-0,195.0,"North Charleston, S.C.",Fort Dorchester HS,,,,,
-56,,50.0,Wyatt Gedeon,Fr.,LB,6-1,235.0,"Avon Lake, Ohio",St. Edward HS,,,,,
-57,,51.0,Kip Green,R-Jr.,OL,6-4,305.0,"Radford, Va.",Radford HS,,,,,
-58,,52.0,Allen Henry,R-Sr.,DT,6-3,290.0,"West Memphis, Ark.",West Memphis HS,Coffeyville C.C.,,,,
-59,,54.0,Carlos Hatcher,Super-Sr.,Bandit,6-3,250.0,"Carrolton, Texas",Hebron HS,Tulane,,,,
-60,,54.0,Frankie Richardson,R-Fr.,OL,6-5,295.0,"Gettysburg, Pa.",Gettysburg HS,,,,,
-61,,55.0,Tray Brown,R-Fr.,LB,6-4,235.0,"Margate, Fla.",Cardinal Gibbons HS,,,,,
-62,,56.0,Donnell Wilson,R-Sr.,OL,6-5,315.0,"Whiteville, N.C.",Whiteville HS,,,,,
-63,,58.0,Thomas Johnson,R-So.,OL,6-3,280.0,"Aynor, S.C.",Aynor HS,,,,,
-64,,59.0,Jayden Addison,R-Sr.,Bandit,6-2,245.0,"Blythewood, S.C.",Blythewood HS,,,,,
-65,,61.0,Roger Jacobs,R-Fr.,OL,6-2,310.0,"Bennettsville, S.C.",Marlboro County HS,,,,,
-66,,62.0,Nick Del Grande,R-Fr.,OL,6-4,270.0,"Lancaster, Pa.",Lampeter-Strasburg HS,,,,,
-67,,64.0,Zovon Lindsay,R-Sr.,OL,6-4,300.0,"Fayetteville, N.C.",Trinity Christian School,NC State,,,,
-68,,65.0,Dillon Luther,R-Sr.,OL,6-3,310.0,"Asheville, N.C.",Erwin HS,Western Carolina,,,,
-69,,66.0,Will McDonald,R-Sr.,OL,6-2,295.0,"Matthews, N.C.",Porter Ridge HS,,,,,
-70,,67.0,Donavan Manson,R-Jr.,OL,6-4,290.0,"Indian Land, S.C.",Indian Land HS,,,,,
-71,,68.0,Caleb Godfree,R-So.,OL,6-2,285.0,"Myrtle Beach, S.C.",Carolina Forest HS,,,,,
-72,,69.0,Willie Moise,R-Jr.,OL,6-3,295.0,"Hollywood, Fla.",Chaminade-Madonna College Preparatory,,,,,
-73,,71.0,Bryson Summers,So.,OL,6-5,310.0,"El Dorado Hills, Calif.",Oak Ridge HS,Sierra College,,,,
-74,,72.0,Evan Jumper,Gr.,OL,6-4,280.0,"Myrtle Beach, S.C.",Myrtle Beach HS,Furman,,,,
-75,,73.0,Anthony Walton,R-So.,OL,6-4,310.0,"Lamar, S.C.",Lamar HS,,,,,
-76,,75.0,Mason Bowers,R-Jr.,OL,6-4,285.0,"High Point, N.C.",High Point Central HS,,,,,
-77,,77.0,Tom Bambrick,R-So.,OL,6-4,330.0,"Madison, Conn.",Daniel Hand HS,,,,,
-78,,78.0,Tyler Wagner,R-Jr.,OL,6-5,310.0,"Lilburn, Ga.",Parkview HS,,,,,
-79,,80.0,Dami'on Thompson,So.,WR,6-2,185.0,"Mableton, Ga.",Pebblebrook HS,,,,,
-80,,81.0,Payton Bunch,R-Sr.,LS,6-3,190.0,"Pendleton, S.C.",Pendleton HS,,,,,
-81,,82.0,Jameson Tucker,R-So.,WR,6-2,190.0,"Mauldin, S.C.",Mauldin HS,,,,,
-82,,83.0,Kyre Duplessis,R-Jr.,WR,5-10,195.0,"Woodbridge, Va.",Woodbridge HS,,,,,
-83,,84.0,Cane Berrong,R-So.,TE,6-4,245.0,"Hartwell, Ga.",Hart County HS,Notre Dame,,,,
-84,,85.0,Kendall Karr,R-Jr.,TE,6-3,250.0,"Belmont, N.C.",Stuart W. Cramer HS,North Carolina,,,,
-85,,87.0,Malachi Taylor,R-So.,WR,6-3,200.0,"Goose Creek, S.C.",Goose Creek HS,,,,,
-86,,88.0,Tate Davis,R-So.,WR,6-4,190.0,"Wilmington, N.C.",North Brunswick HS,UNC Pembroke,,,,
-87,,91.0,Emmanuel Johnson,Sr.,DE,6-6,260.0,"North Charleston, S.C.",Fort Dorchester HS,Georgia Tech,,,,
-88,,93.0,James Johnson Jr.,R-Jr.,DT,6-2,275.0,"Fort Pierce, Fla.",Vero Beach HS,,,,,
-89,,94.0,Micheal Mason,Super-Sr.,DE,6-3,270.0,"Florence, S.C.",South Florence HS,Wofford,,,,
-90,,95.0,Matt Scicchitano,Fr.,DT,6-4,280.0,"Mount Carmel, Pa.",Mount Carmel Area HS,,,,,
-91,,95.0,Mack West,R-So.,P/PK,5-8,175.0,"Hamlet, N.C.",Richmond HS,,,,,
-92,,96.0,Kyrie Samuel,R-Fr.,DT,6-0,255.0,"Fort Lauderdale, Fla.",St. Thomas Aquinas HS,,,,,
-93,,97.0,David Portu,R-Fr.,DE,6-3,245.0,"Fort Myers, Fla.",Bishop Verot Catholic HS,,,,,
-94,,98.0,Travis Nesbitt,R-So.,DE,6-4,255.0,"Columbia, S.C.",Dutch Fork HS,,,,,
-95,,99.0,Kennedy Roberts,Super-Sr.,DT,6-3,275.0,"Clearwater, Fla.",Clearwater Central Catholic,,,,,
-0,,,,,,,,,,,,,Tim Beck,Head Football Coach
-1,,,,,,,,,,,,,Travis Trickett,Offensive Coordinator / Quarterbacks
-2,,,,,,,,,,,,,Craig Naivar,Defensive Coordinator / Safeties
-3,,,,,,,,,,,,,Dan Carrel,Co-Defensive Coordinator / Linebackers
-4,,,,,,,,,,,,,Jimmy Brumbaugh,Defensive Line / Defensive Run Game Coordinator
-5,,,,,,,,,,,,,Xavier Dye,Running Backs
-6,,,,,,,,,,,,,Curtis Fuller,Cornerbacks
-7,,,,,,,,,,,,,Perry Parks,Wide Receivers
-8,,,,,,,,,,,,,Kriss Proctor,Tight Ends
-9,,,,,,,,,,,,,Josh Miller,Outside Linebackers / Special Teams
-10,,,,,,,,,,,,,Derek Warehime,Offensive Line
-0,,,,,,,,,,,,,Joe Moglia,Chair of Athletics / Executive Director for Football / Executive Adviser for the President
-1,,,,,,,,,,,,,Jill Kingston,Executive Assistant
-2,,,,,,,,,,,,,Kevin Cristello,Associate Director of Football Administration
-3,,,,,,,,,,,,,Paul Ressa,Director of Player Personnel
-4,,,,,,,,,,,,,Matt Pearce,Director of Recruiting
-5,,,,,,,,,,,,,Kianna Jasper,Director of On-Campus Recruiting
-6,,,,,,,,,,,,,Jared Tucker,Coordinator of Defensive Recruiting
-7,,,,,,,,,,,,,Kyle Steinhoff,Coordinator of Offensive Recruiting
-8,,,,,,,,,,,,,Quinn Barham,"Director of Football Speed, Strength and Conditioning"
-9,,,,,,,,,,,,,Tommie Moore,"Assistant Director of Speed, Strength and Conditioning"
-10,,,,,,,,,,,,,Tyler Redding,"Assistant Director of Speed, Strength and Conditioning"
-11,,,,,,,,,,,,,Alex Politis,Dietician
-12,,,,,,,,,,,,,Kaitlynn Seymour,Assistant Athletic Trainer (Football)
-13,,,,,,,,,,,,,Christian Mitchell,Assistant Director of Football Operations
-14,,,,,,,,,,,,,Grace DeLong,Operations & Recruiting Assistant
-15,,,,,,,,,,,,,Cal Leslie,Director of Technology & Video
-16,,,,,,,,,,,,,Connor Wagner,Director of Creative Media
-17,,,,,,,,,,,,,Tiffany Henry,Football Photographer for Creative Media
-18,,,,,,,,,,,,,Dan Morphis,Equipment Coordinator
-19,,,,,,,,,,,,,Mike Marangelli,Assistant Equipment Coordinator
-20,,,,,,,,,,,,,John Morello,FCA Campus Director
-21,,,,,,,,,,,,,Morgan Sumner,Associate Director of Student-Athlete Academic Services (Football)
-22,,,,,,,,,,,,,Tyrone McKenney,"Academic Advisor (Football, Beach Volleyball, Women's Golf, Men's and Women's Tennis)"
-23,,,,,,,,,,,,,John Bonney,Defensive Analyst
-24,,,,,,,,,,,,,MacAnder Dieudonne,Offensive Analyst
-25,,,,,,,,,,,,,Sawyer Jordan,Offensive Analyst
-26,,,,,,,,,,,,,Aidan Panni,Special Teams Analyst
-27,,,,,,,,,,,,,Collin Wilder,Defensive Analyst
+,Statistic,#,Full Name,Year,Pos.,Ht.,Wt.,Hometown,Current School Name,High School,Previous School,C,Image,Name,Title
+0,,0.0,Deon Fountain,R-Sr.,WR,5-11,185.0,"Valdosta, Ga.",Coastal Carolina,Brooks County HS,,,,,
+1,,1.0,Braydon Bennett,R-Jr.,RB,6-2,200.0,"Greenville, S.C.",Coastal Carolina,Southside HS,,,,,
+2,,1.0,Shane Bruce,R-Jr.,LB,6-0,235.0,"Carrollton, Ga.",Coastal Carolina,Central HS,,,,,
+3,,2.0,Reese White,Super-Sr.,RB,5-10,195.0,"Sandy Springs, Ga.",Coastal Carolina,Riverwood International Charter School,,,,,
+4,,3.0,Ja'Quon Griffin,Super-Sr.,DT,6-0,255.0,"Rome, Ga.",Coastal Carolina,Rome HS,Georgia Tech,,,,
+5,,4.0,CJ Beasley,R-Jr.,RB,5-10,205.0,"Norfolk, Va.",Coastal Carolina,Maury HS,,,,,
+6,,4.0,Tobias Fletcher,Jr.,S,5-10,175.0,"Atlanta, Ga.",Coastal Carolina,Carver HS,,,,,
+7,,6.0,Chris Rhone,R-So.,WR,6-4,200.0,"Columbia, S.C.",Coastal Carolina,Gray Collegiate Academy,,,,,
+8,,7.0,Jarrett Guest,R-Sr.,QB,6-3,190.0,"Marietta, Ga.",Coastal Carolina,Kennesaw Mountain HS,,,,,
+9,,8.0,Tyson Mobley,Sr.,WR,6-0,170.0,"Longwood, Fla.",Coastal Carolina,Master's Academy,,,,,
+10,,10.0,Tavyn Jackson,Gr.,NICKEL,5-11,190.0,"Tallahassee, Fla.",Coastal Carolina,Rickards HS,Coffeyville C.C.,,,,
+11,,10.0,Grayson McCall,R-Sr.,QB,6-3,215.0,"Indian Trail, N.C.",Coastal Carolina,Porter Ridge HS,,,,,
+12,,11.0,De'Andre Coleman,R-Fr.,WR,6-2,205.0,"Hueytown, Ala.",Coastal Carolina,Hueytown HS,,,,,
+13,,12.0,Dre Pinckney,R-So.,S,6-0,200.0,"Boiling Springs, S.C.",Coastal Carolina,Boiling Springs HS,,,,,
+14,,13.0,Max Balthazar,R-So.,RB,5-11,200.0,"Fort Lauderdale, Fla.",Coastal Carolina,TRU Prep Academy / University School,,,,,
+15,,13.0,Joshua Madison,R-Jr.,S,5-11,190.0,"Reseda, Calif.",Coastal Carolina,Newbury Park HS,College of the Canyons,,,,
+16,,14.0,Jared Brown,R-So.,WR,6-0,185.0,"Lilburn, Ga.",Coastal Carolina,Parkview HS,,,,,
+17,,14.0,Kiylan Miller,R-So.,S,6-3,190.0,"Forest City, N.C.",Coastal Carolina,Chase HS,,,,,
+18,,15.0,Sam Pinckney,Super-Sr.,WR,6-4,215.0,"Greenwood, S.C.",Coastal Carolina,Greenwood HS,Georgia State,,,,
+19,,15.0,Trelon Slade,Fr.,CB,6-2,180.0,"Powdersville, S.C.",Coastal Carolina,Powdersville HS,Fork Union Military Academy,,,,
+20,,16.0,Matthew McDoom,So.,CB,5-11,170.0,"Winter Garden, Fla.",Coastal Carolina,West Orange HS,,,,,
+21,,17.0,Kaleb Hutchinson,R-Fr.,S,6-0,180.0,"Augusta, Ga.",Coastal Carolina,Westside HS,,,,,
+22,,18.0,Jahmar Brown,R-Sr.,S,6-1,210.0,"Fort Lauderdale, Fla.",Coastal Carolina,St. Thomas Aquinas HS,South Carolina,,,,
+23,,19.0,Abraham Temoney III,R-Sr.,CB,6-4,190.0,"Sumter, S.C.",Coastal Carolina,Sumter HS,Erskine,,,,
+24,,20.0,Chase Atkinson,R-Jr.,NICKEL,6-0,190.0,"Columbia, S.C.",Coastal Carolina,Blythewood HS,Syracuse,,,,
+25,,20.0,Logan Mauldin,R-Jr.,TE,6-3,225.0,"Charlotte, N.C.",Coastal Carolina,Myers Park HS,,,,,
+26,,21.0,JT Killen,R-Sr.,LB,6-3,225.0,"Lake Wylie, S.C.",Coastal Carolina,Charlotte Christian School,,,,,
+27,,22.0,Josiah Robinson,So.,Nickel,5-11,205.0,"Apopka, Fla.",Coastal Carolina,Apopka HS,,,,,
+28,,23.0,Jacob Proche,Super-Sr.,CB,5-10,190.0,"Red Oak, Texas",Coastal Carolina,Red Oak HS,Coffeyville C.C.,,,,
+29,,25.0,Kade Hensley,R-So.,PK/P,5-10,185.0,"Johnson City, Tenn.",Coastal Carolina,Science Hill HS,,,,,
+30,,27.0,Aaron Diggs,R-Jr.,LB,5-11,205.0,"Auburn, Ala.",Coastal Carolina,Auburn HS,,,,,
+31,,28.0,Jerrod Cameron Jr.,R-Fr.,CB,5-8,160.0,"Miami, Fla.",Coastal Carolina,St. Thomas Aquinas HS,,,,,
+32,,28.0,Evan Crenshaw,So.,P,6-4,180.0,"Ponte Vedra Beach, Fla.",Coastal Carolina,Nease HS,,,,,
+33,,29.0,Derrick Maxey III,Fr.,S,5-11,180.0,"Atlanta, Ga.",Coastal Carolina,Hapeville Charter Career Academy,,,,,
+34,,30.0,Legend Doggett,R-So.,CB,6-1,180.0,"McDonough, Ga.",Coastal Carolina,Ola HS,Iowa Western C.C.,,,,
+35,,31.0,Liam Gray,R-So.,PK,6-0,215.0,"Westminster, Colo.",Coastal Carolina,Holy Family HS,,,,,
+36,,31.0,Ze'marion Harrell,R-So.,LB,6-2,225.0,"Virginia Beach, Va.",Coastal Carolina,Salem HS,,,,,
+37,,34.0,Brooks Johnson,R-Fr.,TE,6-5,215.0,"Fort Mill, S.C.",Coastal Carolina,Nation Ford HS,,,,,
+38,,35.0,Eli Hillman,R-So.,S,5-11,190.0,"Myrtle Beach, S.C.",Coastal Carolina,Carolina Forest HS,Warner University,,,,
+39,,35.0,Nate Merchant,R-Fr.,LS,6-1,210.0,"Easley, S.C.",Coastal Carolina,Easley HS,,,,,
+40,,36.0,Joah Cash,R-So.,Bandit,6-2,225.0,"Savannah, Ga.",Coastal Carolina,Jenkins HS,Naval Academy Preparatory School (NAPS),,,,
+41,,37.0,Laurence Sullivan Jr.,Jr.,CB,5-10,185.0,"Vicksburg, Miss.",Coastal Carolina,Vicksburg HS,East Mississippi C.C.,,,,
+42,,38.0,Charles Arnold Jr.,R-So.,S,5-10,170.0,"Fairburn, Ga.",Coastal Carolina,Langston Hughes HS,,,,,
+43,,38.0,Taj Thomas,R-Sr.,WR,6-1,190.0,"Irmo, S.C.",Coastal Carolina,Dutch Fork HS,,,,,
+44,,39.0,Tré Pinkney,R-Sr.,LB,6-1,220.0,"Atlanta, Ga.",Coastal Carolina,Pebblebrook HS,Hutchinson C.C.,,,,
+45,,40.0,Braylon Ryan,R-Jr.,DE,6-2,240.0,"Greenwood, S.C.",Coastal Carolina,Greenwood HS,,,,,
+46,,41.0,Corey Warren,R-Fr.,DE,6-0,240.0,"Hoover, Ala.",Coastal Carolina,Hoover HS,,,,,
+47,,43.0,Hunter Patrick,R-Jr.,P/PK,6-1,215.0,"Parkton, Md.",Coastal Carolina,Hereford HS,Maryland,,,,
+48,,44.0,Nino Mastromatteo,R-Sr.,CB,6-0,175.0,"Clarkston, Mich.",Coastal Carolina,Everest Collegiate HS,Morningside College,,,,
+49,,45.0,Mason Shelton,R-Jr.,LB,6-2,235.0,"Maryville, Tenn.",Coastal Carolina,Maryville HS,,,,,
+50,,46.0,John Kirkpatrick,R-So.,LS,6-2,245.0,"Franklin, Tenn.",Coastal Carolina,Franklin HS,Naval Academy Preparatory School (NAPS),,,,
+51,,47.0,Clinton Anokwuru,R-Jr.,Bandit,6-4,260.0,"Richmond, Texas",Coastal Carolina,Fort Bend Bush HS,Kansas / Louisiana / Independence C.C.,,,,
+52,,48.0,Bailey Carraway,R-So.,Bandit,6-3,240.0,"Hartsville, S.C.",Coastal Carolina,Hartsville HS,,,,,
+53,,49.0,John Grant III,R-Fr.,TE,6-3,215.0,"James Island, S.C.",Coastal Carolina,James Island Charter HS,,,,,
+54,,49.0,Cameron Mitchell,R-Jr.,NICKEL,6-0,195.0,"North Charleston, S.C.",Coastal Carolina,Fort Dorchester HS,,,,,
+55,,50.0,Wyatt Gedeon,Fr.,LB,6-1,235.0,"Avon Lake, Ohio",Coastal Carolina,St. Edward HS,,,,,
+56,,51.0,Kip Green,R-Jr.,OL,6-4,305.0,"Radford, Va.",Coastal Carolina,Radford HS,,,,,
+57,,52.0,Allen Henry,R-Sr.,DT,6-3,290.0,"West Memphis, Ark.",Coastal Carolina,West Memphis HS,Coffeyville C.C.,,,,
+58,,54.0,Carlos Hatcher,Super-Sr.,Bandit,6-3,250.0,"Carrolton, Texas",Coastal Carolina,Hebron HS,Tulane,,,,
+59,,54.0,Frankie Richardson,R-Fr.,OL,6-5,295.0,"Gettysburg, Pa.",Coastal Carolina,Gettysburg HS,,,,,
+60,,55.0,Tray Brown,R-Fr.,LB,6-4,235.0,"Margate, Fla.",Coastal Carolina,Cardinal Gibbons HS,,,,,
+61,,56.0,Donnell Wilson,R-Sr.,OL,6-5,315.0,"Whiteville, N.C.",Coastal Carolina,Whiteville HS,,,,,
+62,,58.0,Thomas Johnson,R-So.,OL,6-3,280.0,"Aynor, S.C.",Coastal Carolina,Aynor HS,,,,,
+63,,59.0,Jayden Addison,R-Sr.,Bandit,6-2,245.0,"Blythewood, S.C.",Coastal Carolina,Blythewood HS,,,,,
+64,,61.0,Roger Jacobs,R-Fr.,OL,6-2,310.0,"Bennettsville, S.C.",Coastal Carolina,Marlboro County HS,,,,,
+65,,62.0,Nick Del Grande,R-Fr.,OL,6-4,270.0,"Lancaster, Pa.",Coastal Carolina,Lampeter-Strasburg HS,,,,,
+66,,64.0,Zovon Lindsay,R-Sr.,OL,6-4,300.0,"Fayetteville, N.C.",Coastal Carolina,Trinity Christian School,NC State,,,,
+67,,65.0,Dillon Luther,R-Sr.,OL,6-3,310.0,"Asheville, N.C.",Coastal Carolina,Erwin HS,Western Carolina,,,,
+68,,66.0,Will McDonald,R-Sr.,OL,6-2,295.0,"Matthews, N.C.",Coastal Carolina,Porter Ridge HS,,,,,
+69,,67.0,Donavan Manson,R-Jr.,OL,6-4,290.0,"Indian Land, S.C.",Coastal Carolina,Indian Land HS,,,,,
+70,,68.0,Caleb Godfree,R-So.,OL,6-2,285.0,"Myrtle Beach, S.C.",Coastal Carolina,Carolina Forest HS,,,,,
+71,,69.0,Willie Moise,R-Jr.,OL,6-3,295.0,"Hollywood, Fla.",Coastal Carolina,Chaminade-Madonna College Preparatory,,,,,
+72,,71.0,Bryson Summers,So.,OL,6-5,310.0,"El Dorado Hills, Calif.",Coastal Carolina,Oak Ridge HS,Sierra College,,,,
+73,,72.0,Evan Jumper,Gr.,OL,6-4,280.0,"Myrtle Beach, S.C.",Coastal Carolina,Myrtle Beach HS,Furman,,,,
+74,,73.0,Anthony Walton,R-So.,OL,6-4,310.0,"Lamar, S.C.",Coastal Carolina,Lamar HS,,,,,
+75,,75.0,Mason Bowers,R-Jr.,OL,6-4,285.0,"High Point, N.C.",Coastal Carolina,High Point Central HS,,,,,
+76,,77.0,Tom Bambrick,R-So.,OL,6-4,330.0,"Madison, Conn.",Coastal Carolina,Daniel Hand HS,,,,,
+77,,78.0,Tyler Wagner,R-Jr.,OL,6-5,310.0,"Lilburn, Ga.",Coastal Carolina,Parkview HS,,,,,
+78,,80.0,Dami'on Thompson,So.,WR,6-2,185.0,"Mableton, Ga.",Coastal Carolina,Pebblebrook HS,,,,,
+79,,81.0,Payton Bunch,R-Sr.,LS,6-3,190.0,"Pendleton, S.C.",Coastal Carolina,Pendleton HS,,,,,
+80,,82.0,Jameson Tucker,R-So.,WR,6-2,190.0,"Mauldin, S.C.",Coastal Carolina,Mauldin HS,,,,,
+81,,83.0,Kyre Duplessis,R-Jr.,WR,5-10,195.0,"Woodbridge, Va.",Coastal Carolina,Woodbridge HS,,,,,
+82,,84.0,Cane Berrong,R-So.,TE,6-4,245.0,"Hartwell, Ga.",Coastal Carolina,Hart County HS,Notre Dame,,,,
+83,,85.0,Kendall Karr,R-Jr.,TE,6-3,250.0,"Belmont, N.C.",Coastal Carolina,Stuart W. Cramer HS,North Carolina,,,,
+84,,87.0,Malachi Taylor,R-So.,WR,6-3,200.0,"Goose Creek, S.C.",Coastal Carolina,Goose Creek HS,,,,,
+85,,88.0,Tate Davis,R-So.,WR,6-4,210.0,"Wilmington, N.C.",Coastal Carolina,North Brunswick HS,UNC Pembroke,,,,
+86,,91.0,Emmanuel Johnson,Sr.,DE,6-6,260.0,"North Charleston, S.C.",Coastal Carolina,Fort Dorchester HS,Georgia Tech,,,,
+87,,93.0,James Johnson Jr.,R-Jr.,DT,6-2,275.0,"Fort Pierce, Fla.",Coastal Carolina,Vero Beach HS,,,,,
+88,,94.0,Micheal Mason,Super-Sr.,DE,6-3,270.0,"Florence, S.C.",Coastal Carolina,South Florence HS,Wofford,,,,
+89,,95.0,Matt Scicchitano,Fr.,DT,6-4,280.0,"Mount Carmel, Pa.",Coastal Carolina,Mount Carmel Area HS,,,,,
+90,,95.0,Mack West,R-So.,P/PK,5-8,175.0,"Hamlet, N.C.",Coastal Carolina,Richmond HS,,,,,
+91,,96.0,Kyrie Samuel,R-Fr.,DT,6-0,255.0,"Fort Lauderdale, Fla.",Coastal Carolina,St. Thomas Aquinas HS,,,,,
+92,,97.0,David Portu,R-Fr.,DE,6-3,245.0,"Fort Myers, Fla.",Coastal Carolina,Bishop Verot Catholic HS,,,,,
+93,,98.0,Travis Nesbitt,R-So.,DE,6-4,255.0,"Columbia, S.C.",Coastal Carolina,Dutch Fork HS,,,,,
+94,,99.0,Kennedy Roberts,Super-Sr.,DT,6-3,275.0,"Clearwater, Fla.",Coastal Carolina,Clearwater Central Catholic,,,,,
+0,,,,,,,,,Coastal Carolina,,,,,Tim Beck,Head Football Coach
+1,,,,,,,,,Coastal Carolina,,,,,Travis Trickett,Offensive Coordinator / Quarterbacks
+2,,,,,,,,,Coastal Carolina,,,,,Craig Naivar,Defensive Coordinator / Safeties
+3,,,,,,,,,Coastal Carolina,,,,,Dan Carrel,Co-Defensive Coordinator / Linebackers
+4,,,,,,,,,Coastal Carolina,,,,,Jimmy Brumbaugh,Defensive Line / Defensive Run Game Coordinator
+5,,,,,,,,,Coastal Carolina,,,,,Xavier Dye,Running Backs
+6,,,,,,,,,Coastal Carolina,,,,,Curtis Fuller,Cornerbacks
+7,,,,,,,,,Coastal Carolina,,,,,Perry Parks,Wide Receivers
+8,,,,,,,,,Coastal Carolina,,,,,Kriss Proctor,Tight Ends
+9,,,,,,,,,Coastal Carolina,,,,,Josh Miller,Outside Linebackers / Special Teams
+10,,,,,,,,,Coastal Carolina,,,,,Derek Warehime,Offensive Line
+0,,,,,,,,,Coastal Carolina,,,,,Joe Moglia,Chair of Athletics / Executive Director for Football / Executive Adviser for the President
+1,,,,,,,,,Coastal Carolina,,,,,Jill Kingston,Executive Assistant
+2,,,,,,,,,Coastal Carolina,,,,,Kevin Cristello,Associate Director of Football Administration
+3,,,,,,,,,Coastal Carolina,,,,,Paul Ressa,Director of Player Personnel
+4,,,,,,,,,Coastal Carolina,,,,,Matt Pearce,Director of Recruiting
+5,,,,,,,,,Coastal Carolina,,,,,Kianna Jasper,Director of On-Campus Recruiting
+6,,,,,,,,,Coastal Carolina,,,,,Jared Tucker,Coordinator of Defensive Recruiting
+7,,,,,,,,,Coastal Carolina,,,,,Kyle Steinhoff,Coordinator of Offensive Recruiting
+8,,,,,,,,,Coastal Carolina,,,,,Quinn Barham,"Director of Football Speed, Strength and Conditioning"
+9,,,,,,,,,Coastal Carolina,,,,,Tommie Moore,"Assistant Director of Speed, Strength and Conditioning"
+10,,,,,,,,,Coastal Carolina,,,,,Tyler Redding,"Assistant Director of Speed, Strength and Conditioning"
+11,,,,,,,,,Coastal Carolina,,,,,Alex Politis,Dietician
+12,,,,,,,,,Coastal Carolina,,,,,Kaitlynn Seymour,Assistant Athletic Trainer (Football)
+13,,,,,,,,,Coastal Carolina,,,,,Christian Mitchell,Assistant Director of Football Operations
+14,,,,,,,,,Coastal Carolina,,,,,Grace DeLong,Operations & Recruiting Assistant
+15,,,,,,,,,Coastal Carolina,,,,,Cal Leslie,Director of Technology & Video
+16,,,,,,,,,Coastal Carolina,,,,,Connor Wagner,Director of Creative Media
+17,,,,,,,,,Coastal Carolina,,,,,Tiffany Henry,Football Photographer for Creative Media
+18,,,,,,,,,Coastal Carolina,,,,,Dan Morphis,Equipment Coordinator
+19,,,,,,,,,Coastal Carolina,,,,,Mike Marangelli,Assistant Equipment Coordinator
+20,,,,,,,,,Coastal Carolina,,,,,John Morello,FCA Campus Director
+21,,,,,,,,,Coastal Carolina,,,,,Morgan Sumner,Associate Director of Student-Athlete Academic Services (Football)
+22,,,,,,,,,Coastal Carolina,,,,,Tyrone McKenney,"Academic Advisor (Football, Beach Volleyball, Women's Golf, Men's and Women's Tennis)"
+23,,,,,,,,,Coastal Carolina,,,,,John Bonney,Defensive Analyst
+24,,,,,,,,,Coastal Carolina,,,,,MacAnder Dieudonne,Offensive Analyst
+25,,,,,,,,,Coastal Carolina,,,,,Sawyer Jordan,Offensive Analyst
+26,,,,,,,,,Coastal Carolina,,,,,Aidan Panni,Special Teams Analyst
+27,,,,,,,,,Coastal Carolina,,,,,Collin Wilder,Defensive Analyst

@@ -1,138 +1,134 @@
-,Statistic,#,Full Name,Pos.,Ht.,Wt.,Cl.,Hometown / High School,Previous School,Image,Name,Title
-0,,0.0,Jowon Briggs,DL,6-1,305.0,Sr.,"Cincinnati, Ohio / Walnut Hills",Virginia,,,
-1,,1.0,Jordan Young,DB,6-0,195.0,R-So.,"Tampa, Fla. / Gaither",Florida,,,
-2,,2.0,Dontay Corleone,DL,6-2,320.0,R-So.,"Cincinnati, Ohio / Colerain",,,,
-3,,2.0,Dee Wiggins,WR,6-3,195.0,R-Sr.,"Miami, Fla. / Miami Southridge High School",Miami / Louisville,,,
-4,,3.0,Deshawn Pace,LB,6-2,210.0,Sr.,"Cincinnati, Ohio / Colerain",,,,
-5,,3.0,Evan Prater,QB,6-4,210.0,R-Jr.,"Cincinnati, Ohio / Wyoming",,,,
-6,,4.0,Malik Vann,DL,6-4,268.0,R-Sr.,"Cincinnati, Ohio / Fairfield",,,,
-7,,4.0,Ethan Wright,RB,6-1,205.0,Sr.,"Akron, Ohio / Manchester",,,,
-8,,5.0,Emory Jones,QB,6-3,212.0,R-Sr.,"La Grange, Ga. / Heard County",Arizona State,,,
-9,,6.0,Ben Bryant,QB,6-3,217.0,R-Sr.,"La Grange, Ill. / Lyons Township",,,,
-10,,6.0,Dorian Jones,LB,6-0,228.0,Sr.,"Plantation, Fla. / American Heritage High School",Louisville,,,
-11,,7.0,Chamon Metayer,TE,6-5,250.0,R-So.,"Miami, Fla. / North Miami",,,,
-12,,7.0,Jaheim Thomas,LB,6-4,240.0,R-Jr.,"Cincinnati, Ohio / Princeton",,,,
-13,,8.0,Isiah Cox,S,6-2,200.0,R-So.,"Alcoa, Tenn. / Alcoa",,,,
-14,,9.0,Daniel Grzesiak,LB,6-1,250.0,R-Sr.,"Los Angeles, Calif. / Crenshaw High School",Nevada / Utah State,,,
-15,,10.0,Jack Perry,QB,6-1,205.0,R-Sr.,"Mountain View, Calif. / St. Francis",San Mateo,,,
-16,,10.0,Bryon Threats,S,5-10,192.0,Jr.,"Columbus, Ohio / Coffman",,,,
-17,,11.0,Sammy Anderson Jr.,CB,6-0,190.0,R-Jr.,"Dayton, Ohio / Trotwood-Madison",,,,
-18,,11.0,Donovan Ollie,WR,6-3,212.0,R-Sr.,"Wylie, Texas / Wylie",Washington State,,,
-19,,12.0,Brady Drogosh,QB,6-4,215.0,Fr.,"Warren, Mich. / De La Salle Collegiate",,,,
-20,,12.0,Justin Harris,CB,6-0,195.0,R-Sr.,"Dayton, Ohio / Wayne",,,,
-21,,13.0,Jacob Hoying,QB,6-2,205.0,R-So.,"Columbus, Ohio / Bishop Watterson",,,,
-22,,13.0,D.J. Taylor,DB,5-10,190.0,R-Jr.,"Tampa, Fla. / Tampa Catholic",Arizona State,,,
-23,,14.0,Rayquan Adkins,DB,5-11,175.0,Fr.,"Miami, Fla. / Northwestern",,,,
-24,,14.0,Barry Jackson,WR,5-11,195.0,Fr.,"Ellenwood, Ga. / Cedar Grove",,,,
-25,,15.0,Taj Ward,CB,6-0,194.0,R-Sr.,"Solon, Ohio / Solon",,,,
-26,,16.0,Cam Junior,LB,6-1,220.0,R-So.,"Middletown, Ohio / Middletown",,,,
-27,,16.0,Brady Lichtenberg,QB,6-1,205.0,R-So.,"Toledo, Ohio / Saint Johns Jesuit",,,,
-28,,17.0,Joey Beljan,TE,6-3,240.0,R-Sr.,"Holland, N.J. / Delaware Valley High School",Western Kentucky,,,
-29,,17.0,Brian Simms III,LB,6-3,250.0,Fr.,"Baltimore, Md. / St. Frances Academy",,,,
-30,,19.0,Tyler Gillison,DE,6-4,242.0,R-Fr.,"Pickerington, Ohio / Pickerington Central",,,,
-31,,20.0,Oliver Bridges,DB,6-2,203.0,R-Fr.,"Upper Marlboro, Md. / The Bullis School",,,,
-32,,21.0,Kalen Carroll,DB,6-1,176.0,R-Fr.,"Indianapolis, Ind. / Center Grove",,,,
-33,,21.0,Corey Kiner,RB,5-9,210.0,Jr.,"Cincinnati, Ohio / Roger Bacon",LSU,,,
-34,,22.0,Ryan Montgomery,RB,5-11,200.0,Sr.,"Franklin, Ohio / Franklin",,,,
-35,,22.0,Jonathan Thompson,LB,6-2,228.0,R-Fr.,"Columbus, Ohio / St. Francis De Sales",,,,
-36,,23.0,Daved Jones Jr.,LB,6-1,225.0,R-Jr.,"Cincinnati, Ohio / Lakota West",,,,
-37,,24.0,Todd Bumphis,CB,6-0,194.0,R-Jr.,"Toledo, Ohio / St. Francis De Sales",,,,
-38,,25.0,Jack Haglage,LB,6-2,228.0,R-Jr.,"Mason, Ohio / Mason",Naval Academy,,,
-39,,25.0,Shaun Thomas,RB,6-0,205.0,R-So.,"Lima, Ohio / Central Catholic",,,,
-40,,26.0,Myles Montgomery,RB,5-11,202.0,R-So.,"Jacksonville, Fla. / Fletcher",,,,
-41,,26.0,Malik Rainey,CB,5-11,185.0,R-So.,"Chicago, Ill. / Bolingbrook",,,,
-42,,27.0,Armorion Smith,S,6-1,205.0,R-So.,"Detroit, Mich. / River Rouge",,,,
-43,,29.0,Manny Covey,RB,5-11,182.0,Fr.,"Starke, Fla. / Bradford",,,,
-44,,29.0,Jacob Dingle,S,5-11,192.0,Sr.,"Louisville, Ky. / Trinity",,,,
-45,,31.0,Mason Fletcher,P,6-7,205.0,Jr.,"Melbourne, Australia / ProKick",,,,
-46,,31.0,Ken Willis,DB,5-11,178.0,R-Fr.,"Cincinnati, Ohio / Colerain",,,,
-47,,32.0,James Camden,DB,6-1,225.0,R-Jr.,"Cincinnati, Ohio / Anderson",,,,
-48,,33.0,Carter Brown,PK,6-0,195.0,So.,"Pearland, Texas / Dawson High School",Arizona State,,,
-49,,33.0,CJ Doggette,DT,6-2,267.0,R-Fr.,"Pickerington, Ohio / Pickerington Central",,,,
-50,,34.0,Caleb Schmitz,TE,6-3,228.0,R-So.,"Lancaster, Pa. / Warwick",,,,
-51,,35.0,Brady Young,P,6-3,215.0,R-So.,"Perrysburg, Ohio / Perrysburg",,,,
-52,,37.0,Devin Hightower,LB,5-11,225.0,R-Jr.,"Twinsburg, Ohio / Hoban",Michigan State,,,
-53,,39.0,Bryce Burton,K,5-10,200.0,R-Sr.,"Cincinnati, Ohio / Princeton",,,,
-54,,39.0,Cincear Lewis,DB,6-2,210.0,R-Fr.,"Kalamazoo, Mich. / Kalamazoo Central",,,,
-55,,42.0,Stephan Byrd,RB,6-0,220.0,R-Fr.,"Canal Winchester, Ohio / Canal Winchester HS",,,,
-56,,43.0,Jonah Lytle,CB,5-11,175.0,R-So.,"Canton, Ohio / McKinley",,,,
-57,,44.0,Jah-Mal Williams,DL,6-4,240.0,R-So.,"Carver Ranches, Fla. / Cardinal Gibbons",,,,
-58,,45.0,Barak Faulk,DL,6-3,240.0,R-Jr.,"Cincinnati, Ohio / Mason",,,,
-59,,46.0,Antwan Peek Jr.,DB,6-2,195.0,R-Fr.,"Cincinnati, Ohio / Indian Hill",,,,
-60,,49.0,Jack Dingle,LB,6-4,238.0,R-So.,"Louisville, Ky. / Trinity",,,,
-61,,50.0,Jackson Bruscianelli,LB,5-11,245.0,R-Sr.,"Chicago, Ill. / Montini Catholic",,,,
-62,,50.0,Evan Tengesdahl,OL,6-4,312.0,Fr.,"Dayton, Ohio / Wayne",,,,
-63,,51.0,Ben Blevins,DL,6-2,270.0,R-Jr.,"Cincinnati, Ohio / La Salle",,,,
-64,,52.0,AJ George,OL,6-6,295.0,R-So.,"Byesville, Ohio / Meadowbrook",,,,
-65,,53.0,Gavin Gerhardt,OL,6-4,300.0,R-Jr.,"Xenia, Ohio / Xenia",,,,
-66,,54.0,Dartanyan Tinsley,OL,6-5,315.0,Sr.,"Owensboro, Ky. / Owensboro HS",Kentucky Christian,,,
-67,,55.0,Mao Glynn II,OL,6-3,300.0,R-So.,"Cincinnati, Ohio / Walnut Hills",,,,
-68,,57.0,Ryan Mullaney,DL,6-2,250.0,R-Sr.,"Cincinnati, Ohio / Moeller",,,,
-69,,58.0,Trevor Radosevich,OL,6-4,310.0,R-Sr.,"Englishtown, N.J. / Manalapan",Penn,,,
-70,,61.0,Luke Dalton,OL,6-5,305.0,R-Fr.,"Crystal Lake, Ill. / Marian Central Catholic",,,,
-71,,62.0,Matt Mason,OL,6-3,295.0,R-Fr.,"Union, Ky. / Ryle",,,,
-72,,66.0,Landon Fickell,OL,6-4,290.0,R-So.,"Cincinnati, Ohio / Moeller",,,,
-73,,67.0,Luke Kandra,OL,6-4,318.0,R-Jr.,"Cincinnati, Ohio / Elder",Louisville,,,
-74,,69.0,Cam Jones,OL,6-8,325.0,R-Sr.,"Knott County, Ky. / Fredrick Douglass",,,,
-75,,74.0,Phillip Wilder,OL,6-5,305.0,R-Jr.,"Jonesboro, Ga. / Mt. Zion",Southeast Missouri State,,,
-76,,75.0,John Williams,OL,6-5,310.0,R-Jr.,"Bolingbrook, Ill. / Bolingbrook",,,,
-77,,76.0,Mitch Raifsnider,OL,6-8,280.0,R-So.,"Castalia, Ohio / Margaretta",Army,,,
-78,,77.0,Jonathan Harder,OL,6-5,315.0,R-Fr.,"Delaware, Ohio / Olentangy Berlin",,,,
-79,,79.0,Ethan Green,OT,6-7,300.0,R-Fr.,"Fremont, Ohio / Fremont Ross",,,,
-80,,80.0,Chris Scott,WR,6-2,205.0,R-Jr.,"Columbus, Ohio / Pickerington North",,,,
-81,,82.0,Michael McCalmont,TE,6-3,240.0,R-Jr.,"Mason, Ohio / Mason",,,,
-82,,83.0,Ty Perkins,WR,6-3,195.0,Fr.,"Ironton, Ohio / Ironton",,,,
-83,,84.0,Sterling Berkhalter,WR,6-4,198.0,Jr.,"Cincinnati, Ohio / Georgia Prep Academy (Snellville, Ga.)",North Carolina A&T,,,
-84,,85.0,Triston O'Brien,LS,6-3,240.0,R-So.,"Jefferson, Ohio / NDCL",,,,
-85,,85.0,Jiair Thomas,WR,6-4,210.0,R-Sr.,"Cincinnati, Ohio / Winton Woods",,,,
-86,,86.0,Lesley Andoh,WR,6-0,188.0,R-Fr.,"Dublin, Ohio / Scioto",,,,
-87,,88.0,Payten Singletary,TE,6-4,235.0,R-Jr.,"Thomasville, Ga. / Thomasville",,,,
-88,,89.0,Jesse Meyer,TE,6-4,240.0,R-Fr.,"Coldwater, Ohio / Coldwater HS",,,,
-89,,90.0,Christian Lowery,K,5-11,182.0,Jr.,"Acworth, Ga. / Harrison",,,,
-90,,91.0,Drew Logan,DL,6-4,270.0,R-Fr.,"North Canton, Ohio / Hoover",,,,
-91,,92.0,Derrick Shepard,DT,6-3,305.0,R-Fr.,"Dayton, Ohio / Archbishop Alter",,,,
-92,,95.0,Justin Wodtly,DL,6-3,275.0,R-Jr.,"Cleveland, Ohio / Cleveland Hts.",,,,
-93,,96.0,Dominique Perry,DL,6-2,288.0,R-Jr.,"Germantown, Md. / Northwest",,,,
-94,,96.0,Cayson Pfeiffer,LS,6-0,220.0,R-Sr.,"Columbus, Ohio / Dublin Scioto",,,,
-95,,97.0,Eric Phillips,DL,6-3,257.0,R-Sr.,"Cincinnati, Ohio / Colerain",,,,
-96,,99.0,Rob Jackson,DL,6-5,278.0,R-So.,"Philadelphia, Pa. / Archbishop Wood",,,,
-0,,,,,,,,,,,Scott Satterfield,Head Coach
-1,,,,,,,,,,,Bryan Brown,Associate Head Coach / Defensive Coordinator
-2,,,,,,,,,,,Brad Glenn,Offensive Coordinator / Wide Receivers
-3,,,,,,,,,,,Kerry Coombs,Special Teams Coordinator / Cornerbacks
-4,,,,,,,,,,,Nate Fuqua,Co-Defensive Coordinator / Outside Linebackers
-5,,,,,,,,,,,Cortney Braswell,Assistant Coach / Inside Linebackers
-6,,,,,,,,,,,Nic Cardwell,Assistant Coach / Offensive Line
-7,,,,,,,,,,,Walter Stewart,Assistant Coach / Defensive Line
-8,,,,,,,,,,,De'Rail Sims,Assistant Coach / Running Backs
-9,,,,,,,,,,,Josh Stepp,Assistant Coach / Tight Ends
-10,,,,,,,,,,,Pete Thomas,Assistant Coach / Quarterbacks
-0,,,,,,,,,,,Mark Speir,Chief of Staff
-1,,,,,,,,,,,John Widecan,Associate AD/Football Operations
-2,,,,,,,,,,,Sherry Murray,Associate to the Head Football Coach
-3,,,,,,,,,,,Mitch Marotti,Operations & Video Assistant
-4,,,,,,,,,,,Zach Grant,General Manager
-5,,,,,,,,,,,Caroline Tart,Director of Recruiting
-6,,,,,,,,,,,Jack Griffith,Director of Player Personnel
-7,,,,,,,,,,,Ashley Hecimovich,Director of On-Campus Recruiting
-8,,,,,,,,,,,Cass Simmons,Director of Recruiting Strategy
-9,,,,,,,,,,,Carter Wilson,Director of Scouting
-10,,,,,,,,,,,Chris Canada,Graduate Assistant - Offense
-11,,,,,,,,,,,Adam Niemeyer,Director of Football Video
-12,,,,,,,,,,,Dalvin Jones,Director/Football Equipment
-13,,,,,,,,,,,Jason Achauer,Assistant Equipment Manager
-14,,,,,,,,,,,Niko Palazeti,Director of Football Sports Performance
-15,,,,,,,,,,,Christopher Friend,Associate Director of Football Sports Performance
-16,,,,,,,,,,,Brandon Garcia,Assistant Director of Football Sports Performance
-17,,,,,,,,,,,Scott Ethington,Assistant Football Sports Performance Coach
-18,,,,,,,,,,,Micaela Serrano,Associate Director of Performance Nutrition - Football Dietitian
-19,,,,,,,,,,,Seth Price,Quality Control - Offense
-20,,,,,,,,,,,Larry Dace,Graduate Assistant - Offense
-21,,,,,,,,,,,Malik Davis,Graduate Assistant - Defense
-22,,,,,,,,,,,Grant Gourley,Graduate Assistant - Defense
-23,,,,,,,,,,,Vijay Stingley,Quality Control - Offense
-24,,,,,,,,,,,Jacob Brandon,Quality Control - Defense
-25,,,,,,,,,,,Tim Conner,Quality Control - Special Teams
-26,,,,,,,,,,,Wes Fleming,Quality Control - Defense
-27,,,,,,,,,,,Luke Mullett,Special Assistant to the Head Coach
-28,,,,,,,,,,,Clay Colvin,Director of Creative Media - Football
+,Statistic,#,Full Name,Pos.,Ht.,Wt.,Cl.,Hometown / High School,Current School Name,Previous School,Image,Name,Title
+0,,0.0,Jowon Briggs,DL,6-1,305.0,Sr.,"Cincinnati, Ohio / Walnut Hills",Cincinnati,Virginia,,,
+1,,1.0,Jordan Young,DB,6-0,195.0,R-So.,"Tampa, Fla. / Gaither",Cincinnati,Florida,,,
+2,,2.0,Dontay Corleone,DL,6-2,320.0,R-So.,"Cincinnati, Ohio / Colerain",Cincinnati,,,,
+3,,2.0,Dee Wiggins,WR,6-3,195.0,R-Sr.,"Miami, Fla. / Miami Southridge High School",Cincinnati,Miami / Louisville,,,
+4,,3.0,Deshawn Pace,LB,6-2,210.0,Sr.,"Cincinnati, Ohio / Colerain",Cincinnati,,,,
+5,,3.0,Evan Prater,QB,6-4,210.0,R-Jr.,"Cincinnati, Ohio / Wyoming",Cincinnati,,,,
+6,,4.0,Malik Vann,DL,6-4,268.0,R-Sr.,"Cincinnati, Ohio / Fairfield",Cincinnati,,,,
+7,,4.0,Ethan Wright,RB,6-1,205.0,Sr.,"Akron, Ohio / Manchester",Cincinnati,,,,
+8,,5.0,Emory Jones,QB,6-3,212.0,R-Sr.,"La Grange, Ga. / Heard County",Cincinnati,Arizona State,,,
+9,,6.0,Ben Bryant,QB,6-3,217.0,R-Sr.,"La Grange, Ill. / Lyons Township",Cincinnati,Eastern Michigan,,,
+10,,6.0,Dorian Jones,LB,6-0,228.0,Sr.,"Plantation, Fla. / American Heritage High School",Cincinnati,Louisville,,,
+11,,7.0,Chamon Metayer,TE,6-5,250.0,R-So.,"Miami, Fla. / North Miami",Cincinnati,,,,
+12,,8.0,Isiah Cox,S,6-2,200.0,R-So.,"Alcoa, Tenn. / Alcoa",Cincinnati,,,,
+13,,9.0,Daniel Grzesiak,LB,6-1,250.0,R-Sr.,"Los Angeles, Calif. / Crenshaw High School",Cincinnati,Nevada / Utah State,,,
+14,,10.0,Jack Perry,QB,6-1,205.0,R-Sr.,"Mountain View, Calif. / St. Francis",Cincinnati,San Mateo,,,
+15,,10.0,Bryon Threats,S,5-10,192.0,Jr.,"Columbus, Ohio / Coffman",Cincinnati,,,,
+16,,11.0,Sammy Anderson Jr.,CB,6-0,190.0,R-Jr.,"Dayton, Ohio / Trotwood-Madison",Cincinnati,,,,
+17,,11.0,Donovan Ollie,WR,6-3,212.0,R-Sr.,"Wylie, Texas / Wylie",Cincinnati,Washington State,,,
+18,,12.0,Brady Drogosh,QB,6-4,215.0,Fr.,"Warren, Mich. / De La Salle Collegiate",Cincinnati,,,,
+19,,12.0,Justin Harris,CB,6-0,195.0,R-Sr.,"Dayton, Ohio / Wayne",Cincinnati,,,,
+20,,13.0,Jacob Hoying,QB,6-2,205.0,R-So.,"Columbus, Ohio / Bishop Watterson",Cincinnati,,,,
+21,,13.0,D.J. Taylor,DB,5-10,190.0,R-Jr.,"Tampa, Fla. / Tampa Catholic",Cincinnati,Arizona State,,,
+22,,14.0,Rayquan Adkins,DB,5-11,175.0,Fr.,"Miami, Fla. / Northwestern",Cincinnati,,,,
+23,,14.0,Barry Jackson,WR,5-11,195.0,Fr.,"Ellenwood, Ga. / Cedar Grove",Cincinnati,,,,
+24,,15.0,Taj Ward,CB,6-0,194.0,R-Sr.,"Solon, Ohio / Solon",Cincinnati,,,,
+25,,16.0,Cam Junior,LB,6-1,220.0,R-So.,"Middletown, Ohio / Middletown",Cincinnati,,,,
+26,,16.0,Brady Lichtenberg,QB,6-1,205.0,R-So.,"Toledo, Ohio / Saint Johns Jesuit",Cincinnati,,,,
+27,,17.0,Joey Beljan,TE,6-3,240.0,R-Sr.,"Holland, N.J. / Delaware Valley High School",Cincinnati,Western Kentucky,,,
+28,,17.0,Brian Simms III,LB,6-3,250.0,Fr.,"Baltimore, Md. / St. Frances Academy",Cincinnati,,,,
+29,,19.0,Tyler Gillison,DE,6-4,242.0,R-Fr.,"Pickerington, Ohio / Pickerington Central",Cincinnati,,,,
+30,,20.0,Oliver Bridges,DB,6-2,203.0,R-Fr.,"Upper Marlboro, Md. / The Bullis School",Cincinnati,,,,
+31,,21.0,Kalen Carroll,DB,6-1,176.0,R-Fr.,"Indianapolis, Ind. / Center Grove",Cincinnati,,,,
+32,,21.0,Corey Kiner,RB,5-9,210.0,Jr.,"Cincinnati, Ohio / Roger Bacon",Cincinnati,LSU,,,
+33,,22.0,Ryan Montgomery,RB,5-11,200.0,Sr.,"Franklin, Ohio / Franklin",Cincinnati,,,,
+34,,22.0,Jonathan Thompson,LB,6-2,228.0,R-Fr.,"Columbus, Ohio / St. Francis De Sales",Cincinnati,,,,
+35,,23.0,Daved Jones Jr.,LB,6-1,225.0,R-Jr.,"Cincinnati, Ohio / Lakota West",Cincinnati,,,,
+36,,24.0,Todd Bumphis,CB,6-0,194.0,R-Jr.,"Toledo, Ohio / St. Francis De Sales",Cincinnati,,,,
+37,,25.0,Shaun Thomas,RB,6-0,205.0,R-So.,"Lima, Ohio / Central Catholic",Cincinnati,,,,
+38,,26.0,Myles Montgomery,RB,5-11,202.0,R-So.,"Jacksonville, Fla. / Fletcher",Cincinnati,,,,
+39,,26.0,Malik Rainey,CB,5-11,185.0,R-So.,"Chicago, Ill. / Bolingbrook",Cincinnati,,,,
+40,,27.0,Armorion Smith,S,6-1,205.0,R-So.,"Detroit, Mich. / River Rouge",Cincinnati,,,,
+41,,29.0,Manny Covey,RB,5-11,182.0,Fr.,"Starke, Fla. / Bradford",Cincinnati,,,,
+42,,29.0,Jacob Dingle,S,5-11,192.0,Sr.,"Louisville, Ky. / Trinity",Cincinnati,,,,
+43,,31.0,Mason Fletcher,P,6-7,205.0,Jr.,"Melbourne, Australia / ProKick",Cincinnati,,,,
+44,,31.0,Ken Willis,DB,5-11,178.0,R-Fr.,"Cincinnati, Ohio / Colerain",Cincinnati,,,,
+45,,32.0,James Camden,DB,6-1,225.0,R-Jr.,"Cincinnati, Ohio / Anderson",Cincinnati,,,,
+46,,33.0,Carter Brown,PK,6-0,195.0,So.,"Pearland, Texas / Dawson High School",Cincinnati,Arizona State,,,
+47,,33.0,CJ Doggette,DT,6-2,267.0,R-Fr.,"Pickerington, Ohio / Pickerington Central",Cincinnati,,,,
+48,,34.0,Caleb Schmitz,TE,6-3,228.0,R-So.,"Lancaster, Pa. / Warwick",Cincinnati,,,,
+49,,35.0,Brady Young,P,6-3,215.0,R-So.,"Perrysburg, Ohio / Perrysburg",Cincinnati,,,,
+50,,39.0,Bryce Burton,K,5-10,200.0,R-Sr.,"Cincinnati, Ohio / Princeton",Cincinnati,,,,
+51,,39.0,Cincear Lewis,DB,6-2,210.0,R-Fr.,"Kalamazoo, Mich. / Kalamazoo Central",Cincinnati,,,,
+52,,42.0,Stephan Byrd,RB,6-0,220.0,R-Fr.,"Canal Winchester, Ohio / Canal Winchester HS",Cincinnati,,,,
+53,,43.0,Jonah Lytle,CB,5-11,175.0,R-So.,"Canton, Ohio / McKinley",Cincinnati,,,,
+54,,44.0,Jah-Mal Williams,DL,6-4,240.0,R-So.,"Carver Ranches, Fla. / Cardinal Gibbons",Cincinnati,,,,
+55,,45.0,Barak Faulk,DL,6-3,240.0,R-Jr.,"Cincinnati, Ohio / Mason",Cincinnati,,,,
+56,,46.0,Antwan Peek Jr.,DB,6-2,195.0,R-Fr.,"Cincinnati, Ohio / Indian Hill",Cincinnati,,,,
+57,,49.0,Jack Dingle,LB,6-4,238.0,R-So.,"Louisville, Ky. / Trinity",Cincinnati,,,,
+58,,50.0,Jackson Bruscianelli,LB,5-11,245.0,R-Sr.,"Chicago, Ill. / Montini Catholic",Cincinnati,,,,
+59,,50.0,Evan Tengesdahl,OL,6-4,312.0,Fr.,"Dayton, Ohio / Wayne",Cincinnati,,,,
+60,,51.0,Ben Blevins,DL,6-2,270.0,R-Jr.,"Cincinnati, Ohio / La Salle",Cincinnati,,,,
+61,,53.0,Gavin Gerhardt,OL,6-4,300.0,R-Jr.,"Xenia, Ohio / Xenia",Cincinnati,,,,
+62,,54.0,Dartanyan Tinsley,OL,6-5,315.0,Sr.,"Owensboro, Ky. / Owensboro HS",Cincinnati,Kentucky Christian,,,
+63,,55.0,Mao Glynn II,OL,6-3,300.0,R-So.,"Cincinnati, Ohio / Walnut Hills",Cincinnati,,,,
+64,,57.0,Ryan Mullaney,DL,6-2,250.0,R-Sr.,"Cincinnati, Ohio / Moeller",Cincinnati,,,,
+65,,58.0,Trevor Radosevich,OL,6-4,310.0,R-Sr.,"Englishtown, N.J. / Manalapan",Cincinnati,Penn,,,
+66,,61.0,Luke Dalton,OL,6-5,305.0,R-Fr.,"Crystal Lake, Ill. / Marian Central Catholic",Cincinnati,,,,
+67,,62.0,Matt Mason,OL,6-3,295.0,R-Fr.,"Union, Ky. / Ryle",Cincinnati,,,,
+68,,66.0,Landon Fickell,OL,6-4,290.0,R-So.,"Cincinnati, Ohio / Moeller",Cincinnati,,,,
+69,,67.0,Luke Kandra,OL,6-4,318.0,R-Jr.,"Cincinnati, Ohio / Elder",Cincinnati,Louisville,,,
+70,,69.0,Cam Jones,OL,6-8,325.0,R-Sr.,"Knott County, Ky. / Fredrick Douglass",Cincinnati,,,,
+71,,74.0,Phillip Wilder,OL,6-5,305.0,R-Jr.,"Jonesboro, Ga. / Mt. Zion",Cincinnati,Southeast Missouri State,,,
+72,,75.0,John Williams,OL,6-5,310.0,R-Jr.,"Bolingbrook, Ill. / Bolingbrook",Cincinnati,,,,
+73,,76.0,Mitch Raifsnider,OL,6-8,280.0,R-So.,"Castalia, Ohio / Margaretta",Cincinnati,Army,,,
+74,,77.0,Jonathan Harder,OL,6-5,315.0,R-Fr.,"Delaware, Ohio / Olentangy Berlin",Cincinnati,,,,
+75,,79.0,Ethan Green,OT,6-7,300.0,R-Fr.,"Fremont, Ohio / Fremont Ross",Cincinnati,,,,
+76,,80.0,Chris Scott,WR,6-2,205.0,R-Jr.,"Columbus, Ohio / Pickerington North",Cincinnati,,,,
+77,,82.0,Michael McCalmont,TE,6-3,240.0,R-Jr.,"Mason, Ohio / Mason",Cincinnati,,,,
+78,,83.0,Ty Perkins,WR,6-3,195.0,Fr.,"Ironton, Ohio / Ironton",Cincinnati,,,,
+79,,84.0,Sterling Berkhalter,WR,6-4,198.0,Jr.,"Cincinnati, Ohio / Georgia Prep Academy (Snellville, Ga.)",Cincinnati,North Carolina A&T,,,
+80,,85.0,Triston O'Brien,LS,6-3,240.0,R-So.,"Jefferson, Ohio / NDCL",Cincinnati,,,,
+81,,85.0,Jiair Thomas,WR,6-4,210.0,R-Sr.,"Cincinnati, Ohio / Winton Woods",Cincinnati,,,,
+82,,86.0,Lesley Andoh,WR,6-0,188.0,R-Fr.,"Dublin, Ohio / Scioto",Cincinnati,,,,
+83,,88.0,Payten Singletary,TE,6-4,235.0,R-Jr.,"Thomasville, Ga. / Thomasville",Cincinnati,,,,
+84,,89.0,Jesse Meyer,TE,6-4,240.0,R-Fr.,"Coldwater, Ohio / Coldwater HS",Cincinnati,,,,
+85,,91.0,Drew Logan,DL,6-4,270.0,R-Fr.,"North Canton, Ohio / Hoover",Cincinnati,,,,
+86,,92.0,Derrick Shepard,DT,6-3,305.0,R-Fr.,"Dayton, Ohio / Archbishop Alter",Cincinnati,,,,
+87,,95.0,Justin Wodtly,DL,6-3,275.0,R-Jr.,"Cleveland, Ohio / Cleveland Hts.",Cincinnati,,,,
+88,,96.0,Dominique Perry,DL,6-2,288.0,R-Jr.,"Germantown, Md. / Northwest",Cincinnati,,,,
+89,,96.0,Cayson Pfeiffer,LS,6-0,220.0,R-Sr.,"Columbus, Ohio / Dublin Scioto",Cincinnati,,,,
+90,,97.0,Eric Phillips,DL,6-3,257.0,R-Sr.,"Cincinnati, Ohio / Colerain",Cincinnati,,,,
+91,,99.0,Rob Jackson,DL,6-5,278.0,R-So.,"Philadelphia, Pa. / Archbishop Wood",Cincinnati,,,,
+0,,,,,,,,,Cincinnati,,,Scott Satterfield,Head Coach
+1,,,,,,,,,Cincinnati,,,Bryan Brown,Associate Head Coach / Defensive Coordinator
+2,,,,,,,,,Cincinnati,,,Brad Glenn,Offensive Coordinator / Wide Receivers
+3,,,,,,,,,Cincinnati,,,Kerry Coombs,Special Teams Coordinator / Cornerbacks
+4,,,,,,,,,Cincinnati,,,Nate Fuqua,Co-Defensive Coordinator / Outside Linebackers
+5,,,,,,,,,Cincinnati,,,Cortney Braswell,Assistant Coach / Inside Linebackers
+6,,,,,,,,,Cincinnati,,,Nic Cardwell,Assistant Coach / Offensive Line
+7,,,,,,,,,Cincinnati,,,Walter Stewart,Assistant Coach / Defensive Line
+8,,,,,,,,,Cincinnati,,,De'Rail Sims,Assistant Coach / Running Backs
+9,,,,,,,,,Cincinnati,,,Josh Stepp,Assistant Coach / Tight Ends
+10,,,,,,,,,Cincinnati,,,Pete Thomas,Assistant Coach / Quarterbacks
+0,,,,,,,,,Cincinnati,,,Mark Speir,Chief of Staff
+1,,,,,,,,,Cincinnati,,,John Widecan,Associate AD/Football Operations
+2,,,,,,,,,Cincinnati,,,Sherry Murray,Associate to the Head Football Coach
+3,,,,,,,,,Cincinnati,,,Mitch Marotti,Operations & Video Assistant
+4,,,,,,,,,Cincinnati,,,Zach Grant,General Manager
+5,,,,,,,,,Cincinnati,,,Caroline Tart,Director of Recruiting
+6,,,,,,,,,Cincinnati,,,Jack Griffith,Director of Player Personnel
+7,,,,,,,,,Cincinnati,,,Ashley Hecimovich,Director of On-Campus Recruiting
+8,,,,,,,,,Cincinnati,,,Cass Simmons,Director of Recruiting Strategy
+9,,,,,,,,,Cincinnati,,,Carter Wilson,Director of Scouting
+10,,,,,,,,,Cincinnati,,,Chris Canada,Graduate Assistant - Offense
+11,,,,,,,,,Cincinnati,,,Adam Niemeyer,Director of Football Video
+12,,,,,,,,,Cincinnati,,,Dalvin Jones,Director/Football Equipment
+13,,,,,,,,,Cincinnati,,,Jason Achauer,Assistant Equipment Manager
+14,,,,,,,,,Cincinnati,,,Niko Palazeti,Director of Football Sports Performance
+15,,,,,,,,,Cincinnati,,,Christopher Friend,Associate Director of Football Sports Performance
+16,,,,,,,,,Cincinnati,,,Brandon Garcia,Assistant Director of Football Sports Performance
+17,,,,,,,,,Cincinnati,,,Scott Ethington,Assistant Football Sports Performance Coach
+18,,,,,,,,,Cincinnati,,,Micaela Serrano,Associate Director of Performance Nutrition - Football Dietitian
+19,,,,,,,,,Cincinnati,,,Seth Price,Quality Control - Offense
+20,,,,,,,,,Cincinnati,,,Larry Dace,Graduate Assistant - Offense
+21,,,,,,,,,Cincinnati,,,Malik Davis,Graduate Assistant - Defense
+22,,,,,,,,,Cincinnati,,,Grant Gourley,Graduate Assistant - Defense
+23,,,,,,,,,Cincinnati,,,Vijay Stingley,Quality Control - Offense
+24,,,,,,,,,Cincinnati,,,Jacob Brandon,Quality Control - Defense
+25,,,,,,,,,Cincinnati,,,Tim Conner,Quality Control - Special Teams
+26,,,,,,,,,Cincinnati,,,Wes Fleming,Quality Control - Defense
+27,,,,,,,,,Cincinnati,,,Luke Mullett,Special Assistant to the Head Coach
+28,,,,,,,,,Cincinnati,,,Clay Colvin,Director of Creative Media - Football
+29,,,,,,,,,Cincinnati,,,Robert Nunn,Quality Control - Defense

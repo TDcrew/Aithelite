@@ -1,73 +1,132 @@
-,0,1,2
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Rian DavisRyanFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Marcus Rosemy-JacksaintFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Kamari LassiterFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Jamon Dumas-JohnsonFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Arian SmithFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Brock VandagriffFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Sevaughn ClarkFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Javon BullardFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Tykee SmithFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Austin BlaskeFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Sedrick Van PranFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Amarius MimsFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Nazir StackhouseFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Mekhi MewsFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Tramel WalthourTRUH-melFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Tyrion Ingram-DawkinsFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Zion LogueFootball,
-3,,,
-0,,POWERED BY,POWERED BY
-1,,Pronunciation Guide,Pronunciation Guide
-2,,Jared ZirkelFootball,
-3,,,
+,#,Full Name,Pos.,Ht.,Wt.,Academic Year,Hometown / High School,Previous School,Current School Name,Instagram,Twitter
+0,0.0,Rian Davis,ILB,6' 2'',230,Sr.,"Apopka, Fla. / Wekiva",,Georgia,tr0ublemannn,Trouble_R4
+1,0.0,Roderick Robinson II,RB,6' 0'',235,Fr.,"Imperial, Calif. / Lincoln",,Georgia,,
+2,1.0,Nyland Green,DB,6' 1'',185,R-So.,"Covington, Ga. / Newton",,Georgia,nylandgreen,nylandgreen1
+3,1.0,Marcus Rosemy-Jacksaint,WR,6' 2'',195,Sr.,"Pompano Beach, Fla. / St. Thomas Aquinas",,Georgia,marcus.rosemy,rosemy_marcus
+4,2.0,Kendall Milton,RB,6' 1'',220,Sr.,"Fresno, Calif. / Buchanan",,Georgia,therealkmilt,therealkmilt
+5,2.0,"Smael Mondon, Jr.",ILB,6' 3'',220,Jr.,"Dallas, Ga. / Paulding County",,Georgia,4smael,SmaelJR
+6,3.0,Kamari Lassiter,DB,6' 0'',180,Jr.,"Savannah, Ga. / American Christian Academy",,Georgia,ka.mari._,kamari_lassiter
+7,3.0,Andrew Paul,RB,5' 11'',218,R-Fr.,"Dallas, Texas / Parish Episcopal School",,Georgia,,
+8,4.0,Oscar Delp,TE,6' 5'',225,So.,"Cumming, Ga. / West Forsyth",,Georgia,,
+9,4.0,A.J. Harris,DB,6' 1'',190,Fr.,"Phenix City, Ala. / Central",,Georgia,,
+10,5.0,Rara Thomas,WR,6' 2'',200,Fr.,"Eufaula, Ala. / Eufaula HS",Mississippi State,Georgia,,
+11,5.0,Raylen Wilson,ILB,6' 1'',225,Fr.,"Tallahassee, Fla. / Lincoln",,Georgia,,
+12,6.0,Daylen Everette,DB,6' 1'',190,So.,"Norfolk, Va. / IMG Academy",,Georgia,,
+13,6.0,Dominic Lovett,WR,5' 10'',179,Jr.,"Belleville, Ill.",,Georgia,,
+14,7.0,"Marvin Jones, Jr",OLB,6' 5'',250,So.,"Sunrise, Fla. / American Heritage",,Georgia,,
+15,7.0,Lawson Luckie,TE,6' 3'',240,Fr.,"Norcross, Ga. / Norcross",,Georgia,,
+16,8.0,Joenel Aguero,DB,5' 11'',205,Fr.,"Lynn, Mass. / St. John’s Prep",,Georgia,,
+17,9.0,Jackson Meeks,WR,6' 2'',205,Jr.,"Phenix City, Ala. / Central",,Georgia,yeahimjack,_7JMEEKS
+18,9.0,Justyn Rhett,DB,6' 0'',190,Fr.,"Las Vegas, Nev. / Bishop Gorman",,Georgia,,
+19,10.0,Jamon Dumas-Johnson,ILB,6' 1'',245,Jr.,"Hyattsville, Md. / St. Frances Academy",,Georgia,1jamondj,1jamondj
+20,10.0,Tyler Williams,WR,6' 3'',205,Fr.,"Lakeland, Fla. / Lakeland",,Georgia,,
+21,11.0,Arian Smith,WR,6' 0'',185,Jr.,"Bradley, Fla. / Lakeland",,Georgia,arian_smith.10,ArianSmith2
+22,11.0,Jalon Walker,ILB,6' 2'',225,So.,"Salisbury, N.C. / Salisbury",,Georgia,,
+23,12.0,Julian Humphrey,DB,6' 0'',190,R-Fr.,"Webster, Texas / Clear Lake",,Georgia,,
+24,12.0,Brock Vandagriff,QB,6' 3'',205,R-So.,"Bogart, Ga. / Prince Avenue Christian School",,Georgia,brockvandagriff,BrockVandagriff
+25,13.0,Zeed Haynes,WR,6' 1'',170,Fr.,"Philadelphia, Pa. / North Penn",,Georgia,,
+26,13.0,Mykel Williams,DL,6' 5'',265,So.,"Columbus, Ga. / Hardaway",,Georgia,,
+27,14.0,David Daniel-Sisavanh,DB,6' 2'',185,Jr.,"Woodstock, Ga. / Woodstock",,Georgia,david.danielll,David_X_Dope
+28,14.0,Gunner Stockton,QB,6' 1'',210,R-Fr.,"Tiger, Ga. / Rabun County",,Georgia,,
+29,15.0,Carson Beck,QB,6' 4'',215,Jr.,"Jacksonville, Fla. / Mandarin",,Georgia,carsonbeck,
+30,16.0,C.J. Madden,DE,6' 4'',230,R-Fr.,"Ellenwood, Ga. / Cedar Grove",,Georgia,,
+31,16.0,Jackson Muschamp,QB,6' 2'',190,Jr.,"Columbia, S.C. / Hammond School",,Georgia,jackson_muschamp,JacksonMuschamp
+32,17.0,Anthony Evans III,WR,5' 11'',165,Fr.,"Converse, Texas / Judson",,Georgia,,
+33,17.0,Dan Jackson,DB,6' 1'',190,Sr.,"Gainesville, Ga. / North Hall",,Georgia,danjackson_4,
+34,18.0,C.J. Smith,WR,6' 3'',175,R-Fr.,"Apopka, Fla. / Mount Dora",,Georgia,,
+35,18.0,Xavian Sorey Jr.,ILB,6' 3'',214,R-So.,"Campbellton, Fla. / IMG Academy",,Georgia,_slide.sorey,Sorey_Jr
+36,19.0,Brock Bowers,TE,6' 4'',230,Jr.,"Napa, Calif. / Napa",,Georgia,brock.bowers17,brockbowers17
+37,19.0,Darris Smith,OLB,6' 5'',225,So.,"Baxley, Ga. / Appling County",,Georgia,,
+38,20.0,Sevaughn Clark,RB,6' 1'',215,Sr.,"Dawsonville, Ga. / Dawson County",,Georgia,n11es,VaughnC1ark
+39,20.0,JaCorey Thomas,DB,6' 0'',200,So.,"Orlando, Fla. / Boone",,Georgia,,
+40,22.0,Javon Bullard,DB,5' 11'',180,Jr.,"Milledgeville, Ga. / Baldwin",,Georgia,javon.bullard,cravejaaye
+41,22.0,Branson Robinson,RB,5' 10'',220,So.,"Canton, Miss. / Germantown",,Georgia,,
+42,23.0,De’Nylon Morrissette,WR,6' 1'',200,So.,"Stone Mountain, Ga. / North Cobb",,Georgia,,
+43,23.0,Tykee Smith,DB,5' 10'',198,Sr.,"Philadelphia, Pa. / Imhotep Institute Charter",West Virginia,Georgia,tyksmith,TykSmith
+44,24.0,Malaki Starks,DB,6' 1'',205,So.,"Jefferson, Ga. / Jefferson",,Georgia,,
+45,25.0,E.J. Lightsey,ILB,6' 2'',223,R-Fr.,"Fitzgerald, Ga. / Fitzgerald",,Georgia,,
+46,26.0,Collin Drake,QB,6' 1'',195,R-So.,"Ennis, Texas / Ennis",,Georgia,,
+47,26.0,Samuel M'Pemba,OLB,6' 3'',245,Fr.,"Olivette, Mo. / IMG Academy",,Georgia,,
+48,27.0,C.J. Washington,LB,6' 1'',220,R-Fr.,"Cedartown, Ga. / Cedartown",,Georgia,,
+49,28.0,Mack Simmons,WR,5' 10'',175,Sr.,"Athens, Ga. / Prince Avenue School",Presbyterian College,Georgia,,
+50,28.0,"Marcus Washington, Jr.",DB,6' 1'',185,R-Fr.,"Grovetown, Ga. / Grovetown",,Georgia,,
+51,29.0,Luke Bennett,WR,5' 11'',175,R-Fr.,"Blackshear, Ga. / Pierce County",,Georgia,,
+52,29.0,Gabe Harris,OLB,6' 4'',250,Fr.,"Thomasville, Ga. / IMG Academy",,Georgia,,
+53,30.0,Daijun Edwards,RB,5' 10'',201,Sr.,"Norman Park, Ga. / Colquitt County",,Georgia,daijun.33,3wayyyy
+54,30.0,Terrell Foster,ILB,6' 1'',210,R-Fr.,"Kennesaw, Ga. / IMG Academy",,Georgia,,
+55,31.0,Smoke Bouie,DB,5' 11'',180,So.,"Bainbridge, Ga. / Bainbridge",Texas A&M,Georgia,,
+56,31.0,Grant Briscoe,WR,6' 3'',190,R-Fr.,"Carrollton, Ga. / Carrollton",,Georgia,,
+57,32.0,Chaz Chambliss,OLB,6' 2'',250,Jr.,"Carrollton, Ga. / Carrollton",,Georgia,chaz_chambliss,ChazChambliss
+58,32.0,Cash Jones,RB,6' 0'',182,R-So.,"Brock, Texas / Brock",,Georgia,,
+59,33.0,C.J. Allen,ILB,6' 1'',225,Fr.,"Barnesville, Ga. / Lamar County",,Georgia,,
+60,35.0,Aidan Bailey,ILB,5' 10'',195,Fr.,"Peachtree Corners, Ga. / Greater Atlanta Christian Academy",,Georgia,,
+61,35.0,Jacob Fleming,S,5' 11'',190,R-Fr.,"Atlanta, Ga. / Westminster",,Georgia,,
+62,35.0,"Damon Wilson, Jr.",OLB,6' 4'',235,Fr.,"Nokomis, Fla. / Venice",,Georgia,,
+63,36.0,Cameron Kawa,WR,5' 8'',165,Jr.,"Marietta, Ga. / Hillgrove",Berry College,Georgia,,
+64,36.0,Colby Smith,DB,5' 10'',170,Jr.,"Danielsville, Ga. / Madison County",Presbyterian,Georgia,,
+65,38.0,Brooks Bortle,WR,6' 1'',185,R-Fr.,"Roswell, Ga. / Milton",,Georgia,,
+66,38.0,Patrick Taylor,DB,6' 0'',175,Jr.,"Johns Creek, Ga. / Johns Creek",,Georgia,_patricktaylor_,Patrick_Taylor6
+67,39.0,Parker Jones,WR,5' 11'',165,R-Fr.,"Albany, Ga. / Deerfield-Windsor",,Georgia,,
+68,39.0,Miles Thornton,WR,6' 0'',190,R-Fr.,"Tyrone, Ga. / Sandy Creek",,Georgia,,
+69,41.0,Denton Shamburger,DE,6' 0'',175,R-Fr.,"Atlanta, Ga. / Westminster School",,Georgia,,
+70,42.0,Graham Collins,ILB,6' 2'',215,Jr.,"Atlanta, Ga. / Holy Innocents Episcopal School",,Georgia,,
+71,43.0,James Boswell,ILB,6' 1'',230,R-So.,"Watkinsville, Ga. / Oconee",North Georgia,Georgia,,
+72,44.0,Cade Brock,TE,6' 0'',250,Jr.,"Subligna, Ga. / Darlington",,Georgia,_cade.brock__,cade_brock_
+73,44.0,Jordan Hall,DL,6' 4'',310,Fr.,"Jacksonville, Fla. / Westside",,Georgia,,
+74,45.0,Austine Eziukwu,DB,6' 1'',215,Jr.,"Lagos, Nigeria / McEachern",Georgia State,Georgia,,
+75,45.0,Jacob Hardie,RB,5' 9'',180,R-Fr.,"Olney, Md. / Our Lady of Good Counsel",,Georgia,,
+76,46.0,Andrew Correa,WR,6' 3'',200,Fr.,"Macon, Ga. / First Presbyterian Day School",,Georgia,,
+77,46.0,George Vining,WR,6' 0'',205,Sr.,"Macon, Ga. / Tatnall Square Academy",,Georgia,,
+78,47.0,Sam Shurtlett,OLB,6' 4'',230,Jr.,"Watkinsville, Ga. / Oconee County",Nebraska,Georgia,,
+79,48.0,Joseph Daniels,DB,5' 10'',188,Gr.,"Johns Creek, Ga. / Roswell",Indiana,Georgia,,
+80,48.0,Cooper Johnson,TE,6' 4'',220,R-Fr.,"Cumming, Ga. / West Forsyth",,Georgia,,
+81,49.0,Jamier Moten,DB,5' 8'',160,R-Fr.,"Charlotte, N.C. / Ardrey Kell",,Georgia,,
+82,52.0,Christen Miller,DL,6' 4'',295,R-Fr.,"Ellenwood, Ga. / Cedar Grove",,Georgia,,
+83,53.0,Dylan Fairchild,OL,6' 5'',300,R-So.,"Cumming, Ga. / West Forsyth HS",,Georgia,dylan__fairchild,dylanfairchild6
+84,55.0,Jamaal Jarrett,DL,6' 5'',350,Fr.,"Greensboro, N.C. / Grimsley",,Georgia,,
+85,55.0,Jared Wilson,OL,6' 3'',300,R-So.,"Winston-Salem, N.C. / West Forsyth HS",,Georgia,,j_wilson55
+86,56.0,Micah Morris,OL,6' 6'',330,R-So.,"Kingsland, Ga. / Camden County",,Georgia,big_mike_56_,MicahMorris56cc
+87,56.0,William Mote,SN,6' 2'',230,Sr.,"Hoover, Ala. / Spain Park",,Georgia,william.mote,W_Mote50
+88,57.0,Luke Collins,OLB,6' 2'',245,R-So.,"Birmingham, Ala. / Birmingham Prep",,Georgia,,
+89,57.0,Monroe Freeling,OL,6' 7'',300,Fr.,"Isle of Palms, S.C. / Oceanside Collegiate",,Georgia,,
+90,58.0,Austin Blaske,OL,6' 5'',310,Jr.,"Faulkville, Ga. / South Effingham",,Georgia,austin_blaske58,AustinBlaske
+91,63.0,Sedrick Van Pran,OL,6' 4'',310,Jr.,"New Orleans, La. / Warren Easton",,Georgia,sedrickvanpran,SedrickVanPran
+92,65.0,Amarius Mims,OL,6' 7'',330,Jr.,"Cochran, Ga. / Bleckley County",,Georgia,amariusmims,amarius_mims
+93,66.0,Aliou Bah,OL,6' 5'',330,R-Fr.,"Memphis, Tenn. / IMG Academy",,Georgia,,
+94,66.0,Jonathan Washburn,SN,6' 2'',230,R-So.,"Ringgold, Ga. / Heritage",,Georgia,,
+95,68.0,Chris Brown,OL,6' 5'',315,Jr.,"Savannah, Ga. / Islands",,Georgia,chris_brown314,
+96,69.0,Tate Ratledge,OL,6' 6'',315,Jr.,"Rome, Ga. / Darlington School",,Georgia,rat1edge,tateratledge22
+97,70.0,Joshua Miller,OL,6' 4'',310,Fr.,"Chesterfield, Va. / Life Christian Academy",,Georgia,,
+98,71.0,"Earnest Greene, III",OL,6' 4'',330,R-Fr.,"Los Angeles, Calif. / St. John Bosco",,Georgia,,
+99,72.0,Griffin Scroggs,OL,6' 3'',315,R-Fr.,"Grayson, Ga. / Grayson",,Georgia,,
+100,73.0,Xavier Truss,OL,6' 7'',320,Sr.,"West Warwick, R.I. / Bishop Hendricken",,Georgia,xaviertruss,xtruss94
+101,74.0,Drew Bobo,OL,6' 5'',290,R-Fr.,"Auburn, Ala. / Auburn",,Georgia,,
+102,76.0,Miles Johnson,OL,6' 5'',320,Jr.,"Blue Ridge, Ga. / Fannin County",,Georgia,miles.johnson76,milesjohnson76
+103,78.0,Chad Lindberg,OL,6' 6'',325,Jr.,"League City, Texas / Clear Creek",,Georgia,chadlindberg78,ChadLindberg78
+104,78.0,Nazir Stackhouse,DL,6' 3'',320,Sr.,"Stone Mountain, Ga. / Columbia",,Georgia,i_am_naz,TheStackHouse_
+105,79.0,Weston Wallace,OL,6' 4'',320,Jr.,"Eatonton, Ga. / Gatewood School",,Georgia,weston212,
+106,80.0,Brandon Moody,WR,5' 7'',165,Jr.,"Monroe, Ga. / Monroe Area",Berry College,Georgia,,
+107,81.0,David Lalaian,TE,6' 4'',225,Fr.,"Monroe, Ga. / Monroe Area",,Georgia,,
+108,82.0,Logan Johnson,WR,5' 6'',155,R-So.,"Bogart, Ga. / Prince Avenue Christian School",,Georgia,,
+109,83.0,Cole Speer,WR,5' 11'',185,So.,"Calhoun, Ga. / Calhoun",,Georgia,,
+110,84.0,Ladd McConkey,WR,6' 0'',185,Jr.,"Chatsworth, Ga. / North Murray",,Georgia,ladd.mcconkey,laddmcconkey02
+111,85.0,Drew Sheehan,TE,6' 2'',215,Sr.,"Woodstock, Ga. / Woodstock",Kennesaw State,Georgia,,
+112,86.0,Dillon Bell,WR,6' 1'',210,So.,"Houston, Texas / The Kinkaid School",,Georgia,,
+113,87.0,Mekhi Mews,WR,5' 8'',170,R-So.,"Grayson, Ga. / Central Gwinnett",,Georgia,,
+114,88.0,Pearce Spurlin III,TE,6' 7'',240,Fr.,"Rosemary Beach, Fla. / South Walton",,Georgia,,
+115,89.0,Braxton Hicks,WR,6' 2'',195,Jr.,"Tiger, Ga. / Rabun County",,Georgia,braxtonhicks35,BraxtonLeeHick1
+116,90.0,Tramel Walthour,DL,6' 3'',280,Sr.,"Hinesville, Ga. / Liberty County",Hutchinson Community College,Georgia,mel90_,walthour_tramel
+117,92.0,Brett Thorson,P,6' 2'',210,So.,"Melbourne, Australia / ProKick Australia",,Georgia,,
+118,93.0,Tyrion Ingram-Dawkins,DL,6' 5'',300,R-So.,"Gaffney, S.C. / Gaffney",,Georgia,tyreeun,93saccs
+119,94.0,Henry Bates,PK,5' 11'',170,R-Fr.,"Waycross, Ga. / Ware County",,Georgia,,
+120,94.0,Jonathan Jefferson,DL,6' 3'',295,R-So.,"Douglasville, Ga. / Douglas County",,Georgia,uno.jon,Jon_thadon1
+121,96.0,Zion Logue,DL,6' 5'',295,Sr.,"Lebanon, Tenn. / Lebanon",,Georgia,le96ndary_,tharealzbo0
+122,97.0,Warren Brinson,DL,6' 4'',305,Sr.,"Savannah, Ga. / IMG Academy",,Georgia,warren,warrenbrinson17
+123,98.0,Noah Jones,P,6' 0'',165,R-So.,"Cairo, Ga. / Cairo",,Georgia,noahjones.4,noahjones_44
+124,99.0,Bear Alexander,DL,6' 3'',305,So.,"Terrell, Texas / IMG Academy",,Georgia,,
+125,99.0,Jared Zirkel,PK,6' 3'',185,Jr.,"Kerrville, Texas / Tivy",,Georgia,jared_zirkel,JaredZirkel
+126,,Liam Badger,PK,6' 0'',170,R-So.,"Cumming, Ga. / West Forsyth",Kennesaw State,Georgia,,
+127,,Huntley King,P,5' 9'',170,R-So.,"Atlanta, Ga. / The Lovett School",,Georgia,,
+128,,Collin Lark,DB,6' 0'',198,Jr.,"Dallas, Texas / Dallas Jesuit",,Georgia,,
+129,,Izayah Reeves,WR,5' 11'',175,R-So.,"Long Island, N.Y. / Monocan",Charleston,Georgia,,
+130,,Will Snellings,SN,6' 2'',220,Fr.,"Fayetteville, Ga. / Whitewater",,Georgia,,

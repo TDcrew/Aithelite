@@ -1,138 +1,136 @@
-,Number,Name,Position,Height,Weight,Class,Hometown,High School,Previous School,Twitter,Instagram
-0,0.0,Diante Vines,WR,6-0,198 lbs.,Jr.,"Danbury, Conn.",The Taft School,,,
-1,1.0,Aaron Blom,K,5-11,189 lbs.,Jr.,"Oskaloosa, Iowa",Oskaloosa,,,
-2,1.0,Xavier Nwankpa,DB,6-2,210 lbs.,So.,"Pleasant Hill, Iowa",Southeast Polk,,,
-3,2.0,TJ Hall,DB,6-0,183 lbs.,So.,"Fresno, Calif.",San Joaquin Memorial,,,
-4,2.0,Kaleb Johnson,RB,6-0,212 lbs.,So.,"Hamilton, Ohio",Hamilton,,,
-5,3.0,Cooper DeJean,DB,6-1,209 lbs.,Jr.,"Odebolt, Iowa",OA-BCIG,,,
-6,4.0,Koen Entringer,DB,6-0,199 lbs.,RS Fr.,"Ypsilanti, Mich.",Walled Lake Western,,,
-7,4.0,Leshon Williams,RB,5-10,210 lbs.,Jr.,"Chicago, Ill.",Richards,,,
-8,5.0,Joe Labas,QB,6-4,207 lbs.,So.,"Brecksville, Ohio",Brecksville-Broadview Heights,,,
-9,6.0,Seth Anderson,WR,6-0,178 lbs.,So.,"Suwanee, Ga.",North Gwinnett,Charleston Southern,,
-10,7.0,Jacob Bostick,WR,6-2,171 lbs.,RS Fr.,"Palatine, Ill.",Palatine,,,
-11,7.0,Spencer Petras,QB,6-5,231 lbs.,Sr.,"San Rafael, Calif.",Marin Catholic,,,
-12,8.0,Deshaun Lee,DB,5-10,174 lbs.,RS Fr.,"Belleville, Mich.",Belleville,,,
-13,8.0,"Terrell Washington, Jr.",RB,5-11,195 lbs.,Fr.,"Wylie, Texas",Wylie East,,,
-14,9.0,Jaziun Patterson,RB,5-10,188 lbs.,RS Fr.,"Pompano, Beach, Fla.",Deerfield Beach,,,
-15,9.0,Tory Taylor,P,6-4,230 lbs.,Sr.,"Melbourne, Australia",Haileybury College,,,
-16,10.0,Deacon Hill,QB,6-3,230 lbs.,So.,"Santa Barbara, Calif.",Santa Barbara,Wisconsin,,
-17,11.0,AJ Lawson,DB,6-0,193 lbs.,Jr.,"Decatur, Ill.",MacArthur,,,
-18,12.0,Cade McNamara,QB,6-1,206 lbs.,Sr.,"Reno, Nev.",Damonte Ranch,Michigan,,
-19,12.0,Jaxon Rexroth,DB,6-2,213 lbs.,So.,"Cedar Rapids, Iowa",Xavier,,,
-20,13.0,Joe Evans,DE,6-2,246 lbs.,Sr.,"Ames, Iowa",Ames,,,
-21,13.0,Reese Osgood,WR,5-11,176 lbs.,RS Fr.,"Franklin, Wis.",Franklin,,,
-22,14.0,Brody Brecht,WR,6-4,217 lbs.,So.,"Ankeny, Iowa",Ankeny,,,
-23,15.0,Jack Johnson,WR,6-0,194 lbs.,Jr.,"West Des Moines, Iowa",Valley,,,
-24,16.0,Graham Friedrichsen,WR,6-1,183 lbs.,RS Fr.,"Urbandale, Iowa",Urbandale,,,
-25,16.0,Jamison Heinz,DB,6-0,205 lbs.,Jr.,"Humboldt, Iowa",Humboldt,,,
-26,17.0,Brenden Deasfernandes,DB,6-0,192 lbs.,Jr.,"Belleville, Mich.",Belleville,,,
-27,17.0,Max White,RB,5-10,203 lbs.,So.,"Cedar Rapids, Iowa",Kennedy,,,
-28,18.0,Drew Stevens,K,6-0,180 lbs.,So.,"North Augusta, S.C.",North Augusta,,,
-29,18.0,Alec Wick,WR,6-1,196 lbs.,So.,"Iowa City, Iowa",Regina Catholic,,,
-30,19.0,Gaven Cooke,DB,6-1,184 lbs.,So.,"Kentfield, Calif.",Marin Catholic,,,
-31,20.0,Deavin Hilson,DB,6-1,192 lbs.,So.,"Des Moines, Iowa",North,,,
-32,21.0,Watts McBride,DB,6-0,195 lbs.,Fr.,"Cedar Rapids, Iowa",Washington,,,
-33,21.0,Kaden Wetjen,WR,5-10,191 lbs.,Jr.,"Williamsburg, Iowa",Williamsburg,Iowa Western CC,,
-34,22.0,Alex Eichmann,WR,6-2,193 lbs.,RS Fr.,"Sussex, Wis.",Hamilton-Sussex,,,
-35,22.0,Carter Erickson,DB,6-0,181 lbs.,RS Fr.,"Indianola, Iowa",Indianola,,,
-36,23.0,Austin Kutscher,WR,6-0,198 lbs.,Sr.,"Massillon, Ohio",Washington,Ohio State,,
-37,23.0,Landyn Van Kekerix,LB,6-1,198 lbs.,RS Fr.,"Rock Valley, Iowa",Boyden Hull/Rock Valley,,,
-38,25.0,Kelby Telander,LB,6-4,228 lbs.,So.,"North Liberty, Iowa",Liberty,,,
-39,26.0,Kael Kolarik,DB,6-0,211 lbs.,RS Fr.,"Indianola, Iowa",Indianola,,,
-40,27.0,Jermari Harris,DB,6-1,190 lbs.,Jr.,"Chicago, Ill.",Montini Catholic,,,
-41,29.0,Sebastian Castro,DB,5-11,207 lbs.,Sr.,"Oak Lawn, Ill.",Richards,,,
-42,30.0,Quinn Schulte,DB,6-1,208 lbs.,Sr.,"Cedar Rapids, Iowa",Xavier,,,
-43,31.0,Eli Miller,FB,6-1,232 lbs.,So.,"Sedalia, Co.",Lipscomp Academy,Valor Christian,,
-44,33.0,Jackson Filer,DL,6-3,230 lbs.,Jr.,"Des Moines, Iowa",Dowling Catholic,Iowa Western CC,,
-45,34.0,Zach Brand,RB,5-11,210 lbs.,So.,"Grimes, Iowa",Dallas Center-Grimes,,,
-46,34.0,Jay Higgins,LB,6-2,229 lbs.,Sr.,"Indianapolis, Ind.",Brebeuf Jesuit Prep,,,
-47,35.0,Justice Sullivan,LB,6-2,230 lbs.,So.,"Eden Prairie, Minn.",Eden Prairie,,,
-48,36.0,Jayden Montgomery,LB,5-10,214 lbs.,RS Fr.,"Suamico, Wis.",Bay Port,,,
-49,37.0,Kyler Fisher,LB,5-11,229 lbs.,Sr.,"Farnhamville, Iowa",SE Valley,,,
-50,38.0,Greg Fagan,LB,6-3,214 lbs.,RS Fr.,"Council Bluffs, Iowa",St. Albert,,,
-51,39.0,Luke Elkin,LS,6-1,227 lbs.,Jr.,"Neenah, Wis.",Neenah,,,
-52,39.0,Eric Epenesa,LB,6-3,193 lbs.,So.,"Glen Carbon, Ill.",Edwardsville,,,
-53,40.0,Josef Smith,LB,6-3,233 lbs.,Jr.,"Britt, Iowa",West Hancock,,,
-54,41.0,Jaden Harrell,LB,6-2,239 lbs.,So.,"Urbandale, Iowa",Urbandale,,,
-55,42.0,Denin Limouris,FB,6-2,234 lbs.,So.,"Glen Ellyn, Ill.",Glenbard West,,,
-56,42.0,Zach Twedt,LB,6-3,240 lbs.,So.,"Story City, Iowa",Roland-Story,,,
-57,43.0,Karson Sharar,LB,6-2,224 lbs.,So.,"Iowa Falls, Iowa",Iowa Falls-Alden,,,
-58,45.0,Deontae Craig,DL,6-3,266 lbs.,Jr.,"Fort Wayne, Ind.",Culver Academies,,,
-59,48.0,Max Llewellyn,DL,6-5,243 lbs.,So.,"Urbandale, Iowa",Urbandale,,,
-60,49.0,Ethan Hurkett,DL,6-3,252 lbs.,Jr.,"Cedar Rapids, Iowa",Xavier,,,
-61,49.0,Andrew Lentsch,TE,6-4,252 lbs.,So.,"West Des Moines, Iowa",Dowling Catholic,,,
-62,51.0,Luke Gaffney,DL,6-2,247 lbs.,RS Fr.,"Robins, Iowa",Linn-Mar,,,
-63,52.0,Asher Fahey,OL,6-5,289 lbs.,Jr.,"Waukon, Iowa",Waukon,,,
-64,53.0,Michael Myslinski,OL,6-3,287 lbs.,So.,"Jacksonville, Fla.",Bishop Kenny,,,
-65,54.0,Anterio Thompson,DL,6-3,290 lbs.,So.,"Dubuque, Iowa",Hempstead,Iowa Western CC,,
-66,55.0,Jeremiah Pittman,DL,6-3,297 lbs.,So.,"Palatine, Ill.",St. Viator,,,
-67,56.0,Nick DeJong,OL,6-6,300 lbs.,Sr.,"Pella, Iowa",Pella,,,
-68,57.0,Will Hubert,DL,6-3,247 lbs.,RS Fr.,"Omaha, Neb.",Papillion-La Vista,,,
-69,59.0,Griffin Liddle,OL,6-3,282 lbs.,So.,"Bettendorf, Iowa",Bettendorf,,,
-70,65.0,Logan Jones,DL,6-3,283 lbs.,Jr.,"Council Bluffs, Iowa",Lewis Central,,,
-71,66.0,Jeremy Chaplin,OL,6-2,263 lbs.,So.,"Waverly, Iowa",Waverly-Shell Rock,,,
-72,67.0,Gennings Dunker,OL,6-5,316 lbs.,So.,"Lena, Illinois",Lena-Winslow,,,
-73,70.0,Beau Stephens,OL,6-6,307 lbs.,So.,"Blue Springs, Mo.",Blue Springs,,,
-74,71.0,Jack Dotzler,OL,6-6,266 lbs.,RS Fr.,"Waunakee, Wis.",Waunakee,,,
-75,72.0,Kale Krogh,OL,6-5,276 lbs.,RS Fr.,"Huxley, Iowa",Ballard,,,
-76,76.0,Tyler Elsbury,OL,6-5,308 lbs.,Jr.,"Byron, Ill.",Byron,,,
-77,77.0,Connor Colby,OL,6-6,308 lbs.,Jr.,"Cedar Rapids, Iowa",Kennedy,,,
-78,78.0,Mason Richman,OL,6-6,308 lbs.,Jr.,"Leawood, Kan.",Blue Valley,,,
-79,79.0,Daijon Parker,OL,6-5,300 lbs.,Sr.,"Inkster, Mich.",Westland John Glenn,Saginaw Valley State,,
-80,80.0,Kyson Van Vugt,TE,6-6,247 lbs.,RS Fr.,"Sioux Center, Iowa",Western Christian,,,
-81,81.0,Cael Vanderbush,TE,6-4,208 lbs.,RS Fr.,"Plainfield, Ind.",Plainfield,,,
-82,82.0,Johnny Pascuzzi,TE,6-4,224 lbs.,So.,"Olathe, Kan.",Rockhurst,,,
-83,83.0,Erick All,TE,6-5,255 lbs.,Sr.,"Fairfield, Ohio",Fairfield,Michigan,,
-84,85.0,Luke Lachey,TE,6-6,252 lbs.,Jr.,"Columbus, Ohio",Grandview,,,
-85,85.0,Logan Lee,DL,6-5,275 lbs.,Sr.,"Orion, Ill.",Orion,,,
-86,86.0,Jeff Bowie,DL,6-5,270 lbs.,So.,"West Branch, Iowa",West Branch,,,
-87,86.0,Steven Stilianos,TE,6-5,264 lbs.,Sr.,"Hayes, Va.",Christchurch School,Lafayette,,
-88,87.0,Andrew Kraus,DL,6-4,227 lbs.,RS Fr.,"Barrington, Ill.",Barrington,,,
-89,87.0,Addison Ostrenga,TE,6-4,234 lbs.,So.,"Sun Prairie, Wis.",Sun Prairie,,,
-90,88.0,Hayden Large,TE,6-5,240 lbs.,Sr.,"Hudsonville, Mich.",Unity Christian,Dordt College,,
-91,89.0,Nico Ragaini,WR,6-0,196 lbs.,Sr.,"East Haven, Conn.",Notre Dame,Avon Old Farms Prep,,
-92,90.0,Brian Allen,DE,6-4,263 lbs.,RS Fr.,"Lake in the Hills, Ill.",St. Thomas More HS (Conn.),,,
-93,93.0,Anu Dokun,DE,6-3,230 lbs.,Jr.,"Iowa City, Iowa",West,,,
-94,94.0,Yahya Black,DL,6-5,306 lbs.,Jr.,"Marshall, Minn.",Marshall,,,
-95,95.0,Aaron Graves,DL,6-4,271 lbs.,So.,"Dayton, Iowa",Southeast Valley,,,
-96,97.0,Caden Crawford,DL,6-4,253 lbs.,RS Fr.,"Lansing, Kan.",Lansing,,,
-97,97.0,Liam Reardon,LS,6-1,223 lbs.,Jr.,"Chicago, Ill.",Mount Carmel,,,
-98,98.0,Chris Reames,DL,6-7,274 lbs.,Sr.,"Van Meter, Iowa",Van Meter,,,
-99,99.0,Max Hoskins,P,6-1,175 lbs.,RS Fr.,"Salem, Ore.",Blanchet Catholic,,,
-100,99.0,Noah Shannon,DL,6-0,289 lbs.,Sr.,"Aurora, Ill.",Oswego,,,
-0,,Kirk Ferentz,Moon Family Head Football Coach,,,,,,,-,-
-1,,Brian Ferentz,Offensive Coordinator/Quarterbacks,,,,,,,-,-
-2,,Phil Parker,Defensive Coordinator/Secondary,,,,,,,@CoachParkerIowa,-
-3,,LeVar Woods,Special Teams Coordinator,,,,,,,@LeVarWoods,-
-4,,George Barnett,Offensive Line,,,,,,,@CoachBarnett_OL,-
-5,,Kelvin Bell,Defensive Line,,,,,,,@CoachK_Bell,-
-6,,Ladell Betts,Running Backs,,,,,,,@LadellBetts46,-
-7,,Kelton Copeland,Wide Receivers,,,,,,,@CopelandKelton,-
-8,,Abdul Hodge,Tight Ends/Fullbacks,,,,,,,-,-
-9,,Jay Niemann,Assistant Defensive Line Coach/Defensive Recruiting Coordinator,,,,,,,-,-
-10,,Seth Wallace,Assistant Defensive Coordinator/Linebackers,,,,,,,@CoachSWallace,-
-11,,Raimond Braithwaite,"Director, Strength & Conditioning",,,,,,,-,-
-12,,Drew Heitland,"Assistant, Strength & Conditioning",,,,,,,-,-
-13,,Kohle Helle,"Assistant, Strength & Conditioning",,,,,,,-,-
-14,,Cody Myers,"Assistant, Strength & Conditioning",,,,,,,-,-
-15,,John Engelbrecht,Assistant Strength and Conditioning Coach,,,,,,,-,-
-16,,Paul Federici,"Director, Football Operations",,,,,,,-,-
-17,,Ben Hansen,Director of Football Administration and Engagement,,,,,,,-,-
-18,,Jason Manson,Klein Family Director of Player Development,,,,,,,-,-
-19,,Sam Brincks,"Assistant Director, Player Development",,,,,,,-,-
-20,,Scott Southmayd,"Director, Player Personnel",,,,,,,-,-
-21,,Tyler Barnes,"Director, Recruiting/NFL Liaison",,,,,,,@TylerBarnesIOWA,-
-22,,Christopher Browne,Football Recruiting Specialist,,,,,,,-,-
-23,,Matt Spaulding,Football Recruiting Specialist,,,,,,,-,-
-24,,Ireland Hostetler,Recruiting Operations and Special Events Coordinator,,,,,,,-,-
-25,,Justin Elsner,Director of Football Creative Media,,,,,,,-,-
-26,,Eric Copeland,Graduate Assistant,,,,,,,-,-
-27,,Adam Cox,Graduate Assistant,,,,,,,-,-
-28,,Justin Flood,Graduate Assistant,,,,,,,-,-
-29,,Austin Showalter,"Director, Football Analytics",,,,,,,-,-
-30,,Tyler Parker,Football Analyst,,,,,,,-,-
-31,,Brock Sherman,Football Analyst,,,,,,,-,-
-32,,Shane Viilo,Football Analyst,,,,,,,-,-
-33,,Bob Rahfeldt,"Director, Football Video Operations",,,,,,,-,-
-34,,Parker Dilley,Associate Director of Football Video Operations,,,,,,,-,-
-35,,Owen Cooper,"Assistant Director, Football Video Operations",,,,,,,-,-
+,Number,Name,Position,Height,Weight,Class,Hometown,High School,Current School Name,Previous School,Twitter,Instagram
+0,0.0,Diante Vines,WR,6-0,198 lbs.,Jr.,"Danbury, Conn.",The Taft School,Iowa,,,
+1,1.0,Aaron Blom,K,5-11,189 lbs.,Jr.,"Oskaloosa, Iowa",Oskaloosa,Iowa,,,
+2,1.0,Xavier Nwankpa,DB,6-2,210 lbs.,So.,"Pleasant Hill, Iowa",Southeast Polk,Iowa,,,
+3,2.0,TJ Hall,DB,6-0,183 lbs.,So.,"Fresno, Calif.",San Joaquin Memorial,Iowa,,,
+4,2.0,Kaleb Johnson,RB,6-0,212 lbs.,So.,"Hamilton, Ohio",Hamilton,Iowa,,,
+5,3.0,Cooper DeJean,DB,6-1,209 lbs.,Jr.,"Odebolt, Iowa",OA-BCIG,Iowa,,,
+6,4.0,Koen Entringer,DB,6-0,199 lbs.,RS Fr.,"Ypsilanti, Mich.",Walled Lake Western,Iowa,,,
+7,4.0,Leshon Williams,RB,5-10,210 lbs.,Jr.,"Chicago, Ill.",Richards,Iowa,,,
+8,5.0,Joe Labas,QB,6-4,207 lbs.,So.,"Brecksville, Ohio",Brecksville-Broadview Heights,Iowa,,,
+9,6.0,Seth Anderson,WR,6-0,178 lbs.,So.,"Suwanee, Ga.",North Gwinnett,Iowa,Charleston Southern,,
+10,7.0,Jacob Bostick,WR,6-2,171 lbs.,RS Fr.,"Palatine, Ill.",Palatine,Iowa,,,
+11,7.0,Spencer Petras,QB,6-5,231 lbs.,Sr.,"San Rafael, Calif.",Marin Catholic,Iowa,,,
+12,8.0,Deshaun Lee,DB,5-10,174 lbs.,RS Fr.,"Belleville, Mich.",Belleville,Iowa,,,
+13,8.0,"Terrell Washington, Jr.",RB,5-11,195 lbs.,Fr.,"Wylie, Texas",Wylie East,Iowa,,,
+14,9.0,Jaziun Patterson,RB,5-10,188 lbs.,RS Fr.,"Pompano, Beach, Fla.",Deerfield Beach,Iowa,,,
+15,9.0,Tory Taylor,P,6-4,230 lbs.,Sr.,"Melbourne, Australia",Haileybury College,Iowa,,,
+16,10.0,Deacon Hill,QB,6-3,230 lbs.,So.,"Santa Barbara, Calif.",Santa Barbara,Iowa,Wisconsin,,
+17,11.0,AJ Lawson,DB,6-0,193 lbs.,Jr.,"Decatur, Ill.",MacArthur,Iowa,,,
+18,12.0,Cade McNamara,QB,6-1,206 lbs.,Sr.,"Reno, Nev.",Damonte Ranch,Iowa,Michigan,,
+19,12.0,Jaxon Rexroth,DB,6-2,213 lbs.,So.,"Cedar Rapids, Iowa",Xavier,Iowa,,,
+20,13.0,Joe Evans,DE,6-2,246 lbs.,Sr.,"Ames, Iowa",Ames,Iowa,,,
+21,13.0,Reese Osgood,WR,5-11,176 lbs.,RS Fr.,"Franklin, Wis.",Franklin,Iowa,,,
+22,15.0,Jack Johnson,WR,6-0,194 lbs.,Jr.,"West Des Moines, Iowa",Valley,Iowa,,,
+23,16.0,Graham Friedrichsen,WR,6-1,183 lbs.,RS Fr.,"Urbandale, Iowa",Urbandale,Iowa,,,
+24,16.0,Jamison Heinz,DB,6-0,205 lbs.,Jr.,"Humboldt, Iowa",Humboldt,Iowa,,,
+25,17.0,Brenden Deasfernandes,DB,6-0,192 lbs.,Jr.,"Belleville, Mich.",Belleville,Iowa,,,
+26,17.0,Max White,RB,5-10,203 lbs.,So.,"Cedar Rapids, Iowa",Kennedy,Iowa,,,
+27,18.0,Drew Stevens,K,6-0,180 lbs.,So.,"North Augusta, S.C.",North Augusta,Iowa,,,
+28,18.0,Alec Wick,WR,6-1,196 lbs.,So.,"Iowa City, Iowa",Regina Catholic,Iowa,,,
+29,20.0,Deavin Hilson,DB,6-1,192 lbs.,So.,"Des Moines, Iowa",North,Iowa,,,
+30,21.0,Watts McBride,DB,6-0,195 lbs.,Fr.,"Cedar Rapids, Iowa",Washington,Iowa,,,
+31,21.0,Kaden Wetjen,WR,5-10,191 lbs.,Jr.,"Williamsburg, Iowa",Williamsburg,Iowa,Iowa Western CC,,
+32,22.0,Alex Eichmann,WR,6-2,193 lbs.,RS Fr.,"Sussex, Wis.",Hamilton-Sussex,Iowa,,,
+33,22.0,Carter Erickson,DB,6-0,181 lbs.,RS Fr.,"Indianola, Iowa",Indianola,Iowa,,,
+34,23.0,Austin Kutscher,WR,6-0,198 lbs.,Sr.,"Massillon, Ohio",Washington,Iowa,Ohio State,,
+35,23.0,Landyn Van Kekerix,LB,6-1,198 lbs.,RS Fr.,"Rock Valley, Iowa",Boyden Hull/Rock Valley,Iowa,,,
+36,25.0,Kelby Telander,LB,6-4,228 lbs.,So.,"North Liberty, Iowa",Liberty,Iowa,,,
+37,26.0,Kael Kolarik,DB,6-0,211 lbs.,RS Fr.,"Indianola, Iowa",Indianola,Iowa,,,
+38,27.0,Jermari Harris,DB,6-1,190 lbs.,Jr.,"Chicago, Ill.",Montini Catholic,Iowa,,,
+39,29.0,Sebastian Castro,DB,5-11,207 lbs.,Sr.,"Oak Lawn, Ill.",Richards,Iowa,,,
+40,30.0,Quinn Schulte,DB,6-1,208 lbs.,Sr.,"Cedar Rapids, Iowa",Xavier,Iowa,,,
+41,31.0,Eli Miller,FB,6-1,232 lbs.,So.,"Sedalia, Co.",Lipscomp Academy,Iowa,Valor Christian,,
+42,33.0,Jackson Filer,DL,6-3,230 lbs.,Jr.,"Des Moines, Iowa",Dowling Catholic,Iowa,Iowa Western CC,,
+43,34.0,Zach Brand,RB,5-11,210 lbs.,So.,"Grimes, Iowa",Dallas Center-Grimes,Iowa,,,
+44,34.0,Jay Higgins,LB,6-2,229 lbs.,Sr.,"Indianapolis, Ind.",Brebeuf Jesuit Prep,Iowa,,,
+45,35.0,Justice Sullivan,LB,6-2,230 lbs.,So.,"Eden Prairie, Minn.",Eden Prairie,Iowa,,,
+46,36.0,Jayden Montgomery,LB,5-10,214 lbs.,RS Fr.,"Suamico, Wis.",Bay Port,Iowa,,,
+47,37.0,Kyler Fisher,LB,5-11,229 lbs.,Sr.,"Farnhamville, Iowa",SE Valley,Iowa,,,
+48,38.0,Greg Fagan,LB,6-3,214 lbs.,RS Fr.,"Council Bluffs, Iowa",St. Albert,Iowa,,,
+49,39.0,Luke Elkin,LS,6-1,227 lbs.,Jr.,"Neenah, Wis.",Neenah,Iowa,,,
+50,39.0,Eric Epenesa,LB,6-3,193 lbs.,So.,"Glen Carbon, Ill.",Edwardsville,Iowa,,,
+51,40.0,Josef Smith,LB,6-3,233 lbs.,Jr.,"Britt, Iowa",West Hancock,Iowa,,,
+52,41.0,Jaden Harrell,LB,6-2,239 lbs.,So.,"Urbandale, Iowa",Urbandale,Iowa,,,
+53,42.0,Denin Limouris,FB,6-2,234 lbs.,So.,"Glen Ellyn, Ill.",Glenbard West,Iowa,,,
+54,42.0,Zach Twedt,LB,6-3,240 lbs.,So.,"Story City, Iowa",Roland-Story,Iowa,,,
+55,43.0,Karson Sharar,LB,6-2,224 lbs.,So.,"Iowa Falls, Iowa",Iowa Falls-Alden,Iowa,,,
+56,45.0,Deontae Craig,DL,6-3,266 lbs.,Jr.,"Fort Wayne, Ind.",Culver Academies,Iowa,,,
+57,48.0,Max Llewellyn,DL,6-5,243 lbs.,So.,"Urbandale, Iowa",Urbandale,Iowa,,,
+58,49.0,Ethan Hurkett,DL,6-3,252 lbs.,Jr.,"Cedar Rapids, Iowa",Xavier,Iowa,,,
+59,49.0,Andrew Lentsch,TE,6-4,252 lbs.,So.,"West Des Moines, Iowa",Dowling Catholic,Iowa,,,
+60,51.0,Luke Gaffney,DL,6-2,247 lbs.,RS Fr.,"Robins, Iowa",Linn-Mar,Iowa,,,
+61,52.0,Asher Fahey,OL,6-5,289 lbs.,Jr.,"Waukon, Iowa",Waukon,Iowa,,,
+62,53.0,Michael Myslinski,OL,6-3,287 lbs.,So.,"Jacksonville, Fla.",Bishop Kenny,Iowa,,,
+63,54.0,Anterio Thompson,DL,6-3,290 lbs.,So.,"Dubuque, Iowa",Hempstead,Iowa,Iowa Western CC,,
+64,55.0,Jeremiah Pittman,DL,6-3,297 lbs.,So.,"Palatine, Ill.",St. Viator,Iowa,,,
+65,56.0,Nick DeJong,OL,6-6,300 lbs.,Sr.,"Pella, Iowa",Pella,Iowa,,,
+66,57.0,Will Hubert,DL,6-3,247 lbs.,RS Fr.,"Omaha, Neb.",Papillion-La Vista,Iowa,,,
+67,59.0,Griffin Liddle,OL,6-3,282 lbs.,So.,"Bettendorf, Iowa",Bettendorf,Iowa,,,
+68,65.0,Logan Jones,OL,6-3,283 lbs.,Jr.,"Council Bluffs, Iowa",Lewis Central,Iowa,,,
+69,66.0,Jeremy Chaplin,OL,6-2,263 lbs.,So.,"Waverly, Iowa",Waverly-Shell Rock,Iowa,,,
+70,67.0,Gennings Dunker,OL,6-5,316 lbs.,So.,"Lena, Illinois",Lena-Winslow,Iowa,,,
+71,70.0,Beau Stephens,OL,6-6,307 lbs.,So.,"Blue Springs, Mo.",Blue Springs,Iowa,,,
+72,71.0,Jack Dotzler,OL,6-6,266 lbs.,RS Fr.,"Waunakee, Wis.",Waunakee,Iowa,,,
+73,72.0,Kale Krogh,OL,6-5,276 lbs.,RS Fr.,"Huxley, Iowa",Ballard,Iowa,,,
+74,76.0,Tyler Elsbury,OL,6-5,308 lbs.,Jr.,"Byron, Ill.",Byron,Iowa,,,
+75,77.0,Connor Colby,OL,6-6,308 lbs.,Jr.,"Cedar Rapids, Iowa",Kennedy,Iowa,,,
+76,78.0,Mason Richman,OL,6-6,308 lbs.,Jr.,"Leawood, Kan.",Blue Valley,Iowa,,,
+77,79.0,Daijon Parker,OL,6-5,300 lbs.,Sr.,"Inkster, Mich.",Westland John Glenn,Iowa,Saginaw Valley State,,
+78,80.0,Kyson Van Vugt,TE,6-6,247 lbs.,RS Fr.,"Sioux Center, Iowa",Western Christian,Iowa,,,
+79,81.0,Cael Vanderbush,TE,6-4,208 lbs.,RS Fr.,"Plainfield, Ind.",Plainfield,Iowa,,,
+80,82.0,Johnny Pascuzzi,TE,6-4,224 lbs.,So.,"Olathe, Kan.",Rockhurst,Iowa,,,
+81,83.0,Erick All,TE,6-5,255 lbs.,Sr.,"Fairfield, Ohio",Fairfield,Iowa,Michigan,,
+82,85.0,Luke Lachey,TE,6-6,252 lbs.,Jr.,"Columbus, Ohio",Grandview,Iowa,,,
+83,85.0,Logan Lee,DL,6-5,275 lbs.,Sr.,"Orion, Ill.",Orion,Iowa,,,
+84,86.0,Jeff Bowie,DL,6-5,270 lbs.,So.,"West Branch, Iowa",West Branch,Iowa,,,
+85,86.0,Steven Stilianos,TE,6-5,264 lbs.,Sr.,"Hayes, Va.",Christchurch School,Iowa,Lafayette,,
+86,87.0,Andrew Kraus,DL,6-4,227 lbs.,RS Fr.,"Barrington, Ill.",Barrington,Iowa,,,
+87,87.0,Addison Ostrenga,TE,6-4,234 lbs.,So.,"Sun Prairie, Wis.",Sun Prairie,Iowa,,,
+88,88.0,Hayden Large,TE,6-5,240 lbs.,Sr.,"Hudsonville, Mich.",Unity Christian,Iowa,Dordt College,,
+89,89.0,Nico Ragaini,WR,6-0,196 lbs.,Sr.,"East Haven, Conn.",Notre Dame,Iowa,Avon Old Farms Prep,,
+90,90.0,Brian Allen,DE,6-4,263 lbs.,RS Fr.,"Lake in the Hills, Ill.",St. Thomas More HS (Conn.),Iowa,,,
+91,93.0,Anu Dokun,DE,6-3,230 lbs.,Jr.,"Iowa City, Iowa",West,Iowa,,,
+92,94.0,Yahya Black,DL,6-5,306 lbs.,Jr.,"Marshall, Minn.",Marshall,Iowa,,,
+93,95.0,Aaron Graves,DL,6-4,271 lbs.,So.,"Dayton, Iowa",Southeast Valley,Iowa,,,
+94,97.0,Caden Crawford,DL,6-4,253 lbs.,RS Fr.,"Lansing, Kan.",Lansing,Iowa,,,
+95,97.0,Liam Reardon,LS,6-1,223 lbs.,Jr.,"Chicago, Ill.",Mount Carmel,Iowa,,,
+96,98.0,Chris Reames,DL,6-7,274 lbs.,Sr.,"Van Meter, Iowa",Van Meter,Iowa,,,
+97,99.0,Max Hoskins,P,6-1,175 lbs.,RS Fr.,"Salem, Ore.",Blanchet Catholic,Iowa,,,
+98,99.0,Noah Shannon,DL,6-0,289 lbs.,Sr.,"Aurora, Ill.",Oswego,Iowa,,,
+0,,Kirk Ferentz,Moon Family Head Football Coach,,,,,,Iowa,,-,-
+1,,Brian Ferentz,Offensive Coordinator/Quarterbacks,,,,,,Iowa,,-,-
+2,,Phil Parker,Defensive Coordinator/Secondary,,,,,,Iowa,,@CoachParkerIowa,-
+3,,LeVar Woods,Special Teams Coordinator,,,,,,Iowa,,@LeVarWoods,-
+4,,George Barnett,Offensive Line,,,,,,Iowa,,@CoachBarnett_OL,-
+5,,Kelvin Bell,Defensive Line,,,,,,Iowa,,@CoachK_Bell,-
+6,,Ladell Betts,Running Backs,,,,,,Iowa,,@LadellBetts46,-
+7,,Kelton Copeland,Wide Receivers,,,,,,Iowa,,@CopelandKelton,-
+8,,Abdul Hodge,Tight Ends/Fullbacks,,,,,,Iowa,,-,-
+9,,Jay Niemann,Assistant Defensive Line Coach/Defensive Recruiting Coordinator,,,,,,Iowa,,-,-
+10,,Seth Wallace,Assistant Defensive Coordinator/Linebackers,,,,,,Iowa,,@CoachSWallace,-
+11,,Raimond Braithwaite,"Director, Strength & Conditioning",,,,,,Iowa,,-,-
+12,,Drew Heitland,"Assistant, Strength & Conditioning",,,,,,Iowa,,-,-
+13,,Kohle Helle,"Assistant, Strength & Conditioning",,,,,,Iowa,,-,-
+14,,Cody Myers,"Assistant, Strength & Conditioning",,,,,,Iowa,,-,-
+15,,John Engelbrecht,Assistant Strength and Conditioning Coach,,,,,,Iowa,,-,-
+16,,Paul Federici,"Director, Football Operations",,,,,,Iowa,,-,-
+17,,Ben Hansen,Director of Football Administration and Engagement,,,,,,Iowa,,-,-
+18,,Jason Manson,Klein Family Director of Player Development,,,,,,Iowa,,-,-
+19,,Sam Brincks,"Assistant Director, Player Development",,,,,,Iowa,,-,-
+20,,Scott Southmayd,"Director, Player Personnel",,,,,,Iowa,,-,-
+21,,Tyler Barnes,"Director, Recruiting/NFL Liaison",,,,,,Iowa,,@TylerBarnesIOWA,-
+22,,Christopher Browne,Football Recruiting Specialist,,,,,,Iowa,,-,-
+23,,Matt Spaulding,Football Recruiting Specialist,,,,,,Iowa,,-,-
+24,,Ireland Hostetler,Recruiting Operations and Special Events Coordinator,,,,,,Iowa,,-,-
+25,,Justin Elsner,Director of Football Creative Media,,,,,,Iowa,,-,-
+26,,Eric Copeland,Graduate Assistant,,,,,,Iowa,,-,-
+27,,Adam Cox,Graduate Assistant,,,,,,Iowa,,-,-
+28,,Justin Flood,Graduate Assistant,,,,,,Iowa,,-,-
+29,,Austin Showalter,"Director, Football Analytics",,,,,,Iowa,,-,-
+30,,Tyler Parker,Football Analyst,,,,,,Iowa,,-,-
+31,,Brock Sherman,Football Analyst,,,,,,Iowa,,-,-
+32,,Shane Viilo,Football Analyst,,,,,,Iowa,,-,-
+33,,Bob Rahfeldt,"Director, Football Video Operations",,,,,,Iowa,,-,-
+34,,Parker Dilley,Associate Director of Football Video Operations,,,,,,Iowa,,-,-
+35,,Owen Cooper,"Assistant Director, Football Video Operations",,,,,,Iowa,,-,-

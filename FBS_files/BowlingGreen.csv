@@ -1,105 +1,100 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Class,Hometown / High School,Previous School,Image,Title
-0,,0.0,Cashius Howell,OLB,6-4,235.0,So.,"Kansas City, Mo. / Rockhurst",,,
-1,,0.0,Ta'ron Keith,RB,5-10,195.0,Jr.,"DeLand, Fla. / Mainland",,,
-2,,1.0,Odieu Hiliare,WR,6-0,180.0,Sr.,"Belle Glade, Fla. / Glades Central HS",Alabama A&M,,
-3,,1.0,Jordan Oladokun,CB,6-0,185.0,Jr.,"Tampa, Fla. / Gaither HS",Samford,,
-4,,2.0,Brock Horne,ILB,6-1,235.0,Sr.,"Romeo, Mich. / Romeo",,,
-5,,2.0,Abdul-Fatai Ibrahim,WR,6-1,190.0,Sr.,"Miramar, Fla. / Miramar HS",Alabama A&M,,
-6,,3.0,Lucian Anderson III,QB,6-3,190.0,Fr.,"Athens, Ga. / Clarke Central HS",,,
-7,,3.0,Jalen Huskey,CB,6-1,180.0,So.,"Gaithersburg, Md. / Quince Orchard HS",,,
-8,,4.0,Deshawn Jones Jr.,CB,5-11,180.0,Jr.,"Akron, Ohio / East CLC",,,
-9,,4.0,Terion Stewart,RB,5-9,210.0,So.,"Memphis, Tenn. / Sandusky (Ohio)",,,
-10,,5.0,Shamoun Duncan-Niusulu,DB,6-1,195.0,Jr.,"Union City, Calif. / James Logan HS",College of San Mateo,,
-11,,5.0,Nick Mosley,RB,5-10,200.0,Jr.,"Pickerington, Ohio / Pickerington Central",,,
-12,,6.0,Bo Tate,WR,6-2,190.0,Jr.,"Oxnard, Calif. / Oxnard HS",Ventura College,,
-13,,7.0,Connor Bazelak,QB,6-3,220.0,Sr.,"Dayton, Ohio / Archbishop Alter HS",Indiana,,
-14,,7.0,Darius Lorfils,CB,6-2,175.0,So.,"Germantown, Md. / Northwest HS",,,
-15,,8.0,Jhaylin Embry,WR,6-0,180.0,Jr.,"Jacksonville, Fla. / Sandalwood",,,
-16,,8.0,Trent Simms,S,6-0,205.0,Jr.,"Toledo, Ohio / Sylvania Northview",,,
-17,,9.0,Griffin Little,TE,6-4,240.0,Jr.,"Fort Wayne, Ind. / Homestead",,,
-18,,10.0,Levi Gazarek,TE,6-5,250.0,Jr.,"North Baltimore, Ohio / North Baltimore",,,
-19,,10.0,Justin Lynch,DB,6-0,175.0,Jr.,"Dublin, Calif. / Dublin HS",Laney CC,,
-20,,10.0,Daelen Menard,QB,5-11,210.0,Sr.,"Davie, Fla. / Chaminade-Madonna HS",Boston College,,
-21,,11.0,Owen Bainbridge,QB,6-4,210.0,R-Fr.,"Stow, Ohio / Stow-Munroe Falls HS",,,
-22,,11.0,Demetrius Hardamon,OLB,6-4,235.0,Sr.,"Beavercreek, Ohio / Beavercreek",Georgetown (Ky.),,
-23,,12.0,Marquette Harris,OLB,6-1,205.0,Jr.,"Woodbridge, Va. / Wise HS (Md.)",Ventura College,,
-24,,12.0,Camden Orth,QB,6-3,230.0,Sr.,"Gainesville, Fla. / Buchholz",LIU,,
-25,,13.0,Charles Rosser,OLB,6-3,220.0,Jr.,"Cleveland, Ohio / Benedictine",,,
-26,,15.0,Avi McGary,OLB,6-2,200.0,Sr.,"Cincinnati, Ohio / Lakota East",,,
-27,,16.0,Willie Jones,S,6-2,190.0,So.,"Chicago, Ill. / Wendell Phillips Academy",,,
-28,,17.0,Tae'Shaun Johnson,WR,5-11,190.0,So.,"Toledo, Ohio / Central Catholic",,,
-29,,18.0,Jalen Burton,CB,5-10,195.0,Jr.,"Waukegan, Ill. / Carmel Catholic",,,
-30,,18.0,Austin Osborne,WR,6-2,210.0,Sr.,"Rancho Santa Margarita, Calif. / Mission Viejo",Washington,,
-31,,20.0,Jamal Johnson,RB,5-10,195.0,Jr.,"Frankfort, Ill. / Lincoln-Way East",,,
-32,,22.0,Joseph Sipp Jr.,ILB,6-0,215.0,So.,"Tampa, Fla. / Hillsborough HS",,,
-33,,23.0,Darren Anders,ILB,6-0,230.0,Sr.,"North Olmsted, Ohio / North Olmsted",,,
-34,,24.0,Diego Neri,ILB,6-2,235.0,Jr.,"Cincinnati, Ohio / Cincinnati Northwest",,,
-35,,24.0,Braxton Todd,RB,6-0,205.0,R-Fr.,"Martinsburg, W.Va. / Martinsburg HS",,,
-36,,25.0,Jaylen Jennings,RB,5-10,195.0,R-Fr.,"Columbus, Ohio / Harvest Preparatory School",,,
-37,,25.0,Canaan Williams,OLB,6-2,205.0,R-Fr.,"Waldorf, Md. / Rock Creek Christian Academy",,,
-38,,26.0,Davion Daniels,S,6-0,190.0,Sr.,"Hubbard, Ohio / Hubbard",,,
-39,,26.0,Trey Johnson,WR,6-0,190.0,R-Fr.,"Frankfort, Ill. / Lincoln-Way East HS",,,
-40,,27.0,Nic Kilbride,TE,6-3,230.0,Jr.,"Perrysburg, Ohio / Perrysburg",,,
-41,,28.0,Jaison Patterson,RB,6-0,220.0,Jr.,"Jacksonville, Fla. / Edward H. White",,,
-42,,30.0,PaSean Wimberly,RB,5-10,175.0,Sr.,"Toledo, Ohio / Whitmer",,,
-43,,32.0,Patrick Day,S,5-11,190.0,Sr.,"Hilliard, Ohio / Bradley",,,
-44,,33.0,Jordan Porter,DL,6-4,260.0,Sr.,"Muskegon, Mich. / Muskegon",,,
-45,,34.0,Adrian Wilson,DL,6-5,260.0,Jr.,"Tinley Park, Ill. / Lincoln-Way East",,,
-46,,35.0,Billie Roberts,DL,6-5,290.0,Jr.,"Muskegon, Mich. / Muskegon",,,
-47,,36.0,Jordan Jackson,RB,6-0,200.0,R-Fr.,"Deland, Fla. / Mainland HS",Army Prep,,
-48,,37.0,Victor Vazquez,S,5-10,180.0,So.,"Miami, Fla. / Florida Christian",,,
-49,,38.0,Dierre Kelly,DL,6-2,270.0,Jr.,"Gary, Ind. / Merrillville",,,
-50,,39.0,Markim McKinnie,DB,5-11,175.0,R-Fr.,"Akron, Ohio / Archbishop Hoban HS",,,
-51,,40.0,Ethan Warner,PK,5-9,165.0,R-Fr.,"Bowling Green, Ohio / Bowling Green",,,
-52,,43.0,Jack Sauder,K,5-10,175.0,Jr.,"Franklin, Tenn. / Battleground Academy",,,
-53,,44.0,Harold Fannin Jr.,TE,6-4,230.0,So.,"Canton, Ohio / McKinley",,,
-54,,45.0,Rocco Hicks,TE,6-4,250.0,So.,"Overland Park, Kan. / Blue Valley West",,,
-55,,46.0,James Miller,ILB,6-1,220.0,Sr.,"Gaylord, Mich. / Gaylord",,,
-56,,47.0,George Carlson,LS,6-1,215.0,So.,"Woodstock, Ill. / Marian Central",,,
-57,,48.0,Myles Bradley,OLB,6-0,220.0,R-Fr.,"Mansfield, Ohio / Mansfield",,,
-58,,50.0,Alex Wollschlaeger,OT,6-7,290.0,Jr.,"Aurora, Illinois / Oswego East",,,
-59,,51.0,Cedric Dunbar II,OT,6-5,325.0,Sr.,"Natchez, Miss. / Cathedral HS",Jackson State,,
-60,,51.0,Chris Williams,ILB,6-2,205.0,Jr.,"Alpharetta, Ga. / King's Ridge Christian",,,
-61,,52.0,Kitione Tau,DL,6-0,285.0,Sr.,"Concord, Calif. / Pittsburg HS",Laney CC,,
-62,,53.0,Tunde Fatukasi,OT,6-5,300.0,Jr.,"Far Rockaway, N.Y. / Erasmus Hall HS",Rutgers,,
-63,,54.0,Anthony Hawkins,DL,6-2,290.0,Sr.,"Mansfield, Ohio / Mansfield Senior",,,
-64,,55.0,James Thomas Jr.,DL,6-5,290.0,Fr.,"Fairfield, Ohio / Fairfield HS",,,
-65,,56.0,Armon Bethea,OL,6-5,285.0,So.,"Brooklyn, N.Y. / Erasmus Hall HS",Arizona State,,
-66,,57.0,Alex Padgett,OT,6-6,315.0,So.,"Avon Lake, Ohio / Avon Lake",,,
-67,,60.0,Dontrez Brown,DL,6-3,295.0,Sr.,"Fremont, Ohio / Fremont Ross",,,
-68,,64.0,Bronson Warner,OG,6-3,305.0,Jr.,"Chaska, Minn. / Eden Prairie HS",Abilene Christian,,
-69,,65.0,Jake Burns,OG,6-2,300.0,Jr.,"Akron, Ohio / Archbishop Hoban",Cincinnati,,
-70,,72.0,Cade Zimmerly,C/OG,6-1,295.0,So.,"Perrysburg, Ohio / Perrysburg",,,
-71,,76.0,Kameren Stewart,OT,6-6,285.0,Sr.,"Irmo, S.C. / Dutch Fork HS",Coastal Carolina,,
-72,,79.0,Darius Gaddy,OT,6-9,330.0,So.,"Atlanta, Ga. / Meadowcreek",Southwest Ohio Preparatory Academy,,
-73,,81.0,Bryce Boyer,TE,6-3,230.0,So.,"Whitehouse, Ohio / Anthony Wayne",,,
-74,,82.0,Zach Russell,TE,6-3,250.0,So.,"East Point, Ky. / Johnson Central",,,
-75,,83.0,Jalen Holly,WR,6-0,190.0,R-Fr.,"River Rouge, Mich. / River Rouge HS",,,
-76,,84.0,Dom Grguric,WR,6-0,175.0,So.,"Cuyahoga Fall, Ohio / Walsh Jesuit",Valparaiso,,
-77,,85.0,Jaedyn McKinstry,TE,6-5,210.0,So.,"Fremont, Ohio / St. John's Jesuit",,,
-78,,86.0,Ian Drummond,TE,6-4,240.0,Sr.,"Lewis Center, Ohio / Olentangy HS",Elon,,
-79,,89.0,Andrew Bench,TE,6-5,250.0,Sr.,"Elmore, Ohio / Genoa",,,
-80,,90.0,Davonte Miles,DL,6-5,275.0,R-Fr.,"River Rouge, Mich. / River Rouge HS",,,
-81,,91.0,Nate Pabst,DL,6-5,275.0,So.,"Springdale, Ohio / Archbishop Moeller",,,
-82,,98.0,Alan Anaya,K,5-6,180.0,So.,"Mexico City, Mexico / ITESM Queretaro",,,
-83,,99.0,Ali Saad,DL,6-3,265.0,Jr.,"Dearborn, Mich. / Dearborn",Minnesota,,
-84,,99.0,Sami Sir,P,6-2,210.0,So.,"Melbourne, Australia / Essendon Keilor College",,,
-0,,,Scot Loeffler,,,,,,,,Head Coach
-1,,,Steve Morrison,,,,,,,,Co-Defensive Coordinator (Inside Linebackers)
-2,,,Sammy Lawanson,,,,,,,,Co-Defensive Coordinator (Outside Linebackers)
-3,,,Greg Nosal,,,,,,,,Co-Offensive Coordinator/Run Game Coordinator (Offensive Line)
-4,,,Max Warner,,,,,,,,Co-Offensive Coordinator (Quarterbacks)
-5,,,Alex Bayer,,,,,,,,Special Teams Coordinator (Tight Ends)
-6,,,Julian Campenni,,,,,,,,Assistant Head Coach/Defensive Run Coordinator (Defensive Line)
-7,,,Erik Campbell,,,,,,,,Passing Game Coordinator (Wide Receivers)
-8,,,Derrick Jackson,,,,,,,,Defensive Pass Game Coordinator (Secondary)
-9,,,Beyah Rasool,,,,,,,,Assistant Coach (Cornerbacks) and Special Teams Assistant
-10,,,Brian White,,,,,,,,Assistant Coach (Running Backs)
-11,,,Kevin Tolbert,,,,,,,,Football Sports Performance Coach
-12,,,Grant Strock,,,,,,,,Offensive Graduate Assistant
-13,,,Brady Thomas,,,,,,,,Defensive Graduate Assistant
-0,,,Damaris Linker,,,,,,,,Director of Football Operations
-1,,,Chris Haase,,,,,,,,Director of Player Personnel/Recruiting Coordinator
-2,,,Dani Coppes,,,,,,,,Head Football Athletic Trainer
-3,,,Tony Palmieri,,,,,,,,Football Video Coordinator
-4,,,Kathleen Westfall,,,,,,,,"Academic Coordinator (FB, WBB, SB)"
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Class,Hometown / High School,Current School Name,Previous School,Image,Title
+0,,0.0,Cashius Howell,OLB,6-4,235.0,So.,"Kansas City, Mo. / Rockhurst",Bowling Green,,,
+1,,0.0,Ta'ron Keith,RB,5-10,195.0,Jr.,"DeLand, Fla. / Mainland",Bowling Green,,,
+2,,1.0,Odieu Hiliare,WR,6-0,180.0,Sr.,"Belle Glade, Fla. / Glades Central HS",Bowling Green,Alabama A&M,,
+3,,1.0,Jordan Oladokun,CB,6-0,185.0,Jr.,"Tampa, Fla. / Gaither HS",Bowling Green,Samford,,
+4,,2.0,Brock Horne,ILB,6-1,235.0,Sr.,"Romeo, Mich. / Romeo",Bowling Green,,,
+5,,2.0,Abdul-Fatai Ibrahim,WR,6-1,190.0,Sr.,"Miramar, Fla. / Miramar HS",Bowling Green,Alabama A&M,,
+6,,3.0,Lucian Anderson III,QB,6-3,190.0,Fr.,"Athens, Ga. / Clarke Central HS",Bowling Green,,,
+7,,3.0,Jalen Huskey,CB,6-1,180.0,So.,"Gaithersburg, Md. / Quince Orchard HS",Bowling Green,,,
+8,,4.0,Deshawn Jones Jr.,CB,5-11,180.0,Jr.,"Akron, Ohio / East CLC",Bowling Green,,,
+9,,4.0,Terion Stewart,RB,5-9,210.0,So.,"Memphis, Tenn. / Sandusky (Ohio)",Bowling Green,,,
+10,,5.0,Shamoun Duncan-Niusulu,DB,6-1,195.0,Jr.,"Union City, Calif. / James Logan HS",Bowling Green,College of San Mateo,,
+11,,5.0,Nick Mosley,RB,5-10,200.0,Jr.,"Pickerington, Ohio / Pickerington Central",Bowling Green,,,
+12,,6.0,Bo Tate,WR,6-2,190.0,Jr.,"Oxnard, Calif. / Oxnard HS",Bowling Green,Ventura College,,
+13,,7.0,Connor Bazelak,QB,6-3,220.0,Sr.,"Dayton, Ohio / Archbishop Alter HS",Bowling Green,Indiana,,
+14,,7.0,Darius Lorfils,CB,6-2,175.0,So.,"Germantown, Md. / Northwest HS",Bowling Green,,,
+15,,8.0,Jhaylin Embry,WR,6-0,180.0,Jr.,"Jacksonville, Fla. / Sandalwood",Bowling Green,,,
+16,,8.0,Trent Simms,S,6-0,205.0,Jr.,"Toledo, Ohio / Sylvania Northview",Bowling Green,,,
+17,,9.0,Griffin Little,TE,6-4,240.0,Jr.,"Fort Wayne, Ind. / Homestead",Bowling Green,,,
+18,,10.0,Levi Gazarek,TE,6-5,250.0,Jr.,"North Baltimore, Ohio / North Baltimore",Bowling Green,,,
+19,,10.0,Justin Lynch,DB,6-0,175.0,Jr.,"Dublin, Calif. / Dublin HS",Bowling Green,Laney CC,,
+20,,10.0,Daelen Menard,QB,5-11,210.0,Sr.,"Davie, Fla. / Chaminade-Madonna HS",Bowling Green,Boston College,,
+21,,11.0,Demetrius Hardamon,OLB,6-4,235.0,Sr.,"Beavercreek, Ohio / Beavercreek",Bowling Green,Georgetown (Ky.),,
+22,,12.0,Marquette Harris,OLB,6-1,205.0,Jr.,"Woodbridge, Va. / Wise HS (Md.)",Bowling Green,Ventura College,,
+23,,12.0,Camden Orth,QB,6-3,230.0,Sr.,"Gainesville, Fla. / Buchholz",Bowling Green,LIU,,
+24,,13.0,Charles Rosser,OLB,6-3,220.0,Jr.,"Cleveland, Ohio / Benedictine",Bowling Green,,,
+25,,15.0,Avi McGary,OLB,6-2,200.0,Sr.,"Cincinnati, Ohio / Lakota East",Bowling Green,,,
+26,,17.0,Tae'Shaun Johnson,WR,5-11,190.0,So.,"Toledo, Ohio / Central Catholic",Bowling Green,,,
+27,,18.0,Jalen Burton,CB,5-10,195.0,Jr.,"Waukegan, Ill. / Carmel Catholic",Bowling Green,,,
+28,,18.0,Austin Osborne,WR,6-2,210.0,Sr.,"Rancho Santa Margarita, Calif. / Mission Viejo",Bowling Green,Washington,,
+29,,20.0,Jamal Johnson,RB,5-10,195.0,Jr.,"Frankfort, Ill. / Lincoln-Way East",Bowling Green,,,
+30,,22.0,Joseph Sipp Jr.,ILB,6-0,215.0,So.,"Tampa, Fla. / Hillsborough HS",Bowling Green,,,
+31,,23.0,Darren Anders,ILB,6-0,230.0,Sr.,"North Olmsted, Ohio / North Olmsted",Bowling Green,,,
+32,,24.0,Diego Neri,ILB,6-2,235.0,Jr.,"Cincinnati, Ohio / Cincinnati Northwest",Bowling Green,,,
+33,,24.0,Braxton Todd,RB,6-0,205.0,R-Fr.,"Martinsburg, W.Va. / Martinsburg HS",Bowling Green,,,
+34,,25.0,Canaan Williams,OLB,6-2,205.0,R-Fr.,"Waldorf, Md. / Rock Creek Christian Academy",Bowling Green,,,
+35,,26.0,Davion Daniels,S,6-0,190.0,Sr.,"Hubbard, Ohio / Hubbard",Bowling Green,,,
+36,,26.0,Trey Johnson,WR,6-0,190.0,R-Fr.,"Frankfort, Ill. / Lincoln-Way East HS",Bowling Green,,,
+37,,27.0,Nic Kilbride,TE,6-3,230.0,Jr.,"Perrysburg, Ohio / Perrysburg",Bowling Green,,,
+38,,28.0,Jaison Patterson,RB,6-0,220.0,Jr.,"Jacksonville, Fla. / Edward H. White",Bowling Green,,,
+39,,30.0,PaSean Wimberly,RB,5-10,175.0,Sr.,"Toledo, Ohio / Whitmer",Bowling Green,,,
+40,,32.0,Patrick Day,S,5-11,190.0,Sr.,"Hilliard, Ohio / Bradley",Bowling Green,,,
+41,,33.0,Jordan Porter,DL,6-4,260.0,Sr.,"Muskegon, Mich. / Muskegon",Bowling Green,,,
+42,,34.0,Adrian Wilson,DL,6-5,260.0,Jr.,"Tinley Park, Ill. / Lincoln-Way East",Bowling Green,,,
+43,,35.0,Billie Roberts,DL,6-5,290.0,Jr.,"Muskegon, Mich. / Muskegon",Bowling Green,,,
+44,,36.0,Jordan Jackson,RB,6-0,200.0,R-Fr.,"Deland, Fla. / Mainland HS",Bowling Green,Army Prep,,
+45,,37.0,Victor Vazquez,S,5-10,180.0,So.,"Miami, Fla. / Florida Christian",Bowling Green,,,
+46,,38.0,Dierre Kelly,DL,6-2,270.0,Jr.,"Gary, Ind. / Merrillville",Bowling Green,,,
+47,,39.0,Markim McKinnie,DB,5-11,175.0,R-Fr.,"Akron, Ohio / Archbishop Hoban HS",Bowling Green,,,
+48,,40.0,Ethan Warner,PK,5-9,165.0,R-Fr.,"Bowling Green, Ohio / Bowling Green",Bowling Green,,,
+49,,43.0,Jack Sauder,K,5-10,175.0,Jr.,"Franklin, Tenn. / Battleground Academy",Bowling Green,,,
+50,,44.0,Harold Fannin Jr.,TE,6-4,230.0,So.,"Canton, Ohio / McKinley",Bowling Green,,,
+51,,45.0,Rocco Hicks,TE,6-4,250.0,So.,"Overland Park, Kan. / Blue Valley West",Bowling Green,,,
+52,,46.0,James Miller,ILB,6-1,220.0,Sr.,"Gaylord, Mich. / Gaylord",Bowling Green,,,
+53,,47.0,George Carlson,LS,6-1,215.0,So.,"Woodstock, Ill. / Marian Central",Bowling Green,,,
+54,,48.0,Myles Bradley,OLB,6-0,220.0,R-Fr.,"Mansfield, Ohio / Mansfield",Bowling Green,,,
+55,,50.0,Alex Wollschlaeger,OT,6-7,290.0,Jr.,"Aurora, Illinois / Oswego East",Bowling Green,,,
+56,,51.0,Cedric Dunbar II,OT,6-5,325.0,Sr.,"Natchez, Miss. / Cathedral HS",Bowling Green,Jackson State,,
+57,,51.0,Chris Williams,ILB,6-2,205.0,Jr.,"Alpharetta, Ga. / King's Ridge Christian",Bowling Green,,,
+58,,52.0,Kitione Tau,DL,6-0,285.0,Sr.,"Concord, Calif. / Pittsburg HS",Bowling Green,Laney CC,,
+59,,53.0,Tunde Fatukasi,OT,6-5,300.0,Jr.,"Far Rockaway, N.Y. / Erasmus Hall HS",Bowling Green,Rutgers,,
+60,,54.0,Anthony Hawkins,DL,6-2,290.0,Sr.,"Mansfield, Ohio / Mansfield Senior",Bowling Green,,,
+61,,55.0,James Thomas Jr.,DL,6-5,290.0,Fr.,"Fairfield, Ohio / Fairfield HS",Bowling Green,,,
+62,,56.0,Armon Bethea,OL,6-5,285.0,So.,"Brooklyn, N.Y. / Erasmus Hall HS",Bowling Green,Arizona State,,
+63,,57.0,Alex Padgett,OT,6-6,315.0,So.,"Avon Lake, Ohio / Avon Lake",Bowling Green,,,
+64,,60.0,Dontrez Brown,DL,6-3,295.0,Sr.,"Fremont, Ohio / Fremont Ross",Bowling Green,,,
+65,,64.0,Bronson Warner,OG,6-3,305.0,Jr.,"Chaska, Minn. / Eden Prairie HS",Bowling Green,Abilene Christian,,
+66,,65.0,Jake Burns,OG,6-2,300.0,Jr.,"Akron, Ohio / Archbishop Hoban",Bowling Green,Cincinnati,,
+67,,72.0,Cade Zimmerly,C/OG,6-1,295.0,So.,"Perrysburg, Ohio / Perrysburg",Bowling Green,,,
+68,,76.0,Kameren Stewart,OT,6-6,285.0,Sr.,"Irmo, S.C. / Dutch Fork HS",Bowling Green,Coastal Carolina,,
+69,,79.0,Darius Gaddy,OT,6-9,330.0,So.,"Atlanta, Ga. / Meadowcreek",Bowling Green,Southwest Ohio Preparatory Academy,,
+70,,81.0,Bryce Boyer,TE,6-3,230.0,So.,"Whitehouse, Ohio / Anthony Wayne",Bowling Green,,,
+71,,82.0,Zach Russell,TE,6-3,250.0,So.,"East Point, Ky. / Johnson Central",Bowling Green,,,
+72,,84.0,Dom Grguric,WR,6-0,175.0,So.,"Cuyahoga Fall, Ohio / Walsh Jesuit",Bowling Green,Valparaiso,,
+73,,86.0,Ian Drummond,TE,6-4,240.0,Sr.,"Lewis Center, Ohio / Olentangy HS",Bowling Green,Elon,,
+74,,89.0,Andrew Bench,TE,6-5,250.0,Sr.,"Elmore, Ohio / Genoa",Bowling Green,,,
+75,,90.0,Davonte Miles,DL,6-5,275.0,R-Fr.,"River Rouge, Mich. / River Rouge HS",Bowling Green,,,
+76,,91.0,Nate Pabst,DL,6-5,275.0,So.,"Springdale, Ohio / Archbishop Moeller",Bowling Green,,,
+77,,98.0,Alan Anaya,K,5-6,180.0,So.,"Mexico City, Mexico / ITESM Queretaro",Bowling Green,,,
+78,,99.0,Ali Saad,DL,6-3,265.0,Jr.,"Dearborn, Mich. / Dearborn",Bowling Green,Minnesota,,
+79,,99.0,Sami Sir,P,6-2,210.0,So.,"Melbourne, Australia / Essendon Keilor College",Bowling Green,,,
+0,,,Scot Loeffler,,,,,,Bowling Green,,,Head Coach
+1,,,Steve Morrison,,,,,,Bowling Green,,,Co-Defensive Coordinator (Inside Linebackers)
+2,,,Sammy Lawanson,,,,,,Bowling Green,,,Co-Defensive Coordinator (Outside Linebackers)
+3,,,Greg Nosal,,,,,,Bowling Green,,,Co-Offensive Coordinator/Run Game Coordinator (Offensive Line)
+4,,,Max Warner,,,,,,Bowling Green,,,Co-Offensive Coordinator (Quarterbacks)
+5,,,Alex Bayer,,,,,,Bowling Green,,,Special Teams Coordinator (Tight Ends)
+6,,,Julian Campenni,,,,,,Bowling Green,,,Assistant Head Coach/Defensive Run Coordinator (Defensive Line)
+7,,,Erik Campbell,,,,,,Bowling Green,,,Passing Game Coordinator (Wide Receivers)
+8,,,Derrick Jackson,,,,,,Bowling Green,,,Defensive Pass Game Coordinator (Secondary)
+9,,,Beyah Rasool,,,,,,Bowling Green,,,Assistant Coach (Cornerbacks) and Special Teams Assistant
+10,,,Brian White,,,,,,Bowling Green,,,Assistant Coach (Running Backs)
+11,,,Kevin Tolbert,,,,,,Bowling Green,,,Football Sports Performance Coach
+12,,,Grant Strock,,,,,,Bowling Green,,,Offensive Graduate Assistant
+13,,,Brady Thomas,,,,,,Bowling Green,,,Defensive Graduate Assistant
+0,,,Damaris Linker,,,,,,Bowling Green,,,Director of Football Operations
+1,,,Chris Haase,,,,,,Bowling Green,,,Director of Player Personnel/Recruiting Coordinator
+2,,,Dani Coppes,,,,,,Bowling Green,,,Head Football Athletic Trainer
+3,,,Tony Palmieri,,,,,,Bowling Green,,,Football Video Coordinator
+4,,,Chrissy Steffen,,,,,,Bowling Green,,,Assistant AD for Student-Athlete Services

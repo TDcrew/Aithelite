@@ -1,109 +1,103 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown (Prev School),Image,Title
-0,,0.0,Ricardo Williams Jr.,DL,6-2,284.0,Jr.,"Jackson, Miss. / Provine/Mississippi Gulf Coast",,
-1,,1.0,Jontrey Hunter,OLB,6-2,200.0,R-Sr.,"Tampa, Fla. / Sickles",,
-2,,1.0,Robert Lewis,WR,5-11,185.0,R-Jr.,"Covington, Ga. / Newton",,
-3,,2.0,Tavian Brown,ILB,6-1,225.0,R-Sr.,"Demopolis, Ala. / Demopolis/Colorado State",,
-4,,3.0,Darren Grainger,QB,6-4,195.0,R-Sr.,"Conway, S.C. / Conway/Furman",,
-5,,4.0,Bryson Harrison,QB,6-2,207.0,Fr.,"Roswell, Ga. / Lassiter",,
-6,,4.0,D-Icey Hopkins,S,5-11,175.0,R-Fr.,"Macon, Ga. / Northeast",,
-7,,5.0,Bryquice Brown,CB,6-0,186.0,R-Sr.,"Dorchester, Mass. / Lithia Springs (Ga.)",,
-8,,6.0,Jeremiah Johnson,CB,5-11,185.0,Sr.,"Anguilla, Miss. / South Delta/Mississippi Delta CC",,
-9,,6.0,Rykem Laney,WR,6-4,205.0,Sr.,"Spartanburg, S.C. / Spartanburg/Hutchinson (Kan.) CC",,
-10,,7.0,Izaiah Guy,CB,6-2,196.0,R-Fr.,"Ocala, Fla. / Vanguard",,
-11,,7.0,Braylen Ragland,QB,6-1,189.0,Fr.,"Memphis, Tenn. / Bartlett",,
-12,,8.0,Ja'Cyais Credle,WR,6-4,202.0,Sr.,"Columbus, Ga. / Carver/UCF",,
-13,,8.0,Javon Denis,DE,6-0,264.0,R-Sr.,"Deerfield Beach, Fla. / Deerfield Beach",,
-14,,8.0,Jaquez Pennimon,S,6-0,185.0,R-Sr.,"Macon, Ga. / Southwest",,
-15,,9.0,Jacari Carter,WR,5-9,165.0,Jr.,"Sayreville, N.J. / Sayreville East Coast Prep/Merrimack",,
-16,,9.0,Kevin Swint,OLB,6-3,242.0,Sr.,"Carrollton, Ga. / Carrollton/Clemson",,
-17,,10.0,Henry Bryant III,DL,6-0,282.0,R-So.,"Delray Beach, Fla. / Atlantic/Louisville",,
-18,,10.0,Mikele Colasurdo,QB,6-1,215.0,R-Jr.,"Inman, S.C. / Chapman",,
-19,,11.0,Chance Singleton,CB,6-2,180.0,R-Sr.,"Annapolis, Md. / New Town/Susquehanna",,
-20,,11.0,Cadarrius Thompson,WR,6-3,193.0,R-Sr.,"Florence, Ala. / Florence",,
-21,,12.0,Chris Smith,ILB,6-2,210.0,Sr.,"Dacula, Ga. / Dacula/Garden City (Kan.) CC",,
-22,,13.0,Darius Bush,WR,5-10,185.0,R-So.,"Savannah, Ga. / Jenkins/UConn",,
-23,,13.0,Isaiah Holland,S,6-0,180.0,R-Fr.,"Valdosta, Ga. / Valdosta",,
-24,,15.0,Terrell Gordon,OLB,6-1,190.0,Sr.,"Phenix City, Ala. / Central",,
-25,,15.0,Noah Ross,QB,6-1,195.0,R-Fr.,"Stockbridge, Ga. / Woodland",,
-26,,16.0,Tailique Williams,WR,5-9,167.0,R-Jr.,"Pine Mountain, Ga. / Harris County",,
-27,,17.0,KZ Adams,RB,5-8,175.0,R-Fr.,"West Columbia, S.C. / Gray Collegiate Academy",,
-28,,17.0,Shamar McCollum,OLB,6-4,225.0,Sr.,"Hamer, S.C. / Dillon/Wake Forest",,
-29,,18.0,Jay Dixon,RB,5-11,180.0,R-So.,"Loris, S.C. / Green Sea Floyds",,
-30,,18.0,PJ Simmons II,OLB,6-0,180.0,R-Fr.,"McDonough, Ga. / Eagle's Landing Christian Academy",,
-31,,19.0,Tony McCray Jr.,CB,5-11,170.0,R-So.,"Clarksdale, Miss. / Lake Cormorant",,
-32,,21.0,JayT Jackson,CB,6-1,170.0,R-Fr.,"Columbus, Ga. / Spencer",,
-33,,22.0,Jalen Tate,S,6-0,195.0,R-Jr.,"Pelzer, S.C. / Greenville",,
-34,,23.0,Marcus Carroll,RB,5-10,205.0,Sr.,"Union City, Ga. / Hapeville Charter Academy",,
-35,,24.0,Tyreke Harrison,S,5-10,180.0,R-Sr.,"Plant City, Fla. / Plant City",,
-36,,28.0,Ronald Cooper,CB,5-10,180.0,Jr.,"Savannah, Ga. / Jenkins",,
-37,,30.0,Makkah Jordan,S,5-10,180.0,R-So.,"St. Petersburg, Fla. / Calvary Christian School",,
-38,,32.0,Cody Jones,CB,6-2,195.0,R-Jr.,"Fayetteville, Ga. / Sandy Creek/UMass",,
-39,,35.0,Avion McBride,TE,6-5,232.0,R-Fr.,"Florence, S.C. / West Florence",,
-40,,36.0,Thomas Jones,TE,6-1,223.0,R-Jr.,"Monroe, Ga. / George Walton Academy",,
-41,,36.0,Austin Wainwright,S,6-1,196.0,Jr.,"Suwanee, Ga. / North Gwinnett",,
-42,,37.0,Evan Graham,ILB,6-1,225.0,R-So.,"St. Petersburg, Fla. / Boca Ciega",,
-43,,40.0,Jordan Veneziale,ILB,6-0,225.0,Sr.,"Dallas, Ga. / North Paulding",,
-44,,41.0,Anthony Vinson,DE,6-1,258.0,Sr.,"Suwanee, Ga. / Collins HIll",,
-45,,42.0,Blake Carroll,ILB,6-1,232.0,R-Sr.,"Lawrenceville, Ga. / Mountain View",,
-46,,43.0,Chris Davis Jr.,OLB,6-3,224.0,R-So.,"Tampa, Fla. / Armwood",,
-47,,44.0,Jeffery Clark,DE,6-0,276.0,R-Sr.,"Powder Springs, Ga. / McEachern",,
-48,,45.0,Jordan Jones,ILB,6-0,210.0,R-So.,"Smiths Station, Ala. / Smiths Station",,
-49,,46.0,Tristan Lyon,P-PK,6-1,215.0,R-So.,"Gainesville, Ga. / Gainesville",,
-50,,47.0,Michael Fitzmeyer,LS,5-11,215.0,R-Fr.,"Marietta, Ga. / Pope",,
-51,,48.0,Justin Abraham,ILB,6-1,233.0,R-Jr.,"Hartsville, S.C. / Hartsville",,
-52,,50.0,Tylon Dunlap,DE,6-1,261.0,R-So.,"Charlotte, N.C. / Harding University HS",,
-53,,51.0,Jack Bernstein,LS,5-11,235.0,So.,"Alpharetta, Ga. / Alpharetta",,
-54,,52.0,Travis Glover,T,6-6,323.0,R-Sr.,"Vienna, Ga. / Dooly County",,
-55,,53.0,Markland Davis,ILB,6-1,225.0,R-Sr.,"Suwanee, Ga. / North Gwinnett",,
-56,,55.0,Chauncey Kamakea,OL,6-2,285.0,R-Fr.,"Tallahassee, Fla. / Godby",,
-57,,56.0,Fuches Lewis II,NG,6-3,290.0,R-So.,"Savannah, Ga. / Calvary Day School",,
-58,,60.0,Tyden Ferris,OL,6-5,309.0,R-Sr.,"Delton, Mich. / Delton-Kellogg/Central Michigan",,
-59,,61.0,Cameron Dye,OL,6-4,265.0,R-So.,"Alpharetta, Ga. / Milton",,
-60,,63.0,Alec Johnson,OL,6-1,285.0,R-Fr.,"Blythewood, S.C. / Gray Collegiate Academy",,
-61,,65.0,Avery Reece,C,6-2,280.0,R-Sr.,"Anderson, S.C. / Belton-Honea Path",,
-62,,66.0,Seth Glausier,LS,6-1,230.0,R-Sr.,"Jefferson, Ga. / Jefferson",,
-63,,67.0,Ben Chukwuma,OL,6-6,280.0,R-Sr.,"Austell, Ga. / Campbell",,
-64,,68.0,Mason Cook,OL,6-3,267.0,R-Jr.,"Columbus, Ga. / Central (Ala.)",,
-65,,69.0,MarQuez Bargman,OL,6-3,265.0,R-So.,"Port St. Lucie, Fla. / Treasure Coast",,
-66,,71.0,Trey Palmer,OL,6-4,280.0,R-Fr.,"Lawrenceville, Ga. / Archer",,
-67,,72.0,Luis Cristobal,G,6-0,274.0,R-Sr.,"Miami, Fla. / Christopher Columbus",,
-68,,76.0,Jonathan Brown,OL,6-5,295.0,R-Jr.,"Anderson, S.C. / T.L. Hanna",,
-69,,78.0,Lamar Robinson,OL,6-4,307.0,So.,"Alexandria, Va. / Hayfield/Norfolk State",,
-70,,79.0,Montavious Cunningham,T,6-3,305.0,R-So.,"Athens, Ga. / Clarke Central",,
-71,,80.0,Ethan Garrett,WR,5-10,178.0,Jr.,"Powder Springs, Ga. / Whitefield Academy",,
-72,,81.0,Jzon Hawkins,WR,5-8,170.0,So.,"Loganville, Ga. / Loganville",,
-73,,82.0,Dorian Fleming,TE,6-3,234.0,Fr.,"Henrico, Va. / Life Christian Academy",,
-74,,83.0,LaMarcus Brand,WR,6-0,175.0,R-So.,"Dacula, Ga. / Mountain View",,
-75,,84.0,Kris Byrd,TE,6-1,246.0,R-Jr.,"Lyman, S.C. / Byrnes",,
-76,,85.0,Ahmon Green,TE,6-2,240.0,R-Jr.,"Columbia, S.C. / Westwood",,
-77,,86.0,Ezeqiel Marion,TE,6-3,210.0,R-Jr.,"Perry, Ga. / Perry",,
-78,,89.0,Tarance Breedlove,WR,6-0,170.0,So.,"Loganville, Ga. / Loganville",,
-79,,90.0,Michai Hill,DE,6-1,255.0,R-Fr.,"Grantville, Ga. / Newnan",,
-80,,90.0,Diego Medina,PK,5-9,174.0,R-Jr.,"Temple, Ga. / Temple / Hampton",,
-81,,92.0,Liam Rickman,PK,6-0,185.0,R-Fr.,"Guyton, Ga. / South Effingham",,
-82,,94.0,Kade Loggins,PK-P,6-1,182.0,R-Jr.,"Newnan, Ga. / Northgate",,
-83,,95.0,Joseph Harper,DE,6-3,269.0,R-Jr.,"Snellville, Ga. / Ridge Point (Texas)/Trinity Valley CC",,
-84,,96.0,Carlos Fletcher,DL,6-5,270.0,R-Jr.,"Claremont, N.C. / Bunker Hill/Georgia Military College",,
-0,,,Shawn Elliott,,,,,,,Head Coach
-1,,,Chad Staggs,,,,,,,Defensive Coordinator
-2,,,Trent McKnight,,,,,,,Offensive Coordinator/Quarterbacks
-3,,,Antreal Allen,,,,,,,Assistant Coach-Assistant Secondary Coach/Cornerbacks
-4,,,Arketa Banks,,,,,,,Assistant Coach-Special Teams Coordinator
-5,,,Quinshad Davis,,,,,,,Assistant Coach-Wide Receivers
-6,,,Dan Ellington,,,,,,,Assistant Coach-Tight Ends
-7,,,John Holt,,,,,,,Assistant Coach-Offensive Line
-8,,,Brian Landis,,,,,,,Assistant Coach-Inside Linebackers
-9,,,Cory Peoples,,,,,,,Assistant Coach-Defensive Passing Game Coordinator/Secondary
-10,,,Allen Smith,,,,,,,Assistant Coach-Defensive Line
-11,,,Mike Sirignano,,,,,,,Head Strength Coach
-12,,,Bob Murphy,,,,,,,Assoc AD-Sports Medicine & Nutrition
-13,,,Steve Wojcikowski,,,,,,,Assistant AD-Football Operations
-14,,,Ginny Thompson,,,,,,,Director of On-Campus Recruiting/Player Personnel
-15,,,Mark LeGree,,,,,,,High School Relations Recruiting Coordinator
-16,,,Hannah Braxton,,,,,,,Recruiting/Operations Assistant
-17,,,Chantel Audaine,,,,,,,Football Video Coordinator
-18,,,Nathaniel Simon,,,,,,,Equipment Manager
-19,,,Stephanie Weiss,,,,,,,Assistant Equipment Manager
-20,,,William Hunter,,,,,,,Graduate Assistant
-21,,,Luke Hoggard,,,,,,,Graduate Assistant
-22,,,Zach Conowal,,,,,,,Graduate Assistant
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown (Prev School),Current School Name,Image,Title
+0,,0.0,Ricardo Williams Jr.,DL,6-2,284.0,Jr.,"Jackson, Miss. / Provine/Mississippi Gulf Coast",Georgia State,,
+1,,1.0,Jontrey Hunter,OLB,6-2,200.0,R-Sr.,"Tampa, Fla. / Sickles",Georgia State,,
+2,,1.0,Robert Lewis,WR,5-11,185.0,R-Jr.,"Covington, Ga. / Newton",Georgia State,,
+3,,2.0,Tavian Brown,ILB,6-1,225.0,R-Sr.,"Demopolis, Ala. / Demopolis/Colorado State",Georgia State,,
+4,,3.0,Darren Grainger,QB,6-4,195.0,R-Sr.,"Conway, S.C. / Conway/Furman",Georgia State,,
+5,,4.0,Bryson Harrison,QB,6-2,207.0,Fr.,"Roswell, Ga. / Lassiter",Georgia State,,
+6,,4.0,D-Icey Hopkins,S,5-11,175.0,R-Fr.,"Macon, Ga. / Northeast",Georgia State,,
+7,,5.0,Bryquice Brown,CB,6-0,186.0,R-Sr.,"Dorchester, Mass. / Lithia Springs (Ga.)",Georgia State,,
+8,,6.0,Jeremiah Johnson,CB,5-11,185.0,Sr.,"Anguilla, Miss. / South Delta/Mississippi Delta CC",Georgia State,,
+9,,6.0,Rykem Laney,WR,6-4,205.0,Sr.,"Spartanburg, S.C. / Spartanburg/Hutchinson (Kan.) CC",Georgia State,,
+10,,7.0,Izaiah Guy,CB,6-2,196.0,R-Fr.,"Ocala, Fla. / Vanguard",Georgia State,,
+11,,7.0,Braylen Ragland,QB,6-1,189.0,Fr.,"Memphis, Tenn. / Bartlett",Georgia State,,
+12,,8.0,Ja'Cyais Credle,WR,6-4,202.0,Sr.,"Columbus, Ga. / Carver/UCF",Georgia State,,
+13,,8.0,Javon Denis,DE,6-0,264.0,R-Sr.,"Deerfield Beach, Fla. / Deerfield Beach",Georgia State,,
+14,,8.0,Jaquez Pennimon,S,6-0,185.0,R-Sr.,"Macon, Ga. / Southwest",Georgia State,,
+15,,9.0,Jacari Carter,WR,5-9,165.0,Jr.,"Sayreville, N.J. / Sayreville East Coast Prep/Merrimack",Georgia State,,
+16,,9.0,Kevin Swint,OLB,6-3,242.0,Sr.,"Carrollton, Ga. / Carrollton/Clemson",Georgia State,,
+17,,10.0,Henry Bryant III,DL,6-0,282.0,R-So.,"Delray Beach, Fla. / Atlantic/Louisville",Georgia State,,
+18,,10.0,Mikele Colasurdo,QB,6-1,215.0,R-Jr.,"Inman, S.C. / Chapman",Georgia State,,
+19,,11.0,Chance Singleton,CB,6-2,180.0,R-Sr.,"Annapolis, Md. / New Town/Susquehanna",Georgia State,,
+20,,11.0,Cadarrius Thompson,WR,6-3,193.0,R-Sr.,"Florence, Ala. / Florence",Georgia State,,
+21,,12.0,Chris Smith,ILB,6-2,210.0,Sr.,"Dacula, Ga. / Dacula/Garden City (Kan.) CC",Georgia State,,
+22,,13.0,Darius Bush,WR,5-10,185.0,R-So.,"Savannah, Ga. / Jenkins/UConn",Georgia State,,
+23,,13.0,Isaiah Holland,S,6-0,180.0,R-Fr.,"Valdosta, Ga. / Valdosta",Georgia State,,
+24,,15.0,Terrell Gordon,OLB,6-1,190.0,Sr.,"Phenix City, Ala. / Central",Georgia State,,
+25,,15.0,Noah Ross,QB,6-1,195.0,R-Fr.,"Stockbridge, Ga. / Woodland",Georgia State,,
+26,,16.0,Tailique Williams,WR,5-9,167.0,R-Jr.,"Pine Mountain, Ga. / Harris County",Georgia State,,
+27,,17.0,KZ Adams,RB,5-8,175.0,R-Fr.,"West Columbia, S.C. / Gray Collegiate Academy",Georgia State,,
+28,,17.0,Shamar McCollum,OLB,6-4,225.0,Sr.,"Hamer, S.C. / Dillon/Wake Forest",Georgia State,,
+29,,18.0,Jay Dixon,RB,5-11,180.0,R-So.,"Loris, S.C. / Green Sea Floyds",Georgia State,,
+30,,18.0,PJ Simmons II,OLB,6-0,180.0,R-Fr.,"McDonough, Ga. / Eagle's Landing Christian Academy",Georgia State,,
+31,,19.0,Tony McCray Jr.,CB,5-11,170.0,R-So.,"Clarksdale, Miss. / Lake Cormorant",Georgia State,,
+32,,21.0,JayT Jackson,CB,6-1,170.0,R-Fr.,"Columbus, Ga. / Spencer",Georgia State,,
+33,,22.0,Jalen Tate,S,6-0,195.0,R-Jr.,"Pelzer, S.C. / Greenville",Georgia State,,
+34,,23.0,Marcus Carroll,RB,5-10,205.0,Sr.,"Union City, Ga. / Hapeville Charter Academy",Georgia State,,
+35,,24.0,Tyreke Harrison,S,5-10,180.0,R-Sr.,"Plant City, Fla. / Plant City",Georgia State,,
+36,,28.0,Ronald Cooper,CB,5-10,180.0,Jr.,"Savannah, Ga. / Jenkins",Georgia State,,
+37,,30.0,Makkah Jordan,S,5-10,180.0,R-So.,"St. Petersburg, Fla. / Calvary Christian School",Georgia State,,
+38,,32.0,Cody Jones,CB,6-2,195.0,R-Jr.,"Fayetteville, Ga. / Sandy Creek/UMass",Georgia State,,
+39,,35.0,Avion McBride,TE,6-5,232.0,R-Fr.,"Florence, S.C. / West Florence",Georgia State,,
+40,,36.0,Austin Wainwright,S,6-1,196.0,Jr.,"Suwanee, Ga. / North Gwinnett",Georgia State,,
+41,,37.0,Evan Graham,ILB,6-1,225.0,R-So.,"St. Petersburg, Fla. / Boca Ciega",Georgia State,,
+42,,40.0,Jordan Veneziale,ILB,6-0,225.0,Sr.,"Dallas, Ga. / North Paulding",Georgia State,,
+43,,41.0,Anthony Vinson,DE,6-1,258.0,Sr.,"Suwanee, Ga. / Collins HIll",Georgia State,,
+44,,42.0,Blake Carroll,ILB,6-1,232.0,R-Sr.,"Lawrenceville, Ga. / Mountain View",Georgia State,,
+45,,43.0,Chris Davis Jr.,OLB,6-3,224.0,R-So.,"Tampa, Fla. / Armwood",Georgia State,,
+46,,45.0,Jordan Jones,ILB,6-0,210.0,R-So.,"Smiths Station, Ala. / Smiths Station",Georgia State,,
+47,,46.0,Tristan Lyon,P-PK,6-1,215.0,R-So.,"Gainesville, Ga. / Gainesville",Georgia State,,
+48,,47.0,Michael Fitzmeyer,LS,5-11,215.0,R-Fr.,"Marietta, Ga. / Pope",Georgia State,,
+49,,48.0,Justin Abraham,ILB,6-1,233.0,R-Jr.,"Hartsville, S.C. / Hartsville",Georgia State,,
+50,,50.0,Tylon Dunlap,DE,6-1,261.0,R-So.,"Charlotte, N.C. / Harding University HS",Georgia State,,
+51,,51.0,Jack Bernstein,LS,5-11,235.0,So.,"Alpharetta, Ga. / Alpharetta",Georgia State,,
+52,,52.0,Travis Glover,T,6-6,323.0,R-Sr.,"Vienna, Ga. / Dooly County",Georgia State,,
+53,,53.0,Markland Davis,ILB,6-1,225.0,R-Sr.,"Suwanee, Ga. / North Gwinnett",Georgia State,,
+54,,55.0,Chauncey Kamakea,OL,6-2,285.0,R-Fr.,"Tallahassee, Fla. / Godby",Georgia State,,
+55,,56.0,Fuches Lewis II,NG,6-3,290.0,R-So.,"Savannah, Ga. / Calvary Day School",Georgia State,,
+56,,60.0,Tyden Ferris,OL,6-5,309.0,R-Sr.,"Delton, Mich. / Delton-Kellogg/Central Michigan",Georgia State,,
+57,,61.0,Cameron Dye,OL,6-4,265.0,R-So.,"Alpharetta, Ga. / Milton",Georgia State,,
+58,,63.0,Alec Johnson,OL,6-1,285.0,R-Fr.,"Blythewood, S.C. / Gray Collegiate Academy",Georgia State,,
+59,,65.0,Avery Reece,C,6-2,280.0,R-Sr.,"Anderson, S.C. / Belton-Honea Path",Georgia State,,
+60,,66.0,Seth Glausier,LS,6-1,230.0,R-Sr.,"Jefferson, Ga. / Jefferson",Georgia State,,
+61,,68.0,Mason Cook,OL,6-3,267.0,R-Jr.,"Columbus, Ga. / Central (Ala.)",Georgia State,,
+62,,69.0,MarQuez Bargman,OL,6-3,265.0,R-So.,"Port St. Lucie, Fla. / Treasure Coast",Georgia State,,
+63,,72.0,Luis Cristobal,G,6-0,274.0,R-Sr.,"Miami, Fla. / Christopher Columbus",Georgia State,,
+64,,76.0,Jonathan Brown,OL,6-5,295.0,R-Jr.,"Anderson, S.C. / T.L. Hanna",Georgia State,,
+65,,78.0,Lamar Robinson,OL,6-4,307.0,So.,"Alexandria, Va. / Hayfield/Norfolk State",Georgia State,,
+66,,79.0,Montavious Cunningham,T,6-3,305.0,R-So.,"Athens, Ga. / Clarke Central",Georgia State,,
+67,,80.0,Ethan Garrett,WR,5-10,178.0,Jr.,"Powder Springs, Ga. / Whitefield Academy",Georgia State,,
+68,,81.0,Jzon Hawkins,WR,5-8,170.0,So.,"Loganville, Ga. / Loganville",Georgia State,,
+69,,82.0,Dorian Fleming,TE,6-3,234.0,Fr.,"Henrico, Va. / Life Christian Academy",Georgia State,,
+70,,83.0,LaMarcus Brand,WR,6-0,175.0,R-So.,"Dacula, Ga. / Mountain View",Georgia State,,
+71,,84.0,Kris Byrd,TE,6-1,246.0,R-Jr.,"Lyman, S.C. / Byrnes",Georgia State,,
+72,,85.0,Ahmon Green,TE,6-2,240.0,R-Jr.,"Columbia, S.C. / Westwood",Georgia State,,
+73,,86.0,Ezeqiel Marion,TE,6-3,210.0,R-Jr.,"Perry, Ga. / Perry",Georgia State,,
+74,,89.0,Tarance Breedlove,WR,6-0,170.0,So.,"Loganville, Ga. / Loganville",Georgia State,,
+75,,90.0,Michai Hill,DE,6-1,255.0,R-Fr.,"Grantville, Ga. / Newnan",Georgia State,,
+76,,90.0,Diego Medina,PK,5-9,174.0,R-Jr.,"Temple, Ga. / Temple / Hampton",Georgia State,,
+77,,92.0,Liam Rickman,PK,6-0,185.0,R-Fr.,"Guyton, Ga. / South Effingham",Georgia State,,
+78,,94.0,Kade Loggins,PK-P,6-1,182.0,R-Jr.,"Newnan, Ga. / Northgate",Georgia State,,
+79,,95.0,Joseph Harper,DE,6-3,269.0,R-Jr.,"Snellville, Ga. / Ridge Point (Texas)/Trinity Valley CC",Georgia State,,
+80,,96.0,Carlos Fletcher,DL,6-5,270.0,R-Jr.,"Claremont, N.C. / Bunker Hill/Georgia Military College",Georgia State,,
+0,,,Shawn Elliott,,,,,,Georgia State,,Head Coach
+1,,,Chad Staggs,,,,,,Georgia State,,Defensive Coordinator
+2,,,Trent McKnight,,,,,,Georgia State,,Offensive Coordinator/Quarterbacks
+3,,,Antreal Allen,,,,,,Georgia State,,Assistant Coach-Assistant Secondary Coach/Cornerbacks
+4,,,Arketa Banks,,,,,,Georgia State,,Assistant Coach-Special Teams Coordinator
+5,,,Quinshad Davis,,,,,,Georgia State,,Assistant Coach-Wide Receivers
+6,,,Dan Ellington,,,,,,Georgia State,,Assistant Coach-Tight Ends
+7,,,John Holt,,,,,,Georgia State,,Assistant Coach-Offensive Line
+8,,,Brian Landis,,,,,,Georgia State,,Assistant Coach-Inside Linebackers
+9,,,Cory Peoples,,,,,,Georgia State,,Assistant Coach-Defensive Passing Game Coordinator/Secondary
+10,,,Allen Smith,,,,,,Georgia State,,Assistant Coach-Defensive Line
+11,,,Mike Sirignano,,,,,,Georgia State,,Head Strength Coach
+12,,,Bob Murphy,,,,,,Georgia State,,Assoc AD-Sports Medicine & Nutrition
+13,,,Steve Wojcikowski,,,,,,Georgia State,,Assistant AD-Football Operations
+14,,,Ginny Thompson,,,,,,Georgia State,,Director of On-Campus Recruiting/Player Personnel
+15,,,Hannah Braxton,,,,,,Georgia State,,Recruiting/Operations Assistant
+16,,,Chantel Audaine,,,,,,Georgia State,,Football Video Coordinator
+17,,,Nathaniel Simon,,,,,,Georgia State,,Equipment Manager
+18,,,Stephanie Weiss,,,,,,Georgia State,,Assistant Equipment Manager
+19,,,William Hunter,,,,,,Georgia State,,Graduate Assistant
+20,,,Luke Hoggard,,,,,,Georgia State,,Graduate Assistant
