@@ -1,114 +1,111 @@
-,Statistic,#,FULL NAME,POS.,HT.,WT.,Yr.,HOMETOWN,HIGH SCHOOL,PREVIOUS SCHOOL,MAJOR,Image,Name,Title
-0,,1.0,Marqui Johnson,WR,5-8,163.0,Jr.,"Philadelphia, PA",Saguaro,Sacramento State,University Studies,,,
-1,,2.0,Dru Polidore,S,6-2,181.0,So.,"Katy, TX",Tompkins,Air Force,,,,
-2,,2.0,Clevan Thomas Jr.,WR,5-11,192.0,Gr.,"Miami, FL",Charles W. Flanagan,Kentucky,University Studies,,,
-3,,3.0,Jared White,RB,5-10,202.0,Rf.,"Frisco, TX",Wakeland,,Kinesiology,,,
-4,,4.0,Tommy Mellott,QB,6-0,209.0,Jr.,"Butte, MT",Butte,,Financial Engineering,,,
-5,,5.0,Garrett Coon,RB,6-0,203.0,So.,"Sheridan, WY",Sheridan,,Health Enhancement,,,
-6,,6.0,Miles Jackson,DB,5-11,190.0,Jr.,"Portland, OR",Central Catholic,,General Engineering,,,
-7,,6.0,Ty McCullouch,WR,6-1,180.0,Jr.,"Moreno Valley, CA",Rancho Verde,Colorado State,,,,
-8,,7.0,Kaegun Williams,RB,5-9,205.0,Gr.,"Cedar Hill, TX",Cedar Hill,San Diego State,Business Management,,,
-9,,8.0,Level Price Jr.,S/N,5-8,194.0,Sr.,"Los Angeles, CA",St. John Bosco,,Business Marketing,,,
-10,,8.0,Derryk Snell,TE,6-2,238.0,Sr.,"Anchorage, AK",Chugiak,,Liberal Studies,,,
-11,,9.0,Luke Abshire,QB,6-1,180.0,Rf.,"Spokane, WA",Central Valley,,Secondary Education,,,
-12,,9.0,Simeon Woodard,CB,5-10,173.0,Jr.,"San Antonio, TX",Veterans Memorial,,Biological Engineering,,,
-13,,10.0,Sean Chambers,QB,6-3,228.0,Sr.,"Kerman, CA",Kerman,Wyoming,Liberal Studies,,,
-14,,10.0,Brody Grebe,DE,6-2,247.0,Jr.,"Melstone, MT",Melstone/Roundup,Choates Academy,Mechanical Engineering,,,
-15,,11.0,Kenneth Eiden IV,DE,6-1,241.0,So.,"Bozeman, MT",Bozeman,,Economics,,,
-16,,11.0,Elijah Elliott,RB,5-10,188.0,Jr.,"Portland, OR",Central Catholic,,Exercise Science,,,
-17,,12.0,Devin Davis,CB,6-1,195.0,So.,"Vallejo, CA",American Canyon,,University Studies,,,
-18,,12.0,Jordan Reed,QB,6-6,212.0,Rf.,"El Centro, CA",Central Union),,Human Development and Family Science,,,
-19,,13.0,Jackson Harmon,CB,6-2,197.0,So.,"Anchorage, AK",South,,Computer Science,,,
-20,,13.0,Chance Wilson,QB,6-3,183.0,Fr.,"Owasso, OK",Rejoice Christian,,,,,
-21,,14.0,Neil Daily,LB,6-3,227.0,So.,"Billings, MT",West,,Civil Engineering,,,
-22,,14.0,Taco Dowler,WR,5-9,168.0,So.,"Billings, MT",West,,University Studies,,,
-23,,16.0,Michael Armstrong,S,6-0,186.0,Rf.,"Bozeman, MT",Gallatin,,University Studies,,,
-24,,17.0,Christian Anaya,WR,6-1,175.0,Rf.,"Chandler, AZ",Hamilton,,University Studies,,,
-25,,17.0,Caden Dowler,DB,6-0,202.0,So.,"Billings, MT",West,,University Studies,,,
-26,,18.0,Sean Austin,QB,6-2,202.0,So.,"Kuna, ID",Kuna,,Business Finance,,,
-27,,18.0,Kendric Bailey,S,6-1,205.0,Sr.,"Carmichael, CA",Jesuit,Sacramento City College,Business Finance,,,
-28,,19.0,Lonyatta Alexander Jr.,WR,6-3,206.0,So.,"Auburn, WA",Kennedy,Washington/Arizona State,,,,
-29,,19.0,Blake Stillwell,DB,6-1,177.0,So.,"Winter Garden, FL",,New Mexico Military Institute,,,,
-30,,20.0,Tyson Pottenger,S,6-2,190.0,So.,"Couer d'Alene, ID",Couer d'Alene,,Mechanical Engineering,,,
-31,,20.0,Garrett Walchli,WR,5-8,178.0,Jr.,"Hermiston, OR",Hermiston,Utah State,,,,
-32,,22.0,Takhari Carr,DB,6-0,173.0,Rf.,"Compton, CA",Dominguez,,University Studies,,,
-33,,23.0,Aidan Parks,S,6-0,219.0,So.,"Chico, CA",Pleasant Valley,,Business Management,,,
-34,,24.0,Lane Sumner,RB,5-8,215.0,Sr.,"Huntley, MT",Huntley Project,,Psychology,,,
-35,,26.0,Rylan Ortt,S/N,6-1,206.0,Jr.,"Missoula, MT",Sentinel,,Economics,,,
-36,,27.0,Brock Steel,DB,6-1,205.0,R-Fr.,"Sheridan, WY",Sheridan,,University Studies,,,
-37,,29.0,Max Kimball,S,6-0,188.0,Rf.,"Billings, MT",West,,University Studies,,,
-38,,30.0,Danny Uluilakepa,LB,6-1,221.0,Jr.,"Puyallup, WA",Puyallup,,Business Marketing,,,
-39,,31.0,Jace Fitzgerald,LB,6-1,223.0,So.,"Dillon, MT",Beaverhead County,,Business Finance,,,
-40,,33.0,Blake Hehl,DT,6-3,285.0,Sr.,"Huntington Beach, CA",Orange Lutheran,Tarleton State,Financial Engineering,,,
-41,,35.0,Kade Cutler,DB,6-0,206.0,Rf.,"Phillipsburg, MT",Flint Creek,,,,,
-42,,38.0,Casey Kautzman,K/P,5-11,199.0,Rf.,"Butte, MT",Butte,,Civil Engineering,,,
-43,,39.0,Myles Sansted,K,6-1,173.0,Fr.,"Alexandria, MN",Alexandria,,Business,,,
-44,,40.0,Cole Bullock,LB,6-0,210.0,Jr.,"Chatsworth, CA",Sierra Canyon,College of the Canyons,,,,
-45,,41.0,Nolan Askelson,LB,6-1,231.0,Sr.,"Billings, MT",Senior,,Mathematics,,,
-46,,42.0,Ryan Krahe,LB,6-1,225.0,Rf.,"Great Falls, MT",Great Falls,,University Studies,,,
-47,,43.0,McCade O'Reilly,LB,6-0,212.0,Jr.,"Bozeman, MT",Bozeman,,Business Finance,,,
-48,,44.0,Jake Vigen,DE,6-2,236.0,Rf.,"Bozeman, MT",Gallatin,,University Studies,,,
-49,,45.0,Hunter Parsons,DE,6-3,240.0,So.,"Sparks, NV",Spanish Springs,,Construction Engineering Tech,,,
-50,,46.0,Logan Frederickson,DE,6-3,224.0,Rf.,"Rigby, ID",Rigby,,University Studies,,,
-51,,47.0,Eli Aby,LB,6-1,207.0,So.,"Laurel, MT",Laurel,,Business Finance,,,
-52,,48.0,Max Murphy,FB,6-2,233.0,Rf.,"Billings, MT",West,,University Studies,,,
-53,,49.0,Zac Waible,LB,6-2,214.0,Fr.,"Lake Oswego, OR",Lakeridge,,,,,
-54,,50.0,Zack Black,DT,6-4,271.0,So.,"Meridian, ID",Rocky Mountain,,Business,,,
-55,,51.0,Nick Korom,DL,6-2,243.0,Jr.,"Bismarck, ND",Century,Central Lakes JC,,,,
-56,,53.0,Luke Fedyk,DE,6-1,227.0,R-Fr.,"Bozeman, MT",Bozeman,,Business Marketing,,,
-57,,55.0,JT Reed,OG,6-3,293.0,Jr.,"San Jose, CA",Valley Christian,San Mateo College,,,,
-58,,56.0,Cole Sain,OG,6-4,289.0,Sr.,"Bellflower, CA",St. John Bosco,Riverside CC/Montana,Business Finance,,,
-59,,58.0,Aaron Richards,OG,6-4,288.0,So.,"Butte, MT",Central Catholic,,Business Management,,,
-60,,60.0,Tommy Nilson,OL,6-3,282.0,Rf.,"Missoula, MT",Hellgate,,University Studies,,,
-61,,62.0,Bear Old,OL,6-5,280.0,Rf.,"Tiger, GA",Rabun County,,University Studies,,,
-62,,63.0,Rush Reimer,OT,6-5,309.0,Jr.,"Camas, WA",Camas,,Business Management,,,
-63,,64.0,Burke Mastel,OL,6-4,306.0,Rf.,"Red Lodge, MT",Red Lodge,,University Studies,,,
-64,,65.0,Justus Perkins,C,6-0,284.0,Jr.,"Bozeman, MT",Bozeman,,Business Management,,,
-65,,66.0,Titan Fleischmann,OT,6-4,300.0,R-Fr.,"Pocatello, ID",Century,,Political Science,,,
-66,,68.0,Omar Aigbedion,OL,6-3,299.0,So.,"Katy, TX",Katy,Army Preparatory,University Studies,,,
-67,,69.0,Jaren Perkins,DT,6-1,246.0,Rf.,"Bozeman, MT",Bozeman,,University Studies,,,
-68,,70.0,Holden Sampson,OG,6-2,275.0,Jr.,"Helena, MT",Helena,,Elementary Education,,,
-69,,71.0,Tommy Sullivan,LS,5-11,220.0,Jr.,"Everett, WA",Archbishop Murphy,,Business Marketing,,,
-70,,72.0,Conner Moore,OT,6-5,300.0,Rf.,"Millbury, OH",Lake,,University Studies,,,
-71,,74.0,Jaden Perkins,OL,6-1,288.0,Rf.,"Bozeman, MT",Bozeman,,University Studies,,,
-72,,75.0,Jacob Kettels,OT,6-4,290.0,So.,"Lynden, WA",Lynden,,Business Marketing,,,
-73,,76.0,Marcus Wehr,OG,6-2,300.0,Jr.,"Billings, MT",Central,,Business Management,,,
-74,,80.0,Treyton Pickering,TE,6-4,246.0,Sr.,"Sunburst, MT",Sunburst,,Sociology,,,
-75,,81.0,Tayvian Williams,WR,5-10,175.0,Sr.,"Maple Valley, WA",Tahoma,Laney College,Business Management,,,
-76,,82.0,Elijah Reynolds,TE,6-4,235.0,R-So.,"Red Lodge, MT",Red Lodge,,Civil Engineering,,,
-77,,83.0,Dylan Snyder,WR,6-2,193.0,Rf.,"Butte, MT",Butte,,University Studies,,,
-78,,84.0,Noah Smith,WR,6-3,195.0,Rf.,"Joshua, TX",Joshua,,,,,
-79,,85.0,Aidan Garrigan,WR,6-3,202.0,So.,"Magnolia, TX",Magnolia,,Exercise Science,,,
-80,,86.0,Zachary Dodson-Green,WR,6-1,170.0,Rf.,"Salem, OR",West Salem,,University Studies,,,
-81,,87.0,Ryan Lonergan,TE,6-4,243.0,Jr.,"Bozeman, MT",Bozeman,,Sociology,,,
-82,,88.0,Rylan Schlepp,TE,6-4,243.0,Rf.,"Bozeman, MT",Gallatin,,University Studies,,,
-83,,89.0,Michael Hulverson,DE,6-2,245.0,Fr.,"Draper, UT",Juan Diego,,,,,
-84,,91.0,Zac Crews,DE,6-4,223.0,Fr.,"Missoula, MT",Sentinel,,University Studies,,,
-85,,92.0,Blake Schmidt,DT,6-2,292.0,Jr.,"San Diego, CA",Monte Vista,,Mechanical Engineering,,,
-86,,94.0,David Alston,DE,6-4,257.0,Sr.,"St. Paul, MN",Woodbury,Nebraska,Business,,,
-87,,95.0,Sebastian Valdez,DT,6-3,291.0,Jr.,"Spring Valley, CA",Monte Vista,,Civil Engineering,,,
-88,,96.0,Paul Brott,DT,6-3,277.0,So.,"Billings, MT",West,,Health and Human Performance,,,
-89,,97.0,Ethan Abbott,DL,6-5,270.0,Rf.,"Florence, MT",Florence-Carlton,,University Studies,,,
-90,,98.0,Ben Seymour,DE,6-2,244.0,Sr.,"Valencia, CA",Valencia,College of the Canyons,Business,,,
-0,,,,,,,,,,,,,Brent Vigen,Head Coach
-1,,,,,,,,,,,,,Taylor Housewright,Offensive Coordinator/Quarterbacks
-2,,,,,,,,,,,,,Willie Mack Garza,Defensive Coordinator/Defensive Backs
-3,,,,,,,,,,,,,Bobby Daly,Assistant Head Coach/Linebackers
-4,,,,,,,,,,,,,Jimmy Beal,Running Backs
-5,,,,,,,,,,,,,Justin Udy,Wide Receivers/Pass Game Coordinator/Special Teams Coordinator
-6,,,,,,,,,,,,,Al Johnson,Offensive Line
-7,,,,,,,,,,,,,Tyler Walker,Tight Ends
-8,,,,,,,,,,,,,Shawn Howe,Defensive Line/Defensive Run Game Coordinator
-9,,,,,,,,,,,,,Nicolas Jean-Baptiste,Defensive Tackles
-10,,,,,,,,,,,,,Bryan Shepherd,Cornerbacks
-11,,,,,,,,,,,,,Marcus Monaco,Offensive Quality Control - Football
-12,,,,,,,,,,,,,Sam Mix,Recruiting & Operations Assistant/Offensive Analyst
-13,,,,,,,,,,,,,Jake Dusenbury,Defensive Quality Control - Football
-14,,,,,,,,,,,,,Kevin Sheehan,Offensive Analyst - Football
-15,,,,,,,,,,,,,Tommy Wilson,Defensive Analyst - Football
-0,,,,,,,,,,,,,Sean Herrin,Director of Football Strength & Conditioning
-1,,,,,,,,,,,,,Garrett Becker,Director of Creative Services
-2,,,,,,,,,,,,,Chandler Arbizzani,General Manager
-3,,,,,,,,,,,,,Shannon Tyree,Director - Football Administration
-4,,,,,,,,,,,,,Rob Higgs,Head Athletic Trainer
-5,,,,,,,,,,,,,Brittney Patera,Sports Dietitian
+,Statistic,#,FULL NAME,POS.,HT.,WT.,Yr.,HOMETOWN,Current School Name,HIGH SCHOOL,PREVIOUS SCHOOL,MAJOR,Image,Name,Title
+0,,1.0,Marqui Johnson,WR,5-8,163.0,Jr.,"Philadelphia, PA",Montana State,Saguaro,Sacramento State,University Studies,,,
+1,,2.0,Dru Polidore,S,6-2,181.0,So.,"Katy, TX",Montana State,Tompkins,Air Force,,,,
+2,,2.0,Clevan Thomas Jr.,WR,5-11,192.0,Gr.,"Miami, FL",Montana State,Charles W. Flanagan,Kentucky,University Studies,,,
+3,,3.0,Jared White,RB,5-10,202.0,Rf.,"Frisco, TX",Montana State,Wakeland,,Kinesiology,,,
+4,,4.0,Tommy Mellott,QB,6-0,209.0,Jr.,"Butte, MT",Montana State,Butte,,Financial Engineering,,,
+5,,5.0,Garrett Coon,RB,6-0,203.0,So.,"Sheridan, WY",Montana State,Sheridan,,Health Enhancement,,,
+6,,6.0,Miles Jackson,DB,5-11,190.0,Jr.,"Portland, OR",Montana State,Central Catholic,,General Engineering,,,
+7,,6.0,Ty McCullouch,WR,6-1,180.0,Jr.,"Moreno Valley, CA",Montana State,Rancho Verde,Colorado State,,,,
+8,,7.0,Kaegun Williams,RB,5-9,205.0,Gr.,"Cedar Hill, TX",Montana State,Cedar Hill,San Diego State,Business Management,,,
+9,,8.0,Level Price Jr.,S/N,5-8,194.0,Sr.,"Los Angeles, CA",Montana State,St. John Bosco,,Business Marketing,,,
+10,,8.0,Derryk Snell,TE,6-2,238.0,Sr.,"Anchorage, AK",Montana State,Chugiak,,Liberal Studies,,,
+11,,9.0,Luke Abshire,QB,6-1,180.0,Rf.,"Spokane, WA",Montana State,Central Valley,,Secondary Education,,,
+12,,9.0,Simeon Woodard,CB,5-10,173.0,Jr.,"San Antonio, TX",Montana State,Veterans Memorial,,Biological Engineering,,,
+13,,10.0,Sean Chambers,QB,6-3,228.0,Sr.,"Kerman, CA",Montana State,Kerman,Wyoming,Liberal Studies,,,
+14,,10.0,Brody Grebe,DE,6-2,247.0,Jr.,"Melstone, MT",Montana State,Melstone/Roundup,Choates Academy,Mechanical Engineering,,,
+15,,11.0,Kenneth Eiden IV,DE,6-1,241.0,So.,"Bozeman, MT",Montana State,Bozeman,,Economics,,,
+16,,11.0,Elijah Elliott,RB,5-10,188.0,Jr.,"Portland, OR",Montana State,Central Catholic,,Exercise Science,,,
+17,,12.0,Devin Davis,CB,6-1,195.0,So.,"Vallejo, CA",Montana State,American Canyon,,University Studies,,,
+18,,12.0,Jordan Reed,QB,6-6,212.0,Rf.,"El Centro, CA",Montana State,Central Union),,Human Development and Family Science,,,
+19,,13.0,Jackson Harmon,CB,6-2,197.0,So.,"Anchorage, AK",Montana State,South,,Computer Science,,,
+20,,13.0,Chance Wilson,QB,6-3,183.0,Fr.,"Owasso, OK",Montana State,Rejoice Christian,,,,,
+21,,14.0,Neil Daily,LB,6-3,227.0,So.,"Billings, MT",Montana State,West,,Civil Engineering,,,
+22,,14.0,Taco Dowler,WR,5-9,168.0,So.,"Billings, MT",Montana State,West,,University Studies,,,
+23,,16.0,Michael Armstrong,S,6-0,186.0,Rf.,"Bozeman, MT",Montana State,Gallatin,,University Studies,,,
+24,,17.0,Christian Anaya,WR,6-1,175.0,Rf.,"Chandler, AZ",Montana State,Hamilton,,University Studies,,,
+25,,17.0,Caden Dowler,DB,6-0,202.0,So.,"Billings, MT",Montana State,West,,University Studies,,,
+26,,18.0,Sean Austin,QB,6-2,202.0,So.,"Kuna, ID",Montana State,Kuna,,Business Finance,,,
+27,,18.0,Kendric Bailey,S,6-1,205.0,Sr.,"Carmichael, CA",Montana State,Jesuit,Sacramento City College,Business Finance,,,
+28,,19.0,Lonyatta Alexander Jr.,WR,6-3,206.0,So.,"Auburn, WA",Montana State,Kennedy,Washington/Arizona State,,,,
+29,,19.0,Blake Stillwell,DB,6-1,177.0,So.,"Winter Garden, FL",Montana State,,New Mexico Military Institute,,,,
+30,,20.0,Tyson Pottenger,S,6-2,190.0,So.,"Couer d'Alene, ID",Montana State,Couer d'Alene,,Mechanical Engineering,,,
+31,,20.0,Garrett Walchli,WR,5-8,178.0,Jr.,"Hermiston, OR",Montana State,Hermiston,Utah State,,,,
+32,,22.0,Takhari Carr,DB,6-0,173.0,Rf.,"Compton, CA",Montana State,Dominguez,,University Studies,,,
+33,,23.0,Aidan Parks,S,6-0,219.0,So.,"Chico, CA",Montana State,Pleasant Valley,,Business Management,,,
+34,,24.0,Lane Sumner,RB,5-8,215.0,Sr.,"Huntley, MT",Montana State,Huntley Project,,Psychology,,,
+35,,26.0,Rylan Ortt,S/N,6-1,206.0,Jr.,"Missoula, MT",Montana State,Sentinel,,Economics,,,
+36,,27.0,Brock Steel,DB,6-1,205.0,R-Fr.,"Sheridan, WY",Montana State,Sheridan,,University Studies,,,
+37,,29.0,Max Kimball,S,6-0,188.0,Rf.,"Billings, MT",Montana State,West,,University Studies,,,
+38,,30.0,Danny Uluilakepa,LB,6-1,221.0,Jr.,"Puyallup, WA",Montana State,Puyallup,,Business Marketing,,,
+39,,31.0,Jace Fitzgerald,LB,6-1,223.0,So.,"Dillon, MT",Montana State,Beaverhead County,,Business Finance,,,
+40,,33.0,Blake Hehl,DT,6-3,285.0,Sr.,"Huntington Beach, CA",Montana State,Orange Lutheran,Tarleton State,Financial Engineering,,,
+41,,35.0,Kade Cutler,DB,6-0,206.0,Rf.,"Phillipsburg, MT",Montana State,Flint Creek,,,,,
+42,,38.0,Casey Kautzman,K/P,5-11,199.0,Rf.,"Butte, MT",Montana State,Butte,,Civil Engineering,,,
+43,,39.0,Myles Sansted,K,6-1,173.0,Fr.,"Alexandria, MN",Montana State,Alexandria,,Business,,,
+44,,40.0,Cole Bullock,LB,6-0,225.0,Jr.,"Chatsworth, CA",Montana State,Sierra Canyon,College of the Canyons,,,,
+45,,41.0,Nolan Askelson,LB,6-1,231.0,Sr.,"Billings, MT",Montana State,Senior,,Mathematics,,,
+46,,42.0,Ryan Krahe,LB,6-1,225.0,Rf.,"Great Falls, MT",Montana State,Great Falls,,University Studies,,,
+47,,43.0,McCade O'Reilly,LB,6-0,212.0,Jr.,"Bozeman, MT",Montana State,Bozeman,,Business Finance,,,
+48,,44.0,Jake Vigen,DE,6-2,236.0,Rf.,"Bozeman, MT",Montana State,Gallatin,,University Studies,,,
+49,,45.0,Hunter Parsons,DE,6-3,240.0,So.,"Sparks, NV",Montana State,Spanish Springs,,Construction Engineering Tech,,,
+50,,46.0,Logan Frederickson,DE,6-3,224.0,Rf.,"Rigby, ID",Montana State,Rigby,,University Studies,,,
+51,,47.0,Eli Aby,LB,6-1,207.0,So.,"Laurel, MT",Montana State,Laurel,,Business Finance,,,
+52,,48.0,Max Murphy,FB,6-2,233.0,Rf.,"Billings, MT",Montana State,West,,University Studies,,,
+53,,49.0,Zac Waible,LB,6-2,214.0,Rf.,"Lake Oswego, OR",Montana State,Lakeridge,,,,,
+54,,50.0,Zack Black,DT,6-4,271.0,So.,"Meridian, ID",Montana State,Rocky Mountain,,Business,,,
+55,,51.0,Nick Korom,DL,6-2,243.0,Jr.,"Bismarck, ND",Montana State,Century,Central Lakes JC,,,,
+56,,53.0,Luke Fedyk,DE,6-1,227.0,R-Fr.,"Bozeman, MT",Montana State,Bozeman,,Business Marketing,,,
+57,,55.0,JT Reed,OG,6-3,293.0,Jr.,"San Jose, CA",Montana State,Valley Christian,San Mateo College,,,,
+58,,56.0,Cole Sain,OG,6-4,289.0,Sr.,"Bellflower, CA",Montana State,St. John Bosco,Riverside CC/Montana,Business Finance,,,
+59,,58.0,Aaron Richards,OG,6-4,288.0,So.,"Butte, MT",Montana State,Central Catholic,,Business Management,,,
+60,,60.0,Tommy Nilson,OL,6-3,282.0,Rf.,"Missoula, MT",Montana State,Hellgate,,University Studies,,,
+61,,62.0,Bear Old,OL,6-5,280.0,Rf.,"Tiger, GA",Montana State,Rabun County,,University Studies,,,
+62,,63.0,Rush Reimer,OT,6-5,309.0,Jr.,"Camas, WA",Montana State,Camas,,Business Management,,,
+63,,64.0,Burke Mastel,OL,6-4,306.0,Rf.,"Red Lodge, MT",Montana State,Red Lodge,,University Studies,,,
+64,,65.0,Justus Perkins,C,6-0,284.0,Jr.,"Bozeman, MT",Montana State,Bozeman,,Business Management,,,
+65,,66.0,Titan Fleischmann,OT,6-4,300.0,R-Fr.,"Pocatello, ID",Montana State,Century,,Political Science,,,
+66,,68.0,Omar Aigbedion,OL,6-3,299.0,So.,"Katy, TX",Montana State,Katy,Army Preparatory,University Studies,,,
+67,,69.0,Jaren Perkins,DT,6-1,246.0,Rf.,"Bozeman, MT",Montana State,Bozeman,,University Studies,,,
+68,,70.0,Holden Sampson,OG,6-2,275.0,Jr.,"Helena, MT",Montana State,Helena,,Elementary Education,,,
+69,,71.0,Tommy Sullivan,LS,5-11,220.0,Jr.,"Everett, WA",Montana State,Archbishop Murphy,,Business Marketing,,,
+70,,72.0,Conner Moore,OT,6-5,300.0,Rf.,"Millbury, OH",Montana State,Lake,,University Studies,,,
+71,,74.0,Jaden Perkins,OL,6-1,288.0,Rf.,"Bozeman, MT",Montana State,Bozeman,,University Studies,,,
+72,,75.0,Jacob Kettels,OT,6-4,290.0,So.,"Lynden, WA",Montana State,Lynden,,Business Marketing,,,
+73,,76.0,Marcus Wehr,OG,6-2,300.0,Jr.,"Billings, MT",Montana State,Central,,Business Management,,,
+74,,80.0,Treyton Pickering,TE,6-4,246.0,Sr.,"Sunburst, MT",Montana State,Sunburst,,Sociology,,,
+75,,81.0,Tayvian Williams,WR,5-10,175.0,Sr.,"Maple Valley, WA",Montana State,Tahoma,Laney College,Business Management,,,
+76,,82.0,Elijah Reynolds,TE,6-4,235.0,R-So.,"Red Lodge, MT",Montana State,Red Lodge,,Civil Engineering,,,
+77,,84.0,Noah Smith,WR,6-3,195.0,Rf.,"Joshua, TX",Montana State,Joshua,,,,,
+78,,85.0,Aidan Garrigan,WR,6-3,202.0,So.,"Magnolia, TX",Montana State,Magnolia,,Exercise Science,,,
+79,,86.0,Zachary Dodson-Green,WR,6-1,170.0,Rf.,"Salem, OR",Montana State,West Salem,,University Studies,,,
+80,,87.0,Ryan Lonergan,TE,6-4,243.0,Jr.,"Bozeman, MT",Montana State,Bozeman,,Sociology,,,
+81,,88.0,Rylan Schlepp,TE,6-4,243.0,Rf.,"Bozeman, MT",Montana State,Gallatin,,University Studies,,,
+82,,91.0,Zac Crews,DE,6-4,223.0,Fr.,"Missoula, MT",Montana State,Sentinel,,University Studies,,,
+83,,92.0,Blake Schmidt,DT,6-2,292.0,Jr.,"San Diego, CA",Montana State,Monte Vista,,Mechanical Engineering,,,
+84,,94.0,David Alston,DE,6-4,257.0,Sr.,"St. Paul, MN",Montana State,Woodbury,Nebraska,Business,,,
+85,,95.0,Sebastian Valdez,DT,6-3,291.0,Jr.,"Spring Valley, CA",Montana State,Monte Vista,,Civil Engineering,,,
+86,,96.0,Paul Brott,DT,6-3,277.0,So.,"Billings, MT",Montana State,West,,Health and Human Performance,,,
+87,,97.0,Ethan Abbott,DL,6-5,270.0,Rf.,"Florence, MT",Montana State,Florence-Carlton,,University Studies,,,
+88,,98.0,Ben Seymour,DE,6-2,244.0,Sr.,"Valencia, CA",Montana State,Valencia,College of the Canyons,Business,,,
+0,,,,,,,,,Montana State,,,,,Brent Vigen,Head Coach
+1,,,,,,,,,Montana State,,,,,Taylor Housewright,Offensive Coordinator/Quarterbacks
+2,,,,,,,,,Montana State,,,,,Willie Mack Garza,Defensive Coordinator/Defensive Backs
+3,,,,,,,,,Montana State,,,,,Bobby Daly,Assistant Head Coach/Linebackers
+4,,,,,,,,,Montana State,,,,,Justin Udy,Wide Receivers/Pass Game Coordinator/Special Teams Coordinator
+5,,,,,,,,,Montana State,,,,,Al Johnson,Offensive Line
+6,,,,,,,,,Montana State,,,,,Tyler Walker,Tight Ends
+7,,,,,,,,,Montana State,,,,,Shawn Howe,Defensive Line/Defensive Run Game Coordinator
+8,,,,,,,,,Montana State,,,,,Nicolas Jean-Baptiste,Defensive Tackles
+9,,,,,,,,,Montana State,,,,,Bryan Shepherd,Cornerbacks
+10,,,,,,,,,Montana State,,,,,Marcus Monaco,Offensive Quality Control - Football
+11,,,,,,,,,Montana State,,,,,Sam Mix,Recruiting & Operations Assistant/Offensive Analyst
+12,,,,,,,,,Montana State,,,,,Jake Dusenbury,Defensive Quality Control - Football
+13,,,,,,,,,Montana State,,,,,Kevin Sheehan,Offensive Analyst - Football
+14,,,,,,,,,Montana State,,,,,Tommy Wilson,Defensive Analyst - Football
+0,,,,,,,,,Montana State,,,,,Sean Herrin,Director of Football Strength & Conditioning
+1,,,,,,,,,Montana State,,,,,Garrett Becker,Director of Creative Services
+2,,,,,,,,,Montana State,,,,,Chandler Arbizzani,General Manager
+3,,,,,,,,,Montana State,,,,,Shannon Tyree,Director - Football Administration
+4,,,,,,,,,Montana State,,,,,Rob Higgs,Head Athletic Trainer
+5,,,,,,,,,Montana State,,,,,Brittney Patera,Sports Dietitian

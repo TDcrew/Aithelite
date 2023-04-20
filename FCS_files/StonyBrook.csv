@@ -1,105 +1,104 @@
-,Statistic,#,Full Name,Pos.,Year,Ht.,Wt.,Hometown / High School,Previous School,Image,Name,Title
-0,,0.0,"Martin, Johnny",RB,So.,5-10,215.0,"Lawnside, N.J. / Highland",Charlotte,,,
-1,,1.0,"El, Rah'Khem",WR,So.,5-9,162.0,"Syracuse, N.Y. / East Syracuse Minoa",,,,
-2,,2.0,"Roberts, AJ",LB,Sr.,6-0,230.0,"Staten Island, N.Y. / Tottenville",Pittsburgh,,,
-3,,3.0,"Cook, Jayden",RB,Sr.,6-0,225.0,"West Haverstraw, N.Y. / Spring Valley",Milford Academy,,,
-4,,4.0,"Dempster, Roland",RB,Sr.,6-0,225.0,"Staten Island, N.Y. / Tottenville",,,,
-5,,5.0,"Turner, Jadon",RB,Sr.,5-10,175.0,"Rochester, N.Y. / Irondequoit",,,,
-6,,6.0,"Gross Jr., Cory",DB,Gr.,6-2,205.0,"Rochester, N.Y. / Brockport",Tennessee State / Buffalo,,,
-7,,7.0,"Case, Casey",QB,Jr.,6-6,222.0,"Winter Park, Fla. / Winter Park",Buffalo,,,
-8,,7.0,"Lazarus, Shamel",DB,Sr.,6-2,193.0,"Queens, N.Y. / Erasmus Hall",UConn,,,
-9,,8.0,"Bryden, Daron",QB,Jr.,6-2,200.0,"Bloomfield, Conn. / Bloomfield",,,,
-10,,9.0,"Lawrence, Rushawn",DL,Sr.,6-2,290.0,"Philadelphia, Pa. / Monsignor Bonner",Albany / Lackawanna,,,
-11,,13.0,"Clary, Dyshier",DL,Jr.,6-2,270.0,"East Camden, N.J. / Woodrow Wilson",Temple,,,
-12,,14.0,"Faulk, Rodney",DL,Jr.,6-3,240.0,"Washington, D.C. / Gonzaga College HS",,,,
-13,,14.0,"Guttieri, Drew",QB,Sr.,6-2,210.0,"Oakdale, N.Y. / Connetquot",,,,
-14,,15.0,"Davis Jr., Jeffrey",CB,Jr.,6-0,174.0,"Bristol, Conn. / Kingswood Oxford",Penn State,,,
-15,,17.0,"Jackson, Jaidan",DL,Jr.,6-2,270.0,"Freeport, N.Y. / Grayson",,,,
-16,,17.0,"Jorgensen, Brandon",QB,So.,6-4,214.0,"Beacon, N.Y. / Our Lady of Lourdes",,,,
-17,,19.0,"Haffery, Cashton",DB,Sr.,5-10,185.0,"Clarksville, Tenn. / Northeast",Moorpark,,,
-18,,20.0,"Carson, Shakhi",RB,Jr.,5-9,182.0,"West Orange, N.J. / West Orange",Kent State,,,
-19,,21.0,"Jackson, Jordan",DB,Sr.,5-10,190.0,"Freeport, N.Y. / Freeport",,,,
-20,,22.0,"Redman, Cal",TE,Sr.,6-5,260.0,"Hebron, Conn. / RHAM",,,,
-21,,24.0,"Wilder, Kevonne",WR,Sr.,5-9,160.0,"Bronx, N.Y. / Brunswick (Conn.)",,,,
-22,,25.0,"Chimienti, Nick",DB,Sr.,6-0,185.0,"Harrisburg, Pa. / Central Dauphin",,,,
-23,,26.0,"Porter, Quenton",DB,Gr.,6-0,215.0,"Hedgesville, W.V. / Hedgesville",,,,
-24,,28.0,"McIntyre, Kaloni",LB,So.,6-3,210.0,"Bronx, N.Y. / Iona Prep",,,,
-25,,29.0,"Nicolas, Willensky",DB,So.,6-0,182.0,"Brooklyn, N.Y. / James Madison",,,,
-26,,31.0,"Myers, Saieed",DB,Sr.,5-11,190.0,"Washington, D.C. / DeMatha Catholic",,,,
-27,,32.0,"Stewart, Cle-Andre",DB,So.,5-10,210.0,"Valley Stream, N.Y. / Valley Stream South",,,,
-28,,33.0,"Harrison, Calvin",DB,So.,5-10,195.0,"Severn, Md. / Meade Sr.",,,,
-29,,34.0,"Rodriguez, Noah",DB,Sr.,6-1,190.0,"Milpitas, Calif. / Milpitas",College of San Mateo,,,
-30,,36.0,"Ganthier, JuJu",DB,Sr.,6-0,175.0,"Laurel, Md. / St. Vincent Pallotti",,,,
-31,,37.0,"Lee, Nathan",DB,So.,5-9,175.0,"Lockport, N.Y. / Starpoint",,,,
-32,,38.0,"Kaler, Aidan",LB,Sr.,6-2,230.0,"Sayville, N.Y. / Sayville",,,,
-33,,39.0,"DeNicola, Anthony",LB,Jr.,6-1,230.0,"Garden City South, N.Y. / H. Frank Carey",,,,
-34,,40.0,"Badyna, Joseph",TE,So.,6-3,240.0,"Staten Island, N.Y. / Monsignor Farrell",,,,
-35,,41.0,"Capazzola, Nick",TE,Sr.,6-2,250.0,"Eastport, N.Y. / Eastport-South Manor",,,,
-36,,42.0,"Ferrelli, Anthony",LB,So.,6-0,210.0,"Carlsbad, Calif. / Carlsbad",,,,
-37,,43.0,"Barry, Brendan",TE,So.,6-5,220.0,"Babylon, N.Y. / West Babylon",,,,
-38,,44.0,"Legagneur, Clarens",LB,Sr.,6-1,195.0,"Brooklyn, N.Y. / Lincoln",,,,
-39,,45.0,"Cruz, De'Aundre",LB,Sr.,6-2,240.0,"Merizo, Guam / Father Duenas Memorial",College of San Mateo,,,
-40,,46.0,"Clark, Jason",DB,Sr.,5-10,190.0,"Springfield, Va. / Lake Braddock Secondary School",,,,
-41,,47.0,"Tallarico, Ross",RB,Sr.,5-10,190.0,"North Babylon, N.Y. / North Babylon",,,,
-42,,48.0,"Galaor, Jordan",DB,Sr.,5-11,200.0,"Deer Park, N.Y. / Deer Park",,,,
-43,,49.0,"Reshard, Justin",WR,So.,5-7,155.0,"Hempstead, N.Y. / Long Island Lutheran",,,,
-44,,51.0,"Burell, Ludvig",OL,Sr.,6-4,290.0,"Täby, Sweden / Celsiusskolan",,,,
-45,,52.0,"Biscoe, Spencer",K,Jr.,6-3,210.0,"Landisville, Pa. / Hempfield",Colgate,,,
-46,,53.0,"Kirby, Enda",P/PK,Jr.,6-2,220.0,"Dobbs Ferry, N.Y. / Archbishop Stepinac",,,,
-47,,54.0,"Dorr, Jackson",P,Jr.,6-0,190.0,"Lone Tree, Co. / Valor Christian",Valparaiso,,,
-48,,55.0,"Hoerter, Zach",OL,So.,6-2,300.0,"Mastic, N.Y. / William Floyd",,,,
-49,,56.0,"Gallagher, Ray",LS,Sr.,6-2,200.0,"West Deptford, N.J. / Mainland Regional",Santa Barbara City College / Morgan State,,,
-50,,57.0,"Sadler, Isaiah",OL,Jr.,6-1,300.0,"Mastic Beach, N.Y. / William Floyd",,,,
-51,,60.0,"Wallman, Trey",LS,So.,6-2,218.0,"Pittsford, N.Y. / Pittsford Mendon",,,,
-52,,62.0,"Fagade, Simon",OL,So.,6-4,255.0,"Winston-Salem, N.C. / RJ Reynolds",,,,
-53,,64.0,"Rodriguez, Jace",TE,So.,6-5,235.0,"Los Alamitos, Calif. / Orange Lutheran",,,,
-54,,65.0,"Melendez, Kollin",OL,Jr.,6-5,328.0,"Lake Ronkonkoma, N.Y. / Sachem North",,,,
-55,,66.0,"Tunc, Collin",OL,Sr.,6-1,310.0,"Wyckoff, N.J. / Bergen Catholic",,,,
-56,,67.0,"Faller, Dylan",DL,So.,6-4,225.0,"Somers, N.Y. / Somers",,,,
-57,,71.0,"Glamos, James",OL,So.,6-7,315.0,"Baldwinsville, N.Y. / Salisbury School",,,,
-58,,72.0,"Garbowski, Joseph",DL,Sr.,6-3,270.0,"Putnam Valley, N.Y. / Archbishop Stepinac",Cornell,,,
-59,,73.0,"Papic, Niko",OL,Sr.,6-4,305.0,"Bayside, N.Y. / Bayside",,,,
-60,,75.0,"Grossman, Matt",OL,So.,6-5,300.0,"Long Beach, N.Y. / Long Beach",,,,
-61,,77.0,"Kemp IV, Thomas",OL,So.,6-3,235.0,"Hempstead, N.Y. / Chaminade",,,,
-62,,78.0,"Rotelli, Vincent",DL,So.,6-4,231.0,"Commack, N.Y. / Commack",,,,
-63,,79.0,"Alston, Terrell",DL,Sr.,6-2,265.0,"Brooklyn, N.Y. / Abraham Lincoln",,,,
-64,,80.0,"Freeman, Jayce",WR,So.,6-4,205.0,"Salisbury, Md. / Wicomico",,,,
-65,,81.0,"Lamarre, RJ",WR,Sr.,6-1,185.0,"West Nyack, N.Y. / Clarkstown South",,,,
-66,,83.0,"Johnson, Anthony",WR,So.,5-11,195.0,"Burlington, N.J. / Burlington Township",JMU,,,
-67,,84.0,"Williams, Dez",WR,Jr.,6-2,212.0,"Waldorf, Md. / St. Mary's Ryken",Wake Forest,,,
-68,,86.0,"Bunicci, Cole",TE,Sr.,6-3,230.0,"Ronkonkoma, N.Y. / Connetquot",,,,
-69,,87.0,"Hart Jr., Rahmon",WR,Sr.,6-3,215.0,"Pittsburgh, Pa. / Imani Christian Academy",Duquesne / Ball State,,,
-70,,88.0,"Dutton, Thomas",TE,Gr.,6-7,250.0,"Columbia, Mo. / Hickman",Air Force,,,
-71,,89.0,"Coburn, Jacob",WR,So.,6-3,190.0,"Buffalo, N.Y. / Kenmore East",,,,
-72,,90.0,"Desire-Brisard, Hashim",DL,Sr.,6-0,240.0,"Brooklyn, N.Y. / Fort Hamilton",,,,
-73,,91.0,"Bomar, Davon",DL,Sr.,6-2,255.0,"Havre de Grace, Md. / Bel Air",Coastal Carolina,,,
-74,,92.0,"Hills, Jerrod",DE,Fr.,6-7,228.0,"Syracuse, N.Y. / Trinity-Pawling School",,,,
-75,,94.0,"Bolesta, Taylor",DL,Sr.,6-0,270.0,"Dallas, Pa. / Dallas",LIU,,,
-76,,95.0,"Williams, Anthony",DL,Jr.,6-4,270.0,"Sicklerville, N.J. / Timber Creek",,,,
-77,,96.0,"Milano, Franco",DL,Jr.,6-3,250.0,"Brewster, N.Y. / Brewster",,,,
-78,,99.0,"Taylor, Clayton",P,Sr.,6-1,200.0,"Berwick, Australia / Haileybury",,,,
-0,,,,,,,,,,,Chuck Priore,Head Coach
-1,,,,,,,,,,,Andrew Dresner,Offensive Coordinator/Quarterbacks Coach
-2,,,,,,,,,,,Caleb Haynes,Wide Receivers Coach/Pass Game Coordinator
-3,,,,,,,,,,,Chris Bache,Offensive Line Coach
-4,,,,,,,,,,,Steve Martino,Tight Ends Coach
-5,,,,,,,,,,,Omar King,Running Backs Coach
-6,,,,,,,,,,,Cal Daniels,Offensive Assistant/Assistant Offensive Line Coach
-7,,,,,,,,,,,Bryan Collins,Defensive Coordinator
-8,,,,,,,,,,,Matt Hachmann,Special Teams Coordinator/Assistant Head Coach/Linebackers
-9,,,,,,,,,,,Trevor Warner,Safeties Coach
-10,,,,,,,,,,,Diamond Weaver,Cornerbacks Coach
-11,,,,,,,,,,,Sean Hammonds,Defensive Line Coach
-12,,,,,,,,,,,Stone Mannello,Defensive Assistant/Assistant Defensive Line Coach
-13,,,,,,,,,,,Billy Barber,Special Teams Assistant
-14,,,,,,,,,,,Patrick Hatch,Assistant AD/Coordinator of Player Personnel/Recruiting Coordinator
-15,,,,,,,,,,,Josh Heinrich,Director of Football Operations/Assistant Director for Player Personnel
-16,,,,,,,,,,,Delroy Nichols,Assistant Director of Player Personnel
-0,,,,,,,,,,,Vincent Cagliostro,Director of Athletic Performance for Football
-1,,,,,,,,,,,Sean Kennedy,Assistant Athletic Performance Coach
-2,,,,,,,,,,,Timothy Koehler,Assistant Athletic Trainer (FB)
-3,,,,,,,,,,,Enzo Zucconi,Director of Equipment Operations
-4,,,,,,,,,,,Aaron Schlau,Assistant Director of Equipment Operations
-5,,,,,,,,,,,Briana D'Amico,Academic Advisor (FB)
-6,,,,,,,,,,,Rien Hachmann,Academic Advisor (FB)
-7,,,,,,,,,,,Sotiria Everett,Sports Performance Nutritionist
+,Statistic,#,Full Name,Pos.,Year,Ht.,Wt.,Hometown / High School,Current School Name,Previous School,Image,Name,Title
+0,,0.0,"Martin, Johnny",RB,So.,5-10,215.0,"Lawnside, N.J. / Highland",Stony Brook,Charlotte,,,
+1,,1.0,"El, Rah'Khem",WR,So.,5-9,162.0,"Syracuse, N.Y. / East Syracuse Minoa",Stony Brook,,,,
+2,,2.0,"Roberts, AJ",LB,Sr.,6-0,230.0,"Staten Island, N.Y. / Tottenville",Stony Brook,Pittsburgh,,,
+3,,3.0,"Cook, Jayden",RB,Sr.,6-0,225.0,"West Haverstraw, N.Y. / Spring Valley",Stony Brook,Milford Academy,,,
+4,,4.0,"Dempster, Roland",RB,Sr.,6-0,225.0,"Staten Island, N.Y. / Tottenville",Stony Brook,,,,
+5,,5.0,"Turner, Jadon",RB,Sr.,5-10,175.0,"Rochester, N.Y. / Irondequoit",Stony Brook,,,,
+6,,6.0,"Gross Jr., Cory",DB,Gr.,6-2,205.0,"Rochester, N.Y. / Brockport",Stony Brook,Tennessee State / Buffalo,,,
+7,,7.0,"Case, Casey",QB,Jr.,6-6,222.0,"Winter Park, Fla. / Winter Park",Stony Brook,Buffalo,,,
+8,,7.0,"Lazarus, Shamel",DB,Sr.,6-2,193.0,"Queens, N.Y. / Erasmus Hall",Stony Brook,UConn,,,
+9,,8.0,"Bryden, Daron",QB,Jr.,6-2,200.0,"Bloomfield, Conn. / Bloomfield",Stony Brook,,,,
+10,,9.0,"Lawrence, Rushawn",DL,Sr.,6-2,290.0,"Philadelphia, Pa. / Monsignor Bonner",Stony Brook,Albany / Lackawanna,,,
+11,,13.0,"Clary, Dyshier",DL,Jr.,6-2,270.0,"East Camden, N.J. / Woodrow Wilson",Stony Brook,Temple,,,
+12,,14.0,"Faulk, Rodney",DL,Jr.,6-3,240.0,"Washington, D.C. / Gonzaga College HS",Stony Brook,,,,
+13,,14.0,"Guttieri, Drew",QB,Sr.,6-2,210.0,"Oakdale, N.Y. / Connetquot",Stony Brook,,,,
+14,,15.0,"Davis Jr., Jeffrey",CB,Jr.,6-0,174.0,"Bristol, Conn. / Kingswood Oxford",Stony Brook,Penn State,,,
+15,,17.0,"Jackson, Jaidan",DL,Jr.,6-2,270.0,"Freeport, N.Y. / Grayson",Stony Brook,,,,
+16,,17.0,"Jorgensen, Brandon",QB,So.,6-4,214.0,"Beacon, N.Y. / Our Lady of Lourdes",Stony Brook,,,,
+17,,19.0,"Haffery, Cashton",DB,Sr.,5-10,185.0,"Clarksville, Tenn. / Northeast",Stony Brook,Moorpark,,,
+18,,20.0,"Carson, Shakhi",RB,Jr.,5-9,182.0,"West Orange, N.J. / West Orange",Stony Brook,Kent State,,,
+19,,22.0,"Redman, Cal",TE,Sr.,6-5,260.0,"Hebron, Conn. / RHAM",Stony Brook,,,,
+20,,24.0,"Wilder, Kevonne",WR,Sr.,5-9,160.0,"Bronx, N.Y. / Brunswick (Conn.)",Stony Brook,,,,
+21,,25.0,"Chimienti, Nick",DB,Sr.,6-0,185.0,"Harrisburg, Pa. / Central Dauphin",Stony Brook,,,,
+22,,26.0,"Porter, Quenton",DB,Gr.,6-0,215.0,"Hedgesville, W.V. / Hedgesville",Stony Brook,,,,
+23,,28.0,"McIntyre, Kaloni",LB,So.,6-3,210.0,"Bronx, N.Y. / Iona Prep",Stony Brook,,,,
+24,,29.0,"Nicolas, Willensky",DB,So.,6-0,182.0,"Brooklyn, N.Y. / James Madison",Stony Brook,,,,
+25,,31.0,"Myers, Saieed",DB,Sr.,5-11,190.0,"Washington, D.C. / DeMatha Catholic",Stony Brook,,,,
+26,,32.0,"Stewart, Cle-Andre",DB,So.,5-10,210.0,"Valley Stream, N.Y. / Valley Stream South",Stony Brook,,,,
+27,,33.0,"Harrison, Calvin",DB,So.,5-10,195.0,"Severn, Md. / Meade Sr.",Stony Brook,,,,
+28,,34.0,"Rodriguez, Noah",DB,Sr.,6-1,190.0,"Milpitas, Calif. / Milpitas",Stony Brook,College of San Mateo,,,
+29,,36.0,"Ganthier, JuJu",DB,Sr.,6-0,175.0,"Laurel, Md. / St. Vincent Pallotti",Stony Brook,,,,
+30,,37.0,"Lee, Nathan",DB,So.,5-9,175.0,"Lockport, N.Y. / Starpoint",Stony Brook,,,,
+31,,38.0,"Kaler, Aidan",LB,Sr.,6-2,230.0,"Sayville, N.Y. / Sayville",Stony Brook,,,,
+32,,39.0,"DeNicola, Anthony",LB,Jr.,6-1,230.0,"Garden City South, N.Y. / H. Frank Carey",Stony Brook,,,,
+33,,40.0,"Badyna, Joseph",TE,So.,6-3,240.0,"Staten Island, N.Y. / Monsignor Farrell",Stony Brook,,,,
+34,,41.0,"Capazzola, Nick",TE,Sr.,6-2,250.0,"Eastport, N.Y. / Eastport-South Manor",Stony Brook,,,,
+35,,42.0,"Ferrelli, Anthony",LB,So.,6-0,210.0,"Carlsbad, Calif. / Carlsbad",Stony Brook,,,,
+36,,43.0,"Barry, Brendan",TE,So.,6-5,220.0,"Babylon, N.Y. / West Babylon",Stony Brook,,,,
+37,,44.0,"Legagneur, Clarens",LB,Sr.,6-1,195.0,"Brooklyn, N.Y. / Lincoln",Stony Brook,,,,
+38,,45.0,"Cruz, De'Aundre",LB,Sr.,6-2,240.0,"Merizo, Guam / Father Duenas Memorial",Stony Brook,College of San Mateo,,,
+39,,46.0,"Clark, Jason",DB,Sr.,5-10,190.0,"Springfield, Va. / Lake Braddock Secondary School",Stony Brook,,,,
+40,,47.0,"Tallarico, Ross",RB,Sr.,5-10,190.0,"North Babylon, N.Y. / North Babylon",Stony Brook,,,,
+41,,48.0,"Galaor, Jordan",DB,Sr.,5-11,200.0,"Deer Park, N.Y. / Deer Park",Stony Brook,,,,
+42,,49.0,"Reshard, Justin",WR,So.,5-7,155.0,"Hempstead, N.Y. / Long Island Lutheran",Stony Brook,,,,
+43,,51.0,"Burell, Ludvig",OL,Sr.,6-4,290.0,"Täby, Sweden / Celsiusskolan",Stony Brook,,,,
+44,,52.0,"Biscoe, Spencer",K,Jr.,6-3,210.0,"Landisville, Pa. / Hempfield",Stony Brook,Colgate,,,
+45,,53.0,"Kirby, Enda",P/PK,Jr.,6-2,220.0,"Dobbs Ferry, N.Y. / Archbishop Stepinac",Stony Brook,,,,
+46,,54.0,"Dorr, Jackson",P,Jr.,6-0,190.0,"Lone Tree, Co. / Valor Christian",Stony Brook,Valparaiso,,,
+47,,55.0,"Hoerter, Zach",OL,So.,6-2,300.0,"Mastic, N.Y. / William Floyd",Stony Brook,,,,
+48,,56.0,"Gallagher, Ray",LS,Sr.,6-2,200.0,"West Deptford, N.J. / Mainland Regional",Stony Brook,Santa Barbara City College / Morgan State,,,
+49,,57.0,"Sadler, Isaiah",OL,Jr.,6-1,300.0,"Mastic Beach, N.Y. / William Floyd",Stony Brook,,,,
+50,,60.0,"Wallman, Trey",LS,So.,6-2,218.0,"Pittsford, N.Y. / Pittsford Mendon",Stony Brook,,,,
+51,,62.0,"Fagade, Simon",OL,So.,6-4,255.0,"Winston-Salem, N.C. / RJ Reynolds",Stony Brook,,,,
+52,,64.0,"Rodriguez, Jace",TE,So.,6-5,235.0,"Los Alamitos, Calif. / Orange Lutheran",Stony Brook,,,,
+53,,65.0,"Melendez, Kollin",OL,Jr.,6-5,328.0,"Lake Ronkonkoma, N.Y. / Sachem North",Stony Brook,,,,
+54,,66.0,"Tunc, Collin",OL,Sr.,6-1,310.0,"Wyckoff, N.J. / Bergen Catholic",Stony Brook,,,,
+55,,67.0,"Faller, Dylan",DL,So.,6-4,225.0,"Somers, N.Y. / Somers",Stony Brook,,,,
+56,,71.0,"Glamos, James",OL,So.,6-7,315.0,"Baldwinsville, N.Y. / Salisbury School",Stony Brook,,,,
+57,,72.0,"Garbowski, Joseph",DL,Sr.,6-3,270.0,"Putnam Valley, N.Y. / Archbishop Stepinac",Stony Brook,Cornell,,,
+58,,73.0,"Papic, Niko",OL,Sr.,6-4,305.0,"Bayside, N.Y. / Bayside",Stony Brook,,,,
+59,,75.0,"Grossman, Matt",OL,So.,6-5,300.0,"Long Beach, N.Y. / Long Beach",Stony Brook,,,,
+60,,77.0,"Kemp IV, Thomas",OL,So.,6-3,235.0,"Hempstead, N.Y. / Chaminade",Stony Brook,,,,
+61,,78.0,"Rotelli, Vincent",DL,So.,6-4,231.0,"Commack, N.Y. / Commack",Stony Brook,,,,
+62,,79.0,"Alston, Terrell",DL,Sr.,6-2,265.0,"Brooklyn, N.Y. / Abraham Lincoln",Stony Brook,,,,
+63,,80.0,"Freeman, Jayce",WR,So.,6-4,205.0,"Salisbury, Md. / Wicomico",Stony Brook,,,,
+64,,81.0,"Lamarre, RJ",WR,Sr.,6-1,185.0,"West Nyack, N.Y. / Clarkstown South",Stony Brook,,,,
+65,,83.0,"Johnson, Anthony",WR,So.,5-11,195.0,"Burlington, N.J. / Burlington Township",Stony Brook,JMU,,,
+66,,84.0,"Williams, Dez",WR,Jr.,6-2,212.0,"Waldorf, Md. / St. Mary's Ryken",Stony Brook,Wake Forest,,,
+67,,86.0,"Bunicci, Cole",TE,Sr.,6-3,230.0,"Ronkonkoma, N.Y. / Connetquot",Stony Brook,,,,
+68,,87.0,"Hart Jr., Rahmon",WR,Sr.,6-3,215.0,"Pittsburgh, Pa. / Imani Christian Academy",Stony Brook,Duquesne / Ball State,,,
+69,,88.0,"Dutton, Thomas",TE,Gr.,6-7,250.0,"Columbia, Mo. / Hickman",Stony Brook,Air Force,,,
+70,,89.0,"Coburn, Jacob",WR,So.,6-3,190.0,"Buffalo, N.Y. / Kenmore East",Stony Brook,,,,
+71,,90.0,"Desire-Brisard, Hashim",DL,Sr.,6-0,240.0,"Brooklyn, N.Y. / Fort Hamilton",Stony Brook,,,,
+72,,91.0,"Bomar, Davon",DL,Sr.,6-2,255.0,"Havre de Grace, Md. / Bel Air",Stony Brook,Coastal Carolina,,,
+73,,92.0,"Hills, Jerrod",DE,Fr.,6-7,228.0,"Syracuse, N.Y. / Trinity-Pawling School",Stony Brook,,,,
+74,,94.0,"Bolesta, Taylor",DL,Sr.,6-0,270.0,"Dallas, Pa. / Dallas",Stony Brook,LIU,,,
+75,,95.0,"Williams, Anthony",DL,Jr.,6-4,270.0,"Sicklerville, N.J. / Timber Creek",Stony Brook,,,,
+76,,96.0,"Milano, Franco",DL,Jr.,6-3,250.0,"Brewster, N.Y. / Brewster",Stony Brook,,,,
+77,,99.0,"Taylor, Clayton",P,Sr.,6-1,200.0,"Berwick, Australia / Haileybury",Stony Brook,,,,
+0,,,,,,,,,Stony Brook,,,Chuck Priore,Head Coach
+1,,,,,,,,,Stony Brook,,,Andrew Dresner,Offensive Coordinator/Quarterbacks Coach
+2,,,,,,,,,Stony Brook,,,Caleb Haynes,Wide Receivers Coach/Pass Game Coordinator
+3,,,,,,,,,Stony Brook,,,Chris Bache,Offensive Line Coach
+4,,,,,,,,,Stony Brook,,,Steve Martino,Tight Ends Coach
+5,,,,,,,,,Stony Brook,,,Omar King,Running Backs Coach
+6,,,,,,,,,Stony Brook,,,Cal Daniels,Offensive Assistant/Assistant Offensive Line Coach
+7,,,,,,,,,Stony Brook,,,Bryan Collins,Defensive Coordinator
+8,,,,,,,,,Stony Brook,,,Matt Hachmann,Special Teams Coordinator/Assistant Head Coach/Linebackers
+9,,,,,,,,,Stony Brook,,,Trevor Warner,Safeties Coach
+10,,,,,,,,,Stony Brook,,,Diamond Weaver,Cornerbacks Coach
+11,,,,,,,,,Stony Brook,,,Sean Hammonds,Defensive Line Coach
+12,,,,,,,,,Stony Brook,,,Stone Mannello,Defensive Assistant/Assistant Defensive Line Coach
+13,,,,,,,,,Stony Brook,,,Billy Barber,Special Teams Assistant
+14,,,,,,,,,Stony Brook,,,Patrick Hatch,Assistant AD/Coordinator of Player Personnel/Recruiting Coordinator
+15,,,,,,,,,Stony Brook,,,Josh Heinrich,Director of Football Operations/Assistant Director for Player Personnel
+16,,,,,,,,,Stony Brook,,,Delroy Nichols,Assistant Director of Player Personnel
+0,,,,,,,,,Stony Brook,,,Vincent Cagliostro,Director of Athletic Performance for Football
+1,,,,,,,,,Stony Brook,,,Sean Kennedy,Assistant Athletic Performance Coach
+2,,,,,,,,,Stony Brook,,,Timothy Koehler,Assistant Athletic Trainer (FB)
+3,,,,,,,,,Stony Brook,,,Enzo Zucconi,Director of Equipment Operations
+4,,,,,,,,,Stony Brook,,,Aaron Schlau,Assistant Director of Equipment Operations
+5,,,,,,,,,Stony Brook,,,Briana D'Amico,Academic Advisor (FB)
+6,,,,,,,,,Stony Brook,,,Rien Hachmann,Academic Advisor (FB)
+7,,,,,,,,,Stony Brook,,,Sotiria Everett,Sports Performance Nutritionist

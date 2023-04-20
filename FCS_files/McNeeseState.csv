@@ -1,103 +1,102 @@
-,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown,High School,Previous School,Image,Name,Title
-0,,0.0,Koby Duru,WR,Sr.,6-2,200.0,"Diamond Bar, Calif.",Bishop Amat HS,San Diego State,,,
-1,,2.0,Aalah Brown,WR,So.,5-10,185.0,"Valdosta, Ga.",Valdosta HS,Jackson State,,,
-2,,5.0,Javon Davis,DB,So.,6-0,170.0,"River Ridge, La.",John Curtis Christian HS,,,,
-3,,5.0,D'angelo Durham,RB,Sr.,6-1,200.0,"Augusta, Ga.",Grovetown HS,Savannah State,,,
-4,,11.0,Dillon Simon,WR,R-So.,5-9,190.0,"Lake Charles, La.",Lake Charles College Prep,,,,
-5,,11.0,Tag Stelly,WR,R-Fr.,5-11,185.0,"Sulphur, La.",Sulphur HS,,,,
-6,,12.0,Cameron McCalister,QB,R-Fr.,6-3,165.0,"Friendswood, Texas",Clear Brook HS,,,,
-7,,13.0,Ryan Roberts,QB,R-Fr.,6-0,185.0,"Lafayette, La.",Lafayette Christian Academy,,,,
-8,,15.0,Jalen Johnson,WR,Jr.,5-9,175.0,"New Orleans, La.",Holy Cross HS,,,,
-9,,18.0,Nathan Barnett,WR,R-Fr.,6-1,185.0,"Houston, Texas",Clear Brook HS,,,,
-10,,19.0,Thomas Miles,DB,Jr.,6-1,192.0,"Alexandria, La.",Peabody Magnet High School,,,,
-11,,19.0,Kerry Quashijah,DB,So.,5-10,180.0,"Cypress, Texas",Cypress Ranch HS,,,,
-12,,21.0,Jayce Bludau,LB,R-Fr.,6-0,208.0,"Hallettsville, Texas",,Kilgore CC,,,
-13,,22.0,Kyle Klink,TE,Sr.,6-4,245.0,"Middletown, Md.",Middletown HS,Harvard,,,
-14,,23.0,Kameran Senegal,WR,So.,5-9,160.0,"Zachary, La.",Zachary HS,,,,
-15,,24.0,Josh Parker,RB,Jr.,5-10,190.0,"Baton Rouge, La.",Catholic High School,,,,
-16,,25.0,Joshon Barbie,RB,R-Fr.,5-9,180.0,"Harvey, La.",West Jefferson HS,,,,
-17,,25.0,Darius Shields,DB,R-Jr.,5-10,184.0,"Houston, Texas",Lamar HS,,,,
-18,,26.0,Richard Akers,DB,R-So.,5-11,160.0,"Baltimore, Md.",Milford Mill Academy,Shepherd College,,,
-19,,27.0,Simeon Jones,WR,R-Fr.,6-1,185.0,"Lafayette, La.",Lafayette HS,,,,
-20,,28.0,Joe Ward,DB,R-Fr.,5-11,170.0,"Lake Charles, La.",Lake Charles College Prep,,,,
-21,,29.0,Jaylon Henry,WR,R-Fr.,6-0,180.0,"Baton Rouge, La.",Woodlawn Magnet HS,,,,
-22,,30.0,CJ Moya,PK,Jr.,5-10,180.0,"Naples, Fla.",Palmetto Ridge,Hutchinson CC,,,
-23,,31.0,Twillie Lovett,DB,Jr.,6-1,174.0,"Belle Chasse, La.",Belle Chasse HS,,,,
-24,,32.0,Jerome Robinson,CB,So.,-,,,,,,,
-25,,33.0,Crajaun Bennett,DB,So.,5-11,160.0,"Iowa, La.",Iowa HS,,,,
-26,,33.0,Ivory Roberts,RB,Jr.,5-7,190.0,"Houston, Texas",Westfield HS,,,,
-27,,34.0,Jordan Toaston,LB,So.,6-3,230.0,"Baton Rouge, La.",Baton Rouge Catholic HS,,,,
-28,,35.0,Brandon Hayden,PK,R-Jr.,6-0,194.0,"Sulphur, La.",Sulphur High School,Louisiana College,,,
-29,,36.0,Tremayne Evans,DB,R-Jr.,5-10,174.0,"Houston, Texas",Benjamin Davis High School,,,,
-30,,36.0,Jarvis Newton,RB,R-Fr.,5-11,190.0,"Alexandria, La.",Alexandria Senior HS,,,,
-31,,37.0,Garrison Smith,PK,So.,5-10,150.0,"Norwalk, Ohio",Norwalk HS,Ohio State,,,
-32,,38.0,Callum Eddings,P,Jr.,5-11,160.0,,,,,,
-33,,39.0,Jake Held,DB,So.,5-11,170.0,"Youngstown, La.",Southside HS,,,,
-34,,41.0,Tyronne Hayes,TE,So.,6-3,205.0,"New Orleans, La.",Archbishop Rummel HS,,,,
-35,,42.0,Earenest Grayson III,DE,R-Jr.,6-3,250.0,"Tulsa, Okla.",Jenks HS,,,,
-36,,43.0,Cale Jacobson,,So.,-,,,,,,,
-37,,44.0,Phillip Bradford,DL,R-Fr.,6-6,318.0,"Monroe, La.",Ouachita Parish HS,,,,
-38,,45.0,Sedric Applewhite,DL,R-Fr.,6-6,200.0,"Bossier City, La.",Bossier HS,,,,
-39,,47.0,Khaylon Chapple,DE,R-Jr.,6-3,249.0,"Haughton, La.",Haughton High School,,,,
-40,,48.0,Micah Davey,LB,R-So.,6-2,236.0,"Baton Rouge, La.",University Lab,,,,
-41,,49.0,Masey Lewis,DE,R-Fr.,6-4,250.0,"Breaux Bridge, La.",Lafayette Christian Academy,,,,
-42,,50.0,Trey Vondenstein,LS,R-Sr.,6-3,199.0,"Katy, Texas",Seven Lakes HS,,,,
-43,,53.0,Jacob Lafitte,P,So.,6-1,180.0,"Shreveport, La.",Loyola College Prep,,,,
-44,,54.0,Payton Parks-Smith,OL,So.,6-5,287.0,"Sterlington, La.",Sterlington HS,,,,
-45,,56.0,Brayden Adams,LB,R-Sr.,6-2,218.0,"Lake Charles, La.",Barbe HS,,,,
-46,,57.0,Will Rogers,DL,R-So.,6-4,300.0,"Hampton, Ga.",Lovejoy HS,University of South Carolina,,,
-47,,59.0,Grayson Mays,DL,R-So.,6-2,234.0,"Bellville, Texas",Bellville HS,,,,
-48,,60.0,Paxton Crouse,OL,Jr.,5-9,255.0,"Ponchatoula, La.",Ponchatoula HS,,,,
-49,,61.0,Cole LeClair,OL,So.,6-3,311.0,"Middleburg, Fla.",,Valdosta State,,,
-50,,62.0,Juan Gonzales,OL,So.,6-1,321.0,"New Orleans, La.",John Curtis HS,,,,
-51,,64.0,Jack Zelezinski,OL,R-So.,6-5,274.0,"Houston, Texas",Summer Creek HS,,,,
-52,,65.0,James Reddick,OL,So.,6-3,320.0,"Fort Valley, Ga.",Peach County HS,Jackson State,,,
-53,,66.0,Dylan Dauzart,OL,Jr.,6-3,300.0,"Alexandria, La.",Alexandria Senior HS,,,,
-54,,67.0,Jayden Davis,OL,R-Fr.,6-4,280.0,"Beaumont, Texas",West Brook Sr. HS,,,,
-55,,68.0,Jayln Easton,OL,R-Fr.,6-5,295.0,"Lake Charles, La.",Lake Charles College Prep,,,,
-56,,70.0,Hezekiah Neason,OL,Jr.,6-4,323.0,"Amite, La.",Amite High School,,,,
-57,,75.0,Hayes Creel,OL,R-Fr.,6-7,300.0,"Mt. Hermon, La.",St. Paul's HS,,,,
-58,,77.0,Chris Stephens,OL,Jr.,6-4,334.0,"Fort Lauderdale, Fla.",Dillard High School,,,,
-59,,78.0,Trey Winters,OL,So.,6-7,344.0,"Ankeny, Iowa",Centennial HS,Iowa Central CC/Univ. of Iowa,,,
-60,,79.0,Greg Knox,OL,R-Fr.,6-6,305.0,"Pineville, La.",Peabody HS,,,,
-61,,80.0,Jon McCall,WR,R-So.,6-3,201.0,"New Orleans, La.",Sophie B. Wright HS,,,,
-62,,86.0,Markel Cotton,WR,R-Jr.,6-1,203.0,"Franklinton, La.",Pine HS,,,,
-63,,87.0,Joe Brown,TE,R-Fr.,6-2,237.0,"Crowley, La.",Notre Dame HS,ULM,,,
-64,,89.0,Kaleb Vizier,TE,R-Fr.,6-5,219.0,"Sulphur, La.",Sulphur HS,,,,
-65,,90.0,Increase Oputa,DL,R-Fr.,6-2,225.0,"Katy, Texas",Cinco Ranch HS,,,,
-66,,91.0,Welland Williams,DL,R-So.,6-1,271.0,"Reserve, La.",East St. John HS,,,,
-67,,,Kylen Armstead,LB,Jr.,6-5,211.0,"Starkville, Miss.",,Hinds Community College,,,
-68,,,"John Brown, Jr.",DL,Jr.,6-0,259.0,"Jackson, Miss.",,Mississippi Gulf Coast CC,,,
-69,,,David Duvall,OL,Jr.,6-2,305.0,"Olive Branch, Miss.",,Northwest Mississippi CC,,,
-70,,,Jamori Evans,DB,Jr.,5-10,204.0,"Starkville, Miss.",Starkville HS,East Mississippi CC,,,
-71,,,Nate Glantz,QB,Jr.,6-0,206.0,"Elkhorn, Neb.",,Iowa Western/Iowa State,,,
-72,,,Coleby Hamm,RB,So.,5-10,217.0,"Spring, Texas",,Air Force/Tyler JC,,,
-73,,,Jonathan Harris,WR,Jr.,6-0,170.0,"Hattiesburg, Miss.",,Mississippi Gulf Coast CC,,,
-74,,,Jadden Matthews,DB,Jr.,-,,"Moss Point, Miss.",Moss Point HS,East Mississippi CC,,,
-75,,,Elijah Melendez,OL,Jr.,6-5,296.0,"Navarre, Fla.",,Valdosta State,,,
-76,,,Boogsie Silvera,DB,Fr.,5-11,190.0,"Pembroke Pines, Fla.",,Charleston Southern University,,,
-77,,,Tre Simmons,QB,Jr.,6-0,170.0,"Temple Terrace, Fla.",Bloomingdale HS,Tusculum University,,,
-78,,,Cam Thomas,RB,Jr.,5-8,170.0,"Picayune, Miss.",Picayune HS,Mississippi Gulf Coast CC,,,
-79,,,Levi Wyatt,DB,So.,6-1,190.0,"Byram, Miss.",Hillcrest Christian,Mississippi Gulf Coast CC,,,
-0,,,,,,,,,,,,Gary Goff,Head Coach
-1,,,,,,,,,,,,Ryan Allgood,Assistant Head Coach / Offensive Line / Recruiting Coordinator
-2,,,,,,,,,,,,Adam Neugebauer,Offensive Coordinator/Quarterbacks
-3,,,,,,,,,,,,Tony Pecoraro,Defensive Coordinator
-4,,,,,,,,,,,,Thomas Reese,Assistant Coach - Special Teams Coordinator/RBs
-5,,,,,,,,,,,,Dwight Jackson,Assistant Coach - LBs
-6,,,,,,,,,,,,Mike Johnson,Assistant Coach - DBs
-7,,,,,,,,,,,,Marc Yellock,Assistant Coach - DL
-8,,,,,,,,,,,,Roy Roundtree,Assistant Coach - WR
-9,,,,,,,,,,,,Ryan Nehlen,Assistant Coach - TE
-10,,,,,,,,,,,,Marco Sanchez,Defensive Assistant
-11,,,,,,,,,,,,Chris St. John,Defense Quality Control
-12,,,,,,,,,,,,Ty Hinson,Offense Quality Control
-0,,,,,,,,,,,,Kelsey Curry,Director of Football Operations
-1,,,,,,,,,,,,Phillip Chartier,Equipment Manager
-2,,,,,,,,,,,,Raymond Donovan,Video Coordinator
-3,,,,,,,,,,,,Hunter Martin,Assistant AD for Sports Medicine
-4,,,,,,,,,,,,Hannah Hampton,Assistant Athletic Trainer (Football)
-5,,,,,,,,,,,,Luke Cody,Assistant Athletic Trainer (Football)
-6,,,,,,,,,,,,Laurryn Benton,Student Manager
-7,,,,,,,,,,,,Matthew Bonnette,Senior Associate AD for Athletics Communications
-8,,,,,,,,,,,,Megan Soileau,Director of Student Athlete Services
+,Statistic,#,Full Name,Pos.,Academic Year,Ht.,Wt.,Hometown,Current School Name,High School,Previous School,Image,Name,Title
+0,,0.0,Koby Duru,WR,Sr.,6-2,200.0,"Diamond Bar, Calif.",McNeese State,Bishop Amat HS,San Diego State,,,
+1,,2.0,Aalah Brown,WR,So.,5-10,185.0,"Valdosta, Ga.",McNeese State,Valdosta HS,Jackson State,,,
+2,,5.0,Javon Davis,DB,So.,6-0,170.0,"River Ridge, La.",McNeese State,John Curtis Christian HS,,,,
+3,,5.0,D'angelo Durham,RB,Sr.,6-1,200.0,"Augusta, Ga.",McNeese State,Grovetown HS,Savannah State,,,
+4,,11.0,Dillon Simon,WR,R-So.,5-9,190.0,"Lake Charles, La.",McNeese State,Lake Charles College Prep,,,,
+5,,11.0,Tag Stelly,WR,R-Fr.,5-11,185.0,"Sulphur, La.",McNeese State,Sulphur HS,,,,
+6,,12.0,Cameron McCalister,QB,R-Fr.,6-3,165.0,"Friendswood, Texas",McNeese State,Clear Brook HS,,,,
+7,,13.0,Ryan Roberts,QB,R-Fr.,6-0,185.0,"Lafayette, La.",McNeese State,Lafayette Christian Academy,,,,
+8,,15.0,Jalen Johnson,WR,Jr.,5-9,175.0,"New Orleans, La.",McNeese State,Holy Cross HS,,,,
+9,,18.0,Nathan Barnett,WR,R-Fr.,6-1,185.0,"Houston, Texas",McNeese State,Clear Brook HS,,,,
+10,,19.0,Thomas Miles,DB,Jr.,6-1,192.0,"Alexandria, La.",McNeese State,Peabody Magnet High School,,,,
+11,,19.0,Kerry Quashijah,DB,So.,5-10,180.0,"Cypress, Texas",McNeese State,Cypress Ranch HS,,,,
+12,,21.0,Jayce Bludau,LB,R-Fr.,6-0,208.0,"Hallettsville, Texas",McNeese State,,Kilgore CC,,,
+13,,22.0,Kyle Klink,TE,Sr.,6-4,245.0,"Middletown, Md.",McNeese State,Middletown HS,Harvard,,,
+14,,23.0,Kameran Senegal,WR,So.,5-9,160.0,"Zachary, La.",McNeese State,Zachary HS,,,,
+15,,24.0,Josh Parker,RB,Jr.,5-10,190.0,"Baton Rouge, La.",McNeese State,Catholic High School,,,,
+16,,25.0,Joshon Barbie,RB,R-Fr.,5-9,180.0,"Harvey, La.",McNeese State,West Jefferson HS,,,,
+17,,25.0,Darius Shields,DB,R-Jr.,5-10,184.0,"Houston, Texas",McNeese State,Lamar HS,,,,
+18,,26.0,Richard Akers,DB,R-So.,5-11,160.0,"Baltimore, Md.",McNeese State,Milford Mill Academy,Shepherd College,,,
+19,,27.0,Simeon Jones,WR,R-Fr.,6-1,185.0,"Lafayette, La.",McNeese State,Lafayette HS,,,,
+20,,28.0,Joe Ward,DB,R-Fr.,5-11,170.0,"Lake Charles, La.",McNeese State,Lake Charles College Prep,,,,
+21,,29.0,Jaylon Henry,WR,R-Fr.,6-0,180.0,"Baton Rouge, La.",McNeese State,Woodlawn Magnet HS,,,,
+22,,30.0,CJ Moya,PK,Jr.,5-10,180.0,"Naples, Fla.",McNeese State,Palmetto Ridge,Hutchinson CC,,,
+23,,31.0,Twillie Lovett,DB,Jr.,6-1,174.0,"Belle Chasse, La.",McNeese State,Belle Chasse HS,,,,
+24,,32.0,Jerome Robinson,CB,So.,-,,,McNeese State,,,,,
+25,,33.0,Crajaun Bennett,DB,So.,5-11,160.0,"Iowa, La.",McNeese State,Iowa HS,,,,
+26,,33.0,Ivory Roberts,RB,Jr.,5-7,190.0,"Houston, Texas",McNeese State,Westfield HS,,,,
+27,,34.0,Jordan Toaston,LB,So.,6-3,230.0,"Baton Rouge, La.",McNeese State,Baton Rouge Catholic HS,,,,
+28,,35.0,Brandon Hayden,PK,R-Jr.,6-0,194.0,"Sulphur, La.",McNeese State,Sulphur High School,Louisiana College,,,
+29,,36.0,Tremayne Evans,DB,R-Jr.,5-10,174.0,"Houston, Texas",McNeese State,Benjamin Davis High School,,,,
+30,,36.0,Jarvis Newton,RB,R-Fr.,5-11,190.0,"Alexandria, La.",McNeese State,Alexandria Senior HS,,,,
+31,,37.0,Garrison Smith,PK,So.,5-10,150.0,"Norwalk, Ohio",McNeese State,Norwalk HS,Ohio State,,,
+32,,38.0,Callum Eddings,P,Jr.,5-11,160.0,,McNeese State,,,,,
+33,,39.0,Jake Held,DB,So.,5-11,170.0,"Youngstown, La.",McNeese State,Southside HS,,,,
+34,,41.0,Tyronne Hayes,TE,So.,6-3,205.0,"New Orleans, La.",McNeese State,Archbishop Rummel HS,,,,
+35,,42.0,Earenest Grayson III,DE,R-Jr.,6-3,250.0,"Tulsa, Okla.",McNeese State,Jenks HS,,,,
+36,,43.0,Cale Jacobson,,So.,-,,,McNeese State,,,,,
+37,,44.0,Phillip Bradford,DL,R-Fr.,6-6,318.0,"Monroe, La.",McNeese State,Ouachita Parish HS,,,,
+38,,45.0,Sedric Applewhite,DL,R-Fr.,6-6,200.0,"Bossier City, La.",McNeese State,Bossier HS,,,,
+39,,47.0,Khaylon Chapple,DE,R-Jr.,6-3,249.0,"Haughton, La.",McNeese State,Haughton High School,,,,
+40,,48.0,Micah Davey,LB,R-So.,6-2,236.0,"Baton Rouge, La.",McNeese State,University Lab,,,,
+41,,49.0,Masey Lewis,DE,R-Fr.,6-4,250.0,"Breaux Bridge, La.",McNeese State,Lafayette Christian Academy,,,,
+42,,50.0,Trey Vondenstein,LS,R-Sr.,6-3,199.0,"Katy, Texas",McNeese State,Seven Lakes HS,,,,
+43,,53.0,Jacob Lafitte,P,So.,6-1,180.0,"Shreveport, La.",McNeese State,Loyola College Prep,,,,
+44,,54.0,Payton Parks-Smith,OL,So.,6-5,287.0,"Sterlington, La.",McNeese State,Sterlington HS,,,,
+45,,56.0,Brayden Adams,LB,R-Sr.,6-2,218.0,"Lake Charles, La.",McNeese State,Barbe HS,,,,
+46,,57.0,Will Rogers,DL,R-So.,6-4,300.0,"Hampton, Ga.",McNeese State,Lovejoy HS,University of South Carolina,,,
+47,,59.0,Grayson Mays,DL,R-So.,6-2,234.0,"Bellville, Texas",McNeese State,Bellville HS,,,,
+48,,60.0,Paxton Crouse,OL,Jr.,5-9,255.0,"Ponchatoula, La.",McNeese State,Ponchatoula HS,,,,
+49,,61.0,Cole LeClair,OL,So.,6-3,311.0,"Middleburg, Fla.",McNeese State,,Valdosta State,,,
+50,,62.0,Juan Gonzales,OL,So.,6-1,321.0,"New Orleans, La.",McNeese State,John Curtis HS,,,,
+51,,64.0,Jack Zelezinski,OL,R-So.,6-5,274.0,"Houston, Texas",McNeese State,Summer Creek HS,,,,
+52,,65.0,James Reddick,OL,So.,6-3,320.0,"Fort Valley, Ga.",McNeese State,Peach County HS,Jackson State,,,
+53,,66.0,Dylan Dauzart,OL,Jr.,6-3,300.0,"Alexandria, La.",McNeese State,Alexandria Senior HS,,,,
+54,,67.0,Jayden Davis,OL,R-Fr.,6-4,280.0,"Beaumont, Texas",McNeese State,West Brook Sr. HS,,,,
+55,,68.0,Jayln Easton,OL,R-Fr.,6-5,295.0,"Lake Charles, La.",McNeese State,Lake Charles College Prep,,,,
+56,,70.0,Hezekiah Neason,OL,Jr.,6-4,323.0,"Amite, La.",McNeese State,Amite High School,,,,
+57,,75.0,Hayes Creel,OL,R-Fr.,6-7,300.0,"Mt. Hermon, La.",McNeese State,St. Paul's HS,,,,
+58,,77.0,Chris Stephens,OL,Jr.,6-4,334.0,"Fort Lauderdale, Fla.",McNeese State,Dillard High School,,,,
+59,,78.0,Trey Winters,OL,So.,6-7,344.0,"Ankeny, Iowa",McNeese State,Centennial HS,Iowa Central CC/Univ. of Iowa,,,
+60,,79.0,Greg Knox,OL,R-Fr.,6-6,305.0,"Pineville, La.",McNeese State,Peabody HS,,,,
+61,,80.0,Jon McCall,WR,R-So.,6-3,201.0,"New Orleans, La.",McNeese State,Sophie B. Wright HS,,,,
+62,,86.0,Markel Cotton,WR,R-Jr.,6-1,203.0,"Franklinton, La.",McNeese State,Pine HS,,,,
+63,,87.0,Joe Brown,TE,R-Fr.,6-2,237.0,"Crowley, La.",McNeese State,Notre Dame HS,ULM,,,
+64,,89.0,Kaleb Vizier,TE,R-Fr.,6-5,219.0,"Sulphur, La.",McNeese State,Sulphur HS,,,,
+65,,90.0,Increase Oputa,DL,R-Fr.,6-2,225.0,"Katy, Texas",McNeese State,Cinco Ranch HS,,,,
+66,,91.0,Welland Williams,DL,R-So.,6-1,271.0,"Reserve, La.",McNeese State,East St. John HS,,,,
+67,,,Kylen Armstead,LB,Jr.,6-5,211.0,"Starkville, Miss.",McNeese State,,Hinds Community College,,,
+68,,,"John Brown, Jr.",DL,Jr.,6-0,259.0,"Jackson, Miss.",McNeese State,,Mississippi Gulf Coast CC,,,
+69,,,David Duvall,OL,Jr.,6-2,305.0,"Olive Branch, Miss.",McNeese State,,Northwest Mississippi CC,,,
+70,,,Jamori Evans,DB,Jr.,5-10,204.0,"Starkville, Miss.",McNeese State,Starkville HS,East Mississippi CC,,,
+71,,,Nate Glantz,QB,Jr.,6-0,206.0,"Elkhorn, Neb.",McNeese State,,Iowa Western/Iowa State,,,
+72,,,Coleby Hamm,RB,So.,5-10,217.0,"Spring, Texas",McNeese State,,Air Force/Tyler JC,,,
+73,,,Jonathan Harris,WR,Jr.,6-0,170.0,"Hattiesburg, Miss.",McNeese State,,Mississippi Gulf Coast CC,,,
+74,,,Jadden Matthews,DB,Jr.,-,,"Moss Point, Miss.",McNeese State,Moss Point HS,East Mississippi CC,,,
+75,,,Elijah Melendez,OL,Jr.,6-5,296.0,"Navarre, Fla.",McNeese State,,Valdosta State,,,
+76,,,Boogsie Silvera,DB,Fr.,5-11,190.0,"Pembroke Pines, Fla.",McNeese State,,Charleston Southern University,,,
+77,,,Tre Simmons,QB,Jr.,6-0,170.0,"Temple Terrace, Fla.",McNeese State,Bloomingdale HS,Tusculum University,,,
+78,,,Cam Thomas,RB,Jr.,5-8,170.0,"Picayune, Miss.",McNeese State,Picayune HS,Mississippi Gulf Coast CC,,,
+79,,,Levi Wyatt,DB,So.,6-1,190.0,"Byram, Miss.",McNeese State,Hillcrest Christian,Mississippi Gulf Coast CC,,,
+0,,,,,,,,,McNeese State,,,,Gary Goff,Head Coach
+1,,,,,,,,,McNeese State,,,,Ryan Allgood,Assistant Head Coach / Offensive Line / Recruiting Coordinator
+2,,,,,,,,,McNeese State,,,,Adam Neugebauer,Offensive Coordinator/Quarterbacks
+3,,,,,,,,,McNeese State,,,,Tony Pecoraro,Defensive Coordinator
+4,,,,,,,,,McNeese State,,,,Thomas Reese,Assistant Coach - Special Teams Coordinator/RBs
+5,,,,,,,,,McNeese State,,,,Dwight Jackson,Assistant Coach - LBs
+6,,,,,,,,,McNeese State,,,,Mike Johnson,Assistant Coach - DBs
+7,,,,,,,,,McNeese State,,,,Roy Roundtree,Assistant Coach - WR
+8,,,,,,,,,McNeese State,,,,Ryan Nehlen,Assistant Coach - TE
+9,,,,,,,,,McNeese State,,,,Marco Sanchez,Defensive Assistant
+10,,,,,,,,,McNeese State,,,,Chris St. John,Defense Quality Control
+11,,,,,,,,,McNeese State,,,,Ty Hinson,Offense Quality Control
+0,,,,,,,,,McNeese State,,,,Kelsey Curry,Director of Football Operations
+1,,,,,,,,,McNeese State,,,,Phillip Chartier,Equipment Manager
+2,,,,,,,,,McNeese State,,,,Raymond Donovan,Video Coordinator
+3,,,,,,,,,McNeese State,,,,Hunter Martin,Assistant AD for Sports Medicine
+4,,,,,,,,,McNeese State,,,,Hannah Hampton,Assistant Athletic Trainer (Football)
+5,,,,,,,,,McNeese State,,,,Luke Cody,Assistant Athletic Trainer (Football)
+6,,,,,,,,,McNeese State,,,,Laurryn Benton,Student Manager
+7,,,,,,,,,McNeese State,,,,Matthew Bonnette,Senior Associate AD for Athletics Communications
+8,,,,,,,,,McNeese State,,,,Megan Soileau,Director of Student Athlete Services

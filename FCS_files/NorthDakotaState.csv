@@ -1,145 +1,145 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown,High School,Previous School,Image,Title
-0,,0.0,Zach Mathis,WR,6-6,205.0,Sr.,"Tampa, Fla.",Berkeley Prep HS,,,
-1,,1.0,Courtney Eubanks,CB,5-10,187.0,Jr.,"St. Petersburg, Fla.",Admiral Farragut Academy,,,
-2,,2.0,Kellen Entz,WR,6-2,207.0,Fr.,"West Fargo, N.D.",Sheyenne HS,,,
-3,,2.0,Dawson Weber,S,6-2,190.0,Sr.,"Elk Grove, Calif.",Pleasant Grove HS,,,
-4,,4.0,Kobe Johnson,RB,5-9,188.0,Sr.,"Lawrenceville, Ga.",Discovery HS,,,
-5,,5.0,Bryce Lance,WR,6-3,200.0,RFr.,"Marshall, Minn.",Marshall HS,,,
-6,,6.0,Destin Talbert,CB,6-0,187.0,Sr.,"Darien, Ill.",Hinsdale South HS,,,
-7,,6.0,Cedric Wall,WR,6-1,186.0,Fr.,"Rosemount, Minn.",Rosemount HS,,,
-8,,7.0,Cam Miller,QB,6-1,212.0,Jr.,"Solon, Iowa",Solon HS,,,
-9,,8.0,Barika Kpeenu,RB,5-10,204.0,RFr.,"Fargo, N.D.",West Fargo Sheyenne HS,,,
-10,,10.0,Dom Jones,S,6-3,197.0,Jr.,"Duluth, Ga.",Peachtree Ridge HS,,,
-11,,12.0,Braylon Henderson,WR,5-9,177.0,Jr.,"Wylie, Texas",Plano East HS,,,
-12,,13.0,Anthony Coleman,CB,5-10,178.0,Jr.,"Grimes, Iowa",Johnston HS,,,
-13,,14.0,Nathan Hayes,QB,6-3,202.0,Fr.,"West Chicago, Ill.",St. Charles East HS,,,
-14,,14.0,Enock Sibomana,LB,5-10,204.0,RFr.,"Fargo, N.D.",Fargo South HS,,,
-15,,15.0,Cole Payton,QB,6-3,230.0,RFr.,"Omaha, Neb.",Westside HS,,,
-16,,16.0,Peter Anderson,QB,6-1,203.0,RFr.,"Hoffman Estates, Ill.",Barrington HS,,,
-17,,17.0,RaJa Nelson,WR,5-8,190.0,Jr.,"Lakeville, Minn.",Lakeville North HS,,,
-18,,19.0,Jake Lippe,WR,6-2,203.0,Jr.,"Port Washington, Wis.",Port Washington HS,,,
-19,,20.0,Julian Wlodarczyk,LB,6-3,207.0,Sr.,"Naperville, Ill.",Metea Valley HS,,,
-20,,21.0,Hudson Artz,S,5-11,186.0,Fr.,"Fairmont, Minn.",Fairmont HS,,,
-21,,21.0,Jalen Bussey,RB,5-5,160.0,Jr.,"Tampa, Fla.",Tampa Catholic HS,,,
-22,,22.0,TaMerik Williams,RB,6-1,229.0,Sr.,"Angleton, Texas",Angleton HS,SMU,,
-23,,23.0,Jayden Price,CB,6-0,184.0,Sr.,"Derby, Kan.",Mulvane HS,,,
-24,,24.0,Jenaro Ocama,CB,6-1,188.0,Jr.,"Woodbury, Minn.",Woodbury HS,,,
-25,,25.0,Michael Tutsie,S,5-11,189.0,Sr.,"Indianapolis, Ind.",Warren Central HS,,,
-26,,26.0,James Kaczor,LB,6-0,215.0,Sr.,"St. Cloud, Minn.",St. Cloud Tech HS,,,
-27,,27.0,Ryan Jones,S,6-3,201.0,RFr.,"Frisco, Texas",Reedy HS,,,
-28,,28.0,TK Marshall,RB,5-11,204.0,Jr.,"Minneapolis, Minn.",Southwest HS,,,
-29,,29.0,Jaquise Alexander,CB,5-11,158.0,Fr.,"Ruskin, Fla.",Sumner HS,,,
-30,,30.0,Darius Givance,DB,6-2,199.0,Fr.,"Champlin, Minn.",Champlin Park HS,,,
-31,,31.0,Cole Wisniewski,LB,6-4,225.0,Jr.,"Sparta, Wis.",Sparta HS,,,
-32,,32.0,John Gores,WR,5-5,157.0,Fr.,"Fargo, N.D.",Shanley HS,,,
-33,,32.0,Ty Satter,S,6-2,203.0,So.,"Fargo, N.D.",Fargo Davies HS,,,
-34,,33.0,Logan Hofstedt,FB,6-1,237.0,Jr.,"Cannon Falls, Minn.",Cannon Falls HS,,,
-35,,34.0,Kegan Huber,CB,5-11,177.0,Fr.,"Lake Geneva, Wis.",Badger HS,,,
-36,,34.0,Luke Waters,FB,6-0,232.0,Sr.,"Council Bluffs, Iowa",St. Albert HS,Iowa Western CC,,
-37,,35.0,Kelby Azure,TE,6-4,227.0,Fr.,"Portland, N.D.",Northwood HS,,,
-38,,35.0,Sam Jung,S,5-11,193.0,Jr.,"Neenah, Wis.",Neenah HS,,,
-39,,36.0,Nate Forystek,TE,6-5,237.0,Fr.,"Green Bay, Wis.",Bay Port HS,,,
-40,,36.0,Nick Kubitz,LB,6-2,225.0,Jr.,"Dubuque, Iowa",Dubuque HS,,,
-41,,37.0,Reggie King,S,6-2,185.0,RFr.,"Grandview, Mo.",Grandview HS,,,
-42,,37.0,Drew Klein,K,5-9,167.0,Fr.,"Hortonville, Wis.",Hortonville HS,,,
-43,,38.0,Will Cardinal,P,6-2,202.0,Jr.,"Fridley, Minn.",Totino-Grace HS,,,
-44,,38.0,Isaac Hyland,DB,5-10,189.0,Fr.,"Fond du Lac, Wis.",St. Mary's Springs HS,,,
-45,,39.0,Griffin Crosa,K,6-1,167.0,RJr.,"Dublin, Ohio",Dublin Scioto HS,,,
-46,,40.0,Alex Oechsner,CB,5-9,181.0,RFr.,"Muskego, Wis.",Catholic Memorial HS,,,
-47,,40.0,Kaden Zenzen,TE,6-4,227.0,Fr.,"Barnesville, Minn.",Barnesville HS,,,
-48,,41.0,Kaedin Steindorf,P,6-1,193.0,So.,"Sherwood, Ore.",Sherwood HS,,,
-49,,42.0,Oscar Benson,LB,6-1,215.0,So.,"Hillsboro, N.D.",Hillsboro HS,,,
-50,,43.0,Logan Kopp,LB,6-1,218.0,RFr.,"St. Louis, Mo.",Lindbergh HS,,,
-51,,44.0,Hunter Luepke,FB,6-1,236.0,Sr.,"Spencer, Wis.",Spencer HS,,,
-52,,45.0,Owen Johnson,RB,5-10,211.0,RFr.,"Mankato, Minn.",Mankato West HS,,,
-53,,45.0,Brit Senftner,LB,6-2,195.0,Fr.,"Bismarck, N.D.",St. Mary’s Central HS,,,
-54,,46.0,Truman Werremeyer,FB,6-1,245.0,RFr.,"Fargo, N.D.",Fargo Davies HS,,,
-55,,47.0,Luke Kokat,TE,6-3,234.0,Fr.,"Sturtevant, Wis.",Union Grove HS,,,
-56,,47.0,Luke Weerts,LB,6-1,218.0,RJr.,"Batavia, Ill.",Batavia HS,,,
-57,,48.0,Caleb Bowers,LS,6-1,220.0,Fr.,"Whitefish Bay, Wis.",Whitefish Bay HS,,,
-58,,49.0,Hunter Brozio,FB,6-1,230.0,Jr.,"Lakeland, Fla.",Lake Gibson HS,,,
-59,,50.0,Kaden Chadwick,OL,6-6,288.0,Fr.,"Granville, N.D.",Velva HS,,,
-60,,50.0,Brayden Weber,LB,6-1,222.0,RFr.,"Becker, Minn.",Becker HS,,,
-61,,51.0,Austin Altepeter,LB,6-2,216.0,Fr.,"Fargo, N.D.",Moorhead HS,,,
-62,,51.0,Cade Powers,LB,6-1,220.0,Jr.,"Oriska, N.D.",Valley City HS,,,
-63,,52.0,Nathaniel Staehling,LB,6-2,227.0,Fr.,"Baxter, Minn.",Brainerd HS,,,
-64,,52.0,Dylan Taves,LB,6-2,226.0,Jr.,"Glyndon, Minn.",Dilworth-Glyndon-Felton HS,,,
-65,,53.0,Eli Mostaert,DT,6-3,280.0,Jr.,"Lakeville, Minn.",Lakeville North HS,,,
-66,,54.0,Jake Kava,DE,6-1,243.0,Sr.,"Moorhead, Minn.",Shanley HS,,,
-67,,55.0,Kole Menz,DE,6-2,230.0,RFr.,"Horace, N.D.",West Fargo Sheyenne HS,,,
-68,,56.0,Loshiaka Roques,DE,6-3,227.0,So.,"Maple Grove, Minn.",Wayzata HS,,,
-69,,57.0,Allante Burley,DE,6-3,213.0,Fr.,"Lawrenceville, Ga.",Peachtree Ridge HS,,,
-70,,57.0,Braden Rucker,C,6-3,278.0,RFr.,"Eureka, Kan.",Eureka HS,,,
-71,,58.0,Javier Derritt,DT,6-1,279.0,Jr.,"Warrensburg, Mo.",St. Thomas Aquinas HS (Kan.),,,
-72,,59.0,Hayden Johnston,OG,6-2,279.0,So.,"Albert Lea, Minn.",Albert Lea HS,,,
-73,,60.0,Ben Goldy,OL,6-8,282.0,Fr.,"Rapid City, S.D.",Stevens HS,,,
-74,,61.0,Kody Huisman,DT,6-4,279.0,RFr.,"Pella, Iowa",Pella HS,,,
-75,,62.0,John Kaczor,DT,6-2,275.0,Fr.,"St. Cloud, Minn.",St. Cloud Tech HS,,,
-76,,63.0,Jake Kubas,OG,6-4,304.0,Sr.,"Dickinson, N.D.",Trinity HS,,,
-77,,64.0,Jaxon Duttenhefer,DT,6-1,280.0,RFr.,"Mandan, N.D.",Mandan HS,,,
-78,,65.0,Bryce Friday,DT,6-3,282.0,So.,"Markesan, Wis.",Markesan HS,,,
-79,,66.0,Nash Jensen,OG,6-4,329.0,Sr.,"Maple Grove, Minn.",Osseo HS,,,
-80,,67.0,Max Rader,OL,6-6,248.0,Fr.,"De Pere, Wis.",Notre Dame Academy HS,,,
-81,,68.0,Sam Henry,OT,6-6,280.0,RFr.,"Eden Prairie, Minn.",Eden Prairie HS,,,
-82,,69.0,Devin Lockerby,OL,6-5,305.0,Fr.,"Faribault, Minn.",Faribault HS,,,
-83,,70.0,Cody Mauch,OT,6-6,303.0,Sr.,"Hankinson, N.D.",Hankinson HS,,,
-84,,71.0,Trevor Brown,DT,6-1,263.0,Fr.,"Eagle, Neb.",Waverly HS,,,
-85,,71.0,Luke LaCilento,OG,6-2,295.0,Sr.,"Corona, Calif.",Servite HS,San Diego,,
-86,,72.0,Jalen Sundell,C,6-5,294.0,Sr.,"Maryville, Mo.",Maryville HS,,,
-87,,73.0,Mason Miller,OT,6-6,296.0,Jr.,"Ada, Minn.",Ada-Borup HS,,,
-88,,74.0,Grey Zabel,OG,6-6,290.0,Jr.,"Pierre, S.D.",T.F. Riggs HS,,,
-89,,75.0,Trevor Fiecko,OT,6-4,302.0,RFr.,"Manitowoc, Wis.",Roncalli HS,,,
-90,,76.0,Hunter Poncius,OT,6-8,311.0,Jr.,"Buffalo, Minn.",Buffalo HS,,,
-91,,77.0,Brandon Westberg,C,6-4,286.0,Jr.,"Cambridge, Minn.",Cambridge-Isanti HS,,,
-92,,78.0,Jake Rock,OT,6-7,302.0,Jr.,"Delafield, Wis.",Kettle Moraine HS,,,
-93,,80.0,Tyler Terhark,WR,6-2,209.0,So.,"Horace, N.D.",Sheyenne HS,,,
-94,,81.0,Carson Hegerle,WR,6-2,184.0,Fr.,"West Fargo, N.D.",West Fargo HS,,,
-95,,82.0,Joe Stoffel,TE,6-3,245.0,Jr.,"River Falls, Wis.",River Falls HS,,,
-96,,83.0,Giancarlo Volpentesta,WR,6-0,207.0,Jr.,"Highland Park, Ill.",Highland Park HS,,,
-97,,84.0,Chris Harris,WR,6-3,200.0,RFr.,"El Paso, Texas",El Dorado HS,,,
-98,,85.0,Jacob Streit,TE,6-4,242.0,Sr.,"Watkins, Minn.",Eden Valley-Watkins HS,Northern State,,
-99,,86.0,Mekhi Collins,WR,6-4,210.0,Fr.,"North Mankato, Minn.",Mankato West HS,,,
-100,,86.0,Eli Green,WR,5-11,186.0,RFr.,"Farmington, Minn.",Farmington HS,,,
-101,,87.0,Noah Gindorff,TE,6-6,268.0,Sr.,"Crosby, Minn.",Crosby-Ironton HS,,,
-102,,88.0,Carson Williams,TE,6-4,240.0,RFr.,"Marshalltown, Iowa",Marshalltown HS,Buffalo,,
-103,,89.0,Finn Diggins,TE,6-4,247.0,RFr.,"Perham, Minn.",Perham HS,,,
-104,,90.0,Tony Pierce,DE,6-1,242.0,Sr.,"Lake Alfred, Fla.",Auburndale HS,,,
-105,,91.0,Will Mostaert,DT,6-2,260.0,Jr.,"Lakeville, Minn.",Lakeville North HS,,,
-106,,92.0,Kelton McCaslin,DE,6-5,222.0,Fr.,"St. Charles, Ill.",St. Charles East HS,,,
-107,,93.0,Toby Anene,DE,6-3,250.0,Fr.,"Cottage Grove, Minn.",East Ridge HS,,,
-108,,94.0,Logan Larson,DT,6-3,262.0,Fr.,"Woodbury, Minn.",East Ridge HS,,,
-109,,95.0,Dylan Hendricks,DE,6-3,243.0,Jr.,"Pulaski, Wis.",Pulaski HS,,,
-110,,96.0,Reed Ryan,DE,6-3,241.0,Jr.,"Waunakee, Wis.",Waunakee HS,,,
-111,,97.0,Gannon Williams,DE,6-3,231.0,Fr.,"Marshalltown, Iowa",Marshalltown HS,,,
-112,,98.0,Josh Magin,DT,6-5,261.0,Fr.,"Shakopee, Minn.",Shakopee HS,,,
-113,,99.0,Spencer Waege,DE,6-5,282.0,Sr.,"South Shore, S.D.",Watertown HS,,,
-0,,,Matt Entz,,,,,,,,,Head Coach
-1,,,Randy Hedberg,,,,,,,,,Associate Head Coach/Passing Game Coordinator/QBs
-2,,,Tyler Roehl,,,,,,,,,Offensive Coordinator/Tight Ends and Fullbacks
-3,,,David Braun,,,,,,,,,Defensive Coordinator
-4,,,Kody Morgan,,,,,,,,,Special Teams Coordinator/Safeties
-5,,,Joe Beschorner,,,,,,,,,Running Backs Coach
-6,,,Nick Goeser,,,,,,,,,Defensive Line Coach
-7,,,Dan Larson,,,,,,,,,Offensive Line Coach
-8,,,Grant Olson,,,,,,,,,Linebackers Coach
-9,,,Noah Pauley,,,,,,,,,Wide Receivers Coach
-10,,,Lewis Walker,,,,,,,,,Cornerbacks Coach
-11,,,Seth Hestness,,,,,,,,,Offensive Quality Control
-12,,,Mike Peters,,,,,,,,,Offensive Analyst
-13,,,Brett Watson,,,,,,,,,Defensive Quality Control
-0,,,Football Recruiting,,,,,,,,,
-1,,,Ean Deno,,,,,,,,,Director of Football Recruiting & Player Personnel
-2,,,Zach Peters,,,,,,,,,Football Recruiting and Operations Assistant
-3,,,Jamison Brown,,,,,,,,,Football Recruiting and Operations Intern
-4,,,Sokiri Malula,,,,,,,,,Director of Football Video Operations
-5,,,Nathan Bjoralt,,,,,,,,,Director of Football Operations and Equipment
-6,,,Nick Brendemuhl,,,,,,,,,Equipment Graduate Assistant
-7,,,Jim Kramer,,,,,,,,,Assistant Athletic Director for Athletic Performance - Football
-8,,,Matt Bauman,,,,,,,,,Assistant Strength and Conditioning Coach
-9,,,Eric Ihde,,,,,,,,,Strength and Conditioning Graduate Assistant
-10,,,Nick DeLuca,,,,,,,,,Strength and Conditioning Intern
-11,,,Mason Ankenbauer,,,,,,,,,Assistant Athletic Trainer
-12,,,Deegan Gearding,,,,,,,,,Athletic Training Graduate Assistant
-13,,,Margie Trickle,,,,,,,,,Administrative Assistant
-14,,,Fr. James Meyer,,,,,,,,,Team Chaplain
-15,,,Jeff Curtis,,,,,,,,,Team Chaplain
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown,Current School Name,High School,Previous School,Image,Title
+0,,0.0,Zach Mathis,WR,6-6,205.0,Sr.,"Tampa, Fla.",North Dakota State,Berkeley Prep HS,,,
+1,,1.0,Courtney Eubanks,CB,5-10,187.0,Jr.,"St. Petersburg, Fla.",North Dakota State,Admiral Farragut Academy,,,
+2,,2.0,Kellen Entz,WR,6-2,207.0,Fr.,"West Fargo, N.D.",North Dakota State,Sheyenne HS,,,
+3,,2.0,Dawson Weber,S,6-2,190.0,Sr.,"Elk Grove, Calif.",North Dakota State,Pleasant Grove HS,,,
+4,,4.0,Kobe Johnson,RB,5-9,188.0,Sr.,"Lawrenceville, Ga.",North Dakota State,Discovery HS,,,
+5,,5.0,Bryce Lance,WR,6-3,200.0,RFr.,"Marshall, Minn.",North Dakota State,Marshall HS,,,
+6,,6.0,Destin Talbert,CB,6-0,187.0,Sr.,"Darien, Ill.",North Dakota State,Hinsdale South HS,,,
+7,,6.0,Cedric Wall,WR,6-1,186.0,Fr.,"Rosemount, Minn.",North Dakota State,Rosemount HS,,,
+8,,7.0,Cam Miller,QB,6-1,212.0,Jr.,"Solon, Iowa",North Dakota State,Solon HS,,,
+9,,8.0,Barika Kpeenu,RB,5-10,204.0,RFr.,"Fargo, N.D.",North Dakota State,West Fargo Sheyenne HS,,,
+10,,10.0,Dom Jones,S,6-3,197.0,Jr.,"Duluth, Ga.",North Dakota State,Peachtree Ridge HS,,,
+11,,12.0,Braylon Henderson,WR,5-9,177.0,Jr.,"Wylie, Texas",North Dakota State,Plano East HS,,,
+12,,13.0,Anthony Coleman,CB,5-10,178.0,Jr.,"Grimes, Iowa",North Dakota State,Johnston HS,,,
+13,,14.0,Nathan Hayes,QB,6-3,202.0,Fr.,"West Chicago, Ill.",North Dakota State,St. Charles East HS,,,
+14,,14.0,Enock Sibomana,LB,5-10,204.0,RFr.,"Fargo, N.D.",North Dakota State,Fargo South HS,,,
+15,,15.0,Cole Payton,QB,6-3,230.0,RFr.,"Omaha, Neb.",North Dakota State,Westside HS,,,
+16,,16.0,Peter Anderson,QB,6-1,203.0,RFr.,"Hoffman Estates, Ill.",North Dakota State,Barrington HS,,,
+17,,17.0,RaJa Nelson,WR,5-8,190.0,Jr.,"Lakeville, Minn.",North Dakota State,Lakeville North HS,,,
+18,,19.0,Jake Lippe,WR,6-2,203.0,Jr.,"Port Washington, Wis.",North Dakota State,Port Washington HS,,,
+19,,20.0,Julian Wlodarczyk,LB,6-3,207.0,Sr.,"Naperville, Ill.",North Dakota State,Metea Valley HS,,,
+20,,21.0,Hudson Artz,S,5-11,186.0,Fr.,"Fairmont, Minn.",North Dakota State,Fairmont HS,,,
+21,,21.0,Jalen Bussey,RB,5-5,160.0,Jr.,"Tampa, Fla.",North Dakota State,Tampa Catholic HS,,,
+22,,22.0,TaMerik Williams,RB,6-1,229.0,Sr.,"Angleton, Texas",North Dakota State,Angleton HS,SMU,,
+23,,23.0,Jayden Price,CB,6-0,184.0,Sr.,"Derby, Kan.",North Dakota State,Mulvane HS,,,
+24,,24.0,Jenaro Ocama,CB,6-1,188.0,Jr.,"Woodbury, Minn.",North Dakota State,Woodbury HS,,,
+25,,25.0,Michael Tutsie,S,5-11,189.0,Sr.,"Indianapolis, Ind.",North Dakota State,Warren Central HS,,,
+26,,26.0,James Kaczor,LB,6-0,215.0,Sr.,"St. Cloud, Minn.",North Dakota State,St. Cloud Tech HS,,,
+27,,27.0,Ryan Jones,S,6-3,201.0,RFr.,"Frisco, Texas",North Dakota State,Reedy HS,,,
+28,,28.0,TK Marshall,RB,5-11,204.0,Jr.,"Minneapolis, Minn.",North Dakota State,Southwest HS,,,
+29,,29.0,Jaquise Alexander,CB,5-11,158.0,Fr.,"Ruskin, Fla.",North Dakota State,Sumner HS,,,
+30,,30.0,Darius Givance,DB,6-2,199.0,Fr.,"Champlin, Minn.",North Dakota State,Champlin Park HS,,,
+31,,31.0,Cole Wisniewski,LB,6-4,225.0,Jr.,"Sparta, Wis.",North Dakota State,Sparta HS,,,
+32,,32.0,John Gores,WR,5-5,157.0,Fr.,"Fargo, N.D.",North Dakota State,Shanley HS,,,
+33,,32.0,Ty Satter,S,6-2,203.0,So.,"Fargo, N.D.",North Dakota State,Fargo Davies HS,,,
+34,,33.0,Logan Hofstedt,FB,6-1,237.0,Jr.,"Cannon Falls, Minn.",North Dakota State,Cannon Falls HS,,,
+35,,34.0,Kegan Huber,CB,5-11,177.0,Fr.,"Lake Geneva, Wis.",North Dakota State,Badger HS,,,
+36,,34.0,Luke Waters,FB,6-0,232.0,Sr.,"Council Bluffs, Iowa",North Dakota State,St. Albert HS,Iowa Western CC,,
+37,,35.0,Kelby Azure,TE,6-4,227.0,Fr.,"Portland, N.D.",North Dakota State,Northwood HS,,,
+38,,35.0,Sam Jung,S,5-11,193.0,Jr.,"Neenah, Wis.",North Dakota State,Neenah HS,,,
+39,,36.0,Nate Forystek,TE,6-5,237.0,Fr.,"Green Bay, Wis.",North Dakota State,Bay Port HS,,,
+40,,36.0,Nick Kubitz,LB,6-2,225.0,Jr.,"Dubuque, Iowa",North Dakota State,Dubuque HS,,,
+41,,37.0,Reggie King,S,6-2,185.0,RFr.,"Grandview, Mo.",North Dakota State,Grandview HS,,,
+42,,37.0,Drew Klein,K,5-9,167.0,Fr.,"Hortonville, Wis.",North Dakota State,Hortonville HS,,,
+43,,38.0,Will Cardinal,P,6-2,202.0,Jr.,"Fridley, Minn.",North Dakota State,Totino-Grace HS,,,
+44,,38.0,Isaac Hyland,DB,5-10,189.0,Fr.,"Fond du Lac, Wis.",North Dakota State,St. Mary's Springs HS,,,
+45,,39.0,Griffin Crosa,K,6-1,167.0,RJr.,"Dublin, Ohio",North Dakota State,Dublin Scioto HS,,,
+46,,40.0,Alex Oechsner,CB,5-9,181.0,RFr.,"Muskego, Wis.",North Dakota State,Catholic Memorial HS,,,
+47,,40.0,Kaden Zenzen,TE,6-4,227.0,Fr.,"Barnesville, Minn.",North Dakota State,Barnesville HS,,,
+48,,41.0,Kaedin Steindorf,P,6-1,193.0,So.,"Sherwood, Ore.",North Dakota State,Sherwood HS,,,
+49,,42.0,Oscar Benson,LB,6-1,215.0,So.,"Hillsboro, N.D.",North Dakota State,Hillsboro HS,,,
+50,,43.0,Logan Kopp,LB,6-1,218.0,RFr.,"St. Louis, Mo.",North Dakota State,Lindbergh HS,,,
+51,,44.0,Hunter Luepke,FB,6-1,236.0,Sr.,"Spencer, Wis.",North Dakota State,Spencer HS,,,
+52,,45.0,Owen Johnson,RB,5-10,211.0,RFr.,"Mankato, Minn.",North Dakota State,Mankato West HS,,,
+53,,45.0,Brit Senftner,LB,6-2,195.0,Fr.,"Bismarck, N.D.",North Dakota State,St. Mary’s Central HS,,,
+54,,46.0,Truman Werremeyer,FB,6-1,245.0,RFr.,"Fargo, N.D.",North Dakota State,Fargo Davies HS,,,
+55,,47.0,Luke Kokat,TE,6-3,234.0,Fr.,"Sturtevant, Wis.",North Dakota State,Union Grove HS,,,
+56,,47.0,Luke Weerts,LB,6-1,218.0,RJr.,"Batavia, Ill.",North Dakota State,Batavia HS,,,
+57,,48.0,Caleb Bowers,LS,6-1,220.0,Fr.,"Whitefish Bay, Wis.",North Dakota State,Whitefish Bay HS,,,
+58,,49.0,Hunter Brozio,FB,6-1,230.0,Jr.,"Lakeland, Fla.",North Dakota State,Lake Gibson HS,,,
+59,,50.0,Kaden Chadwick,OL,6-6,288.0,Fr.,"Granville, N.D.",North Dakota State,Velva HS,,,
+60,,50.0,Brayden Weber,LB,6-1,222.0,RFr.,"Becker, Minn.",North Dakota State,Becker HS,,,
+61,,51.0,Austin Altepeter,LB,6-2,216.0,Fr.,"Fargo, N.D.",North Dakota State,Moorhead HS,,,
+62,,51.0,Cade Powers,LB,6-1,220.0,Jr.,"Oriska, N.D.",North Dakota State,Valley City HS,,,
+63,,52.0,Nathaniel Staehling,LB,6-2,227.0,Fr.,"Baxter, Minn.",North Dakota State,Brainerd HS,,,
+64,,52.0,Dylan Taves,LB,6-2,226.0,Jr.,"Glyndon, Minn.",North Dakota State,Dilworth-Glyndon-Felton HS,,,
+65,,53.0,Eli Mostaert,DT,6-3,280.0,Jr.,"Lakeville, Minn.",North Dakota State,Lakeville North HS,,,
+66,,54.0,Jake Kava,DE,6-1,243.0,Sr.,"Moorhead, Minn.",North Dakota State,Shanley HS,,,
+67,,55.0,Kole Menz,DE,6-2,230.0,RFr.,"Horace, N.D.",North Dakota State,West Fargo Sheyenne HS,,,
+68,,56.0,Loshiaka Roques,DE,6-3,227.0,So.,"Maple Grove, Minn.",North Dakota State,Wayzata HS,,,
+69,,57.0,Allante Burley,DE,6-3,213.0,Fr.,"Lawrenceville, Ga.",North Dakota State,Peachtree Ridge HS,,,
+70,,57.0,Braden Rucker,C,6-3,278.0,RFr.,"Eureka, Kan.",North Dakota State,Eureka HS,,,
+71,,58.0,Javier Derritt,DT,6-1,279.0,Jr.,"Warrensburg, Mo.",North Dakota State,St. Thomas Aquinas HS (Kan.),,,
+72,,59.0,Hayden Johnston,OG,6-2,279.0,So.,"Albert Lea, Minn.",North Dakota State,Albert Lea HS,,,
+73,,60.0,Ben Goldy,OL,6-8,282.0,Fr.,"Rapid City, S.D.",North Dakota State,Stevens HS,,,
+74,,61.0,Kody Huisman,DT,6-4,279.0,RFr.,"Pella, Iowa",North Dakota State,Pella HS,,,
+75,,62.0,John Kaczor,DT,6-2,275.0,Fr.,"St. Cloud, Minn.",North Dakota State,St. Cloud Tech HS,,,
+76,,63.0,Jake Kubas,OG,6-4,304.0,Sr.,"Dickinson, N.D.",North Dakota State,Trinity HS,,,
+77,,64.0,Jaxon Duttenhefer,DT,6-1,280.0,RFr.,"Mandan, N.D.",North Dakota State,Mandan HS,,,
+78,,65.0,Bryce Friday,DT,6-3,282.0,So.,"Markesan, Wis.",North Dakota State,Markesan HS,,,
+79,,66.0,Nash Jensen,OG,6-4,329.0,Sr.,"Maple Grove, Minn.",North Dakota State,Osseo HS,,,
+80,,67.0,Max Rader,OL,6-6,248.0,Fr.,"De Pere, Wis.",North Dakota State,Notre Dame Academy HS,,,
+81,,68.0,Sam Henry,OT,6-6,280.0,RFr.,"Eden Prairie, Minn.",North Dakota State,Eden Prairie HS,,,
+82,,69.0,Devin Lockerby,OL,6-5,305.0,Fr.,"Faribault, Minn.",North Dakota State,Faribault HS,,,
+83,,70.0,Cody Mauch,OT,6-6,303.0,Sr.,"Hankinson, N.D.",North Dakota State,Hankinson HS,,,
+84,,71.0,Trevor Brown,DT,6-1,263.0,Fr.,"Eagle, Neb.",North Dakota State,Waverly HS,,,
+85,,71.0,Luke LaCilento,OG,6-2,295.0,Sr.,"Corona, Calif.",North Dakota State,Servite HS,San Diego,,
+86,,72.0,Jalen Sundell,C,6-5,294.0,Sr.,"Maryville, Mo.",North Dakota State,Maryville HS,,,
+87,,73.0,Mason Miller,OT,6-6,296.0,Jr.,"Ada, Minn.",North Dakota State,Ada-Borup HS,,,
+88,,74.0,Grey Zabel,OG,6-6,290.0,Jr.,"Pierre, S.D.",North Dakota State,T.F. Riggs HS,,,
+89,,75.0,Trevor Fiecko,OT,6-4,302.0,RFr.,"Manitowoc, Wis.",North Dakota State,Roncalli HS,,,
+90,,76.0,Hunter Poncius,OT,6-8,311.0,Jr.,"Buffalo, Minn.",North Dakota State,Buffalo HS,,,
+91,,77.0,Brandon Westberg,C,6-4,286.0,Jr.,"Cambridge, Minn.",North Dakota State,Cambridge-Isanti HS,,,
+92,,78.0,Jake Rock,OT,6-7,302.0,Jr.,"Delafield, Wis.",North Dakota State,Kettle Moraine HS,,,
+93,,80.0,Tyler Terhark,WR,6-2,209.0,So.,"Horace, N.D.",North Dakota State,Sheyenne HS,,,
+94,,81.0,Carson Hegerle,WR,6-2,184.0,Fr.,"West Fargo, N.D.",North Dakota State,West Fargo HS,,,
+95,,82.0,Joe Stoffel,TE,6-3,245.0,Jr.,"River Falls, Wis.",North Dakota State,River Falls HS,,,
+96,,83.0,Giancarlo Volpentesta,WR,6-0,207.0,Jr.,"Highland Park, Ill.",North Dakota State,Highland Park HS,,,
+97,,84.0,Chris Harris,WR,6-3,200.0,RFr.,"El Paso, Texas",North Dakota State,El Dorado HS,,,
+98,,85.0,Jacob Streit,TE,6-4,242.0,Sr.,"Watkins, Minn.",North Dakota State,Eden Valley-Watkins HS,Northern State,,
+99,,86.0,Mekhi Collins,WR,6-4,210.0,Fr.,"North Mankato, Minn.",North Dakota State,Mankato West HS,,,
+100,,86.0,Eli Green,WR,5-11,186.0,RFr.,"Farmington, Minn.",North Dakota State,Farmington HS,,,
+101,,87.0,Noah Gindorff,TE,6-6,268.0,Sr.,"Crosby, Minn.",North Dakota State,Crosby-Ironton HS,,,
+102,,88.0,Carson Williams,TE,6-4,240.0,RFr.,"Marshalltown, Iowa",North Dakota State,Marshalltown HS,Buffalo,,
+103,,89.0,Finn Diggins,TE,6-4,247.0,RFr.,"Perham, Minn.",North Dakota State,Perham HS,,,
+104,,90.0,Tony Pierce,DE,6-1,242.0,Sr.,"Lake Alfred, Fla.",North Dakota State,Auburndale HS,,,
+105,,91.0,Will Mostaert,DT,6-2,260.0,Jr.,"Lakeville, Minn.",North Dakota State,Lakeville North HS,,,
+106,,92.0,Kelton McCaslin,DE,6-5,222.0,Fr.,"St. Charles, Ill.",North Dakota State,St. Charles East HS,,,
+107,,93.0,Toby Anene,DE,6-3,250.0,Fr.,"Cottage Grove, Minn.",North Dakota State,East Ridge HS,,,
+108,,94.0,Logan Larson,DT,6-3,262.0,Fr.,"Woodbury, Minn.",North Dakota State,East Ridge HS,,,
+109,,95.0,Dylan Hendricks,DE,6-3,243.0,Jr.,"Pulaski, Wis.",North Dakota State,Pulaski HS,,,
+110,,96.0,Reed Ryan,DE,6-3,241.0,Jr.,"Waunakee, Wis.",North Dakota State,Waunakee HS,,,
+111,,97.0,Gannon Williams,DE,6-3,231.0,Fr.,"Marshalltown, Iowa",North Dakota State,Marshalltown HS,,,
+112,,98.0,Josh Magin,DT,6-5,261.0,Fr.,"Shakopee, Minn.",North Dakota State,Shakopee HS,,,
+113,,99.0,Spencer Waege,DE,6-5,282.0,Sr.,"South Shore, S.D.",North Dakota State,Watertown HS,,,
+0,,,Matt Entz,,,,,,North Dakota State,,,,Head Coach
+1,,,Randy Hedberg,,,,,,North Dakota State,,,,Associate Head Coach/Passing Game Coordinator/QBs
+2,,,Tyler Roehl,,,,,,North Dakota State,,,,Offensive Coordinator/Tight Ends and Fullbacks
+3,,,David Braun,,,,,,North Dakota State,,,,Defensive Coordinator
+4,,,Kody Morgan,,,,,,North Dakota State,,,,Special Teams Coordinator/Safeties
+5,,,Joe Beschorner,,,,,,North Dakota State,,,,Running Backs Coach
+6,,,Nick Goeser,,,,,,North Dakota State,,,,Defensive Line Coach
+7,,,Dan Larson,,,,,,North Dakota State,,,,Offensive Line Coach
+8,,,Grant Olson,,,,,,North Dakota State,,,,Linebackers Coach
+9,,,Noah Pauley,,,,,,North Dakota State,,,,Wide Receivers Coach
+10,,,Lewis Walker,,,,,,North Dakota State,,,,Cornerbacks Coach
+11,,,Seth Hestness,,,,,,North Dakota State,,,,Offensive Quality Control
+12,,,Mike Peters,,,,,,North Dakota State,,,,Offensive Analyst
+13,,,Brett Watson,,,,,,North Dakota State,,,,Defensive Quality Control
+0,,,Football Recruiting,,,,,,North Dakota State,,,,
+1,,,Ean Deno,,,,,,North Dakota State,,,,Director of Football Recruiting & Player Personnel
+2,,,Zach Peters,,,,,,North Dakota State,,,,Football Recruiting and Operations Assistant
+3,,,Jamison Brown,,,,,,North Dakota State,,,,Football Recruiting and Operations Intern
+4,,,Sokiri Malula,,,,,,North Dakota State,,,,Director of Football Video Operations
+5,,,Nathan Bjoralt,,,,,,North Dakota State,,,,Director of Football Operations and Equipment
+6,,,Nick Brendemuhl,,,,,,North Dakota State,,,,Equipment Graduate Assistant
+7,,,Jim Kramer,,,,,,North Dakota State,,,,Assistant Athletic Director for Athletic Performance - Football
+8,,,Matt Bauman,,,,,,North Dakota State,,,,Assistant Strength and Conditioning Coach
+9,,,Eric Ihde,,,,,,North Dakota State,,,,Strength and Conditioning Graduate Assistant
+10,,,Nick DeLuca,,,,,,North Dakota State,,,,Strength and Conditioning Intern
+11,,,Mason Ankenbauer,,,,,,North Dakota State,,,,Assistant Athletic Trainer
+12,,,Deegan Gearding,,,,,,North Dakota State,,,,Athletic Training Graduate Assistant
+13,,,Margie Trickle,,,,,,North Dakota State,,,,Administrative Assistant
+14,,,Fr. James Meyer,,,,,,North Dakota State,,,,Team Chaplain
+15,,,Jeff Curtis,,,,,,North Dakota State,,,,Team Chaplain

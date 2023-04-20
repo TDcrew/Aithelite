@@ -1,86 +1,86 @@
-,Statistic,No.,Name,Yr.,Pos.,Ht.,Wt.,Hometown/High School,Major,Image,Title
-0,,2.0,Nahjee Adams,Jr.,RB,5-11,213.0,"Easton, Pa. / Easton",The Liberal Arts,,
-1,,5.0,A.T. Ntantang,Sr.,DB,5-9,192.0,"Lawrenceville, Ga. / McDonogh",Economics,,
-2,,7.0,Blamassi Meite,Sr.,LB,6-1,255.0,"Lawrenceville, Ga. / Discovery",Engineering,,
-3,,8.0,Semaj Cross,Sr.,DB,6-1,218.0,"Toledo, Ohio / Toledo Central Catholic",Economics,,
-4,,9.0,Jon Engel,Sr.,DB,6-3,215.0,"Lititz, Pa. / Manheim Township",Economics,,
-5,,11.0,Saiku White,Jr.,DB,6-0,201.0,"Atlanta, Ga. / Greater Atlanta Christian School",Economics,,
-6,,12.0,Rent Montie,Sr.,QB,6-3,207.0,"Palm Harbor, Fla. / Clearwater",Integrative Engineering,,
-7,,13.0,Reggie Thomas,Jr.,LB,6-0,210.0,"Campbellsville, Ky. / Campbellsville",Economics,,
-8,,14.0,Ah-Shaun Davis,Jr.,QB,6-3,214.0,"Willingboro, N.J. / Willingboro",Economics,,
-9,,15.0,Ryan Schuster,So.,QB,6-2,208.0,"Macomb, Mich. / Chippewa Valley",Mechanical Engineering,,
-10,,16.0,Dean DeNobile,So.,QB,6-1,192.0,"Upper Saddle River, N.J. / Morris Catholic",Economics,,
-11,,18.0,Preston Forney,Sr.,LB,6-1,238.0,"Southlake, Texas / Carroll",Engineering,,
-12,,19.0,Chris Carasia,Jr.,WR,6-1,184.0,"Ocean Township, N.J. / Ocean Township",Economics,,
-13,,21.0,Billy Shaeffer,Sr.,LB,6-3,232.0,"Warrington, Pa. / Archbishop Wood",International Affairs,,
-14,,22.0,Jamar Curtis,So.,RB,5-8,164.0,"Waldorf, Md. / St. John's College H.S.",The Liberal Arts,,
-15,,23.0,Shaikyi Hannah,Sr.,DB,5-11,178.0,"Woodbury, N.J. / Delsea",Economics,,
-16,,24.0,Neriyan Brown,Sr.,DB,6-0,193.0,"Atlanta, Ga. / North Springs",Economics,,
-17,,25.0,Gabe DuBois,Jr.,DB,5-10,172.0,"Cincinnati, Ohio / St. Xavier",Psychology,,
-18,,26.0,Marco Olivas,Sr.,LB,6-2,217.0,"Fort Worth, Texas / Fossil Ridge",Integrative Engineering,,
-19,,27.0,Tristen Roundtree,Sr.,DB,6-3,217.0,"Cary, N.C. / Green Hope",Economics,,
-20,,28.0,Jermaine Conyers,Jr.,RB,5-8,193.0,"Edgewood, Md. / Gilman School/Franklin & Marshall",Government & Law,,
-21,,29.0,Austin Eldred,Jr.,DB,5-11,175.0,"Marietta, Ga. / Walton",Economics,,
-22,,30.0,Trey Watkins,So.,DB,6-0,177.0,"Rahway, N.J. / St. Joseph Regional",The Liberal Arts,,
-23,,31.0,Isaiah Ambroise,Jr.,DB,5-10,157.0,"Birmingham, Ala. / John Carroll Catholic/Wyoming Seminary",Economics,,
-24,,33.0,Tighe Cummiskey,So.,RB,6-0,202.0,"Darien, Conn. / Darien",Economics,,
-25,,35.0,Jalen Edwards,So.,DB,5-11,178.0,"North Wales, Pa. / North Penn",The Liberal Arts,,
-26,,37.0,Jakob Trestik,Sr.,K/P,5-9,183.0,"Irvine, Calif. / Woodbridge",Mechanical Engineering,,
-27,,38.0,Ahren Stauffer,So.,K/P,6-0,185.0,"Harrisburg, Pa. / Central Dauphin",Mechanical Engineering,,
-28,,39.0,Brian Henesey,Jr.,P,6-1,200.0,"Lansdale, Pa. / Springside Chestnut Hill Academy",Chemistry,,
-29,,40.0,Taylor Smallwood,So.,DB,6-2,198.0,"Suwanee, Ga. / North Gwinnett",Engineering,,
-30,,41.0,Stone McDonald,Sr.,DB,6-1,202.0,"Bluffton, S.C. / Hilton Head Prep",Economics,,
-31,,42.0,Byron Johnson,So.,DB,5-10,160.0,"Bryan, Texas / College Station",Civil Engineering,,
-32,,44.0,Mekhi Ajose-Williamson,Jr.,RB,6-0,198.0,"Philadelphia, Pa. / Haverford",Economics,,
-33,,45.0,Justin Mitala,Sr.,FB,6-2,232.0,"Phoenixville, Pa. / Pope John Paul II",Economics,,
-34,,49.0,Gabe Decker,Jr.,FB,6-0,221.0,"Culpeper, Va. / St. Anne's-Belfield",Civil Engineering,,
-35,,51.0,Bryson Bright,So.,LB,6-3,210.0,"Willingboro, N.J. / Willingboro",Economics,,
-36,,54.0,Tim O'Hearn,Jr.,LB,6-4,252.0,"Coppell, Texas / Coppell",Economics,,
-37,,55.0,Terell Cannon,Jr.,DL,6-5,272.0,"Vauxhall, N.J. / Union",Economics,,
-38,,56.0,Ian Langan,So.,LB,6-3,210.0,"Upper Saddle River, N.J. / Northern Highlands",Engineering,,
-39,,57.0,Jack Bayly,So.,LB,6-0,206.0,"Easton, Pa. / Easton",Engineering,,
-40,,59.0,Dylan Aguilera,So.,LS,5-10,208.0,"Elkridge, Md. / Calvert Hall",Economics,,
-41,,61.0,Hudson Harper,Jr.,OL,6-4,305.0,"Dunkirk, Md. / Northern",Government & Law,,
-42,,62.0,Mike Barr,Sr.,OL,6-4,306.0,"Havertown, Pa. / Haverford School",Economics,,
-43,,65.0,Gus Salopek,Jr.,OL,6-5,264.0,"Richmond Heights, Ohio / St. Ignatius",Economics,,
-44,,66.0,Brian Baucia,So.,OL,6-2,302.0,"Crofton, Md. / Spalding",Economics,,
-45,,67.0,Matthew Sherer,Jr.,OL,6-7,282.0,"Tampa, Fla. / Plant",Economics,,
-46,,68.0,Ryder Langsdale,Jr.,OL,6-7,287.0,"Ridgewood, N.J. / Ridgewood",International Affairs,,
-47,,70.0,Reed Collins,So.,OL,6-5,299.0,"Jacksonville, Fla. / Bolles School",Economics,,
-48,,71.0,John Olmstead,Sr.,OL,6-6,294.0,"North Brunswick, N.J. / St. Joseph/Univ. of Notre Dame",Anthropology & Sociology,,
-49,,73.0,Thomas Grippo,Jr.,OL,6-3,283.0,"Kinnelon, N.J. / Seton Hall Prep/Wake Forest",Economics,,
-50,,74.0,Spencer Adams,So.,OL,6-4,347.0,"Darnestown, Md. / Northwest",Integrative Engineering,,
-51,,75.0,Beau Bedard,Sr.,OL,6-3,285.0,"Annapolis, Md. / McDonogh",Economics,,
-52,,78.0,Andrew Hamacher,Sr.,OL,6-6,288.0,"Yardley, Pa. / Pennsbury",Neuroscience,,
-53,,79.0,Sydney Weibel,Jr.,OL,6-6,291.0,"Darien, Conn. / Darien",Biochemistry,,
-54,,81.0,Mason Gilbert,Sr.,TE,6-6,254.0,"DeWitt, Mich. / DeWitt",Economics,,
-55,,82.0,Griffin Rooney,Sr.,WR,6-2,203.0,"Westfield, N.J. / Westfield",Economics,,
-56,,83.0,Zack Saturn,Sr.,WR,6-0,186.0,"Ho-Ho-Kus, N.J. / Northern Highlands",Economics,,
-57,,84.0,Keller Gammons,Jr.,TE,6-6,244.0,"Mountain View, Calif. / St. Francis",Biology,,
-58,,85.0,Carl Smith,Sr.,WR,6-0,178.0,"Philadelphia, Pa. / West Catholic/Virginia Tech",Art,,
-59,,86.0,Elijah Steward,So.,WR,5-10,171.0,"Galloway, N.J. / Holy Spirit",The Liberal Arts,,
-60,,87.0,Tyler Roberts,Jr.,TE,6-4,229.0,"Morgan Hill, Calif. / Valley Christian",Biochemistry,,
-61,,89.0,Dallas Holmes,So.,TE,6-5,235.0,"Bethlehem, Pa. / Liberty/Wyoming Seminary",Mathematics,,
-62,,90.0,Owen Ordonez,So.,LB,6-3,219.0,"West Milton, Pa. / Lewisburg",Environmental Science,,
-63,,91.0,Adam Port,Sr.,DL,6-2,281.0,"Altoona, Pa. / Altoona",Mathematics,,
-64,,92.0,Noah Nunn,Sr.,DL,6-5,239.0,"Medina, Ohio / Medina",Economics,,
-65,,96.0,Tyree Morris,So.,DL,6-6,257.0,"Mechanicsburg, Pa. / Mechanicsburg/Palmetto Prep",The Liberal Arts,,
-66,,97.0,Phillip Peiffer,Jr.,DL,6-5,263.0,"Frankfort, Ky. / Franklin County",International Affairs,,
-67,,98.0,Marcus Joseph,Sr.,DL,6-4,306.0,"Carson, Calif. / Windward School",Government & Law and Foreign Language,,
-0,,,John Troxell,,,,,,,,Fred M. Kirby II '42 Head Football Coach
-1,,,Kevin Baumann,,,,,,,,Assistant Head Coach/Offensive Line
-2,,,T.J. DiMuzio,,,,,,,,Offensive Coordinator/Quarterbacks
-3,,,Ryan Roeder,,,,,,,,Wide Receivers
-4,,,Anthony Johnson,,,,,,,,Running Backs
-5,,,Tyler Noll,,,,,,,,Tight Ends
-6,,,Matt Seiferth,,,,,,,,Offensive Quality Control
-7,,,Mike Saint Germain,,,,,,,,Defensive Coordinator/Linebackers
-8,,,Andrew Seumalo,,,,,,,,Recruiting Coordinator/Outside Linebackers
-9,,,Meade Clendaniel,,,,,,,,Safeties
-10,,,Donte Wilkins,,,,,,,,Defensive Line
-11,,,Jeff Sejour,,,,,,,,Cornerbacks
-12,,,Jake Amsler,,,,,,,,Defensive Quality Control
-13,,,Shane Davenport,,,,,,,,Director of Football Performance
-14,,,Maddie Rodgers,,,,,,,,Director of Football Operations
-0,,,Carlos Tavares,,,,,,,,Faculty Mentor
-1,,,Jeff Liebner,,,,,,,,Faculty Mentor
+,Statistic,No.,Name,Yr.,Pos.,Ht.,Wt.,Hometown/High School,Current School Name,Major,Image,Title
+0,,2.0,Nahjee Adams,Jr.,RB,5-11,213.0,"Easton, Pa. / Easton",Lafayette,The Liberal Arts,,
+1,,5.0,A.T. Ntantang,Sr.,DB,5-9,192.0,"Lawrenceville, Ga. / McDonogh",Lafayette,Economics,,
+2,,7.0,Blamassi Meite,Sr.,LB,6-1,255.0,"Lawrenceville, Ga. / Discovery",Lafayette,Engineering,,
+3,,8.0,Semaj Cross,Sr.,DB,6-1,218.0,"Toledo, Ohio / Toledo Central Catholic",Lafayette,Economics,,
+4,,9.0,Jon Engel,Sr.,DB,6-3,215.0,"Lititz, Pa. / Manheim Township",Lafayette,Economics,,
+5,,10.0,Tray Mauney,Fr.,QB,6-2,212.0,"Forest City, N.C. / Christ School",Lafayette,Economics,,
+6,,11.0,Saiku White,Jr.,DB,6-0,201.0,"Atlanta, Ga. / Greater Atlanta Christian School",Lafayette,Economics,,
+7,,12.0,Rent Montie,Sr.,QB,6-3,207.0,"Palm Harbor, Fla. / Clearwater",Lafayette,Integrative Engineering,,
+8,,13.0,Reggie Thomas,Jr.,LB,6-0,210.0,"Campbellsville, Ky. / Campbellsville",Lafayette,Economics,,
+9,,14.0,Ah-Shaun Davis,Jr.,QB,6-3,214.0,"Willingboro, N.J. / Willingboro",Lafayette,Economics,,
+10,,15.0,Ryan Schuster,So.,QB,6-2,208.0,"Macomb, Mich. / Chippewa Valley",Lafayette,Mechanical Engineering,,
+11,,16.0,Dean DeNobile,So.,QB,6-1,192.0,"Upper Saddle River, N.J. / Morris Catholic",Lafayette,Economics,,
+12,,18.0,Preston Forney,Sr.,LB,6-1,238.0,"Southlake, Texas / Carroll",Lafayette,Engineering,,
+13,,19.0,Chris Carasia,Jr.,WR,6-1,184.0,"Ocean Township, N.J. / Ocean Township",Lafayette,Economics,,
+14,,21.0,Billy Shaeffer,Sr.,LB,6-3,232.0,"Warrington, Pa. / Archbishop Wood",Lafayette,International Affairs,,
+15,,22.0,Jamar Curtis,So.,RB,5-8,164.0,"Waldorf, Md. / St. John's College H.S.",Lafayette,The Liberal Arts,,
+16,,23.0,Shaikyi Hannah,Sr.,DB,5-11,178.0,"Woodbury, N.J. / Delsea",Lafayette,Economics,,
+17,,24.0,Neriyan Brown,Sr.,DB,6-0,193.0,"Atlanta, Ga. / North Springs",Lafayette,Economics,,
+18,,25.0,Gabe DuBois,Jr.,DB,5-10,172.0,"Cincinnati, Ohio / St. Xavier",Lafayette,Psychology,,
+19,,26.0,Marco Olivas,Sr.,LB,6-2,217.0,"Fort Worth, Texas / Fossil Ridge",Lafayette,Integrative Engineering,,
+20,,27.0,Tristen Roundtree,Sr.,DB,6-3,217.0,"Cary, N.C. / Green Hope",Lafayette,Economics,,
+21,,28.0,Jermaine Conyers,Jr.,RB,5-8,193.0,"Edgewood, Md. / Gilman School/Franklin & Marshall",Lafayette,Government & Law,,
+22,,29.0,Austin Eldred,Jr.,DB,5-11,175.0,"Marietta, Ga. / Walton",Lafayette,Economics,,
+23,,30.0,Trey Watkins,So.,DB,6-0,177.0,"Rahway, N.J. / St. Joseph Regional",Lafayette,The Liberal Arts,,
+24,,31.0,Isaiah Ambroise,Jr.,DB,5-10,157.0,"Birmingham, Ala. / John Carroll Catholic/Wyoming Seminary",Lafayette,Economics,,
+25,,33.0,Tighe Cummiskey,So.,RB,6-0,202.0,"Darien, Conn. / Darien",Lafayette,Economics,,
+26,,35.0,Jalen Edwards,So.,DB,5-11,178.0,"North Wales, Pa. / North Penn",Lafayette,The Liberal Arts,,
+27,,37.0,Jakob Trestik,Sr.,K/P,5-9,183.0,"Irvine, Calif. / Woodbridge",Lafayette,Mechanical Engineering,,
+28,,38.0,Ahren Stauffer,So.,K/P,6-0,185.0,"Harrisburg, Pa. / Central Dauphin",Lafayette,Mechanical Engineering,,
+29,,39.0,Brian Henesey,Jr.,P,6-1,200.0,"Lansdale, Pa. / Springside Chestnut Hill Academy",Lafayette,Chemistry,,
+30,,40.0,Taylor Smallwood,So.,DB,6-2,198.0,"Suwanee, Ga. / North Gwinnett",Lafayette,Engineering,,
+31,,41.0,Stone McDonald,Sr.,DB,6-1,202.0,"Bluffton, S.C. / Hilton Head Prep",Lafayette,Economics,,
+32,,42.0,Byron Johnson,So.,DB,5-10,160.0,"Bryan, Texas / College Station",Lafayette,Civil Engineering,,
+33,,44.0,Mekhi Ajose-Williamson,Jr.,RB,6-0,198.0,"Philadelphia, Pa. / Haverford",Lafayette,Economics,,
+34,,45.0,Justin Mitala,Sr.,FB,6-2,232.0,"Phoenixville, Pa. / Pope John Paul II",Lafayette,Economics,,
+35,,49.0,Gabe Decker,Jr.,FB,6-0,221.0,"Culpeper, Va. / St. Anne's-Belfield",Lafayette,Civil Engineering,,
+36,,51.0,Bryson Bright,So.,LB,6-3,210.0,"Willingboro, N.J. / Willingboro",Lafayette,Economics,,
+37,,54.0,Tim O'Hearn,Jr.,LB,6-4,252.0,"Coppell, Texas / Coppell",Lafayette,Economics,,
+38,,55.0,Terell Cannon,Jr.,DL,6-5,272.0,"Vauxhall, N.J. / Union",Lafayette,Economics,,
+39,,56.0,Ian Langan,So.,LB,6-3,210.0,"Upper Saddle River, N.J. / Northern Highlands",Lafayette,Engineering,,
+40,,57.0,Jack Bayly,So.,LB,6-0,206.0,"Easton, Pa. / Easton",Lafayette,Engineering,,
+41,,59.0,Dylan Aguilera,So.,LS,5-10,208.0,"Elkridge, Md. / Calvert Hall",Lafayette,Economics,,
+42,,61.0,Hudson Harper,Jr.,OL,6-4,305.0,"Dunkirk, Md. / Northern",Lafayette,Government & Law,,
+43,,62.0,Mike Barr,Sr.,OL,6-4,306.0,"Havertown, Pa. / Haverford School",Lafayette,Economics,,
+44,,65.0,Gus Salopek,Jr.,OL,6-5,264.0,"Richmond Heights, Ohio / St. Ignatius",Lafayette,Economics,,
+45,,66.0,Brian Baucia,So.,OL,6-2,302.0,"Crofton, Md. / Spalding",Lafayette,Economics,,
+46,,67.0,Matthew Sherer,Jr.,OL,6-7,282.0,"Tampa, Fla. / Plant",Lafayette,Economics,,
+47,,68.0,Ryder Langsdale,Jr.,OL,6-7,287.0,"Ridgewood, N.J. / Ridgewood",Lafayette,International Affairs,,
+48,,70.0,Reed Collins,So.,OL,6-5,299.0,"Jacksonville, Fla. / Bolles School",Lafayette,Economics,,
+49,,71.0,John Olmstead,Sr.,OL,6-6,294.0,"North Brunswick, N.J. / St. Joseph/Univ. of Notre Dame",Lafayette,Anthropology & Sociology,,
+50,,73.0,Thomas Grippo,Jr.,OL,6-3,283.0,"Kinnelon, N.J. / Seton Hall Prep/Wake Forest",Lafayette,Economics,,
+51,,74.0,Spencer Adams,So.,OL,6-4,347.0,"Darnestown, Md. / Northwest",Lafayette,Integrative Engineering,,
+52,,75.0,Beau Bedard,Sr.,OL,6-3,285.0,"Annapolis, Md. / McDonogh",Lafayette,Economics,,
+53,,78.0,Andrew Hamacher,Sr.,OL,6-6,288.0,"Yardley, Pa. / Pennsbury",Lafayette,Neuroscience,,
+54,,79.0,Sydney Weibel,Jr.,OL,6-6,291.0,"Darien, Conn. / Darien",Lafayette,Biochemistry,,
+55,,81.0,Mason Gilbert,Sr.,TE,6-6,254.0,"DeWitt, Mich. / DeWitt",Lafayette,Economics,,
+56,,82.0,Griffin Rooney,Sr.,WR,6-2,203.0,"Westfield, N.J. / Westfield",Lafayette,Economics,,
+57,,83.0,Zack Saturn,Sr.,WR,6-0,186.0,"Ho-Ho-Kus, N.J. / Northern Highlands",Lafayette,Economics,,
+58,,84.0,Keller Gammons,Jr.,TE,6-6,244.0,"Mountain View, Calif. / St. Francis",Lafayette,Biology,,
+59,,85.0,Carl Smith,Sr.,WR,6-0,178.0,"Philadelphia, Pa. / West Catholic/Virginia Tech",Lafayette,Art,,
+60,,86.0,Elijah Steward,So.,WR,5-10,171.0,"Galloway, N.J. / Holy Spirit",Lafayette,The Liberal Arts,,
+61,,87.0,Tyler Roberts,Jr.,TE,6-4,229.0,"Morgan Hill, Calif. / Valley Christian",Lafayette,Biochemistry,,
+62,,89.0,Dallas Holmes,So.,TE,6-5,235.0,"Bethlehem, Pa. / Liberty/Wyoming Seminary",Lafayette,Mathematics,,
+63,,90.0,Owen Ordonez,So.,LB,6-3,219.0,"West Milton, Pa. / Lewisburg",Lafayette,Environmental Science,,
+64,,91.0,Adam Port,Sr.,DL,6-2,281.0,"Altoona, Pa. / Altoona",Lafayette,Mathematics,,
+65,,92.0,Noah Nunn,Sr.,DL,6-5,239.0,"Medina, Ohio / Medina",Lafayette,Economics,,
+66,,96.0,Tyree Morris,So.,DL,6-6,257.0,"Mechanicsburg, Pa. / Mechanicsburg/Palmetto Prep",Lafayette,The Liberal Arts,,
+67,,97.0,Phillip Peiffer,Jr.,DL,6-5,263.0,"Frankfort, Ky. / Franklin County",Lafayette,International Affairs,,
+68,,98.0,Marcus Joseph,Sr.,DL,6-4,306.0,"Carson, Calif. / Windward School",Lafayette,Government & Law and Foreign Language,,
+0,,,John Troxell,,,,,,Lafayette,,,Fred M. Kirby II '42 Head Football Coach
+1,,,Kevin Baumann,,,,,,Lafayette,,,Assistant Head Coach/Offensive Line
+2,,,T.J. DiMuzio,,,,,,Lafayette,,,Offensive Coordinator/Quarterbacks
+3,,,Ryan Roeder,,,,,,Lafayette,,,Wide Receivers
+4,,,Anthony Johnson,,,,,,Lafayette,,,Running Backs
+5,,,Tyler Noll,,,,,,Lafayette,,,Tight Ends
+6,,,Mike Saint Germain,,,,,,Lafayette,,,Defensive Coordinator/Linebackers
+7,,,Andrew Seumalo,,,,,,Lafayette,,,Recruiting Coordinator/Outside Linebackers
+8,,,Meade Clendaniel,,,,,,Lafayette,,,Safeties
+9,,,Donte Wilkins,,,,,,Lafayette,,,Defensive Line
+10,,,Jeff Sejour,,,,,,Lafayette,,,Cornerbacks
+11,,,Jake Amsler,,,,,,Lafayette,,,Defensive Quality Control
+12,,,Shane Davenport,,,,,,Lafayette,,,Director of Football Performance
+13,,,Maddie Rodgers,,,,,,Lafayette,,,Director of Football Operations
+0,,,Carlos Tavares,,,,,,Lafayette,,,Faculty Mentor
+1,,,Jeff Liebner,,,,,,Lafayette,,,Faculty Mentor

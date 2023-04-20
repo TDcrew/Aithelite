@@ -1,100 +1,101 @@
-,Statistic,#,Image,Full Name,Pos.,Ht.,Wt.,Year,Letters,Hometown,HIgh School,Previous School,Name,Title
-0,,1.0,,Javon Antonio,WR,6-4,220.0,R-Sr.,1.0,"LaPlace, La.",East St. John HS,Hinds CC,,
-1,,3.0,,Shemar Bartholomew,CB,6-0,200.0,Sr.,4.0,"New Orleans, La.",Cypress Ranch (Texas) HS,,,
-2,,3.0,,Kennieth Lacy,RB,5-9,185.0,Jr.,1.0,"Kilgore, Texas",Kilgore HS,Kilgore College,,
-3,,3.0,,Jaheim Walters,WR,6-2,175.0,R-Fr.,1.0,"New Orleans, La.",St. Augustine HS,,,
-4,,4.0,,Ke'Nard King,WR,5-10,170.0,Jr.,1.0,"Houston, Texas",Fort Bend Marshall HS,Trinity Valley CC/Tulsa,,
-5,,5.0,,Josh Clarke,LB,6-3,230.0,Gr.,2.0,"New Orleans, La.",Riverdale HS,Ole Miss/Holmes CC,,
-6,,5.0,,Jaren Mitchell,WR,5-10,185.0,Sr.,1.0,"Dallas, Texas",Hebron HS,Northern Colorado,,
-7,,5.0,,Quentin Ross,C,6-3,300.0,Jr.,0.0,"Baton Rouge, La.",Woodlawn HS,Garden City CC,,
-8,,6.0,,Scooter Adams,RB,5-9,180.0,R-Sr.,1.0,"Hallettsville, Texas",Hallettsville HS,Kilgore College,,
-9,,6.0,,Jordan Banks,LB,6-2,235.0,So.,1.0,"Los Angeles, Calif.",Narbonne HS,Arizona State,,
-10,,7.0,,Kareame Cotton Jr.,WR,6-2,200.0,R-So.,1.0,"North Little Rock, Ark.",North Little Rock HS,,,
-11,,7.0,,Anthony Richard,CB,6-2,185.0,So.,0.0,"Lafayette, La.",Lafayette Christian Academy,Harding,,
-12,,8.0,,Garrison Johnson,RB,5-11,212.0,Sr.,1.0,"Manvel, Texas",Manvel HS,Syracuse / Kilgore College,,
-13,,9.0,,Andy Pierre-Antoine,WR,6-1,190.0,R-Sr.,1.0,"Miami, Fla.",North Miami Sr. HS,Reedley College,,
-14,,10.0,,Zach Patterson,WR,5-11,180.0,Sr.,1.0,"Corinth, Miss.",Corinth HS,East Mississippi CC,,
-15,,10.0,,Dez Williams,LB,6-0,217.0,Jr.,1.0,"Mound Bayou, Miss.",Cleveland Central HS,Coahoma CC,,
-16,,11.0,,Jacob Washington,S,6-1,190.0,Sr.,2.0,"Port Arthur, Texas",Memorial HS,Kilgore,,
-17,,13.0,,Jeremiah Bodwin,LB,6-4,225.0,So.,0.0,"Dallas, Texas",Parish Episcopal HS,Nevada,,
-18,,14.0,,Cadillac Rhone,S,6-2,190.0,R-Fr.,1.0,"Many, La.",Many HS,,,
-19,,15.0,,Ty Hall,CB,-,,Jr.,1.0,"Frisco, Texas",Frisco Lone Star HS,Grambling,,
-20,,16.0,,Chance Newman,QB,6-3,215.0,Sr.,1.0,"Daphne, Ala.",Daphne HS,Virginia Military Institute/Jacksonville St.,,
-21,,16.0,,William White,S,6-1,205.0,So.,0.0,"Carrollton, Texas",Hebron HS,Houston,,
-22,,17.0,,DJ Johnson,S,5-10,179.0,So.,1.0,"New Orleans, La.",St. Augustine HS,,,
-23,,18.0,,Dante Thomas,CB,6-0,180.0,So.,1.0,"Hammond, La.",John Curtis HS,,,
-24,,18.0,,Tyler Vander Waal,QB,6-4,220.0,Sr.,0.0,"Sacramento, Calif.",Christian Brothers HS,Idaho State,,
-25,,19.0,,B J Higgins,QB,6-1,205.0,So.,1.0,"Dallas, Texas",Roosevelt HS,,,
-26,,19.0,,Kwame Sarkodie,LB,6-2,210.0,Sr.,2.0,"Arlington, Texas",Mansfield HS,Navarro JC,,
-27,,20.0,,Kevin Davis Jr.,S,6-0,190.0,Jr.,2.0,"Freeport, Texas",Brazosport HS,,,
-28,,20.0,,Hogan Wasson,WR,5-10,175.0,So.,1.0,"Euless, Texas",Colleyville HS,,,
-29,,21.0,,Kolbe Burrell,RB,5-9,200.0,Jr.,1.0,"Jenkintown, Pa.",St. Joe's Prep,Buffalo,,
-30,,21.0,,Jared Pedraza,LB,6-1,225.0,Jr.,2.0,"Franklin, Texas",Franklin HS,,,
-31,,23.0,,Ronnie Caldwell,S,5-11,195.0,Jr.,1.0,"Austin, Texas",Cedar Park HS,Tyler JC,,
-32,,24.0,,Trevion Sneed,DE,6-2,242.0,So.,0.0,"Mineola, Texas",Mineola HS,SMU,,
-33,,25.0,,Isaiah Robinson,S,6-2,195.0,Jr.,2.0,Bossier City,Parkway HS,,,
-34,,26.0,,Christian Hawkins,LB,6-2,230.0,So.,1.0,"Zachary, La.",Slaughter Community Charter School,Milsaps College,,
-35,,27.0,,Antwon Fegans,S,6-1,195.0,So.,1.0,"Oxford, Ala.",Oxford HS,Arkansas State,,
-36,,30.0,,Micah Jernigan,WR,5-10,179.0,Jr.,1.0,"Shreveport, La.",Calvary Baptist Academy,Southern Miss.,,
-37,,31.0,,Matthew Broad,LB,6-2,240.0,So.,1.0,"Antioch, Calif.",Cornerstone Christian School,Los Medanos College,,
-38,,32.0,,Ara Rauls III,S,5-10,178.0,Jr.,2.0,"Waco, Texas",La Vega HS,,,
-39,,35.0,,Ja'Quel Mack,LB,6-3,215.0,So.,1.0,"Gonzales, La.",East Ascension HS,,,
-40,,35.0,,SirMichael Veasley,RB,6-0,210.0,Jr.,2.0,"Dallas, Texas",Life HS Waxahachie,,,
-41,,36.0,,Christian Thomas,DL,6-2,235.0,So.,1.0,"Port Arthur, Texas",Port Arthur Memorial HS,,,
-42,,38.0,,Daniel Dufour,CB,5-10,165.0,So.,1.0,"Covington, La.",St. Paul's HS,,,
-43,,39.0,,Ian Bell,WR,5-8,160.0,R-So.,1.0,"Baton Rouge, La.",Mentorship Academy,,,
-44,,40.0,,Tory Morgan,LB,5-11,215.0,So.,1.0,"New Orleans, La.",Edna Karr HS,,,
-45,,42.0,,Jay Sturgis,RB,5-10,250.0,R-Fr.,1.0,"New Orleans, La.",Archbishop Rummel HS,,,
-46,,42.0,,Jaeden Ward,LB,6-2,220.0,Sr.,2.0,"Wallis, Texas",Brazos HS,Trinity Valley CC,,
-47,,43.0,,Kyren Brown,LB,5-9,210.0,So.,1.0,"Shreveport, La.",Northwood HS,Arkansas Monticello,,
-48,,45.0,,Danny Sears,LB,6-0,220.0,So.,1.0,"Covington, La.",St. Paul's HS,,,
-49,,46.0,,Scotty Roblow,K/P,6-5,175.0,Jr.,2.0,"Shreveport, La.",C. E. Byrd HS,,,
-50,,47.0,,Andrew Barnhill,LS,6-0,225.0,So.,1.0,"Shreveport, La.",Evangel Christian Academy,,,
-51,,50.0,,Cameron Vaughn,OL,6-6,300.0,Jr.,1.0,"Orlando, Fla.",Haines City HS,Trinity Valley CC / Central Michigan,,
-52,,51.0,,Chad Gooden Jr.,LB,6-0,230.0,So.,1.0,"Westwego, La.",Archbishop Shaw HS,,,
-53,,54.0,,Kendal Harmon,DL,6-2,260.0,R-So.,1.0,"Crowley, La.",Crowley HS,,,
-54,,55.0,,Sawyer Benson,LS,6-2,175.0,Fr.,1.0,"Shreveport, La.",C.E. Byrd HS,,,
-55,,55.0,,JaQuon Lott,NT,6-4,315.0,Sr.,1.0,"Lambert, Miss.",Madison Shannon Palmer HS,Itawamba CC,,
-56,,56.0,,Matt Mabry,OL,6-3,305.0,Sr.,1.0,"Mendenhall, Miss.",Mendenhall HS,Jones College,,
-57,,57.0,,Riley Birdwell,OL,6-4,315.0,So.,1.0,"Nacogdoches, Texas",Nacogdoches HS,,,
-58,,58.0,,Coby James,OL,6-3,274.0,R-So.,1.0,"Midlothian, Texas",Midlothian Heritage HS,,,
-59,,59.0,,Maurice Campbell II,NT,6-2,305.0,Sr.,2.0,"Memphis, Tenn.",Ridgeway HS,Dodge City CC,,
-60,,64.0,,Brody Heard,OL,6-3,310.0,R-So.,1.0,"Alexandria, La.",Holy Savior Menard HS,,,
-61,,65.0,,Brayden Staggs,OL,6-4,300.0,Jr.,2.0,"Cypress, Texas",Langham Creek HS,,,
-62,,66.0,,D'Andre Richard,OL,6-3,300.0,Jr.,2.0,"Baton Rouge, La.",Brusly HS,Dodge City CC,,
-63,,67.0,,Jordan Cooper,OL,6-4,310.0,Jr.,2.0,"Ennis, Texas",Ennis HS,,,
-64,,68.0,,Kaden Garcia,OL,6-4,272.0,So.,1.0,"Baytown, Texas",Barbers Hill HS,,,
-65,,71.0,,Stevie Ballard,OL,6-6,310.0,Jr.,2.0,"Terry, Miss.",Central Hinds Academy,La Tech,,
-66,,72.0,,Rod Chaney,OL,6-6,330.0,Sr.,1.0,"Houston, Texas",Alief Elsik HS,Kilgore College,,
-67,,75.0,,Jordan McClaine,OL,6-3,295.0,R-Fr.,1.0,"New Orleans, La.",Ruston HS,,,
-68,,77.0,,Tyler McMillan,OL,6-6,315.0,So.,0.0,"Detroit, Mich.",River Rouge HS,Mississippi Valley State,,
-69,,81.0,,T.J. Johnson,WR,6-4,175.0,So.,1.0,"Alexandria, La.",Alexandria Senior HS,,,
-70,,82.0,,Evan Kern,K/P,6-0,175.0,So.,1.0,"Prairieville, La.",East Ascension HS,,,
-71,,84.0,,Travon Jones,TE,6-7,220.0,So.,1.0,"Miami, Fla.",Dutchtown HS,Chattanooga,,
-72,,85.0,,Christian Thomas,WR,6-0,160.0,So.,1.0,"Logansport, La.",Logansport HS,McNeese,,
-73,,86.0,,Duce Hart,RB,5-10,162.0,So.,1.0,"Malakoff, Texas",Malakoff HS,,,
-74,,88.0,,Stanley King,WR,6-6,200.0,Jr.,2.0,"Camden, N.J.",Woodrow Wilson HS,Rutgers,,
-75,,89.0,,Dane Wallace,WR,5-8,176.0,R-Fr.,1.0,"Broussard, La.",Lafayette Christian Academy,,,
-76,,93.0,,Ray Gibson,DT,6-2,305.0,Jr.,1.0,"Philadelphia, Miss.",Neshoba Central HS,East Central CC,,
-77,,95.0,,Johnny Mitchell,DL,6-3,325.0,R-Fr.,1.0,"Stonewall, La.",North DeSoto HS,,,
-78,,97.0,,Nazir Sy,DL,6-3,300.0,Sr.,0.0,"Norcross, Ga.",Akron/Butler CC/Western Kentucky,,,
-79,,99.0,,Donovan Green,NT,6-0,265.0,Jr.,2.0,"Palmetto, La.",Opelousas Catholic HS,,,
-0,,,,,,,,,,,,,Brad Laird,Head Coach
-1,,,,,,,,,,,,,De'Von Lockett,Assistant Head Coach / Cornerbacks
-2,,,,,,,,,,,,,Beau Blair,Offensive Coordinator / Running Backs / Tight Ends
-3,,,,,,,,,,,,,Weston Glaser,Defensive Coordinator / Safeties
-4,,,,,,,,,,,,,Boone Feldt,Assistant Coach - Offensive Line
-5,,,,,,,,,,,,,Kyle Washington,Assistant Coach - Quarterbacks
-6,,,,,,,,,,,,,Derrick Berry,Administrative Graduate Assistant - Linebackers
-7,,,,,,,,,,,,,Joe Frangenberg,Administrative Graduate Assistant - Offensive Line
-8,,,,,,,,,,,,,Rod Patterson,Administrative Graduate Assistant - Safeties
-9,,,,,,,,,,,,,Jake Martinez,Administrative Graduate Assistant - Wide Receivers
-10,,,,,,,,,,,,,Mitchell Volino,Administrative Graduate Assistant - Defensive Line
-0,,,,,,,,,,,,,Elizabeth Holloway,Administrative Assistant
-1,,,,,,,,,,,,,Sonja Pezant,Director of Football Operations / NFL Liaison
-2,,,,,,,,,,,,,Jason Pugh,Assistant Athletics Director for Media Relations
-3,,,,,,,,,,,,,Jason Drury,Director of Sports Medicine
-4,,,,,,,,,,,,,Kalevi Pajuluoma,Assistant Director of Sports Medicine
-5,,,,,,,,,,,,,Breah Hurd,Athletic Trainer
-6,,,,,,,,,,,,,Dr. William Zeichner,Team Physician
-7,,,,,,,,,,,,,Dr. Theodore Jordan,Team Physician
+,Statistic,#,Image,Full Name,Pos.,Ht.,Wt.,Year,Current School Name,Letters,Hometown,HIgh School,Previous School,Name,Title
+0,,2.0,,Kennieth Lacy,RB,5-9,185.0,Jr.,Northwestern State,1.0,"Kilgore, Texas",Kilgore HS,Kilgore College,,
+1,,3.0,,Shemar Bartholomew,CB,6-1,205.0,Sr.,Northwestern State,4.0,"New Orleans, La.",Cypress Ranch (Texas) HS,,,
+2,,3.0,,Jaheim Walters,WR,6-2,175.0,R-So.,Northwestern State,1.0,"New Orleans, La.",St. Augustine HS,,,
+3,,4.0,,Ke'Nard King,WR,5-10,170.0,Jr.,Northwestern State,1.0,"Houston, Texas",Fort Bend Marshall HS,Trinity Valley CC / Tulsa,,
+4,,5.0,,Josh Clarke,DE,6-3,230.0,Sr.,Northwestern State,2.0,"New Orleans, La.",Riverdale HS,Ole Miss / Holmes CC,,
+5,,5.0,,Jaren Mitchell,WR,5-10,185.0,Sr.,Northwestern State,1.0,"Dallas, Texas",Hebron HS,Northern Colorado,,
+6,,5.0,,Quentin Ross,C,6-3,300.0,Jr.,Northwestern State,0.0,"Baton Rouge, La.",Woodlawn HS,Garden City CC,,
+7,,6.0,,Scooter Adams,RB,5-9,180.0,R-Sr.,Northwestern State,1.0,"Hallettsville, Texas",Hallettsville HS,Kilgore College,,
+8,,6.0,,Jordan Banks,LB,6-2,235.0,So.,Northwestern State,1.0,"Los Angeles, Calif.",Narbonne HS,Arizona State,,
+9,,7.0,,Kareame Cotton Jr.,QB,6-2,200.0,R-So.,Northwestern State,1.0,"North Little Rock, Ark.",North Little Rock HS,,,
+10,,7.0,,Anthony Richard,CB,6-2,185.0,So.,Northwestern State,0.0,"Lafayette, La.",Lafayette Christian Academy,Harding,,
+11,,8.0,,Garrison Johnson,RB,5-11,212.0,Jr.,Northwestern State,1.0,"Manvel, Texas",Manvel HS,Syracuse / Kilgore College,,
+12,,9.0,,Andy Pierre-Antoine,WR,6-1,190.0,R-Sr.,Northwestern State,1.0,"Miami, Fla.",North Miami Sr. HS,Reedley College,,
+13,,10.0,,Zach Patterson,WR,5-11,180.0,Sr.,Northwestern State,1.0,"Corinth, Miss.",Corinth HS,East Mississippi CC,,
+14,,10.0,,Dez Williams,LB,6-0,217.0,Jr.,Northwestern State,1.0,"Mound Bayou, Miss.",Cleveland Central HS,Coahoma CC,,
+15,,11.0,,Jacob Washington,S,6-1,190.0,Sr.,Northwestern State,2.0,"Port Arthur, Texas",Memorial HS,Kilgore,,
+16,,13.0,,Jeremiah Bodwin,DE,6-4,225.0,So.,Northwestern State,0.0,"Dallas, Texas",Parish Episcopal HS,Nevada,,
+17,,14.0,,Cadillac Rhone,S,6-2,190.0,R-Fr.,Northwestern State,1.0,"Many, La.",Many HS,,,
+18,,15.0,,Ty Hall,CB,6-2,190.0,So.,Northwestern State,1.0,"Frisco, Texas",Frisco Lone Star HS,Grambling,,
+19,,16.0,,Chance Newman,QB,6-3,215.0,Sr.,Northwestern State,1.0,"Daphne, Ala.",Daphne HS,Virginia Military Institute / Jacksonville St.,,
+20,,16.0,,William White,S,6-1,205.0,So.,Northwestern State,0.0,"Carrollton, Texas",Hebron HS,Houston,,
+21,,17.0,,DJ Johnson,S,5-10,179.0,R-Fr.,Northwestern State,0.0,"New Orleans, La.",St. Augustine HS,,,
+22,,18.0,,Dante Thomas,CB,6-0,180.0,So.,Northwestern State,1.0,"Hammond, La.",John Curtis HS,,,
+23,,18.0,,Tyler Vander Waal,QB,6-4,220.0,Sr.,Northwestern State,0.0,"Sacramento, Calif.",Christian Brothers HS,Idaho State,,
+24,,19.0,,B J Higgins,QB,6-1,205.0,R-Fr.,Northwestern State,0.0,"Dallas, Texas",Roosevelt HS,,,
+25,,19.0,,Kwame Sarkodie,DE,6-2,210.0,Sr.,Northwestern State,2.0,"Arlington, Texas",Mansfield HS,Navarro JC,,
+26,,20.0,,Kevin Davis Jr.,S,6-0,190.0,Jr.,Northwestern State,2.0,"Freeport, Texas",Brazosport HS,,,
+27,,20.0,,Hogan Wasson,WR,5-10,175.0,R-Fr.,Northwestern State,0.0,"Euless, Texas",Colleyville HS,,,
+28,,21.0,,Kolbe Burrell,RB,5-9,200.0,So.,Northwestern State,1.0,"Jenkintown, Pa.",St. Joe's Prep,Buffalo,,
+29,,21.0,,Jared Pedraza,LB,6-1,225.0,Jr.,Northwestern State,2.0,"Franklin, Texas",Franklin HS,,,
+30,,23.0,,Ronnie Caldwell,S,5-11,195.0,Jr.,Northwestern State,1.0,"Austin, Texas",Cedar Park HS,Tyler JC,,
+31,,24.0,,Trevion Sneed,DE,6-2,242.0,So.,Northwestern State,0.0,"Mineola, Texas",Mineola HS,SMU,,
+32,,25.0,,Isaiah Robinson,S,6-2,195.0,Jr.,Northwestern State,2.0,Bossier City,Parkway HS,,,
+33,,26.0,,Christian Hawkins,LB,6-2,230.0,R-So.,Northwestern State,0.0,"Zachary, La.",Slaughter Community Charter School,Milsaps College,,
+34,,27.0,,Antwon Fegans,S,6-1,195.0,So.,Northwestern State,1.0,"Oxford, Ala.",Oxford HS,Arkansas State,,
+35,,30.0,,Micah Jernigan,WR,5-10,179.0,Jr.,Northwestern State,1.0,"Shreveport, La.",Calvary Baptist Academy,Southern Miss.,,
+36,,31.0,,Matthew Broad,LB,6-2,240.0,R-So.,Northwestern State,0.0,"Antioch, Calif.",Cornerstone Christian School,Los Medanos College,,
+37,,32.0,,Ara Rauls III,S,5-10,178.0,Jr.,Northwestern State,2.0,"Waco, Texas",La Vega HS,,,
+38,,35.0,,Ja'Quel Mack,LB,6-3,215.0,R-Fr.,Northwestern State,0.0,"Gonzales, La.",East Ascension HS,,,
+39,,35.0,,SirMichael Veasley,RB,6-0,210.0,R-So.,Northwestern State,1.0,"Dallas, Texas",Life HS Waxahachie,,,
+40,,36.0,,Christian Thomas,DE,6-2,235.0,So.,Northwestern State,1.0,"Port Arthur, Texas",Port Arthur Memorial HS,,,
+41,,38.0,,Daniel Dufour,CB,5-10,165.0,R-Fr.,Northwestern State,0.0,"Covington, La.",St. Paul's HS,,,
+42,,39.0,,Ian Bell,WR,5-8,160.0,R-So.,Northwestern State,1.0,"Baton Rouge, La.",Mentorship Academy,,,
+43,,40.0,,Tory Morgan,LB,5-11,215.0,R-Fr.,Northwestern State,0.0,"New Orleans, La.",Edna Karr HS,,,
+44,,42.0,,Jay Sturgis,TE,5-10,250.0,R-So.,Northwestern State,1.0,"New Orleans, La.",Archbishop Rummel HS,,,
+45,,42.0,,Jaeden Ward,LB,6-2,220.0,Sr.,Northwestern State,2.0,"Wallis, Texas",Brazos HS,Trinity Valley CC,,
+46,,43.0,,Kyren Brown,LB,5-10,220.0,Jr.,Northwestern State,1.0,"Shreveport, La.",Northwood HS,Arkansas Monticello,,
+47,,45.0,,Danny Sears,LB,6-0,220.0,R-Fr.,Northwestern State,0.0,"Covington, La.",St. Paul's HS,,,
+48,,46.0,,Scotty Roblow,K/P,6-5,175.0,Jr.,Northwestern State,2.0,"Shreveport, La.",C. E. Byrd HS,,,
+49,,47.0,,Andrew Barnhill,LS,6-0,225.0,So.,Northwestern State,1.0,"Shreveport, La.",Evangel Christian Academy,,,
+50,,50.0,,Cameron Vaughn,OL,6-6,300.0,Jr.,Northwestern State,1.0,"Orlando, Fla.",Haines City HS,Trinity Valley CC / Central Michigan,,
+51,,51.0,,Chad Gooden Jr.,LB,6-0,230.0,R-Fr.,Northwestern State,0.0,"Westwego, La.",Archbishop Shaw HS,,,
+52,,54.0,,Kendal Harmon,DL,6-2,260.0,R-So.,Northwestern State,1.0,"Crowley, La.",Crowley HS,,,
+53,,55.0,,Sawyer Benson,LS,6-1,185.0,R-Fr.,Northwestern State,0.0,"Shreveport, La.",C.E. Byrd HS,,,
+54,,55.0,,JaQuon Lott,NT,6-4,315.0,R-Jr.,Northwestern State,0.0,"Lambert, Miss.",Madison Shannon Palmer HS,Itawamba CC,,
+55,,56.0,,Matt Mabry,OL,6-3,305.0,R-Jr.,Northwestern State,0.0,"Mendenhall, Miss.",Mendenhall HS,Jones College,,
+56,,57.0,,Riley Birdwell,OL,6-4,315.0,So.,Northwestern State,1.0,"Nacogdoches, Texas",Nacogdoches HS,,,
+57,,58.0,,Coby James,OL,6-3,274.0,R-So.,Northwestern State,1.0,"Midlothian, Texas",Midlothian Heritage HS,,,
+58,,59.0,,Maurice Campbell II,DT,6-2,305.0,Sr.,Northwestern State,2.0,"Memphis, Tenn.",Ridgeway HS,Dodge City CC,,
+59,,64.0,,Brody Heard,OL,6-3,310.0,R-So.,Northwestern State,1.0,"Alexandria, La.",Holy Savior Menard HS,,,
+60,,65.0,,Brayden Staggs,OL,6-4,300.0,So.,Northwestern State,1.0,"Cypress, Texas",Langham Creek HS,,,
+61,,66.0,,D'Andre Richard,OL,6-3,300.0,Jr.,Northwestern State,2.0,"Baton Rouge, La.",Brusly HS,Dodge City CC,,
+62,,67.0,,Jordan Cooper,OL,6-4,310.0,Jr.,Northwestern State,2.0,"Ennis, Texas",Ennis HS,,,
+63,,68.0,,Kaden Garcia,OL,6-4,272.0,R-Fr.,Northwestern State,0.0,"Baytown, Texas",Barbers Hill HS,,,
+64,,71.0,,Stevie Ballard,OL,6-6,300.0,Jr.,Northwestern State,2.0,"Terry, Miss.",Central Hinds Academy,La Tech,,
+65,,72.0,,Rod Chaney,OL,6-6,330.0,Sr.,Northwestern State,1.0,"Houston, Texas",Alief Elsik HS,Kilgore College,,
+66,,75.0,,Jordan McClaine,OL,6-3,295.0,R-So.,Northwestern State,1.0,"New Orleans, La.",Ruston HS,,,
+67,,77.0,,Tyler McMillan,OL,6-6,315.0,So.,Northwestern State,0.0,"Detroit, Mich.",River Rouge HS,Mississippi Valley State,,
+68,,81.0,,T.J. Johnson,WR,6-4,175.0,R-Fr.,Northwestern State,0.0,"Alexandria, La.",Alexandria Senior HS,,,
+69,,82.0,,Evan Kern,K/P,6-0,175.0,R-Fr.,Northwestern State,0.0,"Prairieville, La.",East Ascension HS,,,
+70,,84.0,,Travon Jones,TE,6-7,220.0,So.,Northwestern State,1.0,"Miami, Fla.",Dutchtown HS,Chattanooga,,
+71,,85.0,,Christian Thomas,WR,6-0,160.0,R-Fr.,Northwestern State,0.0,"Logansport, La.",Logansport HS,McNeese,,
+72,,86.0,,Duce Hart,RB,5-10,162.0,R-Fr.,Northwestern State,0.0,"Malakoff, Texas",Malakoff HS,,,
+73,,88.0,,Stanley King,WR,6-6,200.0,Jr.,Northwestern State,2.0,"Camden, N.J.",Woodrow Wilson HS,Rutgers,,
+74,,89.0,,Dane Wallace,WR,5-8,176.0,R-So.,Northwestern State,1.0,"Broussard, La.",Lafayette Christian Academy,,,
+75,,93.0,,Ray Gibson,DT,6-2,305.0,Jr.,Northwestern State,1.0,"Philadelphia, Miss.",Neshoba Central HS,East Central CC,,
+76,,95.0,,Johnny Mitchell,DT,6-3,325.0,R-So.,Northwestern State,1.0,"Stonewall, La.",North DeSoto HS,,,
+77,,97.0,,Nazir Sy,DT,6-3,300.0,Sr.,Northwestern State,0.0,"Norcross, Ga.",Akron/Butler CC/Western Kentucky,,,
+78,,99.0,,Donovan Green,NT,6-0,265.0,Jr.,Northwestern State,2.0,"Palmetto, La.",Opelousas Catholic HS,,,
+0,,,,,,,,,Northwestern State,,,,,Brad Laird,Head Coach
+1,,,,,,,,,Northwestern State,,,,,De'Von Lockett,Assistant Head Coach / Cornerbacks
+2,,,,,,,,,Northwestern State,,,,,Beau Blair,Offensive Coordinator / Running Backs / Tight Ends
+3,,,,,,,,,Northwestern State,,,,,Weston Glaser,Defensive Coordinator / Safeties
+4,,,,,,,,,Northwestern State,,,,,Jeremy Atwell,Assistant Coach - Linebackers
+5,,,,,,,,,Northwestern State,,,,,Boone Feldt,Assistant Coach - Offensive Line
+6,,,,,,,,,Northwestern State,,,,,Chris Gistorb,Assistant Coach - Defensive Line
+7,,,,,,,,,Northwestern State,,,,,Armani Lonardo,Assistant Coach - Wide Receivers
+8,,,,,,,,,Northwestern State,,,,,Kyle Washington,Assistant Coach - Quarterbacks
+9,,,,,,,,,Northwestern State,,,,,Derrick Berry,Assistant Defensive Line Coach
+10,,,,,,,,,Northwestern State,,,,,Rod Patterson,Administrative Graduate Assistant - Safeties
+11,,,,,,,,,Northwestern State,,,,,Jake Martinez,Administrative Graduate Assistant - Wide Receivers
+12,,,,,,,,,Northwestern State,,,,,Mitchell Volino,Administrative Graduate Assistant - Defensive Line
+0,,,,,,,,,Northwestern State,,,,,Elizabeth Holloway,Administrative Assistant
+1,,,,,,,,,Northwestern State,,,,,Sonja Pezant,Director of Football Operations / NFL Liaison
+2,,,,,,,,,Northwestern State,,,,,Jason Pugh,Assistant Athletics Director for Media Relations
+3,,,,,,,,,Northwestern State,,,,,Jason Drury,Director of Sports Medicine
+4,,,,,,,,,Northwestern State,,,,,Kalevi Pajuluoma,Assistant Director of Sports Medicine
+5,,,,,,,,,Northwestern State,,,,,Breah Hurd,Athletic Trainer
+6,,,,,,,,,Northwestern State,,,,,Dr. William Zeichner,Team Physician
+7,,,,,,,,,Northwestern State,,,,,Dr. Theodore Jordan,Team Physician

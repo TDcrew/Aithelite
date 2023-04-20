@@ -1,137 +1,135 @@
-,Statistic,#,Full Name,Pos.,Ht.,Wt.,Year,Hometown,High School,Previous School,Image,Name,Title
-0,,0.0,Lance Wise,S,5-9,195.0,Sr.,"Marietta, GA",Hillgrove HS,,,,
-1,,1.0,Devron Harper,WR,5-9,168.0,Sr.,"Conyers, Ga.",Heritage HS,Gardner-Webb,,,
-2,,2.0,Austin Douglas,RB,6-0,208.0,R-Jr.,"Decatur, GA",Mount Vernon HS,James Madison University,,,
-3,,3.0,Isaac Dowling,LB,5-10,225.0,Jr.,"Snellville, GA",Shiloh HS,,,,
-4,,5.0,Al Wooten II,RB,6-0,223.0,Jr.,"Memphis, TN",Christian Brothers HS,,,,
-5,,6.0,Cam Sims,CB,6-2,185.0,R-Jr.,"Memphis, TN",Lausanne Collegiate,Georgia State,,,
-6,,7.0,Carter Peevy,QB,6-3,217.0,R-So.,"Lawrenceville, GA",Archer HS,,,,
-7,,8.0,TJ Moore,CB,6-1,185.0,Jr.,"Riverdale, GA",Riverdale HS,,,,
-8,,10.0,Parker Wroble,WR,5-10,183.0,Jr.,"Hoschton, GA",Mill Creek HS,Air Force Prep,,,
-9,,11.0,Solomon Zubairu,EDGE,6-1,255.0,Sr.,"Lawrenceville, GA",Archer HS,,,,
-10,,12.0,Hess Horne,QB,6-2,190.0,R-So.,"Eufala, AL",Eufala HS,Missouri State University,,,
-11,,13.0,Ty James,WR,6-2,200.0,R-Jr.,"Conyers, GA",Greater Atlanta Christian School,University of Georgia,,,
-12,,14.0,Chris Joines,S,6-3,195.0,So.,"Winston-Salem, NC",Reagan High School,Myrtle Beach Prep,,,
-13,,15.0,Ken Standley,LB,5-11,225.0,R-Jr.,"Waycross, GA",Ware County HS,,,,
-14,,16.0,Trey Adkins,WR,5-11,180.0,Gr.,"Simpsonville, SC",Hillcrest High,University of South Carolina,,,
-15,,17.0,Daniel Shoch,QB,6-3,220.0,R-Fr.,"Selinsgrove, PA",East Coweta HS,,,,
-16,,18.0,Corey Barnes,CB,6-2,200.0,Jr.,"Jonesboro, Ga.",Mundy's Mill HS,,,,
-17,,19.0,Drew Moore,QB,6-2,180.0,Fr.,"Goose Creek, SC",Goose Creek HS,,,,
-18,,20.0,Richie Coffey,S,5-11,193.0,Sr.,"Jacksonville, FL",Baldwin HS,,,,
-19,,23.0,Travion Solomon,WR,6-1,180.0,So.,"Macon, GA",Northeast HS,,,,
-20,,25.0,Tyrell Coard,RB,6-0,200.0,Fr.,"Concord, NC",Cox Mill HS,,,,
-21,,26.0,Khay Loyd,SAF,6-1,205.0,So.,"Darien, GA",McIntosh County Academy,Army Prep,,,
-22,,27.0,Jacob Walker,RB,5-10,200.0,R-So.,"Augusta, GA",Augusta Christian HS,,,,
-23,,29.0,Xavier Brantley,WR,6-1,185.0,R-Fr.,"Uvalda, GA",Montgomery County HS,,,,
-24,,30.0,Kaleb Frost,CB,6-2,170.0,R-Fr.,"Summerville, SC",Cane Bay HS,,,,
-25,,31.0,Myles Weston,CB,5-11,168.0,R-Fr.,"Port Charlotte, FL",Venice HS,,,,
-26,,32.0,Josh Pickett,S,5-11,176.0,R-Fr.,"Hahira, GA",Lowndes HS,,,,
-27,,33.0,Tylan Johnson,RB,5-10,205.0,R-Fr.,"Alpharetta, GA",Johns Creek HS,,,,
-28,,34.0,Myles Redding,S,6-1,190.0,Jr.,"Mableton, GA",Whitefield Academy,,,,
-29,,35.0,Langston White,RB,5-10,185.0,R-So.,"Decatur, GA",Cedar Grove HS,,,,
-30,,37.0,CJ Miller,RB,5-11,238.0,So.,"Gadsden, AL",Gadsden City HS,,,,
-31,,38.0,Juwan Johnson,S,5-11,195.0,So.,"Savannah, GA",Calvary Day School,,,,
-32,,40.0,Isaiah Washburn,KAT,6-2,235.0,So.,"Clearwater, FL",Calvary Christian HS,Air Force Prep,,,
-33,,41.0,Julian Fox,LB,6-0,195.0,Fr.,"Cordele, GA",Crisp County HS,,,,
-34,,42.0,Christian Hanson,KAT,6-1,228.0,So.,"Senoia, GA",Trinity Christian High School,,,,
-35,,43.0,Myles Jones,KAT,6-1,228.0,R-So.,"Charlotte, NC",Hough HS,,,,
-36,,44.0,Marcus Christian,KAT,6-3,211.0,R-Fr.,"Thomasville, GA",Thomas County Central HS,,,,
-37,,45.0,Tommy Bliss,SAF,5-11,175.0,So.,"Richmond Hill, GA",Richmond Hill HS,,,,
-38,,46.0,Isaac Prince,LB,6-0,215.0,R-Fr.,"Snellville, GA",Shiloh High School,,,,
-39,,47.0,Tommy Pollack,LB,6-0,215.0,R-So.,"Kennesaw, GA",Harrison HS,,,,
-40,,48.0,Mic Wasson,SAF,6-3,200.0,So.,"Glennville, GA",Pinewood Christian Academy,,,,
-41,,50.0,Cedric Richardson,OL,6-3,250.0,So.,"Lawrenceville, GA",Collins Hill HS,,,,
-42,,51.0,Drew Clare,LB,6-2,215.0,So.,"Forsyth, GA",Denmark HS,,,,
-43,,52.0,Demetri Robinson,OL,6-2,280.0,R-So.,"Fort Lauderdale, FL",Stoneman Douglas HS,Dodge City Community College,,,
-44,,53.0,Royce Izundu,KAT,6-1,218.0,R-Jr.,"Grayson, GA",Greater Atlanta Christian,,,,
-45,,55.0,Marques Thomas,LB,6-1,220.0,Jr.,"McCalla, Ala.",McAdory HS,,,,
-46,,56.0,Carson Griffin,DL,6-2,285.0,Jr.,"Calhoun, Ga.",Calhoun HS,,,,
-47,,57.0,Jose Gonzalez,OL,6-3,270.0,R-Fr.,"Warner Robins, Ga.",Warner Robins HS,,,,
-48,,60.0,Joshua Williams,DL,6-1,240.0,R-So.,"Sherrills Ford, NC",Bandys HS,East Carolina University,,,
-49,,62.0,Joe Miller,LS,5-11,220.0,R-Fr.,"Flowery Branch, GA",Buford HS,,,,
-50,,63.0,Eli Edwards,OL,6-5,297.0,R-Fr.,"Cumming, Ga",North Forsyth HS,,,,
-51,,64.0,Riley Adcock,OL,6-0,270.0,Jr.,"Dacula, Ga.",Dacula HS,,,,
-52,,66.0,Riley Bell,OL,6-3,300.0,R-Fr.,"Tallapoosa, Ga.",Haralson County HS,,,,
-53,,68.0,Nate Howard,OL,6-7,315.0,R-Jr.,"Forsyth, GA",Mary Persons HS,South Alabama,,,
-54,,71.0,Israel Mukwiza,OL,6-2,320.0,R-Jr.,"Bronx , NY",Archer HS,Alabama A&M,,,
-55,,72.0,Caleb Carter,OL,6-3,270.0,R-Fr.,"Easley, SC",Wren HS,,,,
-56,,73.0,John Thomas,OL,6-3,300.0,Sr.,"Marietta, GA",Hillgrove HS,,,,
-57,,74.0,Luke Barlow,OL,6-2,280.0,R-So.,"Savannah, Ga.",Benedictine Military School,,,,
-58,,74.0,Tim Maddox,OL,6-2,290.0,R-So.,"Columbus, GA",Northside HS,,,,
-59,,77.0,Mac Johnson,OL,6-3,255.0,R-So.,"Waycross, GA",Ware County HS,,,,
-60,,78.0,Peyton Bumpers,OL,6-4,275.0,R-So.,"Marietta, GA",Harrison HS,,,,
-61,,80.0,Kendall Harris,WR,6-1,185.0,Fr.,"Concord, NC",Cox Mill HS,,,,
-62,,81.0,Scooter Risper,WR,5-10,165.0,Gr.,"Macon, GA",Westside-Macon HS,West Georgia University,,,
-63,,82.0,Andrew May,TE,6-4,230.0,R-Jr.,"Evans, Ga.",Lakeside HS,,,,
-64,,85.0,Sawyer Burt,TE,6-4,243.0,R-Fr.,"Fort Payne, Ala",Fort Payne HS,,,,
-65,,88.0,Tyzen Wilkerson,TE,6-2,248.0,R-So.,"Decatur, GA",Grayson HS,,,,
-66,,89.0,Ian Garcia,P,6-0,200.0,R-Fr.,"Windermere, FL",Foundation Academy,,,,
-67,,91.0,Jordan Swain,DL,6-3,255.0,R-Jr.,"Brunswick, GA",Glynn Academy,,,,
-68,,92.0,Barrett Schmidlkofer,KAT,6-2,221.0,R-Fr.,"Senoia, GA",Starr’s Mill High School,,,,
-69,,94.0,Savio Frazier,DL,6-2,285.0,Jr.,"Hampton, Ga.",Dutchtown HS,,,,
-70,,96.0,Arias Nash,DL,6-3,265.0,So.,"Charlotte, NC",Stuart Cramer HS,,,,
-71,,98.0,Chris Hill,DL,6-2,284.0,R-Jr.,"Statesboro, GA",Statesboro HS,,,,
-72,,99.0,Caden Camese,DL,6-3,290.0,So.,"Bellevue, NE",Bellevue West High School,,,,
-73,,,Bryce Addison,K,5-9,165.0,R-Fr.,"Saint Augustine, FL",Pedro Menendez HS,,,,
-74,,,Sam Albee,TE,6-5,225.0,Fr.,"Roswell, GA",Fellowship Christian School,,,,
-75,,,Kody Arnold,P,5-10,170.0,Fr.,"Brunswick, GA",Glynn Academy HS,,,,
-76,,,Amarii Atchison,OL,6-7,280.0,Fr.,"Douglasville, GA",Alexander HS,,,,
-77,,,Jason Berko,OL,6-2,275.0,R-Fr.,"Watkinsville, GA",Oconee County HS,,,,
-78,,,Justin Brett,OL,6-0,260.0,R-Fr.,"Sandersville, GA",Washington County HS,,,,
-79,,,Nate Brooks,SAF,6-0,175.0,R-Fr.,"Kathleen, GA",Veterans HS,,,,
-80,,,Jamell Coast Jr.,RB,6-0,228.0,R-Fr.,"Savannah, GA",New Hampstead HS,,,,
-81,,,Christian Cole,K,5-8,160.0,R-Fr.,"Laurinburg, NC",Scotland HS,,,,
-82,,,Adjatay Dabbs,WR,6-1,175.0,Fr.,"Greeneville, TN",Greenville HS,,,,
-83,,,Avery Ferris,OL,6-2,270.0,Fr.,"Auburn, AL",Auburn HS,,,,
-84,,,Walter Goggins,DL,6-2,260.0,Fr.,"Tuscumbia, AL",Deshler HS,,,,
-85,,,Reice Griffith,K,5-10,170.0,Fr.,"Pace, FL",Pace HS,,,,
-86,,,Elijah Heald,OL,6-5,300.0,R-Fr.,"Macon, GA",Windsor Academy,,,,
-87,,,Brayden Manley,DL,6-3,240.0,Fr.,"Vanceboro, NC",West Craven HS,,,,
-88,,,Tucker Mix,WR,5-10,170.0,R-Fr.,"Gray, GA",Jones County HS,,,,
-89,,,Tripp Slaton,LB,6-1,216.0,R-Fr.,"Newnan,GA",Newnan HS,,,,
-90,,,Brayden Smith,WR,5-11,170.0,Fr.,"Macon, GA",Tattnall Square Academy,,,,
-91,,,Mikeal Sullivan,WR,6-2,186.0,R-Fr.,"Augusta, GA",Augusta Christian School,,,,
-92,,,Donovan Watkins,SAF,6-0,170.0,Fr.,"Winnsboro, SC",Fairfield Central HS,,,,
-93,,,Tucker Wilson,LB,5-11,210.0,R-Fr.,"Springfield, GA",Effingham County HS,,,,
-0,,,,,,,,,,,,Drew Cronic,Head Coach
-1,,,,,,,,,,,,David A. Cole,Associate Head Coach / Cornerbacks / Special Teams Coordinator
-2,,,,,,,,,,,,Bob Bodine,Offensive Coordinator / Offensive Line
-3,,,,,,,,,,,,Joel Taylor,Defensive Coordinator / Linebackers
-4,,,,,,,,,,,,Fred Jones,Run Game Coordinator / Running Backs
-5,,,,,,,,,,,,Mike Adams,Defensive Pass Game Coordinator / Safeties
-6,,,,,,,,,,,,La'Donte Harris,Pass Game Coordinator / Wide Receivers
-7,,,,,,,,,,,,Jimmy Long,Defensive Run Game Coordinator / Defensive Line
-8,,,,,,,,,,,,Sumner Ellis,KATS / Defensive Recruiting Coordinator
-9,,,,,,,,,,,,Kevin O'Brien,Tight Ends / Offensive Recruiting Coordinator
-10,,,,,,,,,,,,David Salmon,Quarterbacks / Video Coordinator
-11,,,,,,,,,,,,Markerious Bolden,Analyst - Defense
-12,,,,,,,,,,,,Roman Buchanan,Volunteer Assistant - Defense
-13,,,,,,,,,,,,Barry Brown,Analyst - Offense
-14,,,,,,,,,,,,To Be Announced,Volunteer Assistant - Offense
-0,,,,,,,,,,,,Bennett Houston,Director of Football Operations
-1,,,,,,,,,,,,Akiliyah Sumlin,Coordinator of On Campus Recruiting / Creative Services
-2,,,,,,,,,,,,Drew Tranum,Director of Football Equipment
-3,,,,,,,,,,,,Ryan Juarez,Associate A.D. for Sports Medicine (Football)
-4,,,,,,,,,,,,Katie Boltz,"Assistant Athletic Trainer (FB, Spirit)"
-5,,,,,,,,,,,,Lydia Binder,"Assistant Athletic Trainer (FB, Golf)"
-6,,,,,,,,,,,,Evan Barr,Director of Strength & Conditioning
-7,,,,,,,,,,,,Jackson Morris,Associate Director of Strength & Conditioning
-8,,,,,,,,,,,,Marques White,Assistant Director of Football Strength and Conditioning
-9,,,,,,,,,,,,Justin Browner,Assistant Football Strength and Conditioning
-10,,,,,,,,,,,,CJ Canfield,Strength and Conditioning Graduate Assistant
-11,,,,,,,,,,,,Parker Hicks,Strength and Conditioning Intern
-12,,,,,,,,,,,,Riley Turner,Data and Analytics
-13,,,,,,,,,,,,Jillian Humphries,Student Assistant / Operations
-14,,,,,,,,,,,,Aidan Higgins,Student Assistant / Operations
-15,,,,,,,,,,,,Daniel Tulk,Student Assistant / Operations
-16,,,,,,,,,,,,Austin Aldridge,Student Assistant / Operations
-17,,,,,,,,,,,,Christian Kaufman,Student Assistant / Video
-18,,,,,,,,,,,,Jalen DeDeaux,Student Assistant / Video
-19,,,,,,,,,,,,Mychael Hall,Student Assistant / Video
-20,,,,,,,,,,,,TJ Parks,Student Assistant / Video
-21,,,,,,,,,,,,Holman Deriso,Student Assistant / Video
-22,,,,,,,,,,,,Neena Maith,Student Assistant / Sports Medicine
-23,,,,,,,,,,,,Olivia Rooney,Student Assistant / Sports Medicine
-24,,,,,,,,,,,,Emma Padovano,Student Assistant / Sports Medicine
-25,,,,,,,,,,,,Abby Suggs,Student Assistant / Creative Services
-26,,,,,,,,,,,,Aubree Bethune,Student Assistant / Creative Services
+,Statistic,#,Full Name,Pos.,Ht.,Wt.,Year,Hometown,Current School Name,High School,Previous School,Image,Name,Title
+0,,0.0,Lance Wise,S,5-9,195.0,Sr.,"Marietta, GA",Mercer,Hillgrove HS,,,,
+1,,1.0,Devron Harper,WR,5-9,168.0,Sr.,"Conyers, Ga.",Mercer,Heritage HS,Gardner-Webb,,,
+2,,2.0,Austin Douglas,RB,6-0,208.0,R-Jr.,"Decatur, GA",Mercer,Mount Vernon HS,James Madison University,,,
+3,,3.0,Isaac Dowling,LB,5-10,225.0,Jr.,"Snellville, GA",Mercer,Shiloh HS,,,,
+4,,5.0,Al Wooten II,RB,6-0,223.0,Jr.,"Memphis, TN",Mercer,Christian Brothers HS,,,,
+5,,6.0,Cam Sims,CB,6-2,185.0,R-Jr.,"Memphis, TN",Mercer,Lausanne Collegiate,Georgia State,,,
+6,,7.0,Carter Peevy,QB,6-3,217.0,R-So.,"Lawrenceville, GA",Mercer,Archer HS,,,,
+7,,8.0,TJ Moore,CB,6-1,185.0,Jr.,"Riverdale, GA",Mercer,Riverdale HS,,,,
+8,,10.0,Parker Wroble,WR,5-10,183.0,Jr.,"Hoschton, GA",Mercer,Mill Creek HS,Air Force Prep,,,
+9,,11.0,Solomon Zubairu,EDGE,6-1,255.0,Sr.,"Lawrenceville, GA",Mercer,Archer HS,,,,
+10,,12.0,Hess Horne,QB,6-2,190.0,R-So.,"Eufala, AL",Mercer,Eufala HS,Missouri State University,,,
+11,,13.0,Ty James,WR,6-2,200.0,R-Jr.,"Conyers, GA",Mercer,Greater Atlanta Christian School,University of Georgia,,,
+12,,14.0,Chris Joines,S,6-3,195.0,So.,"Winston-Salem, NC",Mercer,Reagan High School,Myrtle Beach Prep,,,
+13,,15.0,Ken Standley,LB,5-11,225.0,R-Jr.,"Waycross, GA",Mercer,Ware County HS,,,,
+14,,16.0,Trey Adkins,WR,5-11,180.0,Gr.,"Simpsonville, SC",Mercer,Hillcrest High,University of South Carolina,,,
+15,,17.0,Daniel Shoch,QB,6-3,220.0,R-Fr.,"Selinsgrove, PA",Mercer,East Coweta HS,,,,
+16,,18.0,Corey Barnes,CB,6-2,200.0,Jr.,"Jonesboro, Ga.",Mercer,Mundy's Mill HS,,,,
+17,,19.0,Drew Moore,QB,6-2,180.0,Fr.,"Goose Creek, SC",Mercer,Goose Creek HS,,,,
+18,,20.0,Richie Coffey,S,5-11,193.0,Sr.,"Jacksonville, FL",Mercer,Baldwin HS,,,,
+19,,23.0,Travion Solomon,WR,6-1,180.0,So.,"Macon, GA",Mercer,Northeast HS,,,,
+20,,25.0,Tyrell Coard,RB,6-0,200.0,Fr.,"Concord, NC",Mercer,Cox Mill HS,,,,
+21,,26.0,Khay Loyd,SAF,6-1,205.0,So.,"Darien, GA",Mercer,McIntosh County Academy,Army Prep,,,
+22,,27.0,Jacob Walker,RB,5-10,200.0,R-So.,"Augusta, GA",Mercer,Augusta Christian HS,,,,
+23,,29.0,Xavier Brantley,WR,6-1,185.0,R-Fr.,"Uvalda, GA",Mercer,Montgomery County HS,,,,
+24,,30.0,Kaleb Frost,CB,6-2,170.0,R-Fr.,"Summerville, SC",Mercer,Cane Bay HS,,,,
+25,,31.0,Myles Weston,CB,5-11,168.0,R-Fr.,"Port Charlotte, FL",Mercer,Venice HS,,,,
+26,,32.0,Josh Pickett,S,5-11,176.0,R-Fr.,"Hahira, GA",Mercer,Lowndes HS,,,,
+27,,34.0,Myles Redding,S,6-1,190.0,Jr.,"Mableton, GA",Mercer,Whitefield Academy,,,,
+28,,35.0,Langston White,RB,5-10,185.0,R-So.,"Decatur, GA",Mercer,Cedar Grove HS,,,,
+29,,37.0,CJ Miller,RB,5-11,238.0,So.,"Gadsden, AL",Mercer,Gadsden City HS,,,,
+30,,38.0,Juwan Johnson,S,5-11,195.0,So.,"Savannah, GA",Mercer,Calvary Day School,,,,
+31,,40.0,Isaiah Washburn,KAT,6-2,235.0,So.,"Clearwater, FL",Mercer,Calvary Christian HS,Air Force Prep,,,
+32,,41.0,Julian Fox,LB,6-0,195.0,Fr.,"Cordele, GA",Mercer,Crisp County HS,,,,
+33,,42.0,Christian Hanson,KAT,6-1,228.0,So.,"Senoia, GA",Mercer,Trinity Christian High School,,,,
+34,,43.0,Myles Jones,KAT,6-1,228.0,R-So.,"Charlotte, NC",Mercer,Hough HS,,,,
+35,,44.0,Marcus Christian,KAT,6-3,211.0,R-Fr.,"Thomasville, GA",Mercer,Thomas County Central HS,,,,
+36,,45.0,Tommy Bliss,SAF,5-11,175.0,So.,"Richmond Hill, GA",Mercer,Richmond Hill HS,,,,
+37,,46.0,Isaac Prince,LB,6-0,215.0,R-Fr.,"Snellville, GA",Mercer,Shiloh High School,,,,
+38,,47.0,Tommy Pollack,LB,6-0,215.0,R-So.,"Kennesaw, GA",Mercer,Harrison HS,,,,
+39,,48.0,Mic Wasson,SAF,6-3,200.0,So.,"Glennville, GA",Mercer,Pinewood Christian Academy,,,,
+40,,50.0,Cedric Richardson,OL,6-3,250.0,So.,"Lawrenceville, GA",Mercer,Collins Hill HS,,,,
+41,,51.0,Drew Clare,LB,6-2,215.0,So.,"Forsyth, GA",Mercer,Denmark HS,,,,
+42,,52.0,Demetri Robinson,OL,6-2,280.0,R-So.,"Fort Lauderdale, FL",Mercer,Stoneman Douglas HS,Dodge City Community College,,,
+43,,53.0,Royce Izundu,KAT,6-1,218.0,R-Jr.,"Grayson, GA",Mercer,Greater Atlanta Christian,,,,
+44,,55.0,Marques Thomas,LB,6-1,220.0,Jr.,"McCalla, Ala.",Mercer,McAdory HS,,,,
+45,,56.0,Carson Griffin,DL,6-2,285.0,Jr.,"Calhoun, Ga.",Mercer,Calhoun HS,,,,
+46,,57.0,Jose Gonzalez,OL,6-3,270.0,R-Fr.,"Warner Robins, Ga.",Mercer,Warner Robins HS,,,,
+47,,60.0,Joshua Williams,DL,6-1,240.0,R-So.,"Sherrills Ford, NC",Mercer,Bandys HS,East Carolina University,,,
+48,,62.0,Joe Miller,LS,5-11,220.0,R-Fr.,"Flowery Branch, GA",Mercer,Buford HS,,,,
+49,,63.0,Eli Edwards,OL,6-5,297.0,R-Fr.,"Cumming, Ga",Mercer,North Forsyth HS,,,,
+50,,64.0,Riley Adcock,OL,6-0,270.0,Jr.,"Dacula, Ga.",Mercer,Dacula HS,,,,
+51,,66.0,Riley Bell,OL,6-3,300.0,R-Fr.,"Tallapoosa, Ga.",Mercer,Haralson County HS,,,,
+52,,68.0,Nate Howard,OL,6-7,315.0,R-Jr.,"Forsyth, GA",Mercer,Mary Persons HS,South Alabama,,,
+53,,71.0,Israel Mukwiza,OL,6-2,320.0,R-Jr.,"Bronx , NY",Mercer,Archer HS,Alabama A&M,,,
+54,,72.0,Caleb Carter,OL,6-3,270.0,R-Fr.,"Easley, SC",Mercer,Wren HS,,,,
+55,,73.0,John Thomas,OL,6-3,300.0,Sr.,"Marietta, GA",Mercer,Hillgrove HS,,,,
+56,,74.0,Luke Barlow,OL,6-2,280.0,R-So.,"Savannah, Ga.",Mercer,Benedictine Military School,,,,
+57,,74.0,Tim Maddox,OL,6-2,290.0,R-So.,"Columbus, GA",Mercer,Northside HS,,,,
+58,,77.0,Mac Johnson,OL,6-3,255.0,R-So.,"Waycross, GA",Mercer,Ware County HS,,,,
+59,,78.0,Peyton Bumpers,OL,6-4,275.0,R-So.,"Marietta, GA",Mercer,Harrison HS,,,,
+60,,80.0,Kendall Harris,WR,6-1,185.0,Fr.,"Concord, NC",Mercer,Cox Mill HS,,,,
+61,,81.0,Scooter Risper,WR,5-10,165.0,Gr.,"Macon, GA",Mercer,Westside-Macon HS,West Georgia University,,,
+62,,82.0,Andrew May,TE,6-4,230.0,R-Jr.,"Evans, Ga.",Mercer,Lakeside HS,,,,
+63,,85.0,Sawyer Burt,TE,6-4,243.0,R-Fr.,"Fort Payne, Ala",Mercer,Fort Payne HS,,,,
+64,,88.0,Tyzen Wilkerson,TE,6-2,248.0,R-So.,"Decatur, GA",Mercer,Grayson HS,,,,
+65,,89.0,Ian Garcia,P,6-0,200.0,R-Fr.,"Windermere, FL",Mercer,Foundation Academy,,,,
+66,,91.0,Jordan Swain,DL,6-3,255.0,R-Jr.,"Brunswick, GA",Mercer,Glynn Academy,,,,
+67,,92.0,Barrett Schmidlkofer,KAT,6-2,221.0,R-Fr.,"Senoia, GA",Mercer,Starr’s Mill High School,,,,
+68,,94.0,Savio Frazier,DL,6-2,285.0,Jr.,"Hampton, Ga.",Mercer,Dutchtown HS,,,,
+69,,96.0,Arias Nash,DL,6-3,265.0,So.,"Charlotte, NC",Mercer,Stuart Cramer HS,,,,
+70,,98.0,Chris Hill,DL,6-2,284.0,R-Jr.,"Statesboro, GA",Mercer,Statesboro HS,,,,
+71,,99.0,Caden Camese,DL,6-3,290.0,So.,"Bellevue, NE",Mercer,Bellevue West High School,,,,
+72,,,Bryce Addison,K,5-9,165.0,R-Fr.,"Saint Augustine, FL",Mercer,Pedro Menendez HS,,,,
+73,,,Sam Albee,TE,6-5,225.0,Fr.,"Roswell, GA",Mercer,Fellowship Christian School,,,,
+74,,,Kody Arnold,P,5-10,170.0,Fr.,"Brunswick, GA",Mercer,Glynn Academy HS,,,,
+75,,,Amarii Atchison,OL,6-7,280.0,Fr.,"Douglasville, GA",Mercer,Alexander HS,,,,
+76,,,Jason Berko,OL,6-2,275.0,R-Fr.,"Watkinsville, GA",Mercer,Oconee County HS,,,,
+77,,,Justin Brett,OL,6-0,260.0,R-Fr.,"Sandersville, GA",Mercer,Washington County HS,,,,
+78,,,Nate Brooks,SAF,6-0,175.0,R-Fr.,"Kathleen, GA",Mercer,Veterans HS,,,,
+79,,,Jamell Coast Jr.,RB,6-0,228.0,R-Fr.,"Savannah, GA",Mercer,New Hampstead HS,,,,
+80,,,Adjatay Dabbs,WR,6-1,175.0,Fr.,"Greeneville, TN",Mercer,Greenville HS,,,,
+81,,,Avery Ferris,OL,6-2,270.0,Fr.,"Auburn, AL",Mercer,Auburn HS,,,,
+82,,,Walter Goggins,DL,6-2,260.0,Fr.,"Tuscumbia, AL",Mercer,Deshler HS,,,,
+83,,,Reice Griffith,K,5-10,170.0,Fr.,"Pace, FL",Mercer,Pace HS,,,,
+84,,,Elijah Heald,OL,6-5,300.0,R-Fr.,"Macon, GA",Mercer,Windsor Academy,,,,
+85,,,Brayden Manley,DL,6-3,240.0,Fr.,"Vanceboro, NC",Mercer,West Craven HS,,,,
+86,,,Tucker Mix,WR,5-10,170.0,R-Fr.,"Gray, GA",Mercer,Jones County HS,,,,
+87,,,Tripp Slaton,LB,6-1,216.0,R-Fr.,"Newnan,GA",Mercer,Newnan HS,,,,
+88,,,Brayden Smith,WR,5-11,170.0,Fr.,"Macon, GA",Mercer,Tattnall Square Academy,,,,
+89,,,Mikeal Sullivan,WR,6-2,186.0,R-Fr.,"Augusta, GA",Mercer,Augusta Christian School,,,,
+90,,,Donovan Watkins,SAF,6-0,170.0,Fr.,"Winnsboro, SC",Mercer,Fairfield Central HS,,,,
+91,,,Tucker Wilson,LB,5-11,210.0,R-Fr.,"Springfield, GA",Mercer,Effingham County HS,,,,
+0,,,,,,,,,Mercer,,,,Drew Cronic,Head Coach
+1,,,,,,,,,Mercer,,,,David A. Cole,Associate Head Coach / Cornerbacks / Special Teams Coordinator
+2,,,,,,,,,Mercer,,,,Bob Bodine,Offensive Coordinator / Offensive Line
+3,,,,,,,,,Mercer,,,,Joel Taylor,Defensive Coordinator / Linebackers
+4,,,,,,,,,Mercer,,,,Fred Jones,Run Game Coordinator / Running Backs
+5,,,,,,,,,Mercer,,,,Mike Adams,Defensive Pass Game Coordinator / Safeties
+6,,,,,,,,,Mercer,,,,La'Donte Harris,Pass Game Coordinator / Wide Receivers
+7,,,,,,,,,Mercer,,,,Jimmy Long,Defensive Run Game Coordinator / Defensive Line
+8,,,,,,,,,Mercer,,,,Sumner Ellis,KATS / Defensive Recruiting Coordinator
+9,,,,,,,,,Mercer,,,,Kevin O'Brien,Tight Ends / Offensive Recruiting Coordinator
+10,,,,,,,,,Mercer,,,,David Salmon,Quarterbacks / Video Coordinator
+11,,,,,,,,,Mercer,,,,Markerious Bolden,Analyst - Defense
+12,,,,,,,,,Mercer,,,,Roman Buchanan,Volunteer Assistant - Defense
+13,,,,,,,,,Mercer,,,,Barry Brown,Analyst - Offense
+14,,,,,,,,,Mercer,,,,To Be Announced,Volunteer Assistant - Offense
+0,,,,,,,,,Mercer,,,,Bennett Houston,Director of Football Operations
+1,,,,,,,,,Mercer,,,,Akiliyah Sumlin,Coordinator of On Campus Recruiting / Creative Services
+2,,,,,,,,,Mercer,,,,Drew Tranum,Director of Football Equipment
+3,,,,,,,,,Mercer,,,,Ryan Juarez,Associate A.D. for Sports Medicine (Football)
+4,,,,,,,,,Mercer,,,,Katie Boltz,"Assistant Athletic Trainer (FB, Spirit)"
+5,,,,,,,,,Mercer,,,,Lydia Binder,"Assistant Athletic Trainer (FB, Golf)"
+6,,,,,,,,,Mercer,,,,Evan Barr,Director of Strength & Conditioning
+7,,,,,,,,,Mercer,,,,Jackson Morris,Associate Director of Strength & Conditioning
+8,,,,,,,,,Mercer,,,,Marques White,Assistant Director of Football Strength and Conditioning
+9,,,,,,,,,Mercer,,,,Justin Browner,Assistant Football Strength and Conditioning
+10,,,,,,,,,Mercer,,,,CJ Canfield,Strength and Conditioning Graduate Assistant
+11,,,,,,,,,Mercer,,,,Parker Hicks,Strength and Conditioning Intern
+12,,,,,,,,,Mercer,,,,Riley Turner,Data and Analytics
+13,,,,,,,,,Mercer,,,,Jillian Humphries,Student Assistant / Operations
+14,,,,,,,,,Mercer,,,,Aidan Higgins,Student Assistant / Operations
+15,,,,,,,,,Mercer,,,,Daniel Tulk,Student Assistant / Operations
+16,,,,,,,,,Mercer,,,,Austin Aldridge,Student Assistant / Operations
+17,,,,,,,,,Mercer,,,,Christian Kaufman,Student Assistant / Video
+18,,,,,,,,,Mercer,,,,Jalen DeDeaux,Student Assistant / Video
+19,,,,,,,,,Mercer,,,,Mychael Hall,Student Assistant / Video
+20,,,,,,,,,Mercer,,,,TJ Parks,Student Assistant / Video
+21,,,,,,,,,Mercer,,,,Holman Deriso,Student Assistant / Video
+22,,,,,,,,,Mercer,,,,Neena Maith,Student Assistant / Sports Medicine
+23,,,,,,,,,Mercer,,,,Olivia Rooney,Student Assistant / Sports Medicine
+24,,,,,,,,,Mercer,,,,Emma Padovano,Student Assistant / Sports Medicine
+25,,,,,,,,,Mercer,,,,Abby Suggs,Student Assistant / Creative Services
+26,,,,,,,,,Mercer,,,,Aubree Bethune,Student Assistant / Creative Services

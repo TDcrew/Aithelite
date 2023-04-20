@@ -1,120 +1,117 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown,Previous School,Image,Title
-0,,0.0,Daeton Mcgaughy,LB,6-0,210.0,Sr.,"Elwood, Kan.",Lafayette H.S.,,
-1,,1.0,Jadon Janke,WR,6-3,210.0,Sr.,"Madison, S.D.",Madison H.S.,,
-2,,2.0,Isaiah Stalbird,LB,6-1,200.0,Sr.,"Kearney, Neb.",Nebraska,,
-3,,3.0,Amar Johnson,RB,5-11,190.0,Jr.,"O'Fallon, Mo.",Chamindae College Prep,,
-4,,3.0,Dontay Johnson,S,6-1,170.0,R-Fr.,"Fort Collins, Colo.",Colorado Early College,,
-5,,4.0,Canyon Bauer,WR,6-0,195.0,Sr.,"Sioux Falls, S.D.",O'Gorman H.S.,,
-6,,5.0,DyShawn Gales,CB,5-11,190.0,Sr.,"North Chicago, Ill.",North Chicago Community H.S.,,
-7,,6.0,Saiveon Williamson,LB,6-1,205.0,Sr.,"Waseca, Minn.",Waseca H.S.,,
-8,,7.0,Dalys Beanum,CB,6-1,185.0,Sr.,"Omaha, Neb.",Millard West H.S.,,
-9,,7.0,Chase Mason,QB,6-4,225.0,So.,"Hurley, S.D.",Nebraska,,
-10,,8.0,Blake Peterson,DE,6-4,255.0,Sr.,"Beresford, S.D.",Iowa State,,
-11,,9.0,Caleb Francl,LB,6-0,185.0,Sr.,"Grand Island, Neb.",Grand Island H.S.,,
-12,,10.0,Hunter Dustman,K/P,6-3,230.0,Sr.,"East Bethel, Minn.",St. Francis H.S.,,
-13,,10.0,Jaxon Janke,WR,6-3,210.0,Sr.,"Madison, S.D.",Madison H.S.,,
-14,,11.0,Jason Freeman,LB,5-9,200.0,Sr.,"Zion, Ill.",Olivet Nazarene,,
-15,,11.0,Mark Gronowski,QB,6-3,220.0,Jr.,"Naperville, Ill.",Neuqua Valley H.S.,,
-16,,12.0,Regan Bollweg,TE,6-2,230.0,So.,"Harrold, S.D.",Pierre T.F. Riggs H.S.,,
-17,,13.0,Aydan Dautermann,CB,6-1,185.0,So.,"Hartford, Wis.",Slinger H.S.,,
-18,,14.0,Colby Huerter,S,6-1,195.0,Jr.,"Katy, Texas",Tompkins H.S.,,
-19,,15.0,Devon Cole Jr.,WR,5-9,165.0,Jr.,"Clermont, Fla.",Lake Minneola H.S.,,
-20,,15.0,Timothy Croskey,CB,6-0,170.0,So.,"Buckeye, Ariz.",Buckeye Union H.S.,,
-21,,16.0,Jon Bell,QB,6-3,190.0,So.,"Naperville, Ill.",Naperville North,,
-22,,17.0,Jeff Becker,QB,6-0,205.0,R-Fr.,"Fort Wayne, Ind.",Carroll H.S.,,
-23,,17.0,Abe Hoskins III,CB,6-2,185.0,Jr.,"Omaha, Neb.",Omaha Central H.S.,,
-24,,18.0,Grahm Goering,WR,6-2,190.0,So.,"Iowa City, Iowa",Iowa City West H.S.,,
-25,,19.0,A.J. Coons,WR,6-4,215.0,Jr.,"Solon, Iowa",Solon H.S.,,
-26,,19.0,Max Polischuk,S,6-1,190.0,R-Fr.,"Regina, Saskatchewan",Clearwater Academy International,,
-27,,20.0,Myles Taylor,CB,6-1,180.0,So.,"Gilbert, Ariz.",Williams Field H.S.,,
-28,,21.0,Cody Cotton,CB,6-1,180.0,So.,"Pleasant Prairie, Iowa",Upper Iowa,,
-29,,21.0,Angel Johnson,RB,5-10,185.0,So.,"Irene, S.D.",Viborg-Hurley H.S.,,
-30,,22.0,Isaiah Davis,RB,6-1,220.0,Sr.,"Joplin, Mo.",Joplin H.S.,,
-31,,23.0,Matthew Durrance,S,6-2,195.0,So.,"Lutz, Fla.",Steinbrenner H.S.,,
-32,,24.0,Derrick Johnson,RB,6-0,200.0,R-Fr.,"Austin, Texas",Lake Travis H.S.,,
-33,,25.0,Cale Reeder,S,6-0,180.0,Sr.,"Yorkville, Ill.",Yorkville H.S.,,
-34,,26.0,Steven Arrell,CB,6-2,190.0,Jr.,"Brooklyn Park, Minn.",Osseo H.S.,,
-35,,27.0,Noah Thompson,S,6-1,180.0,R-Fr.,"Brandon, S.D.",Brandon Valley H.S.,,
-36,,28.0,Josh Buri,RB,5-11,210.0,So.,"Stewartville, Minn.",Brookings H.S.,,
-37,,29.0,Graham Spalding,LB,6-1,205.0,Sr.,"Oviedo, Fla.",Lake Howell H.S.,,
-38,,31.0,Jalen B. Lee,CB,6-2,180.0,R-Fr.,"Wentzville, Mo.",Fort Zumwalt North H.S.,,
-39,,32.0,Adam Bock,LB,6-1,215.0,Sr.,"Solon, Iowa",Solon H.S.,,
-40,,34.0,Michael Morgan,FB/TE,6-3,235.0,Sr.,"New Lenox, Ill.",Lincoln-Way Central H.S.,,
-41,,36.0,Dane Miller,WR,6-3,180.0,R-Fr.,"Hardy, Neb.",Superior H.S.,,
-42,,37.0,Tucker Large,S,5-11,170.0,So.,"Sioux Falls, S.D.",Roosevelt H.S.,,
-43,,38.0,Trevor Scott,LB,5-11,200.0,So.,"Kansas City, Mo.",Platte County H.S.,,
-44,,39.0,Isaac Kracl,RB,5-11,180.0,R-Fr.,"Crete, Neb.",Crete H.S.,,
-45,,40.0,Aaron Kusler,LB,6-2,220.0,Jr.,"Sioux Falls, S.D.",Roosevelt H.S.,,
-46,,41.0,Joe Ollman,LB,6-2,210.0,R-Fr.,"Mequon, Wis.",Homestead H.S.,,
-47,,42.0,Davion Sterner,LB,6-0,190.0,Jr.,"Alvord, Iowa",West Lyon H.S.,,
-48,,43.0,Adam Kusler,LB,6-3,215.0,Jr.,"Sioux Falls, S.D.",Roosevelt H.S.,,
-49,,44.0,Kevin Brenner,TE,6-3,240.0,Sr.,"Silver Lake, Wis.",Wilmot Union H.S.,,
-50,,45.0,Kaden Johnson,LB,6-2,205.0,R-Fr.,"La Vista, Neb.",Papillion-La Vista H.S.,,
-51,,46.0,Cullen McShane,LB,6-2,210.0,R-Fr.,"Marquette, Iowa",MFL MarMac H.S.,,
-52,,47.0,Kytan Fyfe,LB,6-2,195.0,R-Fr.,"Grand Island, Neb.",Grand Island H.S.,,
-53,,48.0,Quinton Hicks,DE,6-3,245.0,Sr.,"Wichita, Kan.",Campus H.S.,,
-54,,49.0,Bryce Johnson,LB,6-3,200.0,R-Fr.,"Parker, Colo.",Lutheran H.S.,,
-55,,50.0,Gus Miller,OL,6-3,295.0,Jr.,"Brookings, S.D.",Brookings H.S.,,
-56,,51.0,Logan Green,DT,6-3,270.0,R-Fr.,"Northboro, Iowa",Clarinda H.S.,,
-57,,52.0,Jarod DePriest,DT,6-5,270.0,Sr.,"Trivoli, Ill.",Farmington Central H.S.,,
-58,,53.0,Caden Johnson,DE,6-3,235.0,Sr.,"Wahoo, Neb.",Bishop Neumann H.S.,,
-59,,54.0,Jalen Lee,OL,6-2,305.0,Jr.,"Robbins, Ill.",Harold L. Richards H.S.,,
-60,,55.0,Aaron Wolfcale-Holsten,DT,6-2,285.0,So.,"Gilbert, Ariz.",Williams Field H.S.,,
-61,,56.0,Andrew Gustad,LB,6-0,215.0,R-Fr.,"Volin, S.D.",,,
-62,,57.0,Levi Vanden Bos,DE,6-3,225.0,So.,"Rock Valley, Iowa",Western Christian H.S.,,
-63,,58.0,Aidan Murphy,DE,6-4,230.0,R-Fr.,"Magna, Utah",Cyprus H.S.,,
-64,,59.0,Grant Conaway,DT,6-3,270.0,Jr.,"Huntington Beach, Calif.",Orange Coast College,,
-65,,60.0,Mason McCormick,OL,6-4,305.0,Sr.,"Sioux Falls, S.D.",Roosevelt H.S.,,
-66,,61.0,Evan Beerntsen,OL,6-4,300.0,Sr.,"De Pere, Wis.",Appleton North H.S.,,
-67,,62.0,Derrick Brown,OL,6-5,310.0,So.,"Mesa, Ariz.",Queen Creek H.S.,,
-68,,64.0,Ethan Vibert,OL,6-4,305.0,Sr.,"Regina, Saskatchewan",Miller Catholic H.S.,,
-69,,66.0,Brady Beck,OL,6-8,305.0,Sr.,"Sioux Falls, S.D.",O'Gorman H.S.,,
-70,,69.0,Quinten Christensen,OL,6-4,275.0,R-Fr.,"Wessington Springs, S.D.",Wessington Springs H.S.,,
-71,,70.0,Colby Christensen,OL,6-8,280.0,Jr.,"West Des Moines, Iowa",Valley H.S.,,
-72,,74.0,Garret Greenfield,OL,6-6,305.0,Sr.,"Rock Valley, Iowa",Rock Valley H.S.,,
-73,,75.0,Dawson Rudd,OL,6-5,260.0,R-Fr.,"Claremore, Okla.",Claremore Sequoyah H.S.,,
-74,,76.0,Bo Donald,OL,6-6,300.0,Sr.,"Kimball, S.D.",Kimball H.S.,,
-75,,77.0,Michael Reed,OL,6-3,325.0,So.,"Sparta, Wis.",Bangor H.S.,,
-76,,78.0,John O'Brian,OL,6-5,300.0,Sr.,"Eaton Rapids, Mich.",Bowling Green,,
-77,,79.0,Jharett Bloomenrader,OL,6-5,290.0,Sr.,"Highmore, S.D.",Highmore-Harrold H.S.,,
-78,,80.0,Nate Sullivan Jr.,WR,6-2,225.0,Jr.,"Bellevue, Neb.",Bellevue West H.S.,,
-79,,81.0,Rhett Foster,WR,6-3,185.0,R-Fr.,"Smithville, Mo.",Smithville H.S.,,
-80,,82.0,Jason Harris,WR,6-0,210.0,R-Fr.,"New Lenox, Ill.",Lincoln-Way West H.S.,,
-81,,83.0,David Alpers,TE,6-6,225.0,R-Fr.,"Sioux Falls, S.D.",O'Gorman H.S.,,
-82,,86.0,Patrick Hoffmann,WR,6-1,200.0,Jr.,"Naperville, Ill.",Northern Illinois,,
-83,,87.0,Zach Heins,TE,6-7,260.0,Sr.,"Sioux Falls, S.D.",Washington H.S.,,
-84,,88.0,Greyton Gannon,TE,6-4,215.0,R-Fr.,"Eagle, Wis.",Mukwonago H.S.,,
-85,,89.0,Brody Gormley,TE,6-7,225.0,R-Fr.,"Topeka, Kan.",Seaman H.S.,,
-86,,90.0,Randy Keumogne,DE,6-3,230.0,Sr.,"Oakdale, Minn.",Tartan H.S.,,
-87,,91.0,Hayden Muirhead,TE,6-6,230.0,So.,"Sioux Falls, S.D.",O'Gorman H.S.,,
-88,,91.0,Jace Sifore,DT,6-4,265.0,R-Fr.,"Howard, S.D.",Howard H.S.,,
-89,,92.0,Brian Williams,DT,6-1,290.0,Sr.,"Chipley, Fla.",Valdosta State,,
-90,,93.0,Max Baloun,DT,6-6,245.0,Jr.,"Redfield, S.D.",Redfield H.S.,,
-91,,94.0,Cade Terveer,DE,6-3,250.0,Sr.,"Brandon, S.D.",Brandon Valley H.S.,,
-92,,95.0,Zac Wilson,DE,6-3,235.0,Sr.,"Chipley, Fla.",Chipley H.S.,,
-93,,96.0,Zach Brummels,K,6-4,190.0,R-Fr.,"Brandon, S.D.",Brandon Valley H.S.,,
-94,,97.0,Luke Fenton,K/P,6-0,185.0,R-Fr.,"Omaha, Neb.",Creighton Prep,,
-95,,98.0,Ryan Van Marel,DT,6-4,280.0,Sr.,"Sheldon, Iowa",Sheldon H.S.,,
-96,,99.0,Jack Green,K,6-3,195.0,So.,"Rapid City, S.D.",St. Thomas More H.S.,,
-0,,,Jimmy Rogers,,,,,,,,Head Coach
-1,,,Zach Lujan,,,,,,,,Offensive Coordinator/Quarterbacks Coach
-2,,,Jesse Bobbit,,,,,,,,Defensive Coordinator/Linebackers Coach
-3,,,Ryan Olson,,,,,,,,Run Game Coordinator/Offensive Line Coach
-4,,,Pat Cashmore,,,,,,,,Special Teams Coordinator
-5,,,Chris Meyers,,,,,,,,Tight Ends Coach/Recruiting Coordinator
-6,,,Mike Banks,,,,,,,,Cornerbacks Coach
-7,,,Jalon Bibbs,,,,,,,,Defensive Line Coach
-8,,,Jake Menage,,,,,,,,Wide Receivers Coach
-9,,,Pete Menage,,,,,,,,Safeties Coach
-10,,,Robbie Rouse,,,,,,,,Running Backs Coach
-11,,,Matt Jacobs,,,,,,,,Director of Strength & Conditioning for Football
-12,,,Kellen Soulek,,,,,,,,Defensive Quality Control
-13,,,Chuck Case,,,,,,,,Graduate Assistant – Offense
-14,,,Evan Traxler,,,,,,,,Graduate Assistant – Defense
-15,,,Sean Hupke,,,,,,,,Video Coordinator
-0,,,Jonathan Shaeffer,,,,,,,,Director of Football Operations/Director of On-Campus Recruiting
-1,,,Ethan Beisner,,,,,,,,Assistant Director of Football Operations
-2,,,Aaron Crowell,,,,,,,,Head Equipment Manager
-3,,,Charlie Miller,,,,,,,,Associate Athletic Trainer (FB)
-4,,,Hallie Hawe,,,,,,,,Assistant Athletic Trainer (FB)
-5,,,Michael Houseman,,,,,,,,Creative Content Specialist
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown,Current School Name,Previous School,Image,Title
+0,,0.0,Daeton Mcgaughy,LB,6-0,210.0,Sr.,"Elwood, Kan.",South Dakota State,Lafayette H.S.,,
+1,,1.0,Jadon Janke,WR,6-3,210.0,Sr.,"Madison, S.D.",South Dakota State,Madison H.S.,,
+2,,2.0,Isaiah Stalbird,LB,6-1,200.0,Sr.,"Kearney, Neb.",South Dakota State,Nebraska,,
+3,,3.0,Amar Johnson,RB,5-11,190.0,Jr.,"O'Fallon, Mo.",South Dakota State,Chamindae College Prep,,
+4,,3.0,Dontay Johnson,S,6-1,170.0,R-Fr.,"Fort Collins, Colo.",South Dakota State,Colorado Early College,,
+5,,5.0,DyShawn Gales,CB,5-11,190.0,Sr.,"North Chicago, Ill.",South Dakota State,North Chicago Community H.S.,,
+6,,6.0,Saiveon Williamson,LB,6-1,205.0,Sr.,"Waseca, Minn.",South Dakota State,Waseca H.S.,,
+7,,7.0,Dalys Beanum,CB,6-1,185.0,Sr.,"Omaha, Neb.",South Dakota State,Millard West H.S.,,
+8,,7.0,Chase Mason,QB,6-4,225.0,So.,"Hurley, S.D.",South Dakota State,Nebraska,,
+9,,8.0,Blake Peterson,DE,6-4,255.0,Sr.,"Beresford, S.D.",South Dakota State,Iowa State,,
+10,,9.0,Caleb Francl,LB,6-0,185.0,Sr.,"Grand Island, Neb.",South Dakota State,Grand Island H.S.,,
+11,,10.0,Hunter Dustman,K/P,6-3,230.0,Sr.,"East Bethel, Minn.",South Dakota State,St. Francis H.S.,,
+12,,10.0,Jaxon Janke,WR,6-3,210.0,Sr.,"Madison, S.D.",South Dakota State,Madison H.S.,,
+13,,11.0,Jason Freeman,LB,5-9,200.0,Sr.,"Zion, Ill.",South Dakota State,Olivet Nazarene,,
+14,,11.0,Mark Gronowski,QB,6-3,220.0,Jr.,"Naperville, Ill.",South Dakota State,Neuqua Valley H.S.,,
+15,,12.0,Regan Bollweg,TE,6-2,230.0,So.,"Harrold, S.D.",South Dakota State,Pierre T.F. Riggs H.S.,,
+16,,13.0,Aydan Dautermann,CB,6-1,185.0,So.,"Hartford, Wis.",South Dakota State,Slinger H.S.,,
+17,,14.0,Colby Huerter,S,6-1,195.0,Jr.,"Katy, Texas",South Dakota State,Tompkins H.S.,,
+18,,15.0,Devon Cole Jr.,WR,5-9,165.0,Jr.,"Clermont, Fla.",South Dakota State,Lake Minneola H.S.,,
+19,,15.0,Timothy Croskey,CB,6-0,170.0,So.,"Buckeye, Ariz.",South Dakota State,Buckeye Union H.S.,,
+20,,16.0,Jon Bell,QB,6-3,190.0,So.,"Naperville, Ill.",South Dakota State,Naperville North,,
+21,,17.0,Jeff Becker,QB,6-0,205.0,R-Fr.,"Fort Wayne, Ind.",South Dakota State,Carroll H.S.,,
+22,,17.0,Abe Hoskins III,CB,6-2,185.0,Jr.,"Omaha, Neb.",South Dakota State,Omaha Central H.S.,,
+23,,18.0,Grahm Goering,WR,6-2,190.0,So.,"Iowa City, Iowa",South Dakota State,Iowa City West H.S.,,
+24,,19.0,Max Polischuk,S,6-1,190.0,R-Fr.,"Regina, Saskatchewan",South Dakota State,Clearwater Academy International,,
+25,,20.0,Myles Taylor,CB,6-1,180.0,So.,"Gilbert, Ariz.",South Dakota State,Williams Field H.S.,,
+26,,21.0,Cody Cotton,CB,6-1,180.0,So.,"Pleasant Prairie, Wis.",South Dakota State,Upper Iowa,,
+27,,21.0,Angel Johnson,RB,5-10,185.0,So.,"Irene, S.D.",South Dakota State,Viborg-Hurley H.S.,,
+28,,22.0,Isaiah Davis,RB,6-1,220.0,Sr.,"Joplin, Mo.",South Dakota State,Joplin H.S.,,
+29,,23.0,Matthew Durrance,S,6-2,195.0,So.,"Lutz, Fla.",South Dakota State,Steinbrenner H.S.,,
+30,,24.0,Derrick Johnson,RB,6-0,200.0,R-Fr.,"Austin, Texas",South Dakota State,Lake Travis H.S.,,
+31,,25.0,Cale Reeder,S,6-0,180.0,Sr.,"Yorkville, Ill.",South Dakota State,Yorkville H.S.,,
+32,,26.0,Steven Arrell,CB,6-2,190.0,Jr.,"Brooklyn Park, Minn.",South Dakota State,Osseo H.S.,,
+33,,27.0,Noah Thompson,S,6-1,180.0,R-Fr.,"Brandon, S.D.",South Dakota State,Brandon Valley H.S.,,
+34,,28.0,Josh Buri,RB,5-11,210.0,So.,"Stewartville, Minn.",South Dakota State,Brookings H.S.,,
+35,,29.0,Graham Spalding,LB,6-1,205.0,Sr.,"Oviedo, Fla.",South Dakota State,Lake Howell H.S.,,
+36,,31.0,Jalen B. Lee,CB,6-2,180.0,R-Fr.,"Wentzville, Mo.",South Dakota State,Fort Zumwalt North H.S.,,
+37,,32.0,Adam Bock,LB,6-1,215.0,Sr.,"Solon, Iowa",South Dakota State,Solon H.S.,,
+38,,34.0,Michael Morgan,FB/TE,6-3,235.0,Sr.,"New Lenox, Ill.",South Dakota State,Lincoln-Way Central H.S.,,
+39,,36.0,Dane Miller,WR,6-3,180.0,R-Fr.,"Hardy, Neb.",South Dakota State,Superior H.S.,,
+40,,37.0,Tucker Large,S,5-11,170.0,So.,"Sioux Falls, S.D.",South Dakota State,Roosevelt H.S.,,
+41,,38.0,Trevor Scott,LB,5-11,200.0,So.,"Kansas City, Mo.",South Dakota State,Platte County H.S.,,
+42,,39.0,Isaac Kracl,RB,5-11,180.0,R-Fr.,"Crete, Neb.",South Dakota State,Crete H.S.,,
+43,,40.0,Aaron Kusler,LB,6-2,220.0,Jr.,"Sioux Falls, S.D.",South Dakota State,Roosevelt H.S.,,
+44,,41.0,Joe Ollman,LB,6-2,210.0,R-Fr.,"Mequon, Wis.",South Dakota State,Homestead H.S.,,
+45,,42.0,Davion Sterner,LB,6-0,190.0,Jr.,"Alvord, Iowa",South Dakota State,West Lyon H.S.,,
+46,,43.0,Adam Kusler,LB,6-3,215.0,Jr.,"Sioux Falls, S.D.",South Dakota State,Roosevelt H.S.,,
+47,,44.0,Kevin Brenner,TE,6-3,240.0,Sr.,"Silver Lake, Wis.",South Dakota State,Wilmot Union H.S.,,
+48,,45.0,Kaden Johnson,LB,6-2,205.0,R-Fr.,"La Vista, Neb.",South Dakota State,Papillion-La Vista H.S.,,
+49,,46.0,Cullen McShane,LB,6-2,210.0,R-Fr.,"Marquette, Iowa",South Dakota State,MFL MarMac H.S.,,
+50,,47.0,Kytan Fyfe,LB,6-2,195.0,R-Fr.,"Grand Island, Neb.",South Dakota State,Grand Island H.S.,,
+51,,48.0,Quinton Hicks,DE,6-3,245.0,Sr.,"Wichita, Kan.",South Dakota State,Campus H.S.,,
+52,,49.0,Bryce Johnson,LB,6-3,200.0,R-Fr.,"Parker, Colo.",South Dakota State,Lutheran H.S.,,
+53,,50.0,Gus Miller,OL,6-3,295.0,Jr.,"Brookings, S.D.",South Dakota State,Brookings H.S.,,
+54,,51.0,Logan Green,DT,6-3,270.0,R-Fr.,"Northboro, Iowa",South Dakota State,Clarinda H.S.,,
+55,,52.0,Jarod DePriest,DT,6-5,270.0,Sr.,"Trivoli, Ill.",South Dakota State,Farmington Central H.S.,,
+56,,53.0,Caden Johnson,DE,6-3,235.0,Sr.,"Wahoo, Neb.",South Dakota State,Bishop Neumann H.S.,,
+57,,54.0,Jalen Lee,OL,6-2,305.0,Jr.,"Robbins, Ill.",South Dakota State,Harold L. Richards H.S.,,
+58,,55.0,Aaron Wolfcale-Holsten,DT,6-2,285.0,So.,"Gilbert, Ariz.",South Dakota State,Williams Field H.S.,,
+59,,56.0,Andrew Gustad,LB,6-0,215.0,R-Fr.,"Volin, S.D.",South Dakota State,,,
+60,,57.0,Levi Vanden Bos,DE,6-3,225.0,So.,"Rock Valley, Iowa",South Dakota State,Western Christian H.S.,,
+61,,58.0,Aidan Murphy,DE,6-4,230.0,R-Fr.,"Magna, Utah",South Dakota State,Cyprus H.S.,,
+62,,59.0,Grant Conaway,DT,6-3,270.0,Jr.,"Huntington Beach, Calif.",South Dakota State,Orange Coast College,,
+63,,60.0,Mason McCormick,OL,6-4,305.0,Sr.,"Sioux Falls, S.D.",South Dakota State,Roosevelt H.S.,,
+64,,61.0,Evan Beerntsen,OL,6-4,300.0,Sr.,"De Pere, Wis.",South Dakota State,Appleton North H.S.,,
+65,,62.0,Derrick Brown,OL,6-5,310.0,So.,"Mesa, Ariz.",South Dakota State,Queen Creek H.S.,,
+66,,64.0,Ethan Vibert,OL,6-4,305.0,Sr.,"Regina, Saskatchewan",South Dakota State,Miller Catholic H.S.,,
+67,,66.0,Brady Beck,OL,6-8,305.0,Sr.,"Sioux Falls, S.D.",South Dakota State,O'Gorman H.S.,,
+68,,69.0,Quinten Christensen,OL,6-4,275.0,R-Fr.,"Wessington Springs, S.D.",South Dakota State,Wessington Springs H.S.,,
+69,,70.0,Colby Christensen,OL,6-8,280.0,Jr.,"West Des Moines, Iowa",South Dakota State,Valley H.S.,,
+70,,74.0,Garret Greenfield,OL,6-6,305.0,Sr.,"Rock Valley, Iowa",South Dakota State,Rock Valley H.S.,,
+71,,75.0,Dawson Rudd,OL,6-5,260.0,R-Fr.,"Claremore, Okla.",South Dakota State,Claremore Sequoyah H.S.,,
+72,,76.0,Bo Donald,OL,6-6,300.0,Sr.,"Kimball, S.D.",South Dakota State,Kimball H.S.,,
+73,,77.0,Michael Reed,OL,6-3,325.0,So.,"Sparta, Wis.",South Dakota State,Bangor H.S.,,
+74,,78.0,John O'Brian,OL,6-5,300.0,Sr.,"Eaton Rapids, Mich.",South Dakota State,Bowling Green,,
+75,,79.0,Jharett Bloomenrader,OL,6-5,290.0,Sr.,"Highmore, S.D.",South Dakota State,Highmore-Harrold H.S.,,
+76,,80.0,Nate Sullivan Jr.,WR,6-2,225.0,Jr.,"Bellevue, Neb.",South Dakota State,Bellevue West H.S.,,
+77,,81.0,Rhett Foster,WR,6-3,185.0,R-Fr.,"Smithville, Mo.",South Dakota State,Smithville H.S.,,
+78,,83.0,David Alpers,TE,6-6,225.0,R-Fr.,"Sioux Falls, S.D.",South Dakota State,O'Gorman H.S.,,
+79,,86.0,Patrick Hoffmann,WR,6-1,200.0,Jr.,"Naperville, Ill.",South Dakota State,Northern Illinois,,
+80,,87.0,Zach Heins,TE,6-7,260.0,Sr.,"Sioux Falls, S.D.",South Dakota State,Washington H.S.,,
+81,,88.0,Greyton Gannon,TE,6-4,215.0,R-Fr.,"Eagle, Wis.",South Dakota State,Mukwonago H.S.,,
+82,,89.0,Brody Gormley,TE,6-7,225.0,R-Fr.,"Topeka, Kan.",South Dakota State,Seaman H.S.,,
+83,,90.0,Randy Keumogne,DE,6-3,230.0,Sr.,"Oakdale, Minn.",South Dakota State,Tartan H.S.,,
+84,,91.0,Hayden Muirhead,TE,6-6,230.0,So.,"Sioux Falls, S.D.",South Dakota State,O'Gorman H.S.,,
+85,,91.0,Jace Sifore,DT,6-4,265.0,R-Fr.,"Howard, S.D.",South Dakota State,Howard H.S.,,
+86,,92.0,Brian Williams,DT,6-1,290.0,Sr.,"Chipley, Fla.",South Dakota State,Valdosta State,,
+87,,93.0,Max Baloun,DT,6-6,245.0,Jr.,"Redfield, S.D.",South Dakota State,Redfield H.S.,,
+88,,94.0,Cade Terveer,DE,6-3,250.0,Sr.,"Brandon, S.D.",South Dakota State,Brandon Valley H.S.,,
+89,,95.0,Zac Wilson,DE,6-3,235.0,Sr.,"Chipley, Fla.",South Dakota State,Chipley H.S.,,
+90,,97.0,Luke Fenton,K/P,6-0,185.0,R-Fr.,"Omaha, Neb.",South Dakota State,Creighton Prep,,
+91,,98.0,Ryan Van Marel,DT,6-4,280.0,Sr.,"Sheldon, Iowa",South Dakota State,Sheldon H.S.,,
+92,,99.0,Jack Green,K,6-3,195.0,So.,"Rapid City, S.D.",South Dakota State,St. Thomas More H.S.,,
+0,,,Jimmy Rogers,,,,,,South Dakota State,,,Head Coach
+1,,,Zach Lujan,,,,,,South Dakota State,,,Offensive Coordinator/Quarterbacks Coach
+2,,,Jesse Bobbit,,,,,,South Dakota State,,,Defensive Coordinator/Linebackers Coach
+3,,,Ryan Olson,,,,,,South Dakota State,,,Run Game Coordinator/Offensive Line Coach
+4,,,Pat Cashmore,,,,,,South Dakota State,,,Special Teams Coordinator
+5,,,Chris Meyers,,,,,,South Dakota State,,,Tight Ends Coach/Recruiting Coordinator
+6,,,Mike Banks,,,,,,South Dakota State,,,Cornerbacks Coach
+7,,,Jalon Bibbs,,,,,,South Dakota State,,,Defensive Line Coach
+8,,,Jake Menage,,,,,,South Dakota State,,,Wide Receivers Coach
+9,,,Pete Menage,,,,,,South Dakota State,,,Safeties Coach
+10,,,Robbie Rouse,,,,,,South Dakota State,,,Running Backs Coach
+11,,,Matt Jacobs,,,,,,South Dakota State,,,Director of Strength & Conditioning for Football
+12,,,Kyle Saddler,,,,,,South Dakota State,,,Offensive Quality Control
+13,,,Kellen Soulek,,,,,,South Dakota State,,,Defensive Quality Control
+14,,,Chuck Case,,,,,,South Dakota State,,,Graduate Assistant – Offense
+15,,,Evan Traxler,,,,,,South Dakota State,,,Graduate Assistant – Defense
+16,,,Sean Hupke,,,,,,South Dakota State,,,Video Coordinator
+0,,,Jonathan Shaeffer,,,,,,South Dakota State,,,Director of Football Operations/Director of On-Campus Recruiting
+1,,,Ethan Beisner,,,,,,South Dakota State,,,Assistant Director of Football Operations
+2,,,Aaron Crowell,,,,,,South Dakota State,,,Head Equipment Manager
+3,,,Charlie Miller,,,,,,South Dakota State,,,Associate Athletic Trainer (FB)
+4,,,Hallie Hawe,,,,,,South Dakota State,,,Assistant Athletic Trainer (FB)
+5,,,Michael Houseman,,,,,,South Dakota State,,,Creative Content Specialist

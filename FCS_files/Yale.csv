@@ -1,113 +1,113 @@
-,Statistic,No.,Name,Pos.,Cl.,Ht.,Wt.,Hometown / High School,Custom Field 1
-0,,23.0,Noah Aaron,WR,Sr.,6-0,184.0,"Winston-Salem, N.C. / The Groton School",Economics
-1,,21.0,Brian Abraham,LB,Sr.,6-4,212.0,"Brockton, Mass. / Xaverian Brothers",Political Science
-2,,24.0,Spencer Alston,RB,Sr.,5-8,191.0,"Reston, Va. / South Lakes",Economics
-3,,72.0,Kiran Amegadjie,OL,Jr.,6-5,318.0,"Hinsdale, Ill. / Hinsdale Central",Undeclared
-4,,78.0,Bennie Anderson,OL,Jr.,6-3,304.0,"University City, Mo. / Westminster Christian",Undeclared
-5,,16.0,Damian Anderson,DB,So.,6-0,166.0,"Miramar, Fla. / Saint Thomas Aquinas",Undeclared
-6,,24.0,Inumidun Ayo-Durojaiye,DB,So.,6-0,190.0,"Damascus, Md. / Damascus",Undeclared
-7,,46.0,Jermaine Baker,DB,Sr.,6-2,227.0,"Westchester, Ill. / Nazareth Academy",Economics
-8,,19.0,Kade Barnes,DB,Jr.,5-9,189.0,"Houston, Texas / Cypress Ridge",Political Science
-9,,88.0,Ryan Belk,TE,So.,6-4,219.0,"Parkland, Fla. / Marjory Stoneman Douglas",Undeclared
-10,,48.0,Brandon Benn,DB,Jr.,6-0,205.0,"Atlanta, Ga. / McCallie School","History Science, Medicine & PH"
-11,,79.0,Michael Bennett,OL,Fy.,6-5,265.0,"Atlanta, Ga. / Holy Innocents Episcopal School",
-12,,2.0,Jack Biestek,WR,Sr.,6-3,204.0,"Durham, N.C. / Cardinal Gibbons",Computer Science & Economics
-13,,7.0,Jacob Biggs,WR,So.,6-1,210.0,"Provo, Utah / Timpview",Undeclared
-14,,58.0,Leo Bluhm,OL,Fy.,6-4,275.0,"St. Paul, Minn. / St. Thomas Academy",
-15,,45.0,Jack Bosman,P/K,Jr.,5-9,192.0,"San Diego, Calif. / Santa Fe Christian",Undeclared
-16,,8.0,Nico Brown,WR,Fy.,6-0,185.0,"Huntington Beach, Calif. / Edison",
-17,,3.0,Jay Brunelle,WR,Jr.,6-2,203.0,"Paxton, Mass. / St. John's",Undeclared
-18,,96.0,Sebastian Bruno,DL,Sr.,6-3,276.0,"Delray Beach, Fla. / Olympic Heights (Boca Raton, FL)",Mechanical Engineering
-19,,13.0,Nathaniel Campbell,LB,Jr.,6-2,205.0,"Oswego, Ill. / Oswego East",Political Science
-20,,70.0,Cameron Charron,OL,Fy.,6-3,295.0,"Wellesley, Mass. / Noble and Greenough School",
-21,,1.0,Dante Chiappetta,Team Impact,So.,5-4,130.0,"North Haven, Conn. / Clintonville",
-22,,26.0,Nick Conforti,K/P,Fy.,5-9,180.0,"Livingston, N.J. / Seton Hall Prep",
-23,,28.0,Wilhelm Daal,RB,Fy.,6-1,215.0,"Amityville, N.Y. / Taft School",
-24,,91.0,Zion Dayne,DL,Jr.,6-3,270.0,"Lorton, Va. / South County",Undeclared
-25,,20.0,Nathan Denney,RB,So.,5-9,206.0,"Georgetown, Texas / Georgetown",Undeclared
-26,,8.0,Tyler Di Ienno,DB,Jr.,6-0,207.0,"North Haledon, N.J. / Cheshire Academy",Economics
-27,,63.0,Jonathon Durand,OL,Jr.,6-2,288.0,"Gilbert, Ariz. / Basha",Electrical Engineering
-28,,4.0,Josh Eboboko,RB,Jr.,5-10,196.0,"Charlotte, N.C. / Charlotte Christian",Undeclared
-29,,51.0,Ejiroghene Egodogbare,DL,Fy.,6-3,260.0,"Milton, Mass. / Roxbury Latin",
-30,,29.0,Kyle Ellis,DB,Sr.,5-11,193.0,"Cumming, Ga. / Greater Atlanta Christian",Psychology
-31,,73.0,Teo Falk,DL,Jr.,6-7,256.0,"Stockholm, Sweden /",Undeclared
-32,,86.0,Joey Felton,WR,Jr.,5-9,180.0,"Frederick, Md. / Linganore",Undeclared
-33,,13.0,Ben Finkel,QB,So.,6-1,206.0,"White Plains, N.Y. / White Plains",Undeclared
-34,,39.0,Shamus Florio,K/P,So.,6-3,201.0,"Andover, Mass. / Andover",Undeclared
-35,,80.0,Luke Foster,TE,So.,6-3,239.0,"Fort McMurray, Alberta / Choate Rosemary Hall (Conn.)",Undeclared
-36,,27.0,Shane Frommer,LB,Sr.,6-0,221.0,"Norfolk, Mass. / King Phillip Regional",Economics
-37,,66.0,Nick Gargiulo,OL,Sr.,6-5,290.0,"Yorktown Heights, N.Y. / Somers",Economics
-38,,1.0,Da’Quan Gonzales,DB,Fy.,5-11,185.0,"East Stuart, Fla. / Jensen Beach",
-39,,37.0,Joseph Gonzales,DB,So.,6-3,189.0,"Lake Stevens, Wash. / Lake Stevens Senior",Undeclared
-40,,18.0,Jaylan Granberry,DB,Sr.,5-10,194.0,"Nashville, Tenn. / Martin Luther King Jr.",Art
-41,,12.0,Nolan Grooms,QB,Jr.,6-2,188.0,"Lake Wylie, S.C. / Taft School",Economics
-42,,93.0,"Alvin Gulley, Jr.",DL,So.,6-0,304.0,"Belleville, Ill. / Belleville West Township",Undeclared
-43,,12.0,Sean Guyton,DB,So.,5-11,187.0,"Los Angeles, Calif. / Choate Rosemary Hall (Conn.)",Undeclared
-44,,35.0,Zack Haaland,DB,So.,6-3,196.0,"Wylie, Texas / Dallas Christian",Undeclared
-45,,74.0,Connor Halverson,OL,So.,6-3,279.0,"Austin, Texas / Westlake",Undeclared
-46,,87.0,Jackson Hawes,TE,Jr.,6-5,251.0,"Salt Lake City, Utah / Highland",Economics
-47,,11.0,Dathan Hickey,DB,Sr.,6-1,200.0,"Bristol, Conn. / Bristol Central",Psychology
-48,,38.0,Du'Shaunte Holloway,DB,Sr.,5-11,201.0,"Villa Rica, Ga. / Villa Rica",Environmental Engineering
-49,,9.0,Osorachukwu Ifesinachukwu,DL,Sr.,6-1,257.0,"Austin, Texas / Vandegrift",Biomedical Engineering
-50,,9.0,Grant Jordan,QB,So.,6-2,210.0,"New Orleans, La. / Jesuit",Undeclared
-51,,94.0,Kevin Jourdain,DL,So.,6-4,264.0,"Holyoke, Mass. / Holyoke",Undeclared
-52,,77.0,Jack Karhu,OL,So.,6-3,276.0,"McKinney, Texas / Independence",Undeclared
-53,,17.0,Kennedy Kosmalski,DB,Sr.,6-1,193.0,"McHenry, Ill. / McHenry East",Psychology
-54,,33.0,Ezekiel Larry,LB,Fy.,6-2,240.0,"Palmdale, Calif. / Sierra Canyon",
-55,,39.0,Jason Lee,RB,Jr.,6-0,200.0,"Bellingham, Wash. / Mount Baker",Computer Science
-56,,16.0,Ryan Lindley,WR,Jr.,5-10,171.0,"Austin, Texas / Westlake",Undeclared
-57,,81.0,Aidan Maloney,WR,Jr.,6-1,197.0,"Hillsboro, Ore. / Liberty",
-58,,92.0,Ben Mann,TE,So.,6-5,236.0,"Lancaster, Pa. / Manheim Township",Undeclared
-59,,14.0,Marcus Mauney,DL,Sr.,6-1,272.0,"Gastonia, N.C. / Hunter Huss",Environmental Studies
-60,,15.0,Brogan McCaughey,QB,Fy.,6-1,195.0,"Cincinnati, Ohio / St. Xavier",
-61,,83.0,Tamatoa McDonough,DL,So.,6-5,237.0,"Asheville, N.C. / Asheville",Undeclared
-62,,22.0,Elliott McElwain,RB,Sr.,5-11,202.0,"Trussville, Ala. / Hewitt Trussville",Political Science
-63,,76.0,Jonathan Mendoza,OL,Jr.,6-9,315.0,"Westhampton Beach, N.Y. / Westhampton Beach",Undeclared
-64,,30.0,Jack Michalik,LB,So.,6-4,205.0,"Rye, N.Y. / Brunswick School",Undeclared
-65,,95.0,Isaac Mitchell,DL,Sr.,6-4,248.0,"Salina, Kan. / Salina South High",Economics
-66,,15.0,Hamilton Moore,LB,Jr.,6-0,218.0,"Raleigh, N.C. / Enloe",Economics
-67,,92.0,Joseph Nash,DL,Fy.,6-2,285.0,"Dallas, Texas / Taft School",
-68,,54.0,Patrick Nauert,OL,Sr.,6-4,300.0,"Grosse Pointe, Mich. / Grosse Pointe South",Philosophy
-69,,82.0,Chase Nenad,WR,Jr.,6-3,201.0,"Mission Viejo, Calif. / Mission Viejo",Undeclared
-70,,2.0,Reid Nickerson,DL,Sr.,6-4,250.0,"Friendswood, Texas / Friendswood",Economics
-71,,5.0,Miles Oldacre,DB,Sr.,5-11,201.0,"Spring, Texas / Klein Oak",Mechanical Engineering
-72,,4.0,Wande Owens,DB,Jr.,5-11,212.0,"Cooksville, Md. / Glenelg",Computer Science
-73,,47.0,Raleigh Oxendine,DL,So.,6-1,270.0,"Tampa, Fla. / Jesuit",
-74,,10.0,David Pantelis,WR,So.,5-11,183.0,"Pittsburgh, Pa. / Upper St. Clair",Economics
-75,,97.0,Clay Patterson,DL,Jr.,6-3,267.0,"Frisco, Texas / Frisco Reedy",Undeclared
-76,,0.0,Tre Peterson,RB,Jr.,5-8,180.0,"Columbus, Ga. / Columbus",Undeclared
-77,,34.0,Joshua Pitsenberger,RB,Fy.,6-0,205.0,"Bethesda, Md. / The Avalon School",
-78,,6.0,Noah Pope,LB,Sr.,6-0,210.0,"Memphis, Tenn. / St. George's/Choate Rosemary Hall (CT)",Psychology
-79,,25.0,Cameron Price,WR,Fy.,5-9,195.0,"Houston, Texas / St. Thomas",
-80,,75.0,Lucas Pritchard,OL,Fy.,6-5,275.0,"Lima, Ohio / Bath",
-81,,90.0,Adam Raine,DL,Sr.,6-4,306.0,"Basingstoke, England / Berkshire School (Sheffield, MA)",Economics
-82,,84.0,Garry Raymond,TE,Sr.,6-6,245.0,"Washington, D.C. / Cheyenne Mountain",Economics
-83,,36.0,Wyatt Raymond,TE,So.,6-4,222.0,"Enfield, Conn. / Enfield",Undeclared
-84,,10.0,Darnell Robinson,DB,Sr.,5-9,180.0,"West Palm Beach, Fla. / Oxbridge Academy",Mechanical Engineering
-85,,31.0,Jacob Saffold,RB,Jr.,5-10,193.0,"Virginia Beach, Va. / Norfolk Academy",Undeclared
-86,,5.0,Jaylan Sandifer,WR,Sr.,6-2,193.0,"Warner Robins, Ga. / Northside/Choate Rosemary Hall (CT)",Political Science
-87,,50.0,Declan Savage,OL,So.,6-5,287.0,"Chapel Hill, N.C. / Chapel Hill",
-88,,57.0,Cubby Schuller,OL,Sr.,6-6,301.0,"Bedminster, N.J. / Bernards",History
-89,,62.0,Aaron Session,OL,So.,6-6,339.0,"Katy, Texas / Morton Ranch",Undeclared
-90,,43.0,Micaiah Shaber,DL,Fy.,6-6,265.0,"Peachtree, Ga. / Starr’s Mill",
-91,,52.0,Dean Shaffer,LB,So.,6-1,230.0,"Smithtown, N.Y. / Smithtown East",Undeclared
-92,,13.0,Mason Shipp,WR,So.,6-0,187.0,"Monroe Township, N.J. / The Hun School",Undeclared
-93,,61.0,Connor Smith,OL,So.,6-3,273.0,"Medfield, Mass. / Noble & Greenough",Undeclared
-94,,27.0,Kelvin Smith,WR,So.,6-2,225.0,"White Plains, N.Y. / The Hun School",Undeclared
-95,,17.0,Aidan Stephens,WR,Fy.,6-1,185.0,"Braceville, Ohio / LaBrae",
-96,,19.0,Devyn Suggs,QB,Jr.,6-4,201.0,"Bolingbrook, Ill. / Bolingbrook",Undeclared
-97,,60.0,Sean Sullivan,OL,So.,6-5,306.0,"Westborough, Mass. / Saint John's Shrewsbury",
-98,,32.0,Joshua Tarver,WR,Fy.,6-3,205.0,"Richmond, Texas / IMG Academy",
-99,,42.0,Andre Thomas,LB,Fy.,6-1,215.0,"Fort Valley, Ga. / Peach County",
-100,,85.0,CJ Thompson,WR,Jr.,6-1,179.0,"Arlington, Texas / Trinity Christian","Molecular, Cellular, Dev Biology"
-101,,1.0,Mason Tipton,WR,Jr.,5-11,191.0,"Akron, Ohio / Archbishop Hoban",Undeclared
-102,,89.0,Scott Truninger,TE,Fy.,6-6,240.0,"Newport Beach, Calif. / Corona Del Mar",
-103,,6.0,Austin Tutas,QB,So.,6-1,195.0,"Tampa, Fla. / Foster (Texas)",Undeclared Science
-104,,49.0,Mitchell Tyler,DL,Jr.,6-5,238.0,"McKinney, Texas / McKinney",Undeclared
-105,,98.0,Ikenna Ugbaja,DL,So.,6-2,292.0,"Boston, Mass. / Belmont Hill",Undeclared Justice
-106,,55.0,Joseph Vaughn,LB,Sr.,6-3,234.0,"San Jose, Calif. / Archbishop Mitty School",Economics
-107,,40.0,Walker Warncke,DB,So.,5-11,200.0,"Needville, Texas / Needville",Undeclared
-108,,64.0,Andrew Weisz,OL,So.,6-7,305.0,"West Palm Beach, Fla. / The Benjamin School",Undeclared
-109,,41.0,Melik Williams,LB,Fy.,6-2,210.0,"Ypsilanti, Mich. / Lincoln",
-110,,98.0,Dylan Yang,DL,Fy.,6-3,250.0,"Airmont, N.Y. / Suffern",
-111,,44.0,Ry Yates,TE,So.,6-4,235.0,"Vienna, Va. / James Madison",
+,Statistic,No.,Name,Pos.,Cl.,Ht.,Wt.,Hometown / High School,Current School Name,Custom Field 1
+0,,23.0,Noah Aaron,WR,Sr.,6-0,184.0,"Winston-Salem, N.C. / The Groton School",Yale,Economics
+1,,21.0,Brian Abraham,LB,Sr.,6-4,212.0,"Brockton, Mass. / Xaverian Brothers",Yale,Political Science
+2,,24.0,Spencer Alston,RB,Sr.,5-8,191.0,"Reston, Va. / South Lakes",Yale,Economics
+3,,72.0,Kiran Amegadjie,OL,Jr.,6-5,318.0,"Hinsdale, Ill. / Hinsdale Central",Yale,Undeclared
+4,,78.0,Bennie Anderson,OL,Jr.,6-3,304.0,"University City, Mo. / Westminster Christian",Yale,Undeclared
+5,,16.0,Damian Anderson,DB,So.,6-0,166.0,"Miramar, Fla. / Saint Thomas Aquinas",Yale,Undeclared
+6,,24.0,Inumidun Ayo-Durojaiye,DB,So.,6-0,190.0,"Damascus, Md. / Damascus",Yale,Undeclared
+7,,46.0,Jermaine Baker,DB,Sr.,6-2,227.0,"Westchester, Ill. / Nazareth Academy",Yale,Economics
+8,,19.0,Kade Barnes,DB,Jr.,5-9,189.0,"Houston, Texas / Cypress Ridge",Yale,Political Science
+9,,88.0,Ryan Belk,TE,So.,6-4,219.0,"Parkland, Fla. / Marjory Stoneman Douglas",Yale,Undeclared
+10,,48.0,Brandon Benn,DB,Jr.,6-0,205.0,"Atlanta, Ga. / McCallie School",Yale,"History Science, Medicine & PH"
+11,,79.0,Michael Bennett,OL,Fy.,6-5,265.0,"Atlanta, Ga. / Holy Innocents Episcopal School",Yale,
+12,,2.0,Jack Biestek,WR,Sr.,6-3,204.0,"Durham, N.C. / Cardinal Gibbons",Yale,Computer Science & Economics
+13,,7.0,Jacob Biggs,WR,So.,6-1,210.0,"Provo, Utah / Timpview",Yale,Undeclared
+14,,58.0,Leo Bluhm,OL,Fy.,6-4,275.0,"St. Paul, Minn. / St. Thomas Academy",Yale,
+15,,45.0,Jack Bosman,P/K,Jr.,5-9,192.0,"San Diego, Calif. / Santa Fe Christian",Yale,Undeclared
+16,,8.0,Nico Brown,WR,Fy.,6-0,185.0,"Huntington Beach, Calif. / Edison",Yale,
+17,,3.0,Jay Brunelle,WR,Jr.,6-2,203.0,"Paxton, Mass. / St. John's",Yale,Undeclared
+18,,96.0,Sebastian Bruno,DL,Sr.,6-3,276.0,"Delray Beach, Fla. / Olympic Heights (Boca Raton, FL)",Yale,Mechanical Engineering
+19,,13.0,Nathaniel Campbell,LB,Jr.,6-2,205.0,"Oswego, Ill. / Oswego East",Yale,Political Science
+20,,70.0,Cameron Charron,OL,Fy.,6-3,295.0,"Wellesley, Mass. / Noble and Greenough School",Yale,
+21,,1.0,Dante Chiappetta,Team Impact,So.,5-4,130.0,"North Haven, Conn. / Clintonville",Yale,
+22,,26.0,Nick Conforti,K/P,Fy.,5-9,180.0,"Livingston, N.J. / Seton Hall Prep",Yale,
+23,,28.0,Wilhelm Daal,RB,Fy.,6-1,215.0,"Amityville, N.Y. / Taft School",Yale,
+24,,91.0,Zion Dayne,DL,Jr.,6-3,270.0,"Lorton, Va. / South County",Yale,Undeclared
+25,,20.0,Nathan Denney,RB,So.,5-9,206.0,"Georgetown, Texas / Georgetown",Yale,Undeclared
+26,,8.0,Tyler Di Ienno,DB,Jr.,6-0,207.0,"North Haledon, N.J. / Cheshire Academy",Yale,Economics
+27,,63.0,Jonathon Durand,OL,Jr.,6-2,288.0,"Gilbert, Ariz. / Basha",Yale,Electrical Engineering
+28,,4.0,Josh Eboboko,RB,Jr.,5-10,196.0,"Charlotte, N.C. / Charlotte Christian",Yale,Undeclared
+29,,51.0,Ejiroghene Egodogbare,DL,Fy.,6-3,260.0,"Milton, Mass. / Roxbury Latin",Yale,
+30,,29.0,Kyle Ellis,DB,Sr.,5-11,193.0,"Cumming, Ga. / Greater Atlanta Christian",Yale,Psychology
+31,,73.0,Teo Falk,DL,Jr.,6-7,256.0,"Stockholm, Sweden /",Yale,Undeclared
+32,,86.0,Joey Felton,WR,Jr.,5-9,180.0,"Frederick, Md. / Linganore",Yale,Undeclared
+33,,13.0,Ben Finkel,QB,So.,6-1,206.0,"White Plains, N.Y. / White Plains",Yale,Undeclared
+34,,39.0,Shamus Florio,K/P,So.,6-3,201.0,"Andover, Mass. / Andover",Yale,Undeclared
+35,,80.0,Luke Foster,TE,So.,6-3,239.0,"Fort McMurray, Alberta / Choate Rosemary Hall (Conn.)",Yale,Undeclared
+36,,27.0,Shane Frommer,LB,Sr.,6-0,221.0,"Norfolk, Mass. / King Phillip Regional",Yale,Economics
+37,,66.0,Nick Gargiulo,OL,Sr.,6-5,290.0,"Yorktown Heights, N.Y. / Somers",Yale,Economics
+38,,1.0,Da’Quan Gonzales,DB,Fy.,5-11,185.0,"East Stuart, Fla. / Jensen Beach",Yale,
+39,,37.0,Joseph Gonzales,DB,So.,6-3,189.0,"Lake Stevens, Wash. / Lake Stevens Senior",Yale,Undeclared
+40,,18.0,Jaylan Granberry,DB,Sr.,5-10,194.0,"Nashville, Tenn. / Martin Luther King Jr.",Yale,Art
+41,,12.0,Nolan Grooms,QB,Jr.,6-2,188.0,"Lake Wylie, S.C. / Taft School",Yale,Economics
+42,,93.0,"Alvin Gulley, Jr.",DL,So.,6-0,304.0,"Belleville, Ill. / Belleville West Township",Yale,Undeclared
+43,,12.0,Sean Guyton,DB,So.,5-11,187.0,"Los Angeles, Calif. / Choate Rosemary Hall (Conn.)",Yale,Undeclared
+44,,35.0,Zack Haaland,DB,So.,6-3,196.0,"Wylie, Texas / Dallas Christian",Yale,Undeclared
+45,,74.0,Connor Halverson,OL,So.,6-3,279.0,"Austin, Texas / Westlake",Yale,Undeclared
+46,,87.0,Jackson Hawes,TE,Jr.,6-5,251.0,"Salt Lake City, Utah / Highland",Yale,Economics
+47,,11.0,Dathan Hickey,DB,Sr.,6-1,200.0,"Bristol, Conn. / Bristol Central",Yale,Psychology
+48,,38.0,Du'Shaunte Holloway,DB,Sr.,5-11,201.0,"Villa Rica, Ga. / Villa Rica",Yale,Environmental Engineering
+49,,9.0,Osorachukwu Ifesinachukwu,DL,Sr.,6-1,257.0,"Austin, Texas / Vandegrift",Yale,Biomedical Engineering
+50,,9.0,Grant Jordan,QB,So.,6-2,210.0,"New Orleans, La. / Jesuit",Yale,Undeclared
+51,,94.0,Kevin Jourdain,DL,So.,6-4,264.0,"Holyoke, Mass. / Holyoke",Yale,Undeclared
+52,,77.0,Jack Karhu,OL,So.,6-3,276.0,"McKinney, Texas / Independence",Yale,Undeclared
+53,,17.0,Kennedy Kosmalski,DB,Sr.,6-1,193.0,"McHenry, Ill. / McHenry East",Yale,Psychology
+54,,33.0,Ezekiel Larry,LB,Fy.,6-2,240.0,"Palmdale, Calif. / Sierra Canyon",Yale,
+55,,39.0,Jason Lee,RB,Jr.,6-0,200.0,"Bellingham, Wash. / Mount Baker",Yale,Computer Science
+56,,16.0,Ryan Lindley,WR,Jr.,5-10,171.0,"Austin, Texas / Westlake",Yale,Undeclared
+57,,81.0,Aidan Maloney,WR,Jr.,6-1,197.0,"Hillsboro, Ore. / Liberty",Yale,
+58,,92.0,Ben Mann,TE,So.,6-5,236.0,"Lancaster, Pa. / Manheim Township",Yale,Undeclared
+59,,14.0,Marcus Mauney,DL,Sr.,6-1,272.0,"Gastonia, N.C. / Hunter Huss",Yale,Environmental Studies
+60,,15.0,Brogan McCaughey,QB,Fy.,6-1,195.0,"Cincinnati, Ohio / St. Xavier",Yale,
+61,,83.0,Tamatoa McDonough,DL,So.,6-5,237.0,"Asheville, N.C. / Asheville",Yale,Undeclared
+62,,22.0,Elliott McElwain,RB,Sr.,5-11,202.0,"Trussville, Ala. / Hewitt Trussville",Yale,Political Science
+63,,76.0,Jonathan Mendoza,OL,Jr.,6-9,315.0,"Westhampton Beach, N.Y. / Westhampton Beach",Yale,Undeclared
+64,,30.0,Jack Michalik,LB,So.,6-4,205.0,"Rye, N.Y. / Brunswick School",Yale,Undeclared
+65,,95.0,Isaac Mitchell,DL,Sr.,6-4,248.0,"Salina, Kan. / Salina South High",Yale,Economics
+66,,15.0,Hamilton Moore,LB,Jr.,6-0,218.0,"Raleigh, N.C. / Enloe",Yale,Economics
+67,,92.0,Joseph Nash,DL,Fy.,6-2,285.0,"Dallas, Texas / Taft School",Yale,
+68,,54.0,Patrick Nauert,OL,Sr.,6-4,300.0,"Grosse Pointe, Mich. / Grosse Pointe South",Yale,Philosophy
+69,,82.0,Chase Nenad,WR,Jr.,6-3,201.0,"Mission Viejo, Calif. / Mission Viejo",Yale,Undeclared
+70,,2.0,Reid Nickerson,DL,Sr.,6-4,250.0,"Friendswood, Texas / Friendswood",Yale,Economics
+71,,5.0,Miles Oldacre,DB,Sr.,5-11,201.0,"Spring, Texas / Klein Oak",Yale,Mechanical Engineering
+72,,4.0,Wande Owens,DB,Jr.,5-11,212.0,"Cooksville, Md. / Glenelg",Yale,Computer Science
+73,,47.0,Raleigh Oxendine,DL,So.,6-1,270.0,"Tampa, Fla. / Jesuit",Yale,
+74,,10.0,David Pantelis,WR,So.,5-11,183.0,"Pittsburgh, Pa. / Upper St. Clair",Yale,Economics
+75,,97.0,Clay Patterson,DL,Jr.,6-3,267.0,"Frisco, Texas / Frisco Reedy",Yale,Undeclared
+76,,0.0,Tre Peterson,RB,Jr.,5-8,180.0,"Columbus, Ga. / Columbus",Yale,Undeclared
+77,,34.0,Joshua Pitsenberger,RB,Fy.,6-0,205.0,"Bethesda, Md. / The Avalon School",Yale,
+78,,6.0,Noah Pope,LB,Sr.,6-0,210.0,"Memphis, Tenn. / St. George's/Choate Rosemary Hall (CT)",Yale,Psychology
+79,,25.0,Cameron Price,WR,Fy.,5-9,195.0,"Houston, Texas / St. Thomas",Yale,
+80,,75.0,Lucas Pritchard,OL,Fy.,6-5,275.0,"Lima, Ohio / Bath",Yale,
+81,,90.0,Adam Raine,DL,Sr.,6-4,306.0,"Basingstoke, England / Berkshire School (Sheffield, MA)",Yale,Economics
+82,,84.0,Garry Raymond,TE,Sr.,6-6,245.0,"Washington, D.C. / Cheyenne Mountain",Yale,Economics
+83,,36.0,Wyatt Raymond,TE,So.,6-4,222.0,"Enfield, Conn. / Enfield",Yale,Undeclared
+84,,10.0,Darnell Robinson,DB,Sr.,5-9,180.0,"West Palm Beach, Fla. / Oxbridge Academy",Yale,Mechanical Engineering
+85,,31.0,Jacob Saffold,RB,Jr.,5-10,193.0,"Virginia Beach, Va. / Norfolk Academy",Yale,Undeclared
+86,,5.0,Jaylan Sandifer,WR,Sr.,6-2,193.0,"Warner Robins, Ga. / Northside/Choate Rosemary Hall (CT)",Yale,Political Science
+87,,50.0,Declan Savage,OL,So.,6-5,287.0,"Chapel Hill, N.C. / Chapel Hill",Yale,
+88,,57.0,Cubby Schuller,OL,Sr.,6-6,301.0,"Bedminster, N.J. / Bernards",Yale,History
+89,,62.0,Aaron Session,OL,So.,6-6,339.0,"Katy, Texas / Morton Ranch",Yale,Undeclared
+90,,43.0,Micaiah Shaber,DL,Fy.,6-6,265.0,"Peachtree, Ga. / Starr’s Mill",Yale,
+91,,52.0,Dean Shaffer,LB,So.,6-1,230.0,"Smithtown, N.Y. / Smithtown East",Yale,Undeclared
+92,,13.0,Mason Shipp,WR,So.,6-0,187.0,"Monroe Township, N.J. / The Hun School",Yale,Undeclared
+93,,61.0,Connor Smith,OL,So.,6-3,273.0,"Medfield, Mass. / Noble & Greenough",Yale,Undeclared
+94,,27.0,Kelvin Smith,WR,So.,6-2,225.0,"White Plains, N.Y. / The Hun School",Yale,Undeclared
+95,,17.0,Aidan Stephens,WR,Fy.,6-1,185.0,"Braceville, Ohio / LaBrae",Yale,
+96,,19.0,Devyn Suggs,QB,Jr.,6-4,201.0,"Bolingbrook, Ill. / Bolingbrook",Yale,Undeclared
+97,,60.0,Sean Sullivan,OL,So.,6-5,306.0,"Westborough, Mass. / Saint John's Shrewsbury",Yale,
+98,,32.0,Joshua Tarver,WR,Fy.,6-3,205.0,"Richmond, Texas / IMG Academy",Yale,
+99,,42.0,Andre Thomas,LB,Fy.,6-1,215.0,"Fort Valley, Ga. / Peach County",Yale,
+100,,85.0,CJ Thompson,WR,Jr.,6-1,179.0,"Arlington, Texas / Trinity Christian",Yale,"Molecular, Cellular, Dev Biology"
+101,,1.0,Mason Tipton,WR,Jr.,5-11,191.0,"Akron, Ohio / Archbishop Hoban",Yale,Undeclared
+102,,89.0,Scott Truninger,TE,Fy.,6-6,240.0,"Newport Beach, Calif. / Corona Del Mar",Yale,
+103,,6.0,Austin Tutas,QB,So.,6-1,195.0,"Tampa, Fla. / Foster (Texas)",Yale,Undeclared Science
+104,,49.0,Mitchell Tyler,DL,Jr.,6-5,238.0,"McKinney, Texas / McKinney",Yale,Undeclared
+105,,98.0,Ikenna Ugbaja,DL,So.,6-2,292.0,"Boston, Mass. / Belmont Hill",Yale,Undeclared Justice
+106,,55.0,Joseph Vaughn,LB,Sr.,6-3,234.0,"San Jose, Calif. / Archbishop Mitty School",Yale,Economics
+107,,40.0,Walker Warncke,DB,So.,5-11,200.0,"Needville, Texas / Needville",Yale,Undeclared
+108,,64.0,Andrew Weisz,OL,So.,6-7,305.0,"West Palm Beach, Fla. / The Benjamin School",Yale,Undeclared
+109,,41.0,Melik Williams,LB,Fy.,6-2,210.0,"Ypsilanti, Mich. / Lincoln",Yale,
+110,,98.0,Dylan Yang,DL,Fy.,6-3,250.0,"Airmont, N.Y. / Suffern",Yale,
+111,,44.0,Ry Yates,TE,So.,6-4,235.0,"Vienna, Va. / James Madison",Yale,
