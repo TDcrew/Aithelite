@@ -2,17 +2,17 @@
 Repository to gather files that are used to develop Aithelite application.
 
 DEPENDENCIES: 
-Andaconda3 navigator
-VS Code v1.16.2
-Selenium v4.8.3
-beautifulsoup4 v4.11.1
-Validators v0.14.0
-Pandas v1.4.4
-Python v3.9.13
+*Andaconda3 navigator
+*VS Code v1.16.2
+*Selenium v4.8.3
+*beautifulsoup4 v4.11.1
+*Validators v0.14.0
+*Pandas v1.4.4
+*Python v3.9.13
 
 
 Installation: 
-  Install the [Andaconda3](https://www.anaconda.com/download/) navigator.
+  Install the [Andaconda3 Navigator](https://www.anaconda.com/download/).
   Install needed dependencies with command line inside of andaconda3 navigator with the CMD.exe Prompt.
     - above installs can be done with commands: conda install -c conda-forge validators
                                                 conda install -c anaconda beautifulsoup4
