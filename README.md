@@ -1,5 +1,5 @@
 # Aithelite
-Repository to gather files that are used to develop Aithelite application.
+Repository to gather files that are used to develop Aithelite webscrapping scripts for player data points.
 
 ## DEPENDENCIES: 
 * Andaconda3 navigator
