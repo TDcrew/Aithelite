@@ -5,16 +5,22 @@ import os
 def concat_school_rosters():
     fbs_file_path = r"./FBS_files"
     fcs_file_path = r"./FCS_files"
+    # grab fcs and fbs teams as a list from the directory
     fbs_list = os.listdir(fbs_file_path)
     fcs_list = os.listdir(fcs_file_path)
 
     #append all FBS files together
     df_fbs = pd.DataFrame()
     for file in fbs_list:
-        file_name = str(fbs_file_path + "\\" + file)   
+        # grab each individual file name
+        file_name = str(fbs_file_path + "\\" + file)
+        #set dataframe variable from the file   
         df_temp_fbs = pd.read_csv(file_name)
+        # add each individual file to main file
         df_fbs = pd.concat([df_fbs, df_temp_fbs])
+    # remove NaN data rows
     df_fbs.dropna()
+    # send dataframe to a csv file
     df_fbs.to_csv("FBS_raw_data.csv")
 
     #append all FCS files together
