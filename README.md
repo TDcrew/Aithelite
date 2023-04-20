@@ -1,22 +1,40 @@
-# Image Script
+# ReadMe Tableau Documentation:
+##Version: Tableau Desktop 2020.4
+##Data Source: Position Based Data
 
-The purpose of this script is to extract images from a list of FCS and FBS schools.
 
-The output of the script is 4 files: 2 files for the player images from each school, and 2 files for the links that could not be scraped from each.
+### How to import the data to Tableau:
 
-### How to use:
+1. Go into Position Based Data Folder and select the desired files. You should select the ourlads and ncaa versions of the data. For example, if I am interested in the data of offensive players I would download the ourlads_offense.xlsx and ncaa_offense.xlsx files.
 
-Clone this repository and install the required dependencies. When within the same directory as image_scraper.py and 2023_roster_links.xlsx, type python3 imge_scraper.py. When prompted, enter which sheet you would like to scrape (FBS or FCS).
+2. Open Tableau Desktop and click Microsoft Excel under the Connect tab on the left hand side. Select one of the two files you want. 
 
-### Dependencies:
+3. Add the other file by clicking the 'Add' button by the connections tab. 
 
-requests <br>
-bs4 <br>
-pandas <br>
-csv <br>
-urllib <br>
-selenium
+4. Once the second file is added, drag Sheet1 to the top environment space. This should create a new table called Sheet11. 
 
-### Understanding the output:
+5. Click on the red dashed line between Sheet1 and Sheet11 to open the 'Edit Relationship' tab. Choose the common field ('Player' or 'Playerguid'). Now your data sources are linked via this common field.
 
-Many links within FCS and FBS contained websites that did not have player images on the first page. Many of the player images were located on a second page, with a link to that page being stored on a link contained within their name in the table. In the output player image files, there is a column titled "Source Image?" that denotes whether the link for the player is the source image for the player (yes), or if it is a link to the page that contains the player image (no). The links that could not be scraped were either because: the website did not contain a table (containing the list of player names with the images attached), did not contain any images, or possibly other reasons such as not having a normal table format.
+6. Click on Sheet 1 on the tool bar at the bottom of the window and add the attributes you are interested in.  
+
+
+
+
+Recreate Wide Receiver (WR) Catchers per Game vs. Height visualization:
+
+1. Follow steps 1-6 above and import the ourlads_offense.xlsx and ncaa_offense.xlsx files.
+
+2. Add the HT (height) attribute to the columns and modify the measure to Average (to do this click on the attribute cell and scroll down to measure).
+
+3. Add Receptions_perc (percentage of receptions per game per season) to the rows and modify the measure to Average. 
+
+4. Add the Pos (position) attribute to filters and choose WR as the only included field. Add AVG(HT) and AVG(Receptions_perc) to the filters, as well. Click on the dropdown arrow in the cell for each of these filters and click 'Show Filter'
+
+5. Add Player as a detail in the Marks section. 
+
+
+
+
+Actionable Insights for above visualization: 
+
+Based on the volume of players at a given height, we can see that wide receivers that range from 70-76 inches in height have the highest reception percentage per season. Players above or below this height threshold have less receptions per season. 
