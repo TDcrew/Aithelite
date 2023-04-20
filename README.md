@@ -1,4 +1,4 @@
-# A first-level heading Aithelite
+# Aithelite
 Repository to gather files that are used to develop Aithelite application.
 
 ## DEPENDENCIES: 
