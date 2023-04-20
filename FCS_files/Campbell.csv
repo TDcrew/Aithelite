@@ -1,150 +1,125 @@
-,Statistic,#,Full Name,Class,Pos.,Ht.,Wt.,Hometown / High School,Image,Name,Title
-0,,0.0,Ezeriah Anderson,R-Jr.,WR,6-5,210.0,"Seffner, Fla. / Armwood HS / Iowa State",,,
-1,,0.0,Aaron Maddox,Gr.,S,6-0,210.0,"North Augusta, S.C. / North Augusta HS / Southern Illinois",,,
-2,,1.0,Josh Johnson,Gr.,DL,6-5,255.0,"Duluth, Ga. / Peachtree Ridge HS / Highland CC",,,
-3,,1.0,Lamagea McDowell,Jr.,RB,6-2,230.0,"Gastonia, N.C. / Hunter Huss HS",,,
-4,,2.0,Justice Galloway-Velazquez,R-Sr.,LB,6-2,265.0,"Fayetteville, N.C. / Cape Fear HS",,,
-5,,2.0,"Chad Mascoe, Jr.",Fr.,QB,6-1,210.0,"Kissimmee, Fla. / Osceola HS",,,
-6,,3.0,DJ Charles,Gr.,S,5-10,200.0,"Orlando, Fla. / Dr. Phillips HS",,,
-7,,3.0,Jai Williams,R-Sr.,WR,6-0,180.0,"Jacksonville, Fla. / Fletcher HS / Coastal Carolina",,,
-8,,4.0,Bryant Barr,Gr.,RB,6-0,205.0,"Greensboro, N.C. / Eastern Guilford HS",,,
-9,,4.0,Jonathan Jones,Sr.,CB,6-1,195.0,"Jacksonville, Fla. / Bishop Kenny HS",,,
-10,,5.0,Dorian Jones,Gr.,S,5-11,195.0,"Orlando, Fla. / Ocoee HS",,,
-11,,5.0,Jalen Kelsey,R-Sr.,WR,6-2,180.0,"Gainesville, Fla. / Gainesville HS",,,
-12,,6.0,Jayden Chalmers,R-Fr.,CB,6-0,165.0,"Sanford, N.C. / Lee County HS / East Carolina",,,
-13,,6.0,Hajj-Malik Williams,R-Jr.,QB,6-0,205.0,"Atlanta, Ga. / U.S. Military Academy Preparatory",,,
-14,,7.0,Dervon Pesnell,R-Jr.,WR,6-4,205.0,"Moncks Corner, S.C. / Berkeley HS",,,
-15,,7.0,Edric Weldon,Fr.,CB,6-5,210.0,"Miami, Fla. / South Broward HS",,,
-16,,8.0,Brandon Fitez,Jr.,WR,5-7,170.0,"Altamonte Springs, Fla. / The Master's Academy",,,
-17,,8.0,C.J. Smith,R-Sr.,S,6-1,195.0,"Jacksonville, Fla. / Fletcher HS / Minnesota",,,
-18,,9.0,Brevin Allen,R-Sr.,DL,6-4,265.0,"Greensboro, N.C. / Northeast Guilford HS",,,
-19,,9.0,"Chris McKay, Jr.",Jr.,RB,5-8,190.0,"Raleigh, N.C. / Trinity Christian School",,,
-20,,10.0,Ed Dennis,So.,CB,6-0,200.0,"Philadelphia, Pa. / Penn Wood HS / Monroe College",,,
-21,,10.0,Dylan Earney,R-Sr.,QB,6-4,195.0,"Charlotte, N.C. / Olympic HS",,,
-22,,11.0,Wiley Hartley,Jr.,QB,6-3,200.0,"Atlanta, Ga. / North Atlanta HS",,,
-23,,11.0,Xavier Kane,R-Jr.,S,6-0,190.0,"Christiansburg, Va. / Blue Ridge School",,,
-24,,12.0,Adam McIntosh,Fr.,QB,6-2,205.0,"Beaufort, N.C. / East Carteret HS",,,
-25,,12.0,Jack Wilkes,R-Jr.,LB,6-1,225.0,"Charlotte, N.C. / Providence HS",,,
-26,,13.0,Akim Sledge,Fr.,CB,6-1,165.0,"Colonial Heights, Va. / Life Christian Academy",,,
-27,,13.0,Hayden Smith,R-Jr.,QB,6-4,205.0,"Lillington, N.C. / Harnett Central HS",,,
-28,,14.0,Noah Caston,R-So.,S,5-9,190.0,"Sandusky, Ohio / Sandusky HS / Walsh / Bowling Green",,,
-29,,15.0,Matt Hampton,Gr.,TE,6-3,225.0,"Bailey, N.C. / Southern Nash HS",,,
-30,,16.0,Kadeem Leonard,R-Fr.,LB,6-3,230.0,"Fairmont, N.C. / Fairmont HS / UCF",,,
-31,,16.0,Tyquez Royal,R-So.,CB,6-1,175.0,"Fayetteville, N.C. / South View HS",,,
-32,,17.0,Taylor Behl,R-So.,LB,6-1,235.0,"Georgetown, Texas / Louisiana Monroe",,,
-33,,17.0,RJ Jackson,So.,WR,6-0,190.0,"Albemarle, N.C. / Anson HS",,,
-34,,18.0,Jared Gibble,R-Fr.,TE,6-4,235.0,"Winston-Salem, N.C. / Oak Grove HS / Virginia Tech",,,
-35,,18.0,Caleb LeGrand,Jr.,CB,6-0,175.0,"Charlotte, N.C. / Myers Park HS",,,
-36,,19.0,Logan Clark,Fr.,CB,6-2,160.0,"Bloomington, Ind. / Paul VI HS (N.J.)",,,
-37,,20.0,Monchovia Gaffney,R-Sr.,LB,6-2,230.0,"Whiteville, N.C. / Whiteville HS",,,
-38,,20.0,Michael Jamerson,So.,RB,6-0,200.0,"Flint, Mich. / Davison HS / Gila River JC",,,
-39,,21.0,NaQuari Rogers,Fr.,RB,6-0,205.0,"Virginia Beach, Va. / Portsmouth Christian",,,
-40,,21.0,Myles Rowser,Fr.,S,6-1,190.0,"Detroit, Mich. / Belleville HS",,,
-41,,22.0,Tai Goode,R-Jr.,RB,5-6,145.0,"Rochester, N.Y. / St. David's HS",,,
-42,,22.0,Peyton Woulard,R-Sr.,S,6-1,190.0,"Suwanee, Ga. / Collins Hill HS / Wake Forest",,,
-43,,23.0,Demitray Fields,R-Fr.,S,6-1,195.0,"Fort Lauderdale, Fla. / Fort Lauderdale HS",,,
-44,,24.0,D'Marcus Harrington,R-So.,CB,6-0,185.0,"Hamlet, N.C. / Richmond Senior HS",,,
-45,,25.0,Jeremiah Brown,R-Jr.,CB,6-0,190.0,"Tampa, Fla. / Tampa Bay Tech HS",,,
-46,,25.0,Jay Sams,Fr.,WR,6-0,160.0,"Austin, Texas / Dripping Springs HS",,,
-47,,26.0,DeAnte Jackson,R-Jr.,RB,6-2,205.0,"Beaufort, S.C. / Dixon HS",,,
-48,,26.0,Alston Orji,Gr.,LB,6-2,235.0,"Rockwall, Texas / Rockwall HS / Vanderbilt",,,
-49,,27.0,Idris Williams,Fr.,S,6-1,180.0,"Plant City, Fla. / Lakeland Christian",,,
-50,,28.0,Greg Streater,Gr.,S,5-11,195.0,"High Point, N.C. / High Point Christian",,,
-51,,29.0,Mike Swain,R-Fr.,S,5-10,180.0,"Fredericksburg, Va. / Massaponax HS",,,
-52,,30.0,Josh McNeely,Gr.,CB,5-8,160.0,"Charlotte, N.C. / South Mecklenburg HS",,,
-53,,30.0,Elijah Tidwell,R-Fr.,RB,5-8,195.0,"Ashburn, Va. / Independence HS",,,
-54,,31.0,Cole Parvin,R-Fr.,S,6-1,185.0,"Leesburg, Va. / Independence HS",,,
-55,,31.0,Corey Petersen,Gr.,P,6-1,220.0,"Traralgon, Australia / Monash University / Austin Peay",,,
-56,,32.0,Caleb Dowden,R-Sr.,K,5-11,175.0,"Statesboro, Ga. / Statesboro HS / Mercer",,,
-57,,32.0,Eric McDaniels,Fr.,LB,6-0,250.0,"Hopewell, Va. / Hopewell HS / Fork Union Military",,,
-58,,33.0,Melvin Davis,Jr.,WR,5-8,170.0,"Charlotte, N.C. / Mallard Creek HS",,,
-59,,33.0,Keshawn Thompson,Gr.,LB,6-1,225.0,"Hillsborough, N.C. / Orange HS",,,
-60,,34.0,CJ Tillman,So.,LB,6-0,235.0,"Rockingham, N.C. / Richmond Senior HS",,,
-61,,35.0,Ethan Quarshie,R-Jr.,DL,6-2,235.0,"Snellville, Ga. / Brookwood HS",,,
-62,,36.0,Phifer Ozimek,R-Jr.,CB,5-7,155.0,"Greenville, N.C. / J.H. Rose HS",,,
-63,,38.0,McKay Taylor,R-Sr.,K/P,5-8,185.0,"Montgomery, Ala. / Trinity Presbyterian School",,,
-64,,38.0,Ty Williams,R-Jr.,CB,6-0,150.0,"Montclair, N.J. / Montclair HS / Duquesne",,,
-65,,39.0,Jacob Abel,Gr.,K,6-1,225.0,"Goddard, Kan. / Goddard Eisenhower / Butler CC / McNeese",,,
-66,,39.0,Christian Hunter,R-Fr.,S,5-9,165.0,"Gastonia, N.C. / Mountain Island Charter",,,
-67,,40.0,Jackson Hayes,Gr.,LS,6-0,225.0,"Dillon, S.C. / Dillon HS",,,
-68,,42.0,Morgan Moulton,R-Fr.,LB,6-0,205.0,"Wilmington, N.C. / Hoggard HS",,,
-69,,42.0,Isaac Riffle,Jr.,K/P,6-0,190.0,"Mooresville, N.C. / Mooresville HS",,,
-70,,43.0,Logan Livermon,R-Fr.,LB,6-3,230.0,"Midlothian, Va. / Clover Hill HS",,,
-71,,44.0,Michael Bowles,R-So.,LS,5-9,195.0,"Augusta, Ga. / Aquinas HS",,,
-72,,44.0,Chris Jackson,Fr.,LB,6-2,215.0,"Toledo, Ohio / Central Catholic",,,
-73,,45.0,Alex Santiago,Sr.,TE,6-0,225.0,"Raleigh, N.C. / Millbrook HS",,,
-74,,46.0,Anthony Mauro,R-So.,TE,6-0,245.0,"Myrtle Beach, S.C. / Carolina Forest HS",,,
-75,,47.0,Samuel Watkins,R-Fr.,LS,6-0,250.0,"Kernersville, N.C. / East Forsyth HS",,,
-76,,48.0,Elias Foreman,R-Fr.,LB,6-0,210.0,"South Walton, Fla. / Vernon HS",,,
-77,,49.0,Samari Brooks,R-So.,LB,6-4,220.0,"Durham, N.C. / Jordan HS",,,
-78,,50.0,Quincy Jenkins,Jr.,OL,6-3,320.0,"Lawrenceville, Ga. / Brookwood HS",,,
-79,,50.0,LucRichard Rameau,R-Fr.,DL,6-2,230.0,"Rolesville, N.C. / Episcopal / Army West Point",,,
-80,,51.0,Ron Olsen,R-Jr.,LB,6-0,210.0,"Eure, N.C. / Gates County HS",,,
-81,,53.0,Prince Ngwenah,Gr.,DL,6-5,260.0,"Charlotte, N.C. / Harding University HS",,,
-82,,54.0,Asa Johnson,Fr.,DL,5-11,260.0,"Fort Mill, S.C. / Catawba Ridge HS",,,
-83,,55.0,Desaun Williams,Fr.,OL,6-4,315.0,"Bethel, N.C. / Life Christian Academy (Va.)",,,
-84,,56.0,Ryan Young,R-Fr.,OL,6-3,300.0,"Snellville, Ga. / Brookwood HS",,,
-85,,58.0,Isaiah Sumner,R-So.,OL,6-2,305.0,"Pink Hill, N.C. / East Duplin HS",,,
-86,,59.0,MarQuis Roberts,Fr.,LB,6-1,220.0,"Washington, D.C. / Flint Hill HS",,,
-87,,60.0,Steven Mirabile,Fr.,LS,5-10,240.0,"Garden City Park, N.Y. / New Hyde Park Memorial",,,
-88,,62.0,Austin Blake,R-Sr.,OL,6-3,295.0,"Dacula, Ga. / Buford HS",,,
-89,,63.0,Juan Claros,Gr.,OL,6-3,300.0,"Orlando, Fla. / Lake Howell HS",,,
-90,,64.0,Bryce Jones,Fr.,OL,-,,/,,,
-91,,65.0,Joshua Noble,Fr.,OL,6-5,285.0,"Mount Ulla, N.C. / West Rowan HS",,,
-92,,66.0,Dadley Louis,R-Sr.,OL,6-6,310.0,"Delray Beach, Fla. / Atlantic HS / ETSU",,,
-93,,67.0,Adler Mompremier,Jr.,OL,6-6,320.0,"Miami, Fla. / North Miami Senior HS / Reedley CC",,,
-94,,68.0,LeDell Finister,Fr.,OL,6-6,340.0,"New Orleans, La. / Creekside HS",,,
-95,,70.0,Caleb Perez,Jr.,OL,6-6,265.0,"Mount Dora, Fla. / Bishop Moore Catholic HS",,,
-96,,71.0,Isaiah Burch,Gr.,OL,6-4,335.0,"Marion, N.C. / McDowell HS",,,
-97,,72.0,Dante Jones,R-So.,OL,6-5,285.0,"Jacksonville, N.C. / Northside HS",,,
-98,,73.0,Cooper Wilson,Fr.,OL,6-2,300.0,"Hendersonville, N.C. / Hendersonville HS",,,
-99,,75.0,Mike Edwards,R-Sr.,OL,6-7,355.0,"Hope Mills, N.C. / South View HS / Wake Forest",,,
-100,,76.0,Mahlon Dyer,R-Fr.,OL,6-4,305.0,"Camden, Del. / Caesar Rodney HS",,,
-101,,77.0,Tyler McLellan,Gr.,OL,6-8,355.0,"North Charleston, S.C. / Fort Dorchester HS",,,
-102,,78.0,Molik Mason,Fr.,OL,6-8,320.0,"Auburn, Ala. / Auburn HS",,,
-103,,80.0,Elijah Harris,Fr.,WR,5-10,160.0,"Culpeper County, Va. / Culpeper County HS",,,
-104,,81.0,Shannon Henry,Fr.,WR,6-3,205.0,"Eureka, Calif. / Life Christian Academy",,,
-105,,82.0,VJ Wilkins,Fr.,WR,5-10,160.0,"Pfafftown, N.C. / Reagan HS",,,
-106,,83.0,Luke Sutton,R-So.,WR,5-8,170.0,"Concord, N.C. / Cox Mill HS / Western Carolina",,,
-107,,84.0,Davyn Reid,Fr.,WR,5-10,170.0,"Mooresville, N.C. / Mooresville HS",,,
-108,,85.0,Julian Hill,Gr.,TE,6-4,250.0,"Fayetteville, N.C. / Pine Forest HS",,,
-109,,86.0,Zane Noles,R-Jr.,WR,5-9,180.0,"Greenville, N.C. / J.H. Rose HS",,,
-110,,86.0,Connor Williams,Fr.,LS,5-10,190.0,McDonough Ga. / Union Grove HS,,,
-111,,87.0,Tyler Rekdal,Fr.,TE,6-6,250.0,"Woodbridge, Va. / Hylton HS",,,
-112,,88.0,Austin Hite,Gr.,WR,6-2,195.0,"Goldsboro, N.C. / Eastern Wayne HS / Monmouth College",,,
-113,,89.0,Chaney Fitzgerald,Fr.,WR,5-10,190.0,"Kernersville, N.C. / Glenn HS",,,
-114,,90.0,JT Whitmore,Jr.,DL,6-3,250.0,"Charlotte, N.C. / Mallard Creek HS",,,
-115,,92.0,Dre Giles,Gr.,DL,6-3,290.0,"Richmond, Va. / Meadowbrook HS",,,
-116,,94.0,DJ Jackson,R-Sr.,DL,6-0,330.0,"Atlanta, Ga. / Hapeville Charter HS / Eastern Michigan",,,
-117,,95.0,Paul Hutson III,Fr.,DL,6-1,295.0,"Norfolk, Va. / IMG Academy (Fla.)",,,
-118,,96.0,Ethan Rennels,R-Fr.,DL,6-3,330.0,"Boiling Springs, S.C. / Boiling Springs HS",,,
-119,,97.0,Jorell Baum,R-Jr.,DL,6-4,250.0,"Elizabeth City, N.C. / Northeastern HS / Old Dominion",,,
-120,,98.0,Josh Lyles,R-Fr.,DL,6-1,265.0,"Altamonte Springs, Fla. / Seminole HS",,,
-121,,99.0,Gabe Holmes,Gr.,DL,6-3,290.0,"Tarpon Springs, Fla. / East Lake HS",,,
-0,,,,,,,,,,Mike Minter,Head Coach
-1,,,,,,,,,,Steven Williams,Assistant Head Coach / Special Teams Coordinator
-2,,,,,,,,,,Arturo Freeman,Co-Defensive Coordinator / Safeties
-3,,,,,,,,,,Patrick Miller,Co-Defensive Coordinator
-4,,,,,,,,,,Anthony Weeden,Offensive Coordinator / Wide Receivers
-5,,,,,,,,,,Damien Adams,GM / Transfer Personnel / Defensive Line
-6,,,,,,,,,,Famika Anae,Offensive Line
-7,,,,,,,,,,Dee Brown,Quarterbacks / Running Backs
-8,,,,,,,,,,Matt Chiappelli,Linebackers / Recruiting Coordinator
-9,,,,,,,,,,Jacob Cuddington,Tight Ends
-10,,,,,,,,,,Pierce Graham,Offensive Graduate Assistant
-11,,,,,,,,,,Austin Blake,Offensive Graduate Assistant
-12,,,,,,,,,,Josh Spicely,Defensive Quality Control
-13,,,,,,,,,,Josh Evans,Offensive Quality Control
-0,,,,,,,,,,Kady Knight,Director of Football Operations / Pro Liaison
-1,,,,,,,,,,Emma Sheppard,Assistant Director of Football Operations
-2,,,,,,,,,,Mark Spellman,"Director of Strength & Conditioning, Head Football Strength & Conditioning Coach"
-3,,,,,,,,,,Desmond Johnson,Assistant Director of Football Strength & Conditioning
-4,,,,,,,,,,Jackie Knight,"Director of Athletic Training (Football, Baseball)"
-5,,,,,,,,,,JP Roseman,"Assistant Athletic Trainer (Football, Women's Lacrosse)"
-6,,,,,,,,,,Tanner Bos,Graduate Assistant Athletic Trainer (Football)
-7,,,,,,,,,,Brooke Deeringer,"Graduate Assistant Athletic Trainer (Football, Cheerleading)"
-8,,,,,,,,,,Jeff Campbell,Head Equipment Manger
-9,,,,,,,,,,Brad Dennis,Director of Video Operations
-10,,,,,,,,,,Caleb Vick,Assistant Director of Video Operations
-11,,,,,,,,,,Ernest Toh,Social Media Coordinator
-12,,,,,,,,,,Hannah Carol,Social Media Coordinator
+,Statistic,#,Full Name,Class,Pos.,Ht.,Wt.,Hometown / High School,Current School Name,Image,Name,Title
+0,,0.0,Ezeriah Anderson,R-Sr.,WR,6-5,210.0,"Seffner, Fla. / Armwood HS / Iowa State",Campbell,,,
+1,,1.0,Lamagea McDowell,Sr.,RB,6-2,230.0,"Gastonia, N.C. / Hunter Huss HS",Campbell,,,
+2,,2.0,Justice Galloway-Velazquez,Gr.,LB,6-2,265.0,"Fayetteville, N.C. / Cape Fear HS",Campbell,,,
+3,,2.0,"Chad Mascoe, Jr.",R-Fr.,QB,6-1,210.0,"Kissimmee, Fla. / Osceola HS",Campbell,,,
+4,,5.0,Jalen Kelsey,Gr.,WR,6-2,180.0,"Gainesville, Fla. / Gainesville HS",Campbell,,,
+5,,6.0,Jayden Chalmers,R-So.,CB,6-0,165.0,"Sanford, N.C. / Lee County HS / East Carolina",Campbell,,,
+6,,6.0,Hajj-Malik Williams,R-Sr.,QB,6-0,205.0,"Atlanta, Ga. / U.S. Military Academy Preparatory",Campbell,,,
+7,,7.0,Edric Weldon,R-Fr.,CB,6-5,210.0,"Miami, Fla. / South Broward HS",Campbell,,,
+8,,8.0,Brandon Fitez,Sr.,WR,5-7,170.0,"Altamonte Springs, Fla. / The Master's Academy",Campbell,,,
+9,,8.0,C.J. Smith,Gr.,S,6-1,195.0,"Jacksonville, Fla. / Fletcher HS / Minnesota",Campbell,,,
+10,,9.0,"Chris McKay, Jr.",Sr.,RB,5-8,190.0,"Raleigh, N.C. / Trinity Christian School",Campbell,,,
+11,,10.0,Ed Dennis,Jr.,CB,6-0,200.0,"Philadelphia, Pa. / Penn Wood HS / Monroe College",Campbell,,,
+12,,10.0,Dylan Earney,Gr.,QB,6-4,195.0,"Charlotte, N.C. / Olympic HS",Campbell,,,
+13,,11.0,Wiley Hartley,R-Jr.,QB,6-3,200.0,"Atlanta, Ga. / North Atlanta HS",Campbell,,,
+14,,11.0,Xavier Kane,R-Sr.,S,6-0,190.0,"Christiansburg, Va. / Blue Ridge School",Campbell,,,
+15,,12.0,Adam McIntosh,R-Fr.,QB,6-2,205.0,"Beaufort, N.C. / East Carteret HS",Campbell,,,
+16,,12.0,Jack Wilkes,R-Sr.,LB,6-1,225.0,"Charlotte, N.C. / Providence HS",Campbell,,,
+17,,13.0,Akim Sledge,So.,CB,6-1,165.0,"Colonial Heights, Va. / Life Christian Academy",Campbell,,,
+18,,14.0,Noah Caston,R-Jr.,S,5-9,190.0,"Sandusky, Ohio / Sandusky HS / Walsh / Bowling Green",Campbell,,,
+19,,16.0,Kadeem Leonard,R-So.,LB,6-3,230.0,"Fairmont, N.C. / Fairmont HS / UCF",Campbell,,,
+20,,16.0,Tyquez Royal,R-Jr.,CB,6-1,175.0,"Fayetteville, N.C. / South View HS",Campbell,,,
+21,,17.0,Taylor Behl,R-Jr.,LB,6-1,235.0,"Georgetown, Texas / Louisiana Monroe",Campbell,,,
+22,,17.0,RJ Jackson,Jr.,WR,6-0,190.0,"Albemarle, N.C. / Anson HS",Campbell,,,
+23,,18.0,Jared Gibble,R-So.,TE,6-4,235.0,"Winston-Salem, N.C. / Oak Grove HS / Virginia Tech",Campbell,,,
+24,,20.0,Monchovia Gaffney,Gr.,LB,6-2,230.0,"Whiteville, N.C. / Whiteville HS",Campbell,,,
+25,,20.0,Michael Jamerson,R-So.,RB,6-0,200.0,"Flint, Mich. / Davison HS / Gila River JC",Campbell,,,
+26,,21.0,NaQuari Rogers,So.,RB,6-0,205.0,"Virginia Beach, Va. / Portsmouth Christian",Campbell,,,
+27,,21.0,Myles Rowser,So.,S,6-1,190.0,"Detroit, Mich. / Belleville HS",Campbell,,,
+28,,22.0,Tai Goode,R-Sr.,RB,5-6,145.0,"Rochester, N.Y. / St. David's HS",Campbell,,,
+29,,22.0,Peyton Woulard,Gr.,S,6-1,190.0,"Suwanee, Ga. / Collins Hill HS / Wake Forest",Campbell,,,
+30,,23.0,Demitray Fields,R-So.,S,6-1,195.0,"Fort Lauderdale, Fla. / Fort Lauderdale HS",Campbell,,,
+31,,24.0,D'Marcus Harrington,R-Jr.,CB,6-0,185.0,"Hamlet, N.C. / Richmond Senior HS",Campbell,,,
+32,,25.0,Jeremiah Brown,R-Sr.,CB,6-0,190.0,"Tampa, Fla. / Tampa Bay Tech HS",Campbell,,,
+33,,25.0,Jay Sams,R-Fr.,WR,6-0,160.0,"Austin, Texas / Dripping Springs HS",Campbell,,,
+34,,27.0,Idris Williams,R-Fr.,S,6-1,180.0,"Plant City, Fla. / Lakeland Christian",Campbell,,,
+35,,31.0,Cole Parvin,R-So.,S,6-1,185.0,"Leesburg, Va. / Independence HS",Campbell,,,
+36,,32.0,Caleb Dowden,Gr.,K,5-11,175.0,"Statesboro, Ga. / Statesboro HS / Mercer",Campbell,,,
+37,,33.0,Melvin Davis,Sr.,WR,5-8,170.0,"Charlotte, N.C. / Mallard Creek HS",Campbell,,,
+38,,34.0,CJ Tillman,Jr.,LB,6-0,235.0,"Rockingham, N.C. / Richmond Senior HS",Campbell,,,
+39,,35.0,Ethan Quarshie,R-Sr.,DL,6-2,235.0,"Snellville, Ga. / Brookwood HS",Campbell,,,
+40,,39.0,Jacob Abel,Gr.,K,6-1,225.0,"Goddard, Kan. / Goddard Eisenhower / Butler CC / McNeese",Campbell,,,
+41,,39.0,Christian Hunter,R-So.,S,5-9,165.0,"Gastonia, N.C. / Mountain Island Charter",Campbell,,,
+42,,42.0,Morgan Moulton,R-So.,LB,6-0,205.0,"Wilmington, N.C. / Hoggard HS",Campbell,,,
+43,,43.0,Logan Livermon,R-So.,LB,6-3,230.0,"Midlothian, Va. / Clover Hill HS",Campbell,,,
+44,,44.0,Michael Bowles,R-Jr.,LS,5-9,195.0,"Augusta, Ga. / Aquinas HS",Campbell,,,
+45,,44.0,Chris Jackson,R-Fr.,LB,6-2,215.0,"Toledo, Ohio / Central Catholic",Campbell,,,
+46,,45.0,Alex Santiago,Gr.,TE,6-0,225.0,"Raleigh, N.C. / Millbrook HS",Campbell,,,
+47,,46.0,Anthony Mauro,R-Jr.,TE,6-0,245.0,"Myrtle Beach, S.C. / Carolina Forest HS",Campbell,,,
+48,,47.0,Samuel Watkins,R-So.,LS,6-0,250.0,"Kernersville, N.C. / East Forsyth HS",Campbell,,,
+49,,48.0,Elias Foreman,R-So.,LB,6-0,210.0,"South Walton, Fla. / Vernon HS",Campbell,,,
+50,,49.0,Samari Brooks,R-Jr.,LB,6-4,220.0,"Durham, N.C. / Jordan HS",Campbell,,,
+51,,50.0,Quincy Jenkins,Sr.,OL,6-3,320.0,"Lawrenceville, Ga. / Brookwood HS",Campbell,,,
+52,,50.0,LucRichard Rameau,R-So.,DL,6-2,230.0,"Rolesville, N.C. / Episcopal / Army West Point",Campbell,,,
+53,,54.0,Asa Johnson,R-Fr.,DL,5-11,260.0,"Fort Mill, S.C. / Catawba Ridge HS",Campbell,,,
+54,,55.0,Desaun Williams,R-Fr.,OL,6-4,315.0,"Bethel, N.C. / Life Christian Academy (Va.)",Campbell,,,
+55,,56.0,Ryan Young,R-So.,OL,6-3,300.0,"Snellville, Ga. / Brookwood HS",Campbell,,,
+56,,59.0,MarQuis Roberts,R-Fr.,LB,6-1,220.0,"Washington, D.C. / Flint Hill HS",Campbell,,,
+57,,60.0,Steven Mirabile,R-Fr.,LS,5-10,240.0,"Garden City Park, N.Y. / New Hyde Park Memorial",Campbell,,,
+58,,64.0,Bryce Jones,R-Fr.,OL,-,,/,Campbell,,,
+59,,65.0,Joshua Noble,So.,OL,6-5,285.0,"Mount Ulla, N.C. / West Rowan HS",Campbell,,,
+60,,68.0,LeDell Finister,R-Fr.,OL,6-6,340.0,"New Orleans, La. / Creekside HS",Campbell,,,
+61,,70.0,Caleb Perez,R-Jr.,OL,6-6,265.0,"Mount Dora, Fla. / Bishop Moore Catholic HS",Campbell,,,
+62,,71.0,Isaiah Burch,Gr.,OL,6-4,335.0,"Marion, N.C. / McDowell HS",Campbell,,,
+63,,72.0,Dante Jones,R-Jr.,OL,6-5,285.0,"Jacksonville, N.C. / Northside HS",Campbell,,,
+64,,73.0,Cooper Wilson,R-Fr.,OL,6-2,300.0,"Hendersonville, N.C. / Hendersonville HS",Campbell,,,
+65,,75.0,Mike Edwards,Gr.,OL,6-7,355.0,"Hope Mills, N.C. / South View HS / Wake Forest",Campbell,,,
+66,,76.0,Mahlon Dyer,R-So.,OL,6-4,305.0,"Camden, Del. / Caesar Rodney HS",Campbell,,,
+67,,77.0,Tyler McLellan,Gr.,OL,6-8,355.0,"North Charleston, S.C. / Fort Dorchester HS",Campbell,,,
+68,,78.0,Molik Mason,R-Fr.,OL,6-8,320.0,"Auburn, Ala. / Auburn HS",Campbell,,,
+69,,80.0,Elijah Harris,R-Fr.,WR,5-10,160.0,"Culpeper County, Va. / Culpeper County HS",Campbell,,,
+70,,81.0,Shannon Henry,R-Fr.,WR,6-3,205.0,"Eureka, Calif. / Life Christian Academy",Campbell,,,
+71,,82.0,VJ Wilkins,R-Fr.,WR,5-10,160.0,"Pfafftown, N.C. / Reagan HS",Campbell,,,
+72,,83.0,Luke Sutton,R-Jr.,WR,5-8,170.0,"Concord, N.C. / Cox Mill HS / Western Carolina",Campbell,,,
+73,,84.0,Davyn Reid,R-Fr.,WR,5-10,170.0,"Mooresville, N.C. / Mooresville HS",Campbell,,,
+74,,87.0,Tyler Rekdal,R-Fr.,TE,6-6,250.0,"Woodbridge, Va. / Hylton HS",Campbell,,,
+75,,89.0,Chaney Fitzgerald,So.,WR,5-10,190.0,"Kernersville, N.C. / Glenn HS",Campbell,,,
+76,,90.0,JT Whitmore,Sr.,DL,6-3,250.0,"Charlotte, N.C. / Mallard Creek HS",Campbell,,,
+77,,94.0,DJ Jackson,Gr.,DL,6-0,330.0,"Atlanta, Ga. / Hapeville Charter HS / Eastern Michigan",Campbell,,,
+78,,95.0,Paul Hutson III,So.,DL,6-1,295.0,"Norfolk, Va. / IMG Academy (Fla.)",Campbell,,,
+79,,97.0,Jorell Baum,R-Sr.,DL,6-4,250.0,"Elizabeth City, N.C. / Northeastern HS / Old Dominion",Campbell,,,
+80,,,Donta Armstrong,Fr.,,-,,/,Campbell,,,
+81,,,Keevan Bailey,Fr.,,-,,/,Campbell,,,
+82,,,Baraka Beckett,Fr.,,-,,/,Campbell,,,
+83,,,Ryan Bullard,Fr.,,-,,/,Campbell,,,
+84,,,Marquez Casey,Fr.,,-,,/,Campbell,,,
+85,,,Bobby Clearly,Fr.,,-,,/,Campbell,,,
+86,,,Tyler Feldkamp,Fr.,,-,,/,Campbell,,,
+87,,,Isaiah Greene,Fr.,,-,,/,Campbell,,,
+88,,,Elijah Hawk,Fr.,,-,,/,Campbell,,,
+89,,,Javonte Kinsey,Fr.,,-,,/,Campbell,,,
+90,,,Tre Moore,Fr.,,-,,/,Campbell,,,
+91,,,Joseph Pace,Fr.,,-,,/,Campbell,,,
+92,,,Jasiah Provillon,Fr.,,-,,/,Campbell,,,
+93,,,Lakeem Rudolph,Fr.,,-,,/,Campbell,,,
+94,,,Antoine Sampah,Fr.,,-,,/,Campbell,,,
+95,,,Jonathan Streeter,Fr.,,-,,/,Campbell,,,
+96,,,George Wilson,Fr.,,-,,/,Campbell,,,
+0,,,,,,,,,Campbell,,Mike Minter,Head Coach
+1,,,,,,,,,Campbell,,Steven Williams,Assistant Head Coach / Special Teams Coordinator
+2,,,,,,,,,Campbell,,Arturo Freeman,Co-Defensive Coordinator / Safeties
+3,,,,,,,,,Campbell,,Patrick Miller,Co-Defensive Coordinator
+4,,,,,,,,,Campbell,,Anthony Weeden,Offensive Coordinator / Wide Receivers
+5,,,,,,,,,Campbell,,Damien Adams,GM / Transfer Personnel / Defensive Line
+6,,,,,,,,,Campbell,,Famika Anae,Offensive Line
+7,,,,,,,,,Campbell,,Dee Brown,Quarterbacks / Running Backs
+8,,,,,,,,,Campbell,,Matt Chiappelli,Linebackers / Recruiting Coordinator
+9,,,,,,,,,Campbell,,Jacob Cuddington,Tight Ends
+10,,,,,,,,,Campbell,,Pierce Graham,Offensive Graduate Assistant
+11,,,,,,,,,Campbell,,Austin Blake,Offensive Graduate Assistant
+12,,,,,,,,,Campbell,,Josh Spicely,Defensive Quality Control
+13,,,,,,,,,Campbell,,Josh Evans,Offensive Quality Control
+0,,,,,,,,,Campbell,,Kady Knight,Director of Football Operations / Pro Liaison
+1,,,,,,,,,Campbell,,Emma Sheppard,Assistant Director of Football Operations
+2,,,,,,,,,Campbell,,Mark Spellman,"Director of Strength & Conditioning, Head Football Strength & Conditioning Coach"
+3,,,,,,,,,Campbell,,Desmond Johnson,Assistant Director of Football Strength & Conditioning
+4,,,,,,,,,Campbell,,Jackie Knight,"Director of Athletic Training (Football, Baseball)"
+5,,,,,,,,,Campbell,,JP Roseman,"Assistant Athletic Trainer (Football, Women's Lacrosse)"
+6,,,,,,,,,Campbell,,Tanner Bos,Graduate Assistant Athletic Trainer (Football)
+7,,,,,,,,,Campbell,,Brooke Deeringer,"Graduate Assistant Athletic Trainer (Football, Cheerleading)"
+8,,,,,,,,,Campbell,,Jeff Campbell,Head Equipment Manger
+9,,,,,,,,,Campbell,,Brad Dennis,Director of Video Operations
+10,,,,,,,,,Campbell,,Caleb Vick,Assistant Director of Video Operations
+11,,,,,,,,,Campbell,,Ernest Toh,Social Media Coordinator
+12,,,,,,,,,Campbell,,Hannah Carol,Social Media Coordinator

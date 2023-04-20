@@ -1,89 +1,88 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Previous School,Image,Title
-0,,0.0,Rosendo Louis,LB,6-2,240.0,Gr.,"Pompano Beach, Fla. / Deerfield Beach HS",Deerfield Beach HS,,
-1,,1.0,Omari Hill-Robinson,CB,5-10,160.0,5th,"Fort Lauderdale, Fla. / Dillard HS",,,
-2,,2.0,Reyan Blake,SAF,5-11,200.0,Jr.,"Pahokee, Fla. / Seminole Ridge HS",Connecticut,,
-3,,2.0,Marcus Riley,WR,5-10,170.0,R-Sr.,"Tallahassee, Fla. / Rickards HS",Louisville,,
-4,,5.0,Jaquan Jackson,CB,6-3,180.0,R-So.,"Dothan, Ala. / Dothan HS",Southeast Missouri State,,
-5,,6.0,Jimmie Robinson III,RB,5-7,175.0,R-Sr.,"Hastings, Fla. / Flagler Palm Coast HS",,,
-6,,7.0,Ge'Mon Eaford,LB,6-2,220.0,R-Jr.,"Pompano Beach, Fla. / Deerfield Beach HS",Oregon,,
-7,,8.0,Devuntray Hampton,SAF,5-10,180.0,R-Sr.,"Pahokee, Fla. / Pahokee HS",Palmetto Prep,,
-8,,8.0,Dylaan Lee,WR,6-0,185.0,Gr.,"West Palm Beach, FLA. / William T. Dwyer HS",Moorpark College,,
-9,,10.0,Kahlil Overton,TE,6-5,230.0,R-Jr.,"Dallas, Texas / Episcopal HS",Florida International,,
-10,,11.0,Cameron Overton,WR,6-3,180.0,R-Jr.,"Dallas, Texas / Episcopal HS",Florida International,,
-11,,12.0,Dacarri Allen-Johnson,WR,5-7,170.0,Jr.,"Orlando, Fla. / Jones HS",,,
-12,,13.0,Daveno Ellington,WR,6-0,175.0,R-Jr.,"Panama City, Fla. / Mosley HS",,,
-13,,14.0,Jerrold Pough,CB,6-0,180.0,R-So.,"Hollywood, Fla. / McArthur HS",Cisco College,,
-14,,15.0,Tyrone Franklin Jr.,QB,6-2,180.0,R-So.,"Montgomery, Ala / Robert E. Lee HS",,,
-15,,16.0,Nebanye Moore,QB,6-2,215.0,R-Fr.,"Statesville, N.C. / Statesville HS",Palmetto Prep,,
-16,,16.0,Joshua Thornhill,FS,6-0,175.0,R-So.,"Liberty Township, Ohio / Lakota East HS",,,
-17,,17.0,Amarie Jones,LB,6-2,225.0,Jr.,"Ruskin, Fla. / Lennard HS",,,
-18,,17.0,Walter Simmons,QB,6-2,200.0,R-So.,"Orange Park, Fla. / Oakleaf HS",East Carolina,,
-19,,19.0,Ethan Dattilio,QB,6-4,210.0,R-Fr.,"Palm Coast, Fla. / Matanzas HS",Fort Scott CC,,
-20,,19.0,Adrian Hall,DE,6-1,280.0,R-So.,"Rockledge, Fla. / Rockledge HS",Tennessee Tech,,
-21,,23.0,Uriah Ratliff,SS,5-10,175.0,R-Jr.,"Jacksonville, Fla. / Raines HS",,,
-22,,24.0,Darnell Deas,SAF,5-10,175.0,So.,"Pompano Beach, Fla / Blanche Ely HS",,,
-23,,25.0,Terry Lindsey,RB,5-11,185.0,R-So.,"Ft. Myers, Fla / Evangelical Christian",,,
-24,,26.0,James Evans,RB,5-11,210.0,R-Fr.,"Tampa, Fla. / Tampa Bay Tech",,,
-25,,26.0,Caleb Sutherland,CB,6-0,187.0,Gr.,"Seffner, Fla. / Armwood HS",Toledo,,
-26,,30.0,Jalen Christian,SS,5-10,180.0,Jr.,"Lakeland, Fla. / Lakeland HS",,,
-27,,31.0,Benjamin Chombe,SAF,6-0,190.0,Gr.,"Ottawa, Ont. / Episcopal HS",Advance Prep,,
-28,,31.0,Deshaun Davis,LB,6-1,215.0,Jr.,"Jacksonville, Fla. / Mandarin HS",Florida International,,
-29,,32.0,Isiaiah Doby,WR,5-8,170.0,R-Fr.,"Tampa, Fla. / Bloomingdale HS",,,
-30,,35.0,Devin Harrell,LB,5-11,205.0,Jr.,"Tallahassee, Fla. / Chiles HS",Laney College,,
-31,,35.0,Aaron Thompson,RB,5-9,180.0,Gr.,"Orlando, Fla. / Jones HS",,,
-32,,37.0,Anthony Griffin,CB,6-1,175.0,R-Fr.,"Hampton, Ga. / Mundy Hills HS",,,
-33,,40.0,Deontrez McLamb,LB,6-0,240.0,R-Fr.,"Pensacola, Fla. / Pine Forest HS",,,
-34,,41.0,Clayton Thomas,DL,6-2,225.0,R-Jr.,"Jacksonville, Fla. / Trinity HS",Eastern Kentucky,,
-35,,43.0,Saim Sigh Safdar,LB,6-2,225.0,R-Fr.,"Harlem, N.Y. / Ridgefield Park HS",New Haven,,
-36,,45.0,Anthony Frederique,K/P,5-10,185.0,R-So.,"Tampa, Fla. / Tampa Catholic",Troy,,
-37,,46.0,Conroy Cunningham II,DL,6-3,220.0,R-Jr.,"West Palm Beach, Fla / Palm Beach Lakes HS",,,
-38,,47.0,Derrick Sinegal,LB,6-0,210.0,R-So.,"Kingsland, Ga / Camden County HS",,,
-39,,48.0,Eddie Walls III,DL,6-3,225.0,R-So.,"Ft. Myers, Fla / South Ft. Myers HS",,,
-40,,49.0,Ja’Bari Jaudon,CB,6-0,175.0,Sr.,"Jacksonville, Fla. / Ribault HS",Florida A&M,,
-41,,51.0,Christopher Grant,DT,6-4,300.0,R-Jr.,"Jonesboro, Ga. / Tri-Cities HS",Fort Scott CC,,
-42,,52.0,Darius Baker,OL,6-2,230.0,Sr.,"Orlando, Fla. / Oak Ridge HS",Chaffey College,,
-43,,57.0,Reginald Pearson,DT,6-3,290.0,R-Jr.,"Montgomery, Ala. / Robert E. Lee HS",Georgia Military College,,
-44,,60.0,Ace McKinnis,LS,5-10,175.0,So.,"Grahowellnd Island, Neb. / Grand Island Senior HS",Hutchinson CC,,
-45,,62.0,Kyler Edwards,OL,6-4,290.0,R-Jr.,"Tampa, Fla. / Tampa Middleton HS",,,
-46,,70.0,Desmond Daniels,OL,6-5,290.0,R-So.,"Atlanta, Ga. / Langston Hughes HS",Louisville,,
-47,,73.0,Arthur Channelor,OL,6-5,330.0,R-Jr.,"Queens, N.Y. / Eagle Academy",Nassau CC,,
-48,,75.0,Anthony Haplin,OL,6-3,300.0,R-Jr.,"Farmingdale, N.Y. / Halfhollow Hills HS",Nassau CC,,
-49,,79.0,Darius Baker,OL,6-3,315.0,R-Fr.,"Orlando, Fla. / Jones HS",,,
-50,,79.0,Antuan Wells,OL,6-3,315.0,R-Fr.,"Orlando, Fla. / Jones HS",,,
-51,,80.0,Ryan Gayle,WR,6-1,185.0,Fr.,"Coral Springs, Fla. / Avant Garde HS",,,
-52,,81.0,Justyz Tuggle,WR,5-9,180.0,So.,"Detroit, Mich. / Detroit Central HS",,,
-53,,82.0,Jalen Jackson,WR,6-0,185.0,R-Fr.,"Sterling, Va. / Potomac Falls HS",,,
-54,,83.0,Jaquan Haynes,WR,5-10,165.0,Fr.,"Plantation, Fla. / Plantation HS",,,
-55,,87.0,DeWayne Wakefield,TE,6-3,240.0,So.,"Jacksonville, Fla. / Riverside HS",,,
-56,,88.0,Kevin Deceus,WR,6-2,180.0,Fr.,"Florida City, Fla. / Jones HS",,,
-57,,91.0,Nicholai Daniel,K,6-2,200.0,So.,"Dacula, Ga. / Dacula HS",,,
-58,,92.0,Judas McKenzie,DL,6-2,270.0,R-Sr.,"Ft. Myers, Fla. / Dunbar HS",,,
-59,,95.0,Frank Wilson,DT,6-4,280.0,So.,"St. Louis, Mo. / East St. Louis HS",,,
-60,,96.0,Mason Hall,DT,6-3,295.0,Jr.,"Powder Springs, Ga. / McEachern HS",,,
-61,,98.0,Jessie Alincy,DT,6-0,300.0,So.,"Ft. Lauderdale, Fla. / Deerfield Beach HS",,,
-62,,,Jaiden Bivens,RB,5-10,175.0,So.,"Tampa, Fla. / Cambridge Christian HS",,,
-63,,,Christopher Dillihay,WR,5-10,170.0,Fr.,"Montgomery, Ala. / Robert E. Lee HS",,,
-64,,,Jimmy Greaves Jr.,LB,6-0,221.0,Fr.,"Clewiston, Fla. / Clewiston HS",,,
-65,,,Trevaris Hammond,OL,6-3,265.0,So.,"Decatur, Ga. / Columbia HS",Missouri Valley College,,
-66,,,Jordan Johnson,CB,6-0,185.0,Fr.,"Cedartown, Ga. / Cedartown HS",,,
-67,,,Louis Kirchgessner,WR,6-0,160.0,Jr.,"Tampa, Fla. / Robinson HS",,,
-68,,,Christian Loving,OL,6-3,245.0,R-So.,"Hamilton, Ala. / Hamilton HS",Catawba,,
-69,,,Dominiq Ponder,QB,6-5,205.0,Fr.,"/ Naples, Fla.",Myrtle Beach Collegiate Academy (S.C.),,
-70,,,Omari Stewart,WR,5-8,155.0,Fr.,"Sharpsburg, Ga. / Trinity Christian HS",,,
-0,,,Raymond Woodie Jr.,,,,,,,,Head Coach
-1,,,DJ McCarthy,,,,,,,,Assistant Head Coach / Special Teams Coordinator / Tight Ends
-2,,,Robert Wimberly,,,,,,,,Defensive Coordinator / Linebackers
-3,,,Joe Gerbino,,,,,,,,Co-Offensive Coordinator / Quarterbacks
-4,,,Donte’ Pimpleton,,,,,,,,Co-Offensive Coordinator / Running Backs
-5,,,David Stuckman,,,,,,,,Pass Game Coordinator / Safeties
-6,,,Nick Collins,,,,,,,,Cornerbacks
-7,,,Brandon Washington,,,,,,,,Offensive Line
-8,,,Demetrius Coley,,,,,,,,Defensive Line
-9,,,Tavarius Jackson,,,,,,,,Nickels / Outside Linebackers
-10,,,Chad Lucas,,,,,,,,Wide Receivers
-0,,,Shelton Gaffney,,,,,,,,Football Strength & Conditioning
-1,,,Jeff Fagan,,,,,,,,General Manager
-2,,,Tim Weston,,,,,,,,Director of Football Operations
-3,,,Myron Dillard,,,,,,,,Director of Recruiting
-4,,,Rickey Layman,,,,,,,,Director of Football Video
-5,,,Jean Dessein,,,,,,,,Operations Assistant / Analyst (Defense)
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Current School Name,Previous School,Image,Title
+0,,0.0,Rosendo Louis,LB,6-2,240.0,Gr.,"Pompano Beach, Fla. / Deerfield Beach HS",Bethune-Cookman,Deerfield Beach HS,,
+1,,1.0,Omari Hill-Robinson,CB,5-10,160.0,5th,"Fort Lauderdale, Fla. / Dillard HS",Bethune-Cookman,,,
+2,,2.0,Reyan Blake,SAF,5-11,200.0,Jr.,"Pahokee, Fla. / Seminole Ridge HS",Bethune-Cookman,Connecticut,,
+3,,2.0,Marcus Riley,WR,5-10,170.0,R-Sr.,"Tallahassee, Fla. / Rickards HS",Bethune-Cookman,Louisville,,
+4,,5.0,Jaquan Jackson,CB,6-3,180.0,R-So.,"Dothan, Ala. / Dothan HS",Bethune-Cookman,Southeast Missouri State,,
+5,,6.0,Jimmie Robinson III,RB,5-7,175.0,R-Sr.,"Hastings, Fla. / Flagler Palm Coast HS",Bethune-Cookman,,,
+6,,7.0,Ge'Mon Eaford,LB,6-2,220.0,R-Jr.,"Pompano Beach, Fla. / Deerfield Beach HS",Bethune-Cookman,Oregon,,
+7,,8.0,Devuntray Hampton,SAF,5-10,180.0,R-Sr.,"Pahokee, Fla. / Pahokee HS",Bethune-Cookman,Palmetto Prep,,
+8,,8.0,Dylaan Lee,WR,6-0,185.0,Gr.,"West Palm Beach, FLA. / William T. Dwyer HS",Bethune-Cookman,Moorpark College,,
+9,,10.0,Kahlil Overton,TE,6-5,230.0,R-Jr.,"Dallas, Texas / Episcopal HS",Bethune-Cookman,Florida International,,
+10,,11.0,Cameron Overton,WR,6-3,180.0,R-Jr.,"Dallas, Texas / Episcopal HS",Bethune-Cookman,Florida International,,
+11,,12.0,Dacarri Allen-Johnson,WR,5-7,170.0,Jr.,"Orlando, Fla. / Jones HS",Bethune-Cookman,,,
+12,,13.0,Daveno Ellington,WR,6-0,175.0,R-Jr.,"Panama City, Fla. / Mosley HS",Bethune-Cookman,,,
+13,,14.0,Jerrold Pough,CB,6-0,180.0,R-So.,"Hollywood, Fla. / McArthur HS",Bethune-Cookman,Cisco College,,
+14,,15.0,Tyrone Franklin Jr.,QB,6-2,180.0,R-So.,"Montgomery, Ala / Robert E. Lee HS",Bethune-Cookman,,,
+15,,16.0,Nebanye Moore,QB,6-2,215.0,R-Fr.,"Statesville, N.C. / Statesville HS",Bethune-Cookman,Palmetto Prep,,
+16,,16.0,Joshua Thornhill,FS,6-0,175.0,R-So.,"Liberty Township, Ohio / Lakota East HS",Bethune-Cookman,,,
+17,,17.0,Amarie Jones,LB,6-2,225.0,Jr.,"Ruskin, Fla. / Lennard HS",Bethune-Cookman,,,
+18,,17.0,Walter Simmons,QB,6-2,200.0,R-So.,"Orange Park, Fla. / Oakleaf HS",Bethune-Cookman,East Carolina,,
+19,,19.0,Ethan Dattilio,QB,6-4,210.0,R-Fr.,"Palm Coast, Fla. / Matanzas HS",Bethune-Cookman,Fort Scott CC,,
+20,,19.0,Adrian Hall,DE,6-1,280.0,R-So.,"Rockledge, Fla. / Rockledge HS",Bethune-Cookman,Tennessee Tech,,
+21,,23.0,Uriah Ratliff,SS,5-10,175.0,R-Jr.,"Jacksonville, Fla. / Raines HS",Bethune-Cookman,,,
+22,,24.0,Darnell Deas,SAF,5-10,175.0,So.,"Pompano Beach, Fla / Blanche Ely HS",Bethune-Cookman,,,
+23,,25.0,Terry Lindsey,RB,5-11,185.0,R-So.,"Ft. Myers, Fla / Evangelical Christian",Bethune-Cookman,,,
+24,,26.0,James Evans,RB,5-11,210.0,R-Fr.,"Tampa, Fla. / Tampa Bay Tech",Bethune-Cookman,,,
+25,,26.0,Caleb Sutherland,CB,6-0,187.0,Gr.,"Seffner, Fla. / Armwood HS",Bethune-Cookman,Toledo,,
+26,,30.0,Jalen Christian,SS,5-10,180.0,Jr.,"Lakeland, Fla. / Lakeland HS",Bethune-Cookman,,,
+27,,31.0,Benjamin Chombe,SAF,6-0,190.0,Gr.,"Ottawa, Ont. / Episcopal HS",Bethune-Cookman,Advance Prep,,
+28,,31.0,Deshaun Davis,LB,6-1,215.0,Jr.,"Jacksonville, Fla. / Mandarin HS",Bethune-Cookman,Florida International,,
+29,,32.0,Isiaiah Doby,WR,5-8,170.0,R-Fr.,"Tampa, Fla. / Bloomingdale HS",Bethune-Cookman,,,
+30,,35.0,Devin Harrell,LB,5-11,205.0,Jr.,"Tallahassee, Fla. / Chiles HS",Bethune-Cookman,Laney College,,
+31,,35.0,Aaron Thompson,RB,5-9,180.0,Gr.,"Orlando, Fla. / Jones HS",Bethune-Cookman,,,
+32,,37.0,Anthony Griffin,CB,6-1,175.0,R-Fr.,"Hampton, Ga. / Mundy Hills HS",Bethune-Cookman,,,
+33,,40.0,Deontrez McLamb,LB,6-0,240.0,R-Fr.,"Pensacola, Fla. / Pine Forest HS",Bethune-Cookman,,,
+34,,41.0,Clayton Thomas,DL,6-2,225.0,R-Jr.,"Jacksonville, Fla. / Trinity HS",Bethune-Cookman,Eastern Kentucky,,
+35,,43.0,Saim Sigh Safdar,LB,6-2,225.0,R-Fr.,"Harlem, N.Y. / Ridgefield Park HS",Bethune-Cookman,New Haven,,
+36,,45.0,Anthony Frederique,K/P,5-10,185.0,R-So.,"Tampa, Fla. / Tampa Catholic",Bethune-Cookman,Troy,,
+37,,46.0,Conroy Cunningham II,DL,6-3,220.0,R-Jr.,"West Palm Beach, Fla / Palm Beach Lakes HS",Bethune-Cookman,,,
+38,,47.0,Derrick Sinegal,LB,6-0,210.0,R-So.,"Kingsland, Ga / Camden County HS",Bethune-Cookman,,,
+39,,48.0,Eddie Walls III,DL,6-3,225.0,R-So.,"Ft. Myers, Fla / South Ft. Myers HS",Bethune-Cookman,,,
+40,,49.0,Ja’Bari Jaudon,CB,6-0,175.0,Sr.,"Jacksonville, Fla. / Ribault HS",Bethune-Cookman,Florida A&M,,
+41,,51.0,Christopher Grant,DT,6-4,300.0,R-Jr.,"Jonesboro, Ga. / Tri-Cities HS",Bethune-Cookman,Fort Scott CC,,
+42,,57.0,Reginald Pearson,DT,6-3,290.0,R-Jr.,"Montgomery, Ala. / Robert E. Lee HS",Bethune-Cookman,Georgia Military College,,
+43,,60.0,Ace McKinnis,LS,5-10,175.0,So.,"Grahowellnd Island, Neb. / Grand Island Senior HS",Bethune-Cookman,Hutchinson CC,,
+44,,62.0,Kyler Edwards,OL,6-4,290.0,R-Jr.,"Tampa, Fla. / Tampa Middleton HS",Bethune-Cookman,,,
+45,,70.0,Desmond Daniels,OL,6-5,290.0,R-So.,"Atlanta, Ga. / Langston Hughes HS",Bethune-Cookman,Louisville,,
+46,,73.0,Arthur Channelor,OL,6-5,330.0,R-Jr.,"Queens, N.Y. / Eagle Academy",Bethune-Cookman,Nassau CC,,
+47,,75.0,Anthony Haplin,OL,6-3,300.0,R-Jr.,"Farmingdale, N.Y. / Halfhollow Hills HS",Bethune-Cookman,Nassau CC,,
+48,,79.0,Darius Baker,OL,6-3,315.0,R-Fr.,"Orlando, Fla. / Jones HS",Bethune-Cookman,,,
+49,,79.0,Antuan Wells,OL,6-3,315.0,R-Fr.,"Orlando, Fla. / Jones HS",Bethune-Cookman,,,
+50,,80.0,Ryan Gayle,WR,6-1,185.0,Fr.,"Coral Springs, Fla. / Avant Garde HS",Bethune-Cookman,,,
+51,,81.0,Justyz Tuggle,WR,5-9,180.0,So.,"Detroit, Mich. / Detroit Central HS",Bethune-Cookman,,,
+52,,82.0,Jalen Jackson,WR,6-0,185.0,R-Fr.,"Sterling, Va. / Potomac Falls HS",Bethune-Cookman,,,
+53,,83.0,Jaquan Haynes,WR,5-10,165.0,Fr.,"Plantation, Fla. / Plantation HS",Bethune-Cookman,,,
+54,,87.0,DeWayne Wakefield,TE,6-3,240.0,So.,"Jacksonville, Fla. / Riverside HS",Bethune-Cookman,,,
+55,,88.0,Kevin Deceus,WR,6-2,180.0,Fr.,"Florida City, Fla. / Jones HS",Bethune-Cookman,,,
+56,,91.0,Nicholai Daniel,K,6-2,200.0,So.,"Dacula, Ga. / Dacula HS",Bethune-Cookman,,,
+57,,92.0,Judas McKenzie,DL,6-2,270.0,R-Sr.,"Ft. Myers, Fla. / Dunbar HS",Bethune-Cookman,,,
+58,,95.0,Frank Wilson,DT,6-4,280.0,So.,"St. Louis, Mo. / East St. Louis HS",Bethune-Cookman,,,
+59,,96.0,Mason Hall,DT,6-3,295.0,Jr.,"Powder Springs, Ga. / McEachern HS",Bethune-Cookman,,,
+60,,98.0,Jessie Alincy,DT,6-0,300.0,So.,"Ft. Lauderdale, Fla. / Deerfield Beach HS",Bethune-Cookman,,,
+61,,,Jaiden Bivens,RB,5-10,175.0,So.,"Tampa, Fla. / Cambridge Christian HS",Bethune-Cookman,,,
+62,,,Christopher Dillihay,WR,5-10,170.0,Fr.,"Montgomery, Ala. / Robert E. Lee HS",Bethune-Cookman,,,
+63,,,Jimmy Greaves Jr.,LB,6-0,221.0,Fr.,"Clewiston, Fla. / Clewiston HS",Bethune-Cookman,,,
+64,,,Trevaris Hammond,OL,6-3,265.0,So.,"Decatur, Ga. / Columbia HS",Bethune-Cookman,Missouri Valley College,,
+65,,,Jordan Johnson,CB,6-0,185.0,Fr.,"Cedartown, Ga. / Cedartown HS",Bethune-Cookman,,,
+66,,,Louis Kirchgessner,WR,6-0,160.0,Jr.,"Tampa, Fla. / Robinson HS",Bethune-Cookman,,,
+67,,,Christian Loving,OL,6-3,245.0,R-So.,"Hamilton, Ala. / Hamilton HS",Bethune-Cookman,Catawba,,
+68,,,Dominiq Ponder,QB,6-5,205.0,Fr.,"/ Naples, Fla.",Bethune-Cookman,Myrtle Beach Collegiate Academy (S.C.),,
+69,,,Omari Stewart,WR,5-8,155.0,Fr.,"Sharpsburg, Ga. / Trinity Christian HS",Bethune-Cookman,,,
+0,,,Raymond Woodie Jr.,,,,,,Bethune-Cookman,,,Head Coach
+1,,,DJ McCarthy,,,,,,Bethune-Cookman,,,Assistant Head Coach / Special Teams Coordinator / Tight Ends
+2,,,Robert Wimberly,,,,,,Bethune-Cookman,,,Defensive Coordinator / Linebackers
+3,,,Joe Gerbino,,,,,,Bethune-Cookman,,,Co-Offensive Coordinator / Quarterbacks
+4,,,Donte’ Pimpleton,,,,,,Bethune-Cookman,,,Co-Offensive Coordinator / Running Backs
+5,,,David Stuckman,,,,,,Bethune-Cookman,,,Pass Game Coordinator / Safeties
+6,,,Nick Collins,,,,,,Bethune-Cookman,,,Cornerbacks
+7,,,Brandon Washington,,,,,,Bethune-Cookman,,,Offensive Line
+8,,,Demetrius Coley,,,,,,Bethune-Cookman,,,Defensive Line
+9,,,Tavarius Jackson,,,,,,Bethune-Cookman,,,Nickels / Outside Linebackers
+10,,,Chad Lucas,,,,,,Bethune-Cookman,,,Wide Receivers
+0,,,Shelton Gaffney,,,,,,Bethune-Cookman,,,Football Strength & Conditioning
+1,,,Jeff Fagan,,,,,,Bethune-Cookman,,,General Manager
+2,,,Tim Weston,,,,,,Bethune-Cookman,,,Director of Football Operations
+3,,,Myron Dillard,,,,,,Bethune-Cookman,,,Director of Recruiting
+4,,,Rickey Layman,,,,,,Bethune-Cookman,,,Director of Football Video
+5,,,Jean Dessein,,,,,,Bethune-Cookman,,,Operations Assistant / Analyst (Defense)

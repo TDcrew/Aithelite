@@ -1,112 +1,111 @@
-,Statistic,No.,Image,Name,Pos.,Ht.,Wt.,Cl.,Hometown/Previous School,Title
-0,,0.0,,Marvion Field,DL,6-3,290.0,R-Jr.,"Hampton, Ga. / Elon",
-1,,0.0,,Jaycob Horn,WR,6-0,204.0,R-Jr.,"Tupelo, Miss. / Northwest Mississippi C.C.",
-2,,1.0,,Tony Davis,DB,6-2,195.0,R-Sr.,"Gastonia, N.C. / Duke",
-3,,2.0,,Cameron Hergott,QB,6-3,200.0,So.,"Fort Mitchell, Ky / Beechwood H.S.",
-4,,2.0,,Franky West,DB,5-10,180.0,Fr.,"Bloomington, Ill. / Illinois State",
-5,,3.0,,Jaden Smith,WR,5-10,180.0,Jr.,"Loganville, Ga. / Grayson HS",
-6,,4.0,,Kyeandre Magloire,RB,6-0,200.0,Jr.,"Minneola, Fla. / Lake Minneola HS",
-7,,5.0,,Kyle Kelly,LB,6-2,235.0,R-Sr.,"Newport, Ky. / Ohio",
-8,,6.0,,Treyveon Longmire,DB,6-2,175.0,So.,"Corbin, Ky. / Corbin H.S.",
-9,,7.0,,Colbey Lamberth,QB,6-3,211.0,Fr.,"Dickson, Tenn. / Dickson County H.S.",
-10,,7.0,,Albert Nunes,LB,6-2,205.0,Jr.,"Fort Myers, Fla. / Garden City C.C.",
-11,,8.0,,Kylan Robinson,LB,5-11,210.0,R-Jr.,"Southaven, Miss. / Northwest Mississippi C.C.",
-12,,9.0,,Jackson Hensley,WR,6-0,197.0,R-So.,"Pikeville, Ky. / Wake Forest",
-13,,10.0,,Nic Cheeley,DB,6-1,180.0,R-Jr.,"McCleansville, N.C. / Eastern Guilford HS",
-14,,10.0,,Jackson House,QB,6-0,185.0,Fr.,"Baton Rouge, La. / Dunham School",
-15,,11.0,,Logan Blake,LB,6-2,230.0,Gr.,"Lizton, Ind. / Marian",
-16,,12.0,,Deonta Bembry,DB,5-9,175.0,Gr.,"Stone Mountain, Ga. / Georgia Southern",
-17,,13.0,,Jordon Thomas,DB,6-0,175.0,R-So.,"Decatur, Ga. / Wingate",
-18,,14.0,,Mo Edwards Jr.,WR,6-3,195.0,R-Sr.,"Alabaster, Ala. / University of South Alabama",
-19,,15.0,,Brady Clark,QB,6-3,205.0,So.,"Bardstown, Ky. / Bardstown H.S.",
-20,,17.0,,Lucas Raber,TE,6-3,230.0,Gr.,"Greenville, S.C. / Davidson",
-21,,18.0,,Cornelius Evans,LB,6-4,245.0,Sr.,"Orangeburg, S.C. / Butler C.C.",
-22,,18.0,,Parker McKinney,QB,6-3,208.0,R-Sr.,"Coalfield, Tenn. / Coalfield HS",
-23,,20.0,,Jordan Marshall,DB,6-1,205.0,Jr.,"St. Louis, Mo. / Ball State",
-24,,21.0,,Braedon Sloan,RB,5-11,195.0,Jr.,"Frazer, Ky. / Wayne County HS",
-25,,22.0,,Frank Lee,LB,6-2,225.0,R-So.,"Orangeburg, S.C. / Carson-Newman",
-26,,23.0,,Elijah Ford,LB,6-2,215.0,Jr.,"Cincinnati, Ohio / Colerain HS",
-27,,24.0,,Mike Smith Jr.,DB,6-0,200.0,Jr.,"Jacksonville, Fla. / Appalachian State",
-28,,26.0,,Tre' Goodin,DB,5-10,170.0,Jr.,"Campbellsville, Ky. / Taylor County HS",
-29,,28.0,,Jaylen Herrud,LB,6-3,214.0,Jr.,"Nashville, Tenn. / Summit HS",
-30,,29.0,,Jeriah Hightower,LB,6-0,224.0,Jr.,"Madisonville, Ky. / Madisonville North Hopkins HS",
-31,,30.0,,Cheikhsaliou Fall,LB,6-4,200.0,Jr.,"Middletown, Ohio / Middletown HS",
-32,,32.0,,Joshua Carter,RB,5-9,215.0,R-Jr.,"Navarre, Fla. / University of South Alabama",
-33,,34.0,,Kyeaure Magloire,DB,6-1,185.0,So.,"Minneola, Fla. / Lake Minneola H.S.",
-34,,36.0,,KJ Figures,DB,6-0,195.0,Sr.,"Charleston, W.V. / Antelope Valley College",
-35,,37.0,,Richtell McCallister,RB,5-9,180.0,Jr.,"Akron, Ohio / Streetsboro HS",
-36,,38.0,,Dre Knighten,DB,6-0,172.0,Jr.,"Frostproof, Fla. / Frostproof HS",
-37,,39.0,,Jaylen Houston,LB,5-9,190.0,Jr.,"Phoenix, Ariz. / College of DuPage",
-38,,43.0,,Harold McKay Jr.,LB,6-4,218.0,Jr.,"Daytona Beach, Fla. / Seabreeze HS",
-39,,45.0,,Tyrik Henderson,DB,5-11,215.0,So.,"Carol Stream, Ill. / Iowa Western C.C.",
-40,,46.0,,Patrick Nations,K,6-0,182.0,R-Jr.,"Tamasse, S.C. / East Carolina University",
-41,,47.0,,Jeremiah Bailey,DL,6-3,240.0,So.,"Smyrna, Tenn. / Smyrna H.S.",
-42,,52.0,,Jakobe McLaurin,OL,6-2,315.0,Jr.,"Clinton, Miss. / Northwest Mississippi C.C.",
-43,,55.0,,Jadyn Bost,LB,6-2,230.0,Jr.,"Grayson, Ga. / Grayson HS",
-44,,58.0,,Isaiah Bunn,OL,6-3,295.0,So.,"Sunrise, Fla. / Butler C.C.",
-45,,60.0,,Anthony Johns,OL,6-1,285.0,So.,"Winchester, Ky. / Lexington Christian Academy",
-46,,62.0,,John Stone,OL,6-3,285.0,Jr.,"Ashland, Ky. / Paul Blazer HS",
-47,,63.0,,Matthew See,OL,6-1,302.0,Jr.,"Dayton, Ohio / Archbishop Alter HS",
-48,,65.0,,Devon Conkrite,OL,6-1,275.0,Jr.,"Palm Coast, Fla. / Flagler Palm Coast HS",
-49,,69.0,,Jonathan Duff,LS,6-0,215.0,Jr.,"Dayton, Ohio / Oakwood HS",
-50,,70.0,,Vincent Munlin Jr.,OL,6-6,299.0,Jr.,"Cincinnati, Ohio / Princeton HS",
-51,,71.0,,O'Brien Jackson,OL,6-4,270.0,Jr.,"Murfreesboro, Tenn. / Blackman HS",
-52,,72.0,,Drew Hart,OL,6-7,302.0,R-Sr.,"Evansville, Ind. / Reitz Memorial HS",
-53,,74.0,,Payton Collins,OL,6-7,280.0,R-Jr.,"Columbus, Ohio / Bishop Hartley HS",
-54,,75.0,,Josiah Ezirim,OL,6-6,320.0,Sr.,"Hilliard, Ohio / Hilliard Davidson HS",
-55,,77.0,,Corey Diaz,OL,6-6,315.0,Sr.,"Lexington, Ky. / Independence CC",
-56,,78.0,,K'Rojhn Calbert,OL,6-5,325.0,Gr.,"McMinnville, Tenn. / Tennessee",
-57,,83.0,,Ethan Bednarczyk,WR,5-10,190.0,Jr.,"Louisville, Ky. / South Oldham HS",
-58,,84.0,,Reece Adkins,TE,6-6,240.0,Jr.,"Lake Mary, Fla. / Lake Mary HS",
-59,,85.0,,Bryant Johnson Jr.,WR,6-2,190.0,Jr.,"Cincinnati, Ohio / Winton Woods HS",
-60,,86.0,,Austin Welch,K,5-11,160.0,Jr.,"Georgetown, Ky. / Great Crossing HS",
-61,,87.0,,Jeremy Edwards,P,6-3,230.0,So.,"Bendigo, Australia / Prokick Australia",
-62,,89.0,,Kellen Bowen,TE,6-5,210.0,So.,"Hodgenville, Ky. / LaRue County H.S.",
-63,,90.0,,Jaylon Haney,DL,6-2,285.0,Sr.,"Dandridge, Tenn. / VMI",
-64,,91.0,,Darrian Baker,DL,6-4,290.0,R-So.,"Harrodsburg, Ky. / Mercer County HS",
-65,,94.0,,David Reynolds,DE,6-4,245.0,Sr.,"Nashville, Tenn. / Florida International",
-66,,95.0,,Max Drohan,DL,6-2,255.0,Jr.,"Aurora, Ill. / Waubonsie Valley HS",
-67,,96.0,,Gregory Green Jr.,DL,6-5,245.0,Jr.,"Alabaster, Ala. / Thompson HS",
-68,,97.0,,Ryan Jackson,DL,6-2,290.0,Jr.,"Mount Juliet, Tenn. / Friendship Christian School",
-69,,99.0,,Gabe Fletcher,DL,6-3,260.0,R-So.,"Memphis, Tenn. / Maplewood HS",
-70,,,,Isaiah Allen,WR,6-2,180.0,Jr.,"Lexington, Ky. / Frederick Douglass H.S.",
-71,,,,Brandon Baker,LB,6-1,190.0,So.,"Corbin, Ky. /",
-72,,,,Jacob Cain,DB,6-0,160.0,So.,"Lexington, Ky. / Johnson Central H.S.",
-73,,,,Alex Cline,LS,6-0,250.0,So.,"Shelbyville, Ky. / Martha Layne Collins H.S.",
-74,,,,Luke Colvin,LB,6-3,230.0,So.,"Georgetown, Ky. / Scott County H.S.",
-75,,,,Arlington Ferguson,WR,5-9,170.0,Sr.,"Cleveland, Tenn. / Cleveland H.S.",
-76,,,,Johnathan Goddard,LB,6-0,215.0,Fr.,"Orange Park, Fla. / Trinity Christian H.S.",
-77,,,,Brad Gurley,DL,6-4,245.0,So.,"Bowling Green, Ky. / Bowling Green H.S.",
-78,,,,Michael Hawkins,TE,6-5,235.0,Jr.,"Somerset, Ky. / Campbell",
-79,,,,Josh Jones,OL,6-1,300.0,So.,"Joliet, Ill. / Joliet Catholic H.S.",
-80,,,,Raquan Jones,RB,6-0,237.0,Gr.,"Louisa, Va. / Alderson Broaddus University",
-81,,,,Jeff Kinley,DB,6-0,175.0,So.,"Richmond, Ky. / Madison Central H.S.",
-82,,,,Jerome Lee,RB,5-11,205.0,Sr.,"Warrensville Heights, Ohio / Mount Union",
-83,,,,Kimwanga Mafuta,LB,6-0,197.0,Jr.,"Lexington, Ky. / Lexington Catholic HS",
-84,,,,Chris Price,LB,6-0,218.0,So.,"Madisonville, Ky. /",
-85,,,,Tre' Robinson,LB,6-4,230.0,R-Jr.,"Kennesaw, Ga. / Landmark Christian H.S.",
-86,,,,David Swartzentruber,DB,5-10,190.0,Sr.,"Lexington, Ky. / Robert Morris University",
-87,,,,Garrett Thornsberry,LB,6-2,190.0,So.,"Louisville, Ky. / Holy Cross H.S.",
-88,,,,Matthew Underwood,WR,5-10,185.0,So.,"Lexington, Ky. / Tates Creek H.S.",
-0,,,,Walt Wells,,,,,,Head Coach
-1,,,,Jake Johnson,,,,,,Defensive Coordinator/Inside Linebackers Coach
-2,,,,Andy Richman,,,,,,Offensive Coordinator/Running Backs Coach
-3,,,,Caleb Cox,,,,,,Wide Receivers Coach/Co-Recruiting Coordinator
-4,,,,Derek Day,,,,,,Outside Linebackers Coach/Co-Special Teams Coordinator
-5,,,,Mike Dietzel,,,,,,Safeties Coach
-6,,,,Chris Franklin,,,,,,Cornerbacks Coach/Co-Recruiting Coordinator
-7,,,,Jeremy Hawkins,,,,,,Defensive Line Coach/Run Game Coordinator for Defense
-8,,,,Erik Losey,,,,,,Offensive Line Coach
-9,,,,Kevin McKeethan,,,,,,Tight Ends Coach/Special Teams Coordinator
-10,,,,Maxwell Smith,,,,,,Quarterbacks Coach
-0,,,,Garry McPeek,,,,,,Football Chief of Staff
-1,,,,Billy Brown,,,,,,Director of Football Sports Performance
-2,,,,Gregory Bourn,,,,,,Assistant Director of Football Sports Performance
-3,,,,Thomas Bowling,,,,,,Director of Football Operations
-4,,,,Emily Muse,,,,,,Director of Football Recruiting Operations
-5,,,,Thomas Schultz,,,,,,Director of Equipment Services for Football
-6,,,,Pierce Hamilton,,,,,,Assistant Director of Equipment Services
-7,,,,Patrick Coyle,,,,,,Football Video Coordinator
-8,,,,Matthew Leifheit,,,,,,Offensive Quality Control
-9,,,,Jacob Smith,,,,,,Defensive Quality Control
-10,,,,Quinn Suber,,,,,,Special Teams Quality Control
+,Statistic,No.,Image,Name,Pos.,Ht.,Wt.,Cl.,Current School Name,Hometown/Previous School,Title
+0,,0.0,,Marvion Field,DL,6-3,290.0,R-Jr.,Eastern Kentucky,"Hampton, Ga. / Elon",
+1,,0.0,,Jaycob Horn,WR,6-0,204.0,R-Jr.,Eastern Kentucky,"Tupelo, Miss. / Northwest Mississippi C.C.",
+2,,1.0,,Tony Davis,DB,6-2,195.0,R-Sr.,Eastern Kentucky,"Gastonia, N.C. / Duke",
+3,,2.0,,Cameron Hergott,QB,6-3,200.0,So.,Eastern Kentucky,"Fort Mitchell, Ky / Beechwood H.S.",
+4,,2.0,,Franky West,DB,5-10,180.0,R-Sr.,Eastern Kentucky,"Bloomington, Ill. / Illinois State",
+5,,3.0,,Jaden Smith,WR,5-10,180.0,Jr.,Eastern Kentucky,"Loganville, Ga. / Grayson HS",
+6,,4.0,,Kyeandre Magloire,RB,6-0,200.0,Jr.,Eastern Kentucky,"Minneola, Fla. / Lake Minneola HS",
+7,,5.0,,Kyle Kelly,LB,6-2,235.0,R-Sr.,Eastern Kentucky,"Newport, Ky. / Ohio",
+8,,6.0,,Treyveon Longmire,DB,6-2,175.0,So.,Eastern Kentucky,"Corbin, Ky. / Corbin H.S.",
+9,,7.0,,Colbey Lamberth,QB,6-3,211.0,Fr.,Eastern Kentucky,"Dickson, Tenn. / Dickson County H.S.",
+10,,7.0,,Albert Nunes,LB,6-2,205.0,Jr.,Eastern Kentucky,"Fort Myers, Fla. / Garden City C.C.",
+11,,8.0,,Kylan Robinson,LB,5-11,210.0,R-Jr.,Eastern Kentucky,"Southaven, Miss. / Northwest Mississippi C.C.",
+12,,9.0,,Jackson Hensley,WR,6-0,197.0,R-So.,Eastern Kentucky,"Pikeville, Ky. / Wake Forest",
+13,,10.0,,Nic Cheeley,DB,6-1,180.0,R-Jr.,Eastern Kentucky,"McCleansville, N.C. / Eastern Guilford HS",
+14,,10.0,,Jackson House,QB,6-0,185.0,Fr.,Eastern Kentucky,"Baton Rouge, La. / Dunham School",
+15,,11.0,,Logan Blake,LB,6-2,230.0,Gr.,Eastern Kentucky,"Lizton, Ind. / Marian",
+16,,12.0,,Deonta Bembry,DB,5-9,175.0,Gr.,Eastern Kentucky,"Stone Mountain, Ga. / Georgia Southern",
+17,,13.0,,Jordon Thomas,DB,6-0,175.0,R-So.,Eastern Kentucky,"Decatur, Ga. / Wingate",
+18,,14.0,,Mo Edwards Jr.,WR,6-3,195.0,R-Sr.,Eastern Kentucky,"Alabaster, Ala. / University of South Alabama",
+19,,15.0,,Brady Clark,QB,6-3,205.0,So.,Eastern Kentucky,"Bardstown, Ky. / Bardstown H.S.",
+20,,17.0,,Lucas Raber,TE,6-3,230.0,Gr.,Eastern Kentucky,"Greenville, S.C. / Davidson",
+21,,18.0,,Cornelius Evans,LB,6-4,245.0,Sr.,Eastern Kentucky,"Orangeburg, S.C. / Butler C.C.",
+22,,18.0,,Parker McKinney,QB,6-3,208.0,R-Sr.,Eastern Kentucky,"Coalfield, Tenn. / Coalfield HS",
+23,,20.0,,Jordan Marshall,DB,6-1,205.0,Jr.,Eastern Kentucky,"St. Louis, Mo. / Ball State",
+24,,21.0,,Braedon Sloan,RB,5-11,195.0,Jr.,Eastern Kentucky,"Frazer, Ky. / Wayne County HS",
+25,,22.0,,Frank Lee,LB,6-2,225.0,R-So.,Eastern Kentucky,"Orangeburg, S.C. / Carson-Newman",
+26,,23.0,,Elijah Ford,LB,6-2,215.0,Jr.,Eastern Kentucky,"Cincinnati, Ohio / Colerain HS",
+27,,24.0,,Mike Smith Jr.,DB,6-0,200.0,Jr.,Eastern Kentucky,"Jacksonville, Fla. / Appalachian State",
+28,,26.0,,Tre' Goodin,DB,5-10,170.0,Jr.,Eastern Kentucky,"Campbellsville, Ky. / Taylor County HS",
+29,,28.0,,Jaylen Herrud,LB,6-3,214.0,Jr.,Eastern Kentucky,"Nashville, Tenn. / Summit HS",
+30,,29.0,,Jeriah Hightower,LB,6-0,224.0,Jr.,Eastern Kentucky,"Madisonville, Ky. / Madisonville North Hopkins HS",
+31,,30.0,,Cheikhsaliou Fall,LB,6-4,200.0,Jr.,Eastern Kentucky,"Middletown, Ohio / Middletown HS",
+32,,32.0,,Joshua Carter,RB,5-9,215.0,R-Jr.,Eastern Kentucky,"Navarre, Fla. / University of South Alabama",
+33,,34.0,,Kyeaure Magloire,DB,6-1,185.0,So.,Eastern Kentucky,"Minneola, Fla. / Lake Minneola H.S.",
+34,,36.0,,KJ Figures,DB,6-0,195.0,Sr.,Eastern Kentucky,"Charleston, W.V. / Antelope Valley College",
+35,,37.0,,Richtell McCallister,RB,5-9,180.0,Jr.,Eastern Kentucky,"Akron, Ohio / Streetsboro HS",
+36,,38.0,,Dre Knighten,DB,6-0,172.0,Jr.,Eastern Kentucky,"Frostproof, Fla. / Frostproof HS",
+37,,39.0,,Jaylen Houston,LB,5-9,190.0,Jr.,Eastern Kentucky,"Phoenix, Ariz. / College of DuPage",
+38,,43.0,,Harold McKay Jr.,LB,6-4,218.0,Jr.,Eastern Kentucky,"Daytona Beach, Fla. / Seabreeze HS",
+39,,45.0,,Tyrik Henderson,DB,5-11,215.0,So.,Eastern Kentucky,"Carol Stream, Ill. / Iowa Western C.C.",
+40,,46.0,,Patrick Nations,K,6-0,182.0,R-Jr.,Eastern Kentucky,"Tamasse, S.C. / East Carolina University",
+41,,47.0,,Jeremiah Bailey,DL,6-3,240.0,So.,Eastern Kentucky,"Smyrna, Tenn. / Smyrna H.S.",
+42,,52.0,,Jakobe McLaurin,OL,6-2,315.0,Jr.,Eastern Kentucky,"Clinton, Miss. / Northwest Mississippi C.C.",
+43,,55.0,,Jadyn Bost,LB,6-2,230.0,Jr.,Eastern Kentucky,"Grayson, Ga. / Grayson HS",
+44,,58.0,,Isaiah Bunn,OL,6-3,295.0,So.,Eastern Kentucky,"Sunrise, Fla. / Butler C.C.",
+45,,60.0,,Anthony Johns,OL,6-1,285.0,So.,Eastern Kentucky,"Winchester, Ky. / Lexington Christian Academy",
+46,,62.0,,John Stone,OL,6-3,285.0,Jr.,Eastern Kentucky,"Ashland, Ky. / Paul Blazer HS",
+47,,63.0,,Matthew See,OL,6-1,302.0,Jr.,Eastern Kentucky,"Dayton, Ohio / Archbishop Alter HS",
+48,,65.0,,Devon Conkrite,OL,6-1,275.0,Jr.,Eastern Kentucky,"Palm Coast, Fla. / Flagler Palm Coast HS",
+49,,69.0,,Jonathan Duff,LS,6-0,215.0,Jr.,Eastern Kentucky,"Dayton, Ohio / Oakwood HS",
+50,,70.0,,Vincent Munlin Jr.,OL,6-6,299.0,Jr.,Eastern Kentucky,"Cincinnati, Ohio / Princeton HS",
+51,,71.0,,O'Brien Jackson,OL,6-4,270.0,Jr.,Eastern Kentucky,"Murfreesboro, Tenn. / Blackman HS",
+52,,72.0,,Drew Hart,OL,6-7,302.0,R-Sr.,Eastern Kentucky,"Evansville, Ind. / Reitz Memorial HS",
+53,,74.0,,Payton Collins,OL,6-7,280.0,R-Jr.,Eastern Kentucky,"Columbus, Ohio / Bishop Hartley HS",
+54,,75.0,,Josiah Ezirim,OL,6-6,320.0,Sr.,Eastern Kentucky,"Hilliard, Ohio / Hilliard Davidson HS",
+55,,77.0,,Corey Diaz,OL,6-6,315.0,Sr.,Eastern Kentucky,"Lexington, Ky. / Independence CC",
+56,,78.0,,K'Rojhn Calbert,OL,6-5,325.0,Gr.,Eastern Kentucky,"McMinnville, Tenn. / Tennessee",
+57,,83.0,,Ethan Bednarczyk,WR,5-10,190.0,Jr.,Eastern Kentucky,"Louisville, Ky. / South Oldham HS",
+58,,84.0,,Reece Adkins,TE,6-6,240.0,Jr.,Eastern Kentucky,"Lake Mary, Fla. / Lake Mary HS",
+59,,85.0,,Bryant Johnson Jr.,WR,6-2,190.0,Jr.,Eastern Kentucky,"Cincinnati, Ohio / Winton Woods HS",
+60,,86.0,,Austin Welch,K,5-11,160.0,Jr.,Eastern Kentucky,"Georgetown, Ky. / Great Crossing HS",
+61,,87.0,,Jeremy Edwards,P,6-3,230.0,Sr.,Eastern Kentucky,"Bendigo, Australia / Prokick Australia",
+62,,89.0,,Kellen Bowen,TE,6-5,210.0,So.,Eastern Kentucky,"Hodgenville, Ky. / LaRue County H.S.",
+63,,90.0,,Jaylon Haney,DL,6-2,285.0,Sr.,Eastern Kentucky,"Dandridge, Tenn. / VMI",
+64,,91.0,,Darrian Baker,DL,6-4,290.0,R-So.,Eastern Kentucky,"Harrodsburg, Ky. / Mercer County HS",
+65,,94.0,,David Reynolds,DE,6-4,245.0,Sr.,Eastern Kentucky,"Nashville, Tenn. / Florida International",
+66,,95.0,,Max Drohan,DL,6-2,255.0,Jr.,Eastern Kentucky,"Aurora, Ill. / Waubonsie Valley HS",
+67,,96.0,,Gregory Green Jr.,DL,6-5,245.0,Jr.,Eastern Kentucky,"Alabaster, Ala. / Thompson HS",
+68,,97.0,,Ryan Jackson,DL,6-2,290.0,Jr.,Eastern Kentucky,"Mount Juliet, Tenn. / Friendship Christian School",
+69,,99.0,,Gabe Fletcher,DL,6-3,260.0,R-So.,Eastern Kentucky,"Memphis, Tenn. / Maplewood HS",
+70,,,,Isaiah Allen,WR,6-2,180.0,Jr.,Eastern Kentucky,"Lexington, Ky. / Frederick Douglass H.S.",
+71,,,,Brandon Baker,LB,6-1,190.0,So.,Eastern Kentucky,"Corbin, Ky. /",
+72,,,,Jacob Cain,DB,6-0,160.0,So.,Eastern Kentucky,"Lexington, Ky. / Johnson Central H.S.",
+73,,,,Alex Cline,LS,6-0,250.0,So.,Eastern Kentucky,"Shelbyville, Ky. / Martha Layne Collins H.S.",
+74,,,,Luke Colvin,LB,6-3,230.0,So.,Eastern Kentucky,"Georgetown, Ky. / Scott County H.S.",
+75,,,,Arlington Ferguson,WR,5-9,170.0,Sr.,Eastern Kentucky,"Cleveland, Tenn. / Cleveland H.S.",
+76,,,,Johnathan Goddard,LB,6-0,215.0,Fr.,Eastern Kentucky,"Orange Park, Fla. / Trinity Christian H.S.",
+77,,,,Brad Gurley,DL,6-4,245.0,So.,Eastern Kentucky,"Bowling Green, Ky. / Bowling Green H.S.",
+78,,,,Michael Hawkins,TE,6-5,235.0,Jr.,Eastern Kentucky,"Somerset, Ky. / Campbell",
+79,,,,Josh Jones,OL,6-1,300.0,So.,Eastern Kentucky,"Joliet, Ill. / Joliet Catholic H.S.",
+80,,,,Raquan Jones,RB,6-0,237.0,Gr.,Eastern Kentucky,"Louisa, Va. / Alderson Broaddus University",
+81,,,,Jeff Kinley,DB,6-0,175.0,So.,Eastern Kentucky,"Richmond, Ky. / Madison Central H.S.",
+82,,,,Jerome Lee,RB,5-11,205.0,Sr.,Eastern Kentucky,"Warrensville Heights, Ohio / Mount Union",
+83,,,,Kimwanga Mafuta,LB,6-0,197.0,Jr.,Eastern Kentucky,"Lexington, Ky. / Lexington Catholic HS",
+84,,,,Chris Price,LB,6-0,218.0,So.,Eastern Kentucky,"Madisonville, Ky. /",
+85,,,,David Swartzentruber,DB,5-10,190.0,Sr.,Eastern Kentucky,"Lexington, Ky. / Robert Morris University",
+86,,,,Garrett Thornsberry,LB,6-2,190.0,So.,Eastern Kentucky,"Louisville, Ky. / Holy Cross H.S.",
+87,,,,Matthew Underwood,WR,5-10,185.0,So.,Eastern Kentucky,"Lexington, Ky. / Tates Creek H.S.",
+0,,,,Walt Wells,,,,,Eastern Kentucky,,Head Coach
+1,,,,Jake Johnson,,,,,Eastern Kentucky,,Defensive Coordinator/Inside Linebackers Coach
+2,,,,Andy Richman,,,,,Eastern Kentucky,,Offensive Coordinator/Running Backs Coach
+3,,,,Caleb Cox,,,,,Eastern Kentucky,,Wide Receivers Coach/Co-Recruiting Coordinator
+4,,,,Derek Day,,,,,Eastern Kentucky,,Outside Linebackers Coach/Co-Special Teams Coordinator
+5,,,,Mike Dietzel,,,,,Eastern Kentucky,,Safeties Coach
+6,,,,Chris Franklin,,,,,Eastern Kentucky,,Cornerbacks Coach/Co-Recruiting Coordinator
+7,,,,Jeremy Hawkins,,,,,Eastern Kentucky,,Defensive Line Coach/Run Game Coordinator for Defense
+8,,,,Erik Losey,,,,,Eastern Kentucky,,Offensive Line Coach
+9,,,,Kevin McKeethan,,,,,Eastern Kentucky,,Tight Ends Coach/Special Teams Coordinator
+10,,,,Maxwell Smith,,,,,Eastern Kentucky,,Quarterbacks Coach
+0,,,,Garry McPeek,,,,,Eastern Kentucky,,Football Chief of Staff
+1,,,,Billy Brown,,,,,Eastern Kentucky,,Director of Football Sports Performance
+2,,,,Gregory Bourn,,,,,Eastern Kentucky,,Assistant Director of Football Sports Performance
+3,,,,Thomas Bowling,,,,,Eastern Kentucky,,Director of Football Operations
+4,,,,Emily Muse,,,,,Eastern Kentucky,,Director of Football Recruiting Operations
+5,,,,Thomas Schultz,,,,,Eastern Kentucky,,Director of Equipment Services for Football
+6,,,,Pierce Hamilton,,,,,Eastern Kentucky,,Assistant Director of Equipment Services
+7,,,,Patrick Coyle,,,,,Eastern Kentucky,,Football Video Coordinator
+8,,,,Matthew Leifheit,,,,,Eastern Kentucky,,Offensive Quality Control
+9,,,,Jacob Smith,,,,,Eastern Kentucky,,Defensive Quality Control
+10,,,,Quinn Suber,,,,,Eastern Kentucky,,Special Teams Quality Control

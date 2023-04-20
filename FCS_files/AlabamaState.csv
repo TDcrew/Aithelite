@@ -1,19 +1,116 @@
-,Statistic,Image,Pos.,Ht.,Wt.,Academic Year,Hometown / High School,Academic Year.1,Twitter
-0,,,S,6-3,187.0,Fr.,"Shelby,N.C. / Burns HS",Fr.,@lthegoat23
-1,,,DB,6-1,190.0,Fr.,"Clanton, Ala. / Chilton County",Fr.,@jakeveon2
-2,,,RB,5-10,190.0,Fr.,"Montgomery, Ala. / Sidney Lanier HS",Fr.,@2_FastOne
-3,,,OL,6-4,315.0,Fr.,"Birmingham, Ala. / Minor HS",Fr.,
-4,,,DE,6-6,215.0,Fr.,"Laplace, LA. / East St. John High School",Fr.,@d3vin__
-5,,,OL,6-4,270.0,Jr.,"Fairburn, Ga. / Langston Hughes HS",Jr.,
-6,,,CB,6-1,190.0,Fr.,"Acworth, Ga. / Allatoona high",Fr.,@aj_fitts
-7,,,WR,5-11,190.0,Jr.,"LaGrange, Ga. / Callaway HS",Jr.,
-8,,,WR,6-2,195.0,Fr.,"White Plains, MD / St. John's HS",Fr.,
-9,,,WR,6-0,182.0,Fr.,"Daytona Beach, FL / Mainland HS",Fr.,
-10,,,WR,6-0,170.0,Fr.,"New Orleans, LA / George Washington Carver HS",Fr.,
-11,,,WR,5-10,170.0,Fr.,"Birmingham, Ala. / Ramsay HS",Fr.,@thejalenjones
-12,,,TE,6-4,240.0,Jr.,"Mobile, Ala. / Murphy HS",Jr.,
-13,,,DB,6-2,200.0,Fr.,"Garden, Ca. / Junipero Serra High School",Fr.,@CordellMontgom9
-14,,,DB,6-1,191.0,So.,"Birmingham, Ala. / Pinson Valley HS",So.,
-15,,,QB,6-3,225.0,Fr.,"Cerritos, Calif. / Gahr HS",Fr.,
-16,,,DB,6-3,210.0,Fr.,"Gordo, Ala. / Gordo HS",Fr.,@Kohlsummerville
-17,,,CB,6-2,185.0,Fr.,"Jacksonville, Fla. / Riverside HS",Fr.,
+,Statistic,Image,#,Full Name,Pos.,Ht.,Wt.,Yr.,Current School Name,Hometown/Previous School,Name,Title
+0,,,0.0,Irshaad Davis,DB,5-9,190.0,Sr.,Alabama State,"Carol City, Fla. / Carol CIty HS",,
+1,,,1.0,Colton Adams,LB,6-2,230.0,R-Jr.,Alabama State,"Wetumpka, Ala. / Wetumpka HS",,
+2,,,2.0,Jacory Merritt,RB,5-11,205.0,R-Jr.,Alabama State,"Montgomery, Ala. / Sidney Lanier HS",,
+3,,,2.0,Andrew Ogletree,DL,6-2,273.0,R-Sr.,Alabama State,"Columbus, Ga. / Carver HS",,
+4,,,3.0,Nyqua Lett,QB,6-2,187.0,So.,Alabama State,"Fairburn, Ga. / Creekside HS",,
+5,,,4.0,Dematrius Davis,,5-11,202.0,So.,Alabama State,"Houston, Texas / Auburn",,
+6,,,5.0,La'Vontae Shenault,WR,6-2,194.0,R-So.,Alabama State,"DeSoto, Texas / Colorado",,
+7,,,7.0,Mikey Victor,DB,6-3,200.0,So.,Alabama State,"Pomona, Calif. / UNLV",,
+8,,,8.0,Demaurez Bellamy,S,5-10,209.0,Jr.,Alabama State,"DeLand, Fla. / South Florida",,
+9,,,8.0,Ja'Won Howell,RB,6-1,220.0,Gr.,Alabama State,"Lanett, Ala. / North Alabama",,
+10,,,10.0,Jayce Medlock,TE,6-3,217.0,Jr.,Alabama State,"Dallas, Texas / UConn",,
+11,,,11.0,Chauncey Moore,S,5-11,208.0,Sr.,Alabama State,Washington D.C. / Temple,,
+12,,,12.0,Jayion McCluster,LB,6-2,220.0,So.,Alabama State,"Largo, Fla. / Florida State",,
+13,,,13.0,Tyree Saunders,WR,6-0,199.0,Jr.,Alabama State,"Jacksonville, Fla. / Virginia Tech / East Carolina",,
+14,,,15.0,Darius Edmonds,WR,6-5,195.0,So.,Alabama State,"Atascocita,, Texas / University of Houston",,
+15,,,18.0,David Arrington IV,CB,6-0,170.0,So.,Alabama State,"Montgomery, Ala. / Jackson State",,
+16,,,18.0,Nazareth Bryant,RB,5-10,195.0,Jr.,Alabama State,"Oak Park, Ill. / Northern Illinois",,
+17,,,18.0,Rhoody Jean-Louis,LB,6-1,219.0,Jr.,Alabama State,"Miami, Fla. / Miami Central HS",,
+18,,,19.0,Quinzel Lockhart,WR,6-3,215.0,So.,Alabama State,"Havelock, N.C. / North Carolina A&T",,
+19,,,20.0,Jakobi Robinson,DB,6-2,200.0,Sr.,Alabama State,"Houston, Texas / North Carolina A&T",,
+20,,,22.0,Cail Jackson Jr.,DB,5-11,195.0,Jr.,Alabama State,"Midville, Ga. / Ventura College",,
+21,,,23.0,Keane Lewis,S,5-9,172.0,So.,Alabama State,"Miami, Fla. / Miami Northwestern HS",,
+22,,,24.0,Jaylen Sulton,RB,5-9,187.0,So.,Alabama State,"Mobile, Ala. / Saint Paul's Episcopal",,
+23,,,26.0,Marcus Harris II,RB,5-8,230.0,R-So.,Alabama State,"Jackson, Miss. / Jackson Academy",,
+24,,,27.0,James Burges,CB,6-3,180.0,Jr.,Alabama State,"Center Point, Ala. / Huffman HS",,
+25,,,28.0,DeMarkus Cunningham,LB,6-1,215.0,Jr.,Alabama State,"Bessemer, Ala. / Bessemer City HS",,
+26,,,29.0,Jayden John,K,6-0,155.0,So.,Alabama State,"Miami, Fla. / Miami Central HS",,
+27,,,33.0,Jeffrey Flowers,LB,6-0,288.0,R-Jr.,Alabama State,"Montgomery, Ala. / Alabama Christian Academy",,
+28,,,37.0,Bradley Thomas,WR,6-1,180.0,So.,Alabama State,"Montgomery, Ala. / Saint James HS",,
+29,,,40.0,Dylan Creech,LB,6-0,241.0,Jr.,Alabama State,"Geneva, Ala. / Geneva HS",,
+30,,,42.0,Karsten Threatt,LB,6-0,225.0,Jr.,Alabama State,"Midfield, Ala. / Midfield HS",,
+31,,,43.0,"Terrell Lightfoot, Jr",DE,6-3,225.0,So.,Alabama State,"Atlanta, Ga. / Carver HS",,
+32,,,44.0,Kanye Varner,DL,6-3,235.0,R-Fr.,Alabama State,"Jonesboro, Ga. / Jonesboro HS",,
+33,,,45.0,Grant DeGraffenreid,LB,6-1,235.0,So.,Alabama State,"Chandler, Ariz. / Hamilton HS",,
+34,,,49.0,Adrian Maddox,DB,6-3,200.0,So.,Alabama State,"Conyers, Ga. / Heritage HS",,
+35,,,49.0,Stefon Young-Rolle,DL,6-3,250.0,Jr.,Alabama State,"Miami, Fla. / Miami Central HS",,
+36,,,53.0,Micola Walker,OL,6-4,280.0,So.,Alabama State,"Warrenton, Ga. / Warren County HS",,
+37,,,54.0,Caulen Dunn,LB,6-1,200.0,So.,Alabama State,"Collerville, Tenn. / Collierville HS",,
+38,,,56.0,Maurice Lapierre,DL,6-2,218.0,So.,Alabama State,"Plantation, Fla. / Plantation HS",,
+39,,,57.0,Treqwan Thomas,DE,6-0,197.0,Jr.,Alabama State,"Orlando, Fla. / Jones HS",,
+40,,,58.0,"Rogers ""BB"" McCloud",OL,6-4,390.0,So.,Alabama State,"Chickasaw, Ala. / Chickasaw HS",,
+41,,,59.0,Jaland Lewis-Horton,LB,6-1,211.0,So.,Alabama State,"Sweetwater, Ala. / Sweetwater HS",,
+42,,,62.0,Dominic Boyd,OL,6-4,292.0,Jr.,Alabama State,"Tucker, Ga, / Tucker HS",,
+43,,,63.0,Robert Alston IV,OL,6-4,320.0,R-Jr.,Alabama State,"Linden, Ala. / Linden HS",,
+44,,,69.0,Keeundra Salter,OL,6-3,305.0,Jr.,Alabama State,"Montgomery, Ala. / Robert E. Lee HS",,
+45,,,71.0,Jaheim Shannon,OL,6-3,325.0,R-Fr.,Alabama State,"West Palm Beach, Fla. / Palm Beach Central HS",,
+46,,,72.0,Arquis Ward,OL,6-3,325.0,So.,Alabama State,"Auburndale, Fla. / Auburndale HS",,
+47,,,73.0,Travon Taylor,OL,6-4,295.0,R-Jr.,Alabama State,"Miami, Fla. / Miami Central HS",,
+48,,,75.0,"Ray Curry, Jr.",OL,6-5,320.0,So.,Alabama State,"Memphis, Tenn. / Arkansas",,
+49,,,76.0,Jimmie Jenkins,OL,6-4,305.0,R-Jr.,Alabama State,"Cleveland, Ohio / Glenville HS",,
+50,,,77.0,Myles Richardson,DE,6-3,225.0,So.,Alabama State,"Montgomery, Ala. / Ezekiel Academy",,
+51,,,78.0,Elijah Baker,OL,6-5,305.0,So.,Alabama State,"Phoenix, Ariz. / Desert Vista HS",,
+52,,,81.0,Kisean Johnson,WR,6-1,208.0,Jr.,Alabama State,"Birmingham, Ala. / Ramsay HS",,
+53,,,82.0,Jonathan Jean,WR,6-3,195.0,So.,Alabama State,"Houston, Texas / UT Permian Basin",,
+54,,,84.0,Isaiah Scott,WR,6-1,180.0,Sr.,Alabama State,"Linden, Ala. / Faulkner University",,
+55,,,86.0,Jordan Wilburn,WR,6-3,198.0,Fr.,Alabama State,"Augusta, S.C. / Myrtle Beach Collegiate",,
+56,,,87.0,Robert McMinn,WR,5-11,168.0,Jr.,Alabama State,"Hollywood, Fla. / Miami Central HS",,
+57,,,88.0,Jaelyn Lay,TE,6-7,260.0,R-Sr.,Alabama State,"Atlanta, Ga. / Clemson",,
+58,,,89.0,Kelvin Stokes,DL,6-3,283.0,Gr.,Alabama State,"Millbrook, Ala. / Purdue",,
+59,,,92.0,Chevalie Condry,DL,6-0,330.0,So.,Alabama State,/ Dothan HS,,
+60,,,95.0,Janil Brown,DL,6-4,343.0,Gr.,Alabama State,"West Palm Beach, Fla. / Garden City CC",,
+61,,,96.0,Jakeem Fletcher,DL,6-2,280.0,So.,Alabama State,"Tanner, Ala. / Tanner HS",,
+62,,,97.0,Christian Lee,LB,6-3,225.0,Jr.,Alabama State,"Palm Beach Gardens, Fla. / Dwyer HS",,
+63,,,,Jalen Oliver,WR,5-10,158.0,So.,Alabama State,"Tallahassee, Fla. / Lincoln HS",,
+64,,,,LJ Allen,DB,6-3,187.0,Fr.,Alabama State,"Shelby, N.C. / Burns High School",,
+65,,,,Daniel Bayeshea,DL,5-10,280.0,So.,Alabama State,"Kingston, Jamaica / Calabar HS",,
+66,,,,Jaylon Belford,CB,5-11,171.0,So.,Alabama State,"Houston, Texas / George Ranch HS",,
+67,,,,Jakeveon Bolding,DB,6-1,190.0,Fr.,Alabama State,"Clanton, Al / Chilton County",,
+68,,,,Tacaris Bozeman,RB,5-10,190.0,Fr.,Alabama State,"Montgomery, AL / Sidney Lanier High School",,
+69,,,,BaKari Dailey,WR,6-1,155.0,So.,Alabama State,"Monroeville, Ala. / Auburn HS",,
+70,,,,Joshua Daniel,OL,6-4,315.0,Fr.,Alabama State,"Birmingham, Al / Minor High Schoo",,
+71,,,,Rashard Daniels,DE,5-9,160.0,So.,Alabama State,"Horn Lake, Miss. / Horn Lake HS",,
+72,,,,Devin Davis,DE,6-6,215.0,Fr.,Alabama State,"Laplace, L.A. / East St. John High School",,
+73,,,,Arelious Dunn,OL,6-4,310.0,Jr.,Alabama State,"Fairburn, Ga / Bethune-Cookman University",,
+74,,,,Adrian Fitts,CB,6-1,190.0,Fr.,Alabama State,"Acworth, Ga. / Allatoona High School",,
+75,,,,Jacob Freeman,WR,5-11,190.0,Jr.,Alabama State,"LaGrange, GA / Georgia State University",,
+76,,,,Austin Gavin,RB,5-10,190.0,Jr.,Alabama State,"Montgomery, Ala. / Troy",,
+77,,,,Asa Gregg,WR,6-2,195.0,Fr.,Alabama State,"White Plains, MD / St. John's High School",,
+78,,,,Ajai Harrell,WR,6-0,182.0,Fr.,Alabama State,"Daytona Beach, Fl / Mainland High School",,
+79,,,,Za'lien Henry,LB,6-1,197.0,So.,Alabama State,"Dothan, Ala. / Dothan HS",,
+80,,,,Eric Horn,WR,6-0,170.0,Fr.,Alabama State,"New Orleans, LA /",,
+81,,,,Javarus Jenkins,TE,6-2,210.0,So.,Alabama State,"Mobile, Ala. / McGill-Toolen",,
+82,,,,Demosthenes Jones,QB,6-2,197.0,Gr.,Alabama State,"Jackson, Miss. / Hinds CC",,
+83,,,,Jalen Jones,WR,5-10,170.0,Fr.,Alabama State,"Birmingham, Al / Ramsay High School",,
+84,,,,"Anthony ""AJ"" Lewis",TE,6-4,240.0,Jr.,Alabama State,"Mobile, Ala. / Troy University",,
+85,,,,Cordell Montgomery,DB,6-2,200.0,Fr.,Alabama State,"Garden, Ca. / Junipero Serra High School",,
+86,,,,Dezmond Penn,OL,6-1,300.0,So.,Alabama State,"Delray Beach, Fla. / Atlantic HS",,
+87,,,,Amon Scarbrough,DB,6-1,191.0,So.,Alabama State,"Birmingham, Al / Jacksonville State University",,
+88,,,,Jordan Simpson,QB,6-3,225.0,Fr.,Alabama State,"Cerritos, Calif. / Cerritos College",,
+89,,,,Jordan Simpson,QB,6-3,225.0,Fr.,Alabama State,"Cerritos, Calif. / Cerritos College",,
+90,,,,Kohl Summerville,DB,6-3,210.0,Fr.,Alabama State,"Gordo, Al / Gordo High School",,
+91,,,,Romello Tarver,DL,6-2,319.0,Sr.,Alabama State,"Montgomery, Ala. / Park Crossing HS",,
+92,,,,Ethan Tookes,CB,6-2,185.0,Fr.,Alabama State,"Jacksonville, Fl /",,
+0,,,,,,,,,Alabama State,,"Eddie Robinson, Jr.",Head Coach
+1,,,,,,,,,Alabama State,,"Harry Williams, Jr.",Offensive Coordinator
+2,,,,,,,,,Alabama State,,Ryan Lewis Sr.,Defensive Coordinator | LB
+3,,,,,,,,,Alabama State,,Billy Gresham,Assistant Coach / LB / Special Teams Coordinator
+4,,,,,,,,,Alabama State,,Patrick Browning,Passing Game Coordinator | Quarterbacks
+5,,,,,,,,,Alabama State,,Juwan Lewis,Assistant Coach | Running Backs | Recruiting Coordinator
+6,,,,,,,,,Alabama State,,Jacoby Jones,Assistant Coach / Receivers
+7,,,,,,,,,Alabama State,,Don Nelson,Assistant Coach / Tight Ends / Recruiting Coordinator
+8,,,,,,,,,Alabama State,,James Williams,Assistant Coach / Corners / NFL Liaison
+9,,,,,,,,,Alabama State,,Andre' Pope,Assistant Coach | Safeties
+10,,,,,,,,,Alabama State,,Todd Middleton,Assistant Coach | Defensive LIne
+11,,,,,,,,,Alabama State,,Derrick Brown,Quality Control / Defense
+12,,,,,,,,,Alabama State,,Giante Hicks,Student Assistant Coach
+13,,,,,,,,,Alabama State,,Asad Muhammed,Student Assistant Coach
+0,,,,,,,,,Alabama State,,Terry Sims,Director of Football Operations
+1,,,,,,,,,Alabama State,,Jemet Baine,Administrative Secretary
+2,,,,,,,,,Alabama State,,Courtney Perkins,Assistant AD of Sports Medicine
+3,,,,,,,,,Alabama State,,"Ced Quinn, Sr.",Assistant Athletic Director of Performance Enhancement
+4,,,,,,,,,Alabama State,,Christopher Robb,Director of Football Video Services
+5,,,,,,,,,Alabama State,,Sam Lazarus,Director of Player Development
+6,,,,,,,,,Alabama State,,Fred Franklin,Coach Comm Specialist/Equipment
+7,,,,,,,,,Alabama State,,Jonathon Givens,Athletics Chaplain

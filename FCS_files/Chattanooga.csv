@@ -1,107 +1,98 @@
-,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Previous School,Image,Title
-0,,0.0,Ailym Ford,RB,5-9,213.0,Sr.,"Florence, S.C. / West Florence",,,
-1,,0.0,Quay Wiggles,DL,6-2,264.0,Jr.,"Atlanta, Ga. / Mays",,,
-2,,2.0,Jamoi Mayes,WR,5-11,200.0,Jr.,"Griffin, Ga. / Griffin HS",,,
-3,,3.0,Clay Fields III,DB,5-10,218.0,Sr.,"Somerset, N.J. / Franklin",Marist,,
-4,,3.0,Tyler Smith,WR,6-1,185.0,Jr.,"Ellenwood, Ga. / Salem",Western Kentucky,,
-5,,4.0,Javon Burke,WR,5-11,161.0,R-So.,"Cleveland, Tenn. / Bradley Central",,,
-6,,4.0,Romeo Wykle,DB,5-11,204.0,Sr.,"Cleveland, Tenn. / Cleveland",Lafayette College,,
-7,,5.0,Shatarius Williams,WR,6-2,187.0,R-So.,"Demopolis, Ala. / Demopolis",Alabama,,
-8,,7.0,Reuben Lowery III,DB,5-9,192.0,Jr.,"Powder Springs, Ga. / Hillgrove",,,
-9,,7.0,Javin Whatley,WR,5-9,164.0,R-So.,"Rockmart, Ga. / Rockmart",,,
-10,,8.0,Gino Appleberry,RB,5-8,200.0,Sr.,"Atlanta, Ga. / Westlake HS",Western Kentucky,,
-11,,8.0,O'Shea Jackson,DL,6-4,272.0,Sr.,"Philadelphia, Pa. / Imhotep Institute",Old Dominion,,
-12,,9.0,Chase Artopoeus,QB,6-1,207.0,Jr.,"Orcutt, Calif. / Saint Joseph",UCLA,,
-13,,10.0,Cardavion Myers,DB,5-10,176.0,Sr.,"Piedmont, Ala. / Piedmont",Western Kentucky,,
-14,,11.0,Sam Phillips,WR,5-8,180.0,R-So.,"Cartersville, Ga. / Cartersville",,,
-15,,12.0,Parker Brown,QB,5-11,200.0,R-So.,"Brentwood, Tenn. / Wheaton-Warrenville South",Indiana Wesleyan,,
-16,,13.0,Jaylen Rivers,DB,6-0,219.0,Sr.,"Decatur, Ga. / Grayson",Northwestern,,
-17,,14.0,Josh Jones,DB,5-9,175.0,R-So.,"Smyrna, Tenn. / Smyrna",,,
-18,,15.0,Kameron Brown,DB,5-9,179.0,Sr.,"Mobile, Ala. / Theodore",,,
-19,,15.0,Ty Gossett,QB,6-3,225.0,R-So.,"Asheville, N.C. / T.C. Roberson",Jireh Prep,,
-20,,16.0,Demetrius Coleman,DB,5-9,175.0,R-So.,"LaGrange, Ga. / Callaway",,,
-21,,16.0,Camden Overton,TE,6-3,265.0,So.,"Marietta, Ga. / Marietta",,,
-22,,17.0,Luke Schomburg,QB,6-3,202.0,R-Fr.,"Huntsville, Ala. / Sparkman",,,
-23,,18.0,Zaire Thornton,WR,6-1,172.0,Jr.,"Atlanta, Ga. / Mays",Tennessee State,,
-24,,19.0,Jeremiah Batiste,DB,5-11,176.0,So.,"Chattanooga, Tenn. / Tyner",Miami (Ohio),,
-25,,20.0,Nasir Howell,DB,6-0,182.0,R-So.,"Kennesaw, Ga. / North Cobb",North Dakota St.,,
-26,,21.0,Chris Houston,RB,5-9,167.0,Jr.,"Chesterfield, Va. / Clover Hill",Charlotte,,
-27,,22.0,Lance Jackson,RB,5-10,192.0,Jr.,"Norcross, Ga. / Norcross HS",,,
-28,,23.0,Javin Burke,WR,6-0,205.0,R-So.,"Cleveland, Tenn. / Bradley Central",Virginia,,
-29,,24.0,Josh Battle,DB,6-0,194.0,R-So.,"Hoschton, Ga. / Mill Creek",,,
-30,,25.0,Chayce Bishop,DB,5-10,190.0,So.,"Franklin, Tenn. / Independence",Ball State,,
-31,,26.0,Jaden Jude,WR,6-4,186.0,R-Fr.,"Athens, Ala. / Athens",,,
-32,,28.0,Jordan Walker,DB,6-0,183.0,R-So.,"Lafayette, Ala. / Lafayette",,,
-33,,29.0,Telly Plummer,DB,5-11,190.0,Sr.,"Riverdale, Ga. / Langston Hughes",Louisville,,
-34,,30.0,Jay Person,EDGE,6-3,224.0,Sr.,"Cleveland, Tenn. / Bradley Central",Appalachian State,,
-35,,31.0,Bo Spearman,LB,5-11,224.0,Jr.,"Irondale, Ala. / Shades Valley",,,
-36,,32.0,Hunter Green,DB,6-0,177.0,Sr.,"Knoxville, Tenn. / Webb",Virginia Tech,,
-37,,33.0,Jestin Gilmore,EDGE,6-2,191.0,R-Fr.,"Tuscaloosa, Ala. / Tuscaloosa, Ala.",,,
-38,,34.0,Connor Delashmitt,LB,6-0,182.0,R-Fr.,"Chattanooga, Tenn. / Silverdale",,,
-39,,34.0,Solomon Locke,RB,5-10,188.0,R-Fr.,"Dalton, Ga. / Christian Heritage",,,
-40,,36.0,Reggie Davis,RB,6-0,186.0,R-So.,"Montgomery, Ala. / Lee",,,
-41,,37.0,Talijah Witt,DB,5-11,181.0,R-Fr.,"Chattanooga, Tenn. / Brainerd",,,
-42,,39.0,Meshach Jones,DB,6-3,173.0,R-Fr.,"Dyersburg, Tenn. / Dyersburg",,,
-43,,41.0,Alex Mitchell,LB,6-1,223.0,So.,"Murfreesboro, Tenn. / Riverdale",,,
-44,,42.0,Justin Sanders,LB,5-11,207.0,Jr.,"Atlanta, Ga. / North Atlanta",,,
-45,,44.0,Grant Reid,LS,6-1,196.0,So.,"Jackson, Tenn. / Baylor",Tennessee,,
-46,,45.0,Kendall Jackson,LB,5-11,193.0,R-Fr.,"Oak Ridge, Tenn. / Oak Ridge",,,
-47,,47.0,Andrew Southard,k,5-10,192.0,So.,"Hendersonville, Tenn. / Pope John Paul II",,,
-48,,48.0,Brody Gann,LS,5-10,184.0,R-Fr.,"Ringgold, Ga. / Ringgold",,,
-49,,49.0,Jake Hall,LS,6-1,227.0,Sr.,"Saraland, Ala. / Saraland",Alabama,,
-50,,50.0,Cody Olszewski,LS,5-9,197.0,Sr.,"Marietta, Ga. / Pope",,,
-51,,51.0,Shamar Jones,DL,6-1,237.0,Sr.,"Johnstown, Pa. / Johnston",Indiana,,
-52,,52.0,Almarion Crim,OL,6-3,291.0,So.,"Adamsville, Ala. / Minor",Houston,,
-53,,53.0,Ben Brewton,DL,6-3,220.0,Sr.,"Savannah, Ga. / Beach HS",,,
-54,,54.0,Luke Lane,OL,6-3,313.0,Jr.,"Lebanon, Ohio / Lebanon",Indiana,,
-55,,55.0,DeAndre Jones,DL,6-5,275.0,R-Fr.,"Douglasville, Ga. / New Manchester",,,
-56,,56.0,Jeremiah Katt,OL,6-3,282.0,Jr.,"Mesa, Ariz / Mountain View",Fork Union Military Academy,,
-57,,57.0,Will Buchanan,OL,6-5,326.0,So.,"Asheville, N.C. / Christ School",Liberty,,
-58,,58.0,Marquise Freeman,EDGE,6-2,210.0,R-So.,"Cocoa, Fla. / Cocoa",Washington State,,
-59,,59.0,Deovion Davis,DL,6-1,227.0,R-So.,"Oxford, Ala. / Oxford",,,
-60,,60.0,Jon Estes,K,5-11,189.0,R-So.,"Lewisburg, Tenn. / Marshall County",,,
-61,,62.0,Malone VanGorder,OL,6-1,283.0,Jr.,"Athens, Ga. / Buford",Bowling Green,,
-62,,64.0,Reid Williams,OL,6-1,295.0,Jr.,"Ringgold, Ga. / Ringgold",,,
-63,,65.0,Nick Cerimele,OL,6-1,300.0,Sr.,"Allentown, Pa. / Central Catholic",Elon,,
-64,,66.0,Adorian Favors,OL,6-5,306.0,R-Fr.,"Athens, Ga. / Cedar Shoals",,,
-65,,68.0,Bryce Goodner,OL,6-2,299.0,R-So.,"Athens, Tenn. / MicMinn County",Virginia Tech,,
-66,,70.0,Griffin McDowell,OL,6-5,275.0,Sr.,"Leesburg, Ga. / Lee County",,,
-67,,71.0,Jacob Klein,OL,6-6,321.0,R-Fr.,"Rossville, Ga. / Ridgeland",,,
-68,,72.0,Haze Solomon,OL,6-6,270.0,R-So.,"Athens, Ala. / East Limestone",,,
-69,,73.0,Cameron Perry,OL,6-4,270.0,Jr.,"Byron, Ga. / Peach County",,,
-70,,74.0,Colin Truett,OL,6-3,287.0,Sr.,"Lebanon, Ohio / Lebanon",Cincinnati,,
-71,,75.0,Will Collier,OL,6-2,253.0,R-Fr.,"Valdosta, Ga. / Valdosta",,,
-72,,77.0,JD Broussard,OL,6-5,312.0,R-So.,"Athens, Ala. / East Limestone",Austin Peay,,
-73,,79.0,Dave Monnot III,OL,6-6,264.0,Jr.,"Joliet, Ill. / Catholic",Purdue,,
-74,,84.0,Cameron Huckabey,TE,6-1,196.0,R-Fr.,"Decatur, Ga. / Meigs County",,,
-75,,86.0,Brody Swafford,WR,5-11,184.0,R-So.,"Cleveland, Tenn. / Walker Valley",Austin Peay,,
-76,,87.0,Jay Gibson,TE,6-5,255.0,Sr.,"Cleveland, Tenn. / McCallie",Western Kentucky,,
-77,,89.0,Evan Brown,TE,6-2,252.0,Jr.,"Trenton, Ohio / Edgewood",,,
-78,,90.0,E.J. Thomas,DL,6-2,307.0,Jr.,"Pritchard, Ala. / Vigor",Contra Costa CC,,
-79,,91.0,Montrell Henderson,DL,6-3,339.0,R-Fr.,"Riverdale, Ga. / Charles Drew",,,
-80,,92.0,Jude Kelley,K,6-1,179.0,Jr.,"Acworth, Ga. / Allatoona",Georgia Tech,,
-81,,93.0,Kelvin Morris,DL,6-0,267.0,R-So.,"Hartselle, Ala. / Hartselle",,,
-82,,94.0,Marlon Taylor,DL,6-1,311.0,R-Jr.,"Brunswick, Ga. / Glynn Academy",,,
-83,,96.0,Chris Victor,DL,6-3,220.0,Jr.,"Jacksonville, Fla. / Terry Parker",Mississippi Valley State,,
-84,,98.0,Clayton Crile,P,6-2,219.0,Sr.,"Duncan, S.C. / Byrnes",Catawba,,
-85,,99.0,Nick Charles,DL,6-2,247.0,R-Fr.,"Kennesaw, Ga. / Harrison",,,
-0,,,Rusty Wright,,,,,,,,Head Coach
-1,,,Joe Pizzo,,,,,,,,Assistant Coach - Offensive Coordinator
-2,,,Lorenzo Ward,,,,,,,,Assistant Coach - Defensive Coordinator
-3,,,D.J. Knox,,,,,,,,Assistant Coach - Running Backs
-4,,,Kevin Revis,,,,,,,,Assistant Coach - Offensive Line
-5,,,Anthony Shakir,,,,,,,,Assistant Coach - Defensive Line
-6,,,Ricky Spradling,,,,,,,,Assistant Coach - Wide Receivers
-7,,,Korel Smith,,,,,,,,Assistant Coach - Secondary
-8,,,Zeb Speir,,,,,,,,Assistant Coach - Tight Ends
-9,,,Tyrus Ward,,,,,,,,Assistant Coach - Outside Linebackers
-10,,,Mike Yeager,,,,,,,,Assistant Coach - Special Teams/Inside Linebackers
-0,,,Emily Baustert,,,,,,,,Director of Football Ops
-1,,,Leyton Teal,,,,,,,,Recruiting Coordinator
-2,,,Paxton Cottrell,,,,,,,,Offensive Quality Control
-3,,,Ian Smith,,,,,,,,Video Coordinator
-4,,,Dr. Nathan Barger,,,,,,,,Assistant AD - Sports Medicine (Head Football Athletic Trainer)
-5,,,Gerry Pacitti,,,,,,,,Director of Athletics Performance
-6,,,Billy Wilson,,,,,,,,Director of Equipment & Facilities
-7,,,Jim Horten,,,,,,,,"Assistant AD - Strategic Communications (Football, Golf)"
-8,,,Jenna Latour,,,,,,,,On Campus Recruiting Assistant
+,Statistic,No.,Name,Pos.,Ht.,Wt.,Yr.,Hometown / High School,Current School Name,Previous School,Image,Title
+0,,0.0,Ailym Ford,RB,5-9,213.0,Sr.,"Florence, S.C. / West Florence",Chattanooga,,,
+1,,0.0,Quay Wiggles,DL,6-2,264.0,Jr.,"Atlanta, Ga. / Mays",Chattanooga,,,
+2,,2.0,Jamoi Mayes,WR,5-11,200.0,Jr.,"Griffin, Ga. / Griffin HS",Chattanooga,,,
+3,,3.0,Clay Fields III,DB,5-10,218.0,Sr.,"Somerset, N.J. / Franklin",Chattanooga,Marist,,
+4,,3.0,Tyler Smith,WR,6-1,185.0,Jr.,"Ellenwood, Ga. / Salem",Chattanooga,Western Kentucky,,
+5,,4.0,Javon Burke,WR,5-11,161.0,R-So.,"Cleveland, Tenn. / Bradley Central",Chattanooga,,,
+6,,4.0,Romeo Wykle,DB,5-11,204.0,Sr.,"Cleveland, Tenn. / Cleveland",Chattanooga,Lafayette College,,
+7,,7.0,Reuben Lowery III,DB,5-9,192.0,Jr.,"Powder Springs, Ga. / Hillgrove",Chattanooga,,,
+8,,7.0,Javin Whatley,WR,5-9,164.0,R-So.,"Rockmart, Ga. / Rockmart",Chattanooga,,,
+9,,8.0,Gino Appleberry,RB,5-8,200.0,Sr.,"Atlanta, Ga. / Westlake HS",Chattanooga,Western Kentucky,,
+10,,8.0,O'Shea Jackson,DL,6-4,272.0,Sr.,"Philadelphia, Pa. / Imhotep Institute",Chattanooga,Old Dominion,,
+11,,9.0,Chase Artopoeus,QB,6-1,207.0,Jr.,"Orcutt, Calif. / Saint Joseph",Chattanooga,UCLA,,
+12,,10.0,Cardavion Myers,DB,5-10,176.0,Sr.,"Piedmont, Ala. / Piedmont",Chattanooga,Western Kentucky,,
+13,,11.0,Sam Phillips,WR,5-8,180.0,R-So.,"Cartersville, Ga. / Cartersville",Chattanooga,,,
+14,,12.0,Parker Brown,QB,5-11,200.0,R-So.,"Brentwood, Tenn. / Wheaton-Warrenville South",Chattanooga,Indiana Wesleyan,,
+15,,14.0,Josh Jones,DB,5-9,175.0,R-So.,"Smyrna, Tenn. / Smyrna",Chattanooga,,,
+16,,15.0,Kameron Brown,DB,5-9,179.0,Sr.,"Mobile, Ala. / Theodore",Chattanooga,,,
+17,,16.0,Demetrius Coleman,DB,5-9,175.0,R-So.,"LaGrange, Ga. / Callaway",Chattanooga,,,
+18,,16.0,Camden Overton,TE,6-3,265.0,So.,"Marietta, Ga. / Marietta",Chattanooga,,,
+19,,17.0,Luke Schomburg,QB,6-3,202.0,R-Fr.,"Huntsville, Ala. / Sparkman",Chattanooga,,,
+20,,18.0,Zaire Thornton,WR,6-1,172.0,Jr.,"Atlanta, Ga. / Mays",Chattanooga,Tennessee State,,
+21,,19.0,Jeremiah Batiste,DB,5-11,176.0,So.,"Chattanooga, Tenn. / Tyner",Chattanooga,Miami (Ohio),,
+22,,21.0,Chris Houston,RB,5-9,167.0,Jr.,"Chesterfield, Va. / Clover Hill",Chattanooga,Charlotte,,
+23,,22.0,Lance Jackson,RB,5-10,192.0,Jr.,"Norcross, Ga. / Norcross HS",Chattanooga,,,
+24,,24.0,Josh Battle,DB,6-0,194.0,R-So.,"Hoschton, Ga. / Mill Creek",Chattanooga,,,
+25,,25.0,Chayce Bishop,DB,5-10,190.0,So.,"Franklin, Tenn. / Independence",Chattanooga,Ball State,,
+26,,26.0,Jaden Jude,WR,6-4,186.0,R-Fr.,"Athens, Ala. / Athens",Chattanooga,,,
+27,,28.0,Jordan Walker,DB,6-0,183.0,R-So.,"Lafayette, Ala. / Lafayette",Chattanooga,,,
+28,,29.0,Telly Plummer,DB,5-11,190.0,Sr.,"Riverdale, Ga. / Langston Hughes",Chattanooga,Louisville,,
+29,,30.0,Jay Person,EDGE,6-3,224.0,Sr.,"Cleveland, Tenn. / Bradley Central",Chattanooga,Appalachian State,,
+30,,31.0,Bo Spearman,LB,5-11,224.0,Jr.,"Irondale, Ala. / Shades Valley",Chattanooga,,,
+31,,33.0,Jestin Gilmore,EDGE,6-2,191.0,R-Fr.,"Tuscaloosa, Ala. / Tuscaloosa, Ala.",Chattanooga,,,
+32,,34.0,Connor Delashmitt,LB,6-0,182.0,R-Fr.,"Chattanooga, Tenn. / Silverdale",Chattanooga,,,
+33,,34.0,Solomon Locke,RB,5-10,188.0,R-Fr.,"Dalton, Ga. / Christian Heritage",Chattanooga,,,
+34,,36.0,Reggie Davis,RB,6-0,186.0,R-So.,"Montgomery, Ala. / Lee",Chattanooga,,,
+35,,37.0,Talijah Witt,DB,5-11,181.0,R-Fr.,"Chattanooga, Tenn. / Brainerd",Chattanooga,,,
+36,,39.0,Meshach Jones,DB,6-3,173.0,R-Fr.,"Dyersburg, Tenn. / Dyersburg",Chattanooga,,,
+37,,41.0,Alex Mitchell,LB,6-1,223.0,So.,"Murfreesboro, Tenn. / Riverdale",Chattanooga,,,
+38,,42.0,Justin Sanders,LB,5-11,207.0,Jr.,"Atlanta, Ga. / North Atlanta",Chattanooga,,,
+39,,44.0,Grant Reid,LS,6-1,196.0,So.,"Jackson, Tenn. / Baylor",Chattanooga,Tennessee,,
+40,,45.0,Kendall Jackson,LB,5-11,193.0,R-Fr.,"Oak Ridge, Tenn. / Oak Ridge",Chattanooga,,,
+41,,47.0,Andrew Southard,k,5-10,192.0,So.,"Hendersonville, Tenn. / Pope John Paul II",Chattanooga,,,
+42,,48.0,Brody Gann,LS,5-10,184.0,R-Fr.,"Ringgold, Ga. / Ringgold",Chattanooga,,,
+43,,49.0,Jake Hall,LS,6-1,227.0,Sr.,"Saraland, Ala. / Saraland",Chattanooga,Alabama,,
+44,,50.0,Cody Olszewski,LS,5-9,197.0,Sr.,"Marietta, Ga. / Pope",Chattanooga,,,
+45,,51.0,Shamar Jones,DL,6-1,237.0,Sr.,"Johnstown, Pa. / Johnston",Chattanooga,Indiana,,
+46,,52.0,Almarion Crim,OL,6-3,291.0,So.,"Adamsville, Ala. / Minor",Chattanooga,Houston,,
+47,,53.0,Ben Brewton,DL,6-3,220.0,Sr.,"Savannah, Ga. / Beach HS",Chattanooga,,,
+48,,54.0,Luke Lane,OL,6-3,313.0,Jr.,"Lebanon, Ohio / Lebanon",Chattanooga,Indiana,,
+49,,55.0,DeAndre Jones,DL,6-5,275.0,R-Fr.,"Douglasville, Ga. / New Manchester",Chattanooga,,,
+50,,56.0,Jeremiah Katt,OL,6-3,282.0,Jr.,"Mesa, Ariz / Mountain View",Chattanooga,Fork Union Military Academy,,
+51,,57.0,Will Buchanan,OL,6-5,326.0,So.,"Asheville, N.C. / Christ School",Chattanooga,Liberty,,
+52,,58.0,Marquise Freeman,EDGE,6-2,210.0,R-So.,"Cocoa, Fla. / Cocoa",Chattanooga,Washington State,,
+53,,59.0,Deovion Davis,DL,6-1,227.0,R-So.,"Oxford, Ala. / Oxford",Chattanooga,,,
+54,,60.0,Jon Estes,K,5-11,189.0,R-So.,"Lewisburg, Tenn. / Marshall County",Chattanooga,,,
+55,,62.0,Malone VanGorder,OL,6-1,283.0,Jr.,"Athens, Ga. / Buford",Chattanooga,Bowling Green,,
+56,,64.0,Reid Williams,OL,6-1,295.0,Jr.,"Ringgold, Ga. / Ringgold",Chattanooga,,,
+57,,65.0,Nick Cerimele,OL,6-1,300.0,Sr.,"Allentown, Pa. / Central Catholic",Chattanooga,Elon,,
+58,,66.0,Adorian Favors,OL,6-5,306.0,R-Fr.,"Athens, Ga. / Cedar Shoals",Chattanooga,,,
+59,,68.0,Bryce Goodner,OL,6-2,299.0,R-So.,"Athens, Tenn. / MicMinn County",Chattanooga,Virginia Tech,,
+60,,70.0,Griffin McDowell,OL,6-5,275.0,Sr.,"Leesburg, Ga. / Lee County",Chattanooga,,,
+61,,71.0,Jacob Klein,OL,6-6,321.0,R-Fr.,"Rossville, Ga. / Ridgeland",Chattanooga,,,
+62,,74.0,Colin Truett,OL,6-3,287.0,Sr.,"Lebanon, Ohio / Lebanon",Chattanooga,Cincinnati,,
+63,,75.0,Will Collier,OL,6-2,253.0,R-Fr.,"Valdosta, Ga. / Valdosta",Chattanooga,,,
+64,,77.0,JD Broussard,OL,6-5,312.0,R-So.,"Athens, Ala. / East Limestone",Chattanooga,Austin Peay,,
+65,,79.0,Dave Monnot III,OL,6-6,264.0,Jr.,"Joliet, Ill. / Catholic",Chattanooga,Purdue,,
+66,,84.0,Cameron Huckabey,TE,6-1,196.0,R-Fr.,"Decatur, Ga. / Meigs County",Chattanooga,,,
+67,,86.0,Brody Swafford,WR,5-11,184.0,R-So.,"Cleveland, Tenn. / Walker Valley",Chattanooga,Austin Peay,,
+68,,87.0,Jay Gibson,TE,6-5,255.0,Sr.,"Cleveland, Tenn. / McCallie",Chattanooga,Western Kentucky,,
+69,,89.0,Evan Brown,TE,6-2,252.0,Jr.,"Trenton, Ohio / Edgewood",Chattanooga,,,
+70,,90.0,E.J. Thomas,DL,6-2,307.0,Jr.,"Pritchard, Ala. / Vigor",Chattanooga,Contra Costa CC,,
+71,,91.0,Montrell Henderson,DL,6-3,339.0,R-Fr.,"Riverdale, Ga. / Charles Drew",Chattanooga,,,
+72,,92.0,Jude Kelley,K,6-1,179.0,Jr.,"Acworth, Ga. / Allatoona",Chattanooga,Georgia Tech,,
+73,,93.0,Kelvin Morris,DL,6-0,267.0,R-So.,"Hartselle, Ala. / Hartselle",Chattanooga,,,
+74,,94.0,Marlon Taylor,DL,6-1,311.0,R-Jr.,"Brunswick, Ga. / Glynn Academy",Chattanooga,,,
+75,,96.0,Chris Victor,DL,6-3,220.0,Jr.,"Jacksonville, Fla. / Terry Parker",Chattanooga,Mississippi Valley State,,
+76,,98.0,Clayton Crile,P,6-2,219.0,Sr.,"Duncan, S.C. / Byrnes",Chattanooga,Catawba,,
+77,,99.0,Nick Charles,DL,6-2,247.0,R-Fr.,"Kennesaw, Ga. / Harrison",Chattanooga,,,
+0,,,Rusty Wright,,,,,,Chattanooga,,,Head Coach
+1,,,Joe Pizzo,,,,,,Chattanooga,,,Assistant Coach - Offensive Coordinator
+2,,,Lorenzo Ward,,,,,,Chattanooga,,,Assistant Coach - Defensive Coordinator
+3,,,D.J. Knox,,,,,,Chattanooga,,,Assistant Coach - Running Backs
+4,,,Kevin Revis,,,,,,Chattanooga,,,Assistant Coach - Offensive Line
+5,,,Anthony Shakir,,,,,,Chattanooga,,,Assistant Coach - Defensive Line
+6,,,Ricky Spradling,,,,,,Chattanooga,,,Assistant Coach - Wide Receivers
+7,,,Korel Smith,,,,,,Chattanooga,,,Assistant Coach - Secondary
+8,,,Zeb Speir,,,,,,Chattanooga,,,Assistant Coach - Tight Ends
+9,,,Tyrus Ward,,,,,,Chattanooga,,,Assistant Coach - Outside Linebackers
+10,,,Mike Yeager,,,,,,Chattanooga,,,Assistant Coach - Special Teams/Inside Linebackers
+0,,,Emily Baustert,,,,,,Chattanooga,,,Director of Football Ops
+1,,,Leyton Teal,,,,,,Chattanooga,,,Recruiting Coordinator
+2,,,Paxton Cottrell,,,,,,Chattanooga,,,Offensive Quality Control
+3,,,Dr. Nathan Barger,,,,,,Chattanooga,,,Assistant AD - Sports Medicine (Head Football Athletic Trainer)
+4,,,Gerry Pacitti,,,,,,Chattanooga,,,Director of Athletics Performance
+5,,,Billy Wilson,,,,,,Chattanooga,,,Director of Equipment & Facilities
+6,,,Jim Horten,,,,,,Chattanooga,,,"Assistant AD - Strategic Communications (Football, Golf)"
+7,,,Jenna Latour,,,,,,Chattanooga,,,On Campus Recruiting Assistant

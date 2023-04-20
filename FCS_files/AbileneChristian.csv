@@ -1,90 +1,92 @@
-,Statistic,No.,Image,Name,Pos.,Ht.,Wt.,Cl.,Hometown,High School,Previous School,Title
-0,,0.0,,Tyrin Bradley,DL,6-4,255.0,Jr.,"Lubbock, Texas",Monterey HS,,
-1,,0.0,,Jay'Veon Sunday,RB,6-0,201.0,So.,"Waco, Texas",Connally HS,Washington,
-2,,1.0,,Maverick McIvor,QB,6-2,210.0,Jr.,"San Angelo, Texas",Central HS,Texas Tech,
-3,,2.0,,Marcayll Jones,WR,5-9,178.0,So.,"Warner Robbins, Ga.",Warner Robbins HS,Memphis,
-4,,2.0,,Jordan Mukes,DB,6-3,210.0,So.,"Choctaw, Okla.",Choctaw HS,Oklahoma,
-5,,3.0,,Rovaughn Banks Jr.,RB,5-10,200.0,So.,"Tulsa, Okla.",Union HS,,
-6,,4.0,,"Anthony Egbo, Jr.",DB,5-8,190.0,Sr.,"Richmond, Texas",Foster HS,,
-7,,4.0,,Davion Johnson,WR,5-8,170.0,Sr.,"Bedford Heights, Ohio",Bedford HS,Southwestern CC,
-8,,4.0,,Ethan Long,QB,6-2,210.0,Sr.,"West Linn, Ore.",West Linn HS,Arizona State,
-9,,5.0,,Trey Adams,S,5-10,200.0,Sr.,"Corvallis, Ore.",Crescent Valley HS,Northern Colorado,
-10,,5.0,,Tristan Golightly,WR,6-4,205.0,Jr.,"Mesquite, Texas",Poteet HS,Kansas,
-11,,6.0,,Dustin Inness,LS,5-11,195.0,Sr.,"Phoenix, Ariz.",Northwest Christian HS,,
-12,,6.0,,Taelyn Williams,WR,6-2,175.0,Sr.,"Euless, Texas",Euless Trinity HS,,
-13,,7.0,,Elijah Moffett,S,6-2,205.0,Jr.,"Selma, Texas",Veterans Memorial HS,,
-14,,8.0,,JaDarius Thursby,DB,5-11,175.0,So.,"Duncanville, Texas",Duncanville HS,SMU,
-15,,9.0,,Alex Bowman Jr.,DL,6-2,245.0,Rf.,Dallas,James Madison HS,,
-16,,12.0,,Triston Anderson,DB,6-2,195.0,Sr.,"Rockwall, Texas",Rockwall HS,Arkansas State,
-17,,13.0,,Blayne Taylor,WR,6-5,205.0,Jr.,"Saginaw, Texas",Saginaw HS,Cisco College,
-18,,15.0,,Carter Highhouse,QB,6-2,205.0,Jr.,"Mattawan, Mich.",Portage Central HS,Butler,
-19,,16.0,,Denver Holman,WR,5-10,185.0,Jr.,"Belton, Texas",Belton HS,Mary Hardin-Baylor,
-20,,17.0,,Trevor Baker,QB,6-3,195.0,So.,"Needville, Texas",Needville HS,,
-21,,17.0,,Dishon Hall II,DB,6-3,195.0,Jr.,"Normal, Ill.",Normal Community HS,Iowa Central CC,
-22,,19.0,,Dax Neece,WR,6-3,210.0,Sr.,"Albany, Texas",Albany HS,Texas Tech,
-23,,19.0,,Dorian Plumley,S,6-0,190.0,So.,"El Reno, Okla.",El Reno HS,Oklahoma,
-24,,20.0,,Javion Hunt,RB,6-0,205.0,So.,"Midwest City, Okla.",Carl Albert HS,Arkansas,
-25,,20.0,,Brandon Ramsey,DB,6-0,190.0,Rf.,"Owasso, Okla.",Owasso HS,,
-26,,21.0,,Jermiah Dobbins,RB,5-11,195.0,Jr.,"Lubbock, Texas",Estacado HS,,
-27,,23.0,,Patrick Jolly,DB,6-2,185.0,Sr.,"Tampa, Fla.",Newsome HS,UCLA,
-28,,24.0,,Darius Moore,LB,6-1,235.0,Jr.,"El Reno, Okla.",El Reno HS,Northeastern Oklahoma A&M,
-29,,25.0,,Izaiah Kelley,LB,6-2,210.0,Jr.,"Lubbock, Texas",Coronado HS,SMU,
-30,,26.0,,Jailen Dixon,LB,6-3,210.0,R-So.,"Electra, Texas",Electra HS,,
-31,,32.0,,Xavier Wishert,RB,6-1,200.0,Rf.,"Tuscola, Texas",Jim Ned HS,,
-32,,33.0,,Kelekolio Linton,DB,5-10,190.0,So.,"Pearland, Texas",Pearland HS,Tyler Junior College,
-33,,35.0,,Ethan Taite,LB,6-3,220.0,Jr.,"Frisco, Texas",Independence HS,,
-34,,36.0,,Rece Stafford,TE,6-0,235.0,Sr.,"Frisco, Texas",Frisco Wakeland HS,,
-35,,37.0,,Casen Olson,S,6-1,190.0,So.,"Waynoka, Okla.",Waynoka HS,,
-36,,41.0,,T.J. Marshall,S,6-1,190.0,So.,"Pearland, Texas",Shadow Creek HS,Houston,
-37,,42.0,,Reese Young,LB,6-1,220.0,So.,"Stephenville, Texas",Stephenville HS,,
-38,,43.0,,Easton Myrick,TE,5-11,195.0,So.,"San Antonio, Texas",Geneva School of Boerne,,
-39,,46.0,,Cirby Coheley,LB,6-4,220.0,Jr.,"Iowa Park, Texas",Iowa Park HS,,
-40,,47.0,,Derrick Parker,LB,6-1,220.0,So.,"Mansfield, Texas",Lake Ridge HS,,
-41,,48.0,,Grant Nickel,P,6-0,170.0,So.,"Spring, Texas",Grand Oaks HS,Texas Tech,
-42,,49.0,,Cade Bleakney,LS,6-3,235.0,Rf.,"Crandall, Texas",Crandall HS,,
-43,,50.0,,Damion Hart,DL,6-3,245.0,Jr.,"Cibolo, Texas",Steele HS,,
-44,,51.0,,Kyle Pointer,LB,6-3,215.0,So.,"Queen Creek, Ariz.",Casteel HS,,
-45,,54.0,,Carson Walker,OL,6-4,300.0,So.,"Midlothian, Texas",Heritage HS,Houston,
-46,,55.0,,Alan Hatten,OL,6-3,305.0,Jr.,"Great Meadows, N.J.",Hackettstown HS,Lackawanna College,
-47,,57.0,,Trent Pullen,OL,6-3,295.0,So.,"Waco, Texas",Connally HS,Oklahoma State,
-48,,58.0,,Brad Robinson,DL,6-2,270.0,R-So.,"Zephyr, Texas",Brownwood HS,,
-49,,59.0,,Jacob Thielen,OL,6-4,305.0,Jr.,"Broomfield, Colo.",Faith Christian Academy,,
-50,,61.0,,Dylan Kinney,OL,6-3,305.0,Rf.,"Richmond, Texas",Travis HS,,
-51,,62.0,,Jackson Andrews,OL,6-2,290.0,So.,"Schertz, Texas",Samuel Clemens HS,,
-52,,64.0,,Ethan Clark,OL,6-3,295.0,Rf.,"Pineville, La.",Pineville HS,,
-53,,66.0,,Dylan Howerton,OL,6-5,290.0,So.,"Katy, Texas",Katy HS,,
-54,,70.0,,Tay Yanta,OL,6-5,350.0,So.,"Falls City, Texas",Falls City HS,Texas Tech,
-55,,72.0,,Femi Sakiri,OL,6-3,305.0,So.,"Roanoke, Texas",Byron Nelson HS,UConn,
-56,,74.0,,Reese Moore,OL,6-6,290.0,Jr.,"Seminole, Texas",Seminole HS,Texas,
-57,,75.0,,Rafiti Ghirmai,OL,6-5,320.0,Sr.,"Frisco, Texas",Wakeland HS,Texas,
-58,,76.0,,Joziah Fogle,OL,6-4,335.0,So.,"Spring, Texas",Spring HS,,
-59,,80.0,,Harrison Foster,WR,6-2,195.0,Rf.,"Sweetwater, Texas",Sweetwater HS,,
-60,,81.0,,Noah Caldwell,TE,6-6,250.0,Jr.,"Electra, Texas",Electra HS,,
-61,,82.0,,Cooper McCasland,WR,6-1,195.0,So.,"Hurst, Texas",Birdville HS,,
-62,,83.0,,Colt Cooper,TE,6-4,245.0,So.,"Quinlan, Texas",Ford HS,,
-63,,84.0,,Jacoby Boykins,WR,6-1,200.0,Fr.,Houston,Lamar HS,Alabama,
-64,,86.0,,Chidubem Lebechi,TE,6-2,235.0,Rf.,"Katy, Texas",Tompkins HS,,
-65,,88.0,,Jed Castles,TE,6-6,235.0,So.,"Wichita Falls, Texas",Rider HS,Texas Tech,
-66,,88.0,,Will Fargason,P,6-1,210.0,So.,"Lubbock, Texas",Trinity Christian HS,,
-67,,89.0,,Cameron Byrom,DL,6-5,250.0,So.,"Valley View, Texas",Valley View HS,,
-68,,90.0,,Syncere Massey,DL,6-5,325.0,Rf.,"Cedar Hill, Texas",Cedar Hill HS,Texas Tech,
-69,,91.0,,Sean Dubose Jr.,DL,6-2,245.0,Rf.,"Katy, Texas",Tompkins HS,,
-70,,98.0,,David Oke,DL,6-2,275.0,So.,Houston,Alief Hasting HS,,
-71,,99.0,,Colby Warkentin,DL,6-6,260.0,So.,"Bakersfield, Calif.",Centennial HS,Fresno State,
-72,,,,Sema'J Davis,QB,6-1,191.0,Gr.,"Midland, Texas",Midland Lee HS,,
-0,,,,Keith Patterson,,,,,,,,Head Football Coach
-1,,,,Skyler Cassity,,,,,,,,Defensive Coordinator
-2,,,,Stephen Lee,,,,,,,,Offensive Coordinator
-3,,,,Julian Wilson,,,,,,,,Defensive Backs Coach
-4,,,,Matt Clark,,,,,,,,Tight Ends Coach/Special Teams Coordinator
-5,,,,Conor Dubin,,,,,,,,Outside Linebackers Coach
-6,,,,Shannon Carter,,,,,,,,Inside Linebackers Coach
-7,,,,Steven Thrash,,,,,,,,Wide Receivers Coach
-8,,,,Jerale Badon,,,,,,,,Running Backs Coach
-9,,,,Ryan Pugh,,,,,,,,Offensive Line Coach
-10,,,,Dan Phillips,,,,,,,,Defensive Line Coach
-11,,,,Drew Cunningham,,,,,,,,Senior Defensive Analyst
-12,,,,Koy Richardson,,,,,,,,Defensive Graduate Assistant
-0,,,,Jordan Seawright,,,,,,,,Associate AD/Football Chief of Staff
-1,,,,Corey Smith,,,,,,,,Director of Strength and Conditioning for Football
-2,,,,Reid Miller,,,,,,,,Assistant Strength and Conditioning Coach
+,Statistic,No.,Image,Name,Pos.,Ht.,Wt.,Cl.,Current School Name,Hometown,High School,Previous School,Title
+0,,0.0,,Tyrin Bradley,DL,6-4,255.0,Jr.,Abilene Christian,"Lubbock, Texas",Monterey HS,,
+1,,0.0,,Jay'Veon Sunday,RB,6-0,201.0,So.,Abilene Christian,"Waco, Texas",Connally HS,Washington,
+2,,1.0,,Maverick McIvor,QB,6-2,210.0,Jr.,Abilene Christian,"San Angelo, Texas",Central HS,Texas Tech,
+3,,2.0,,Marcayll Jones,WR,5-9,178.0,So.,Abilene Christian,"Warner Robbins, Ga.",Warner Robbins HS,Memphis,
+4,,2.0,,Jordan Mukes,DB,6-3,210.0,So.,Abilene Christian,"Choctaw, Okla.",Choctaw HS,Oklahoma,
+5,,3.0,,Rovaughn Banks Jr.,RB,5-10,200.0,So.,Abilene Christian,"Tulsa, Okla.",Union HS,,
+6,,4.0,,"Anthony Egbo, Jr.",DB,5-8,190.0,Sr.,Abilene Christian,"Richmond, Texas",Foster HS,,
+7,,4.0,,Davion Johnson,WR,5-8,170.0,Sr.,Abilene Christian,"Bedford Heights, Ohio",Bedford HS,Southwestern CC,
+8,,4.0,,Ethan Long,QB,6-2,210.0,Sr.,Abilene Christian,"West Linn, Ore.",West Linn HS,Arizona State,
+9,,5.0,,Trey Adams,S,5-10,200.0,Sr.,Abilene Christian,"Corvallis, Ore.",Crescent Valley HS,Northern Colorado,
+10,,5.0,,Tristan Golightly,WR,6-4,205.0,Jr.,Abilene Christian,"Mesquite, Texas",Poteet HS,Kansas,
+11,,6.0,,Dustin Inness,LS,5-11,195.0,Sr.,Abilene Christian,"Phoenix, Ariz.",Northwest Christian HS,,
+12,,6.0,,Taelyn Williams,WR,6-2,175.0,Sr.,Abilene Christian,"Euless, Texas",Euless Trinity HS,,
+13,,7.0,,Elijah Moffett,S,6-2,205.0,Jr.,Abilene Christian,"Selma, Texas",Veterans Memorial HS,,
+14,,8.0,,JaDarius Thursby,DB,5-11,175.0,So.,Abilene Christian,"Duncanville, Texas",Duncanville HS,SMU,
+15,,9.0,,Alex Bowman Jr.,DL,6-2,245.0,Rf.,Abilene Christian,Dallas,James Madison HS,,
+16,,12.0,,Triston Anderson,DB,6-2,195.0,Sr.,Abilene Christian,"Rockwall, Texas",Rockwall HS,Arkansas State,
+17,,13.0,,Blayne Taylor,WR,6-5,205.0,Jr.,Abilene Christian,"Saginaw, Texas",Saginaw HS,Cisco College,
+18,,15.0,,Carter Highhouse,QB,6-2,205.0,Jr.,Abilene Christian,"Mattawan, Mich.",Portage Central HS,Butler,
+19,,16.0,,Denver Holman,WR,5-10,185.0,Jr.,Abilene Christian,"Belton, Texas",Belton HS,Mary Hardin-Baylor,
+20,,17.0,,Trevor Baker,QB,6-3,195.0,So.,Abilene Christian,"Needville, Texas",Needville HS,,
+21,,17.0,,Dishon Hall II,DB,6-3,195.0,Jr.,Abilene Christian,"Normal, Ill.",Normal Community HS,Iowa Central CC,
+22,,19.0,,Dax Neece,WR,6-3,210.0,Sr.,Abilene Christian,"Albany, Texas",Albany HS,Texas Tech,
+23,,19.0,,Dorian Plumley,S,6-0,190.0,So.,Abilene Christian,"El Reno, Okla.",El Reno HS,Oklahoma,
+24,,20.0,,Javion Hunt,RB,6-0,205.0,So.,Abilene Christian,"Midwest City, Okla.",Carl Albert HS,Arkansas,
+25,,20.0,,Brandon Ramsey,DB,6-0,190.0,Rf.,Abilene Christian,"Owasso, Okla.",Owasso HS,,
+26,,21.0,,Jermiah Dobbins,RB,5-11,195.0,Jr.,Abilene Christian,"Lubbock, Texas",Estacado HS,,
+27,,23.0,,Patrick Jolly,DB,6-2,185.0,Sr.,Abilene Christian,"Tampa, Fla.",Newsome HS,UCLA,
+28,,24.0,,Darius Moore,LB,6-1,235.0,Jr.,Abilene Christian,"El Reno, Okla.",El Reno HS,Northeastern Oklahoma A&M,
+29,,25.0,,Izaiah Kelley,LB,6-2,210.0,Jr.,Abilene Christian,"Lubbock, Texas",Coronado HS,SMU,
+30,,26.0,,Jailen Dixon,LB,6-3,210.0,R-So.,Abilene Christian,"Electra, Texas",Electra HS,,
+31,,32.0,,Xavier Wishert,RB,6-1,200.0,Rf.,Abilene Christian,"Tuscola, Texas",Jim Ned HS,,
+32,,33.0,,Kelekolio Linton,DB,5-10,190.0,So.,Abilene Christian,"Pearland, Texas",Pearland HS,Tyler Junior College,
+33,,35.0,,Ethan Taite,LB,6-3,220.0,Jr.,Abilene Christian,"Frisco, Texas",Independence HS,,
+34,,36.0,,Rece Stafford,TE,6-0,235.0,Sr.,Abilene Christian,"Frisco, Texas",Frisco Wakeland HS,,
+35,,37.0,,Casen Olson,S,6-1,190.0,So.,Abilene Christian,"Waynoka, Okla.",Waynoka HS,,
+36,,41.0,,T.J. Marshall,S,6-1,190.0,So.,Abilene Christian,"Pearland, Texas",Shadow Creek HS,Houston,
+37,,42.0,,Reese Young,LB,6-1,220.0,So.,Abilene Christian,"Stephenville, Texas",Stephenville HS,,
+38,,43.0,,Easton Myrick,TE,5-11,195.0,So.,Abilene Christian,"San Antonio, Texas",Geneva School of Boerne,,
+39,,46.0,,Cirby Coheley,LB,6-4,220.0,Jr.,Abilene Christian,"Iowa Park, Texas",Iowa Park HS,,
+40,,47.0,,Derrick Parker,LB,6-1,220.0,So.,Abilene Christian,"Mansfield, Texas",Lake Ridge HS,,
+41,,48.0,,Grant Nickel,P,6-0,170.0,So.,Abilene Christian,"Spring, Texas",Grand Oaks HS,Texas Tech,
+42,,49.0,,Cade Bleakney,LS,6-3,235.0,Rf.,Abilene Christian,"Crandall, Texas",Crandall HS,,
+43,,50.0,,Damion Hart,DL,6-3,245.0,Jr.,Abilene Christian,"Cibolo, Texas",Steele HS,,
+44,,51.0,,Kyle Pointer,LB,6-3,215.0,So.,Abilene Christian,"Queen Creek, Ariz.",Casteel HS,,
+45,,54.0,,Carson Walker,OL,6-4,300.0,So.,Abilene Christian,"Midlothian, Texas",Heritage HS,Houston,
+46,,55.0,,Alan Hatten,OL,6-3,305.0,Jr.,Abilene Christian,"Great Meadows, N.J.",Hackettstown HS,Lackawanna College,
+47,,57.0,,Trent Pullen,OL,6-3,295.0,So.,Abilene Christian,"Waco, Texas",Connally HS,Oklahoma State,
+48,,58.0,,Brad Robinson,DL,6-2,270.0,R-So.,Abilene Christian,"Zephyr, Texas",Brownwood HS,,
+49,,59.0,,Jacob Thielen,OL,6-4,305.0,Jr.,Abilene Christian,"Broomfield, Colo.",Faith Christian Academy,,
+50,,61.0,,Dylan Kinney,OL,6-3,305.0,Rf.,Abilene Christian,"Richmond, Texas",Travis HS,,
+51,,62.0,,Jackson Andrews,OL,6-2,290.0,So.,Abilene Christian,"Schertz, Texas",Samuel Clemens HS,,
+52,,64.0,,Ethan Clark,OL,6-3,295.0,Rf.,Abilene Christian,"Pineville, La.",Pineville HS,,
+53,,66.0,,Dylan Howerton,OL,6-5,290.0,So.,Abilene Christian,"Katy, Texas",Katy HS,,
+54,,70.0,,Tay Yanta,OL,6-5,350.0,So.,Abilene Christian,"Falls City, Texas",Falls City HS,Texas Tech,
+55,,72.0,,Femi Sakiri,OL,6-3,305.0,So.,Abilene Christian,"Roanoke, Texas",Byron Nelson HS,UConn,
+56,,74.0,,Reese Moore,OL,6-6,290.0,Jr.,Abilene Christian,"Seminole, Texas",Seminole HS,Texas,
+57,,75.0,,Rafiti Ghirmai,OL,6-5,320.0,Sr.,Abilene Christian,"Frisco, Texas",Wakeland HS,Texas,
+58,,76.0,,Joziah Fogle,OL,6-4,335.0,So.,Abilene Christian,"Spring, Texas",Spring HS,,
+59,,80.0,,Harrison Foster,WR,6-2,195.0,Rf.,Abilene Christian,"Sweetwater, Texas",Sweetwater HS,,
+60,,81.0,,Noah Caldwell,TE,6-6,250.0,Jr.,Abilene Christian,"Electra, Texas",Electra HS,,
+61,,82.0,,Cooper McCasland,WR,6-1,195.0,So.,Abilene Christian,"Hurst, Texas",Birdville HS,,
+62,,83.0,,Colt Cooper,TE,6-4,245.0,So.,Abilene Christian,"Quinlan, Texas",Ford HS,,
+63,,84.0,,Jacoby Boykins,WR,6-1,200.0,Fr.,Abilene Christian,Houston,Lamar HS,Alabama,
+64,,86.0,,Chidubem Lebechi,TE,6-2,235.0,Rf.,Abilene Christian,"Katy, Texas",Tompkins HS,,
+65,,88.0,,Jed Castles,TE,6-6,235.0,So.,Abilene Christian,"Wichita Falls, Texas",Rider HS,Texas Tech,
+66,,88.0,,Will Fargason,P,6-1,210.0,So.,Abilene Christian,"Lubbock, Texas",Trinity Christian HS,,
+67,,89.0,,Cameron Byrom,DL,6-5,250.0,So.,Abilene Christian,"Valley View, Texas",Valley View HS,,
+68,,90.0,,Syncere Massey,DL,6-5,325.0,Rf.,Abilene Christian,"Cedar Hill, Texas",Cedar Hill HS,Texas Tech,
+69,,91.0,,Sean Dubose Jr.,DL,6-2,245.0,Rf.,Abilene Christian,"Katy, Texas",Tompkins HS,,
+70,,98.0,,David Oke,DL,6-2,275.0,So.,Abilene Christian,Houston,Alief Hasting HS,,
+71,,99.0,,Colby Warkentin,DL,6-6,260.0,So.,Abilene Christian,"Bakersfield, Calif.",Centennial HS,Fresno State,
+72,,,,Sema'J Davis,QB,6-1,191.0,Gr.,Abilene Christian,"Midland, Texas",Midland Lee HS,,
+0,,,,Keith Patterson,,,,,Abilene Christian,,,,Head Football Coach
+1,,,,Skyler Cassity,,,,,Abilene Christian,,,,Defensive Coordinator
+2,,,,Ryan Pugh,,,,,Abilene Christian,,,,Offensive Coordinator / Offensive Line Coach
+3,,,,Julian Wilson,,,,,Abilene Christian,,,,Defensive Backs Coach
+4,,,,Matt Clark,,,,,Abilene Christian,,,,Quarterbacks Coach/Special Teams Coordinator
+5,,,,Conor Dubin,,,,,Abilene Christian,,,,Linebackers Coach
+6,,,,Steven Thrash,,,,,Abilene Christian,,,,Wide Receivers Coach
+7,,,,Jerale Badon,,,,,Abilene Christian,,,,Running Backs Coach
+8,,,,Dan Phillips,,,,,Abilene Christian,,,,Defensive Line Coach
+9,,,,Drew Cunningham,,,,,Abilene Christian,,,,Senior Defensive Analyst
+10,,,,Devonte Danzey,,,,,Abilene Christian,,,,Tight Ends Coach
+11,,,,Koy Richardson,,,,,Abilene Christian,,,,Defensive Graduate Assistant
+12,,,,Curtis Chiaverini,,,,,Abilene Christian,,,,Offensive Graduate Assistant
+0,,,,Jordan Seawright,,,,,Abilene Christian,,,,Associate AD/Football Chief of Staff
+1,,,,Corey Smith,,,,,Abilene Christian,,,,Director of Strength and Conditioning for Football
+2,,,,Reid Miller,,,,,Abilene Christian,,,,Assistant Strength and Conditioning Coach
+3,,,,James Smith,,,,,Abilene Christian,,,,Video Coordinator
+4,,,,Payden Eason,,,,,Abilene Christian,,,,Equipment Manager
